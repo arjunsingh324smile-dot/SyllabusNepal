@@ -1,0 +1,141 @@
+{
+  "program": "SEE",
+  "category": "school",
+  "board": "National Examination Board (NEB)",
+  "lastUpdated": "2025",
+  "color": "#059669",
+  "subject": {
+    "id": "social-studies",
+    "name": "Samajik Adhyan (Social Studies)",
+    "icon": "Globe",
+    "totalMarks": 100,
+    "units": [
+      {
+        "id": "unit-1",
+        "name": "History",
+        "chapters": [
+          {
+            "id": "ch-1",
+            "number": 1,
+            "name": "History of Nepal",
+            "weightage": "15-20 marks",
+            "difficulty": "easy",
+            "introduction": "Covers ancient, medieval, and modern Nepal including unification, Shah dynasty, Rana regime, democracy, and recent political changes.",
+            "whyItMatters": "15-20 marks. History of Nepal and democracy-related questions appear every year.",
+            "yearlyTrend": {"2019": 15, "2020": 18, "2021": 15, "2022": 18, "2023": 15, "2024": 18, "2025": 16},
+            "topics": [
+              {
+                "id": "see-soc-ch1-t1",
+                "name": "Unification of Nepal",
+                "difficulty": "easy",
+                "explanation": "Prithvi Narayan Shah unified Nepal from small principalities (1743-1775). Key battles: Nuwakot (1744), Kirtipur, Kathmandu Valley (1768-1769). He is known as the Father of Nepal.",
+                "keyPoints": ["Prithvi Narayan Shah = Father of Nepal", "Kathmandu Valley unified in 1768-69", "'Asali Hindustan' – Nepal as true Hindu kingdom"],
+                "examTip": "Memorise key dates: 1743 (P.N. Shah born), 1768 (Kathmandu captured), 1775 (P.N. Shah died).",
+                "relatedTopics": ["Medieval Nepal", "Democracy in Nepal"]
+              },
+              {
+                "id": "see-soc-ch1-t2",
+                "name": "Democracy and Constitution",
+                "difficulty": "intermediate",
+                "explanation": "Nepal's political journey: 1951 (end of Rana regime), 1959 (first election), 1960 (party ban), 1990 (multiparty democracy), 2006 (People's Movement II), 2008 (Republic), 2015 (new Constitution).",
+                "keyPoints": ["Constitution of Nepal 2072 BS (2015)", "Federal Democratic Republic", "3 levels of government: federal, provincial, local"],
+                "examTip": "Know the 7 provinces and their capitals for map questions.",
+                "relatedTopics": ["Rights and Duties", "Civics"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit-2",
+        "name": "Geography",
+        "chapters": [
+          {
+            "id": "ch-2",
+            "number": 2,
+            "name": "Physical Geography of Nepal",
+            "weightage": "15-18 marks",
+            "difficulty": "easy",
+            "introduction": "Nepal's physical features: Himalayan, Hilly, and Terai zones. Rivers, climate, population distribution, and natural resources.",
+            "whyItMatters": "15-18 marks. Map-based and descriptive geography are standard SEE questions.",
+            "yearlyTrend": {"2019": 15, "2020": 15, "2021": 18, "2022": 15, "2023": 18, "2024": 15, "2025": 16},
+            "topics": [
+              {
+                "id": "see-soc-ch2-t1",
+                "name": "Physiographic Regions",
+                "difficulty": "easy",
+                "explanation": "Nepal has three physiographic regions: (1) Himalayan region (>3000m, sparsely populated), (2) Hilly region (Middle mountains, most populated), (3) Terai (flat plain, highly fertile, southern Nepal). Each has distinct climate, vegetation, and economy.",
+                "keyPoints": ["Highest point: Mt. Everest (8848.86m)", "Lowest point: Kechana Kaval (60m)", "Terai = breadbasket of Nepal"],
+                "examTip": "Label all three zones and major mountains/rivers on a map for full map marks.",
+                "relatedTopics": ["Climate", "Population"]
+              },
+              {
+                "id": "see-soc-ch2-t2",
+                "name": "Rivers and Climate",
+                "difficulty": "easy",
+                "explanation": "Nepal has three river systems: Koshi (east), Gandaki (central), Karnali (west). Climate varies by region — tropical Terai, temperate hills, cold Himalayas. Monsoon brings 80% of annual rainfall.",
+                "keyPoints": ["Koshi = largest river by volume", "Karnali = longest river in Nepal", "Monsoon: June-September"],
+                "examTip": "Draw the map of Nepal showing major rivers and their directions.",
+                "relatedTopics": ["Physiographic Regions", "Economics"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit-3",
+        "name": "Civics",
+        "chapters": [
+          {
+            "id": "ch-3",
+            "number": 3,
+            "name": "Constitution, Rights and Democracy",
+            "weightage": "15-18 marks",
+            "difficulty": "intermediate",
+            "introduction": "Fundamental rights and duties, Constitution of Nepal 2072, structure of government, electoral system, and democracy.",
+            "whyItMatters": "15-18 marks. Fundamental rights are guaranteed questions in SEE.",
+            "yearlyTrend": {"2019": 15, "2020": 18, "2021": 15, "2022": 18, "2023": 15, "2024": 18, "2025": 16},
+            "topics": [
+              {
+                "id": "see-soc-ch3-t1",
+                "name": "Fundamental Rights and Duties",
+                "difficulty": "easy",
+                "explanation": "Constitution of Nepal 2072 guarantees: Right to equality, freedom, justice, education, health, employment, social security, property, religion, and constitutional remedies. Duties include: paying taxes, compulsory education, obeying law.",
+                "keyPoints": ["31 Fundamental Rights under Constitution 2072", "Right to Education: free and compulsory up to basic level", "Duties: pay taxes, vote, environmental protection"],
+                "examTip": "List rights with their article numbers for detailed answers.",
+                "relatedTopics": ["Democracy", "History Nepal"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit-4",
+        "name": "Economics",
+        "chapters": [
+          {
+            "id": "ch-4",
+            "number": 4,
+            "name": "Economic Development",
+            "weightage": "10-12 marks",
+            "difficulty": "easy",
+            "introduction": "Basics of Nepal's economy, resources, development indicators, poverty, employment, and agriculture's role.",
+            "whyItMatters": "10-12 marks. Development indicators and economic activities are common short-answer questions.",
+            "yearlyTrend": {"2019": 10, "2020": 10, "2021": 12, "2022": 10, "2023": 12, "2024": 10, "2025": 10},
+            "topics": [
+              {
+                "id": "see-soc-ch4-t1",
+                "name": "Resources and Development",
+                "difficulty": "easy",
+                "explanation": "Nepal's resources: agricultural land, forests, water, minerals, tourism. Agriculture employs ~60% of workforce. GDP growth depends on remittances, tourism, and hydroelectricity. Poverty line, HDI, and Human Development Index are key development measures.",
+                "keyPoints": ["Agriculture = ~27% of GDP", "Remittances = ~25% of GDP", "Nepal is a federal democratic republic"],
+                "examTip": "Know the current five-year plan objectives and budget priorities briefly.",
+                "relatedTopics": ["Geography", "Civics"]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

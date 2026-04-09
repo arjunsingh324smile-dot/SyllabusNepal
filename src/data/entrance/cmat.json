@@ -1,0 +1,287 @@
+{
+  "id": "cmat",
+  "name": "CMAT",
+  "fullName": "Common Management Admission Test",
+  "conductingBody": "Pokhara University (PU) on behalf of Management faculties",
+  "category": "entrance",
+  "color": "#0D9488",
+  "icon": "BarChart3",
+  "path": "/entrance/cmat",
+  "lastUpdated": "2025",
+  "about": "CMAT (Common Management Admission Test) is a national-level entrance exam for admission to MBS (Master of Business Studies), MBA, and related management programs at Tribhuvan University, Pokhara University, and affiliated colleges across Nepal. It tests quantitative, verbal, analytical, and general management skills.",
+  "examFormat": {
+    "totalMarks": 100,
+    "duration": "3 hours",
+    "questionType": "MCQ (Single Choice)",
+    "totalQuestions": 100,
+    "negativeMarking": false,
+    "medium": "English",
+    "mode": "Paper-Based (OMR Sheet)",
+    "passingMarks": 50
+  },
+  "eligibility": {
+    "qualification": "Bachelor's Degree (any discipline) from a recognized university",
+    "minimumMarks": "50% aggregate (45% for reserved categories)",
+    "ageLimit": "No age bar",
+    "workExperience": "Not required for MBS; some MBA programs require 2+ years of work experience"
+  },
+  "importantDates": {
+    "applicationStart": "October-November (approximately)",
+    "applicationDeadline": "December",
+    "examDate": "January-February",
+    "resultDate": "2-3 weeks after exam"
+  },
+  "admissionPrograms": [
+    "MBS (Master of Business Studies) — TU",
+    "MBA (Master of Business Administration) — various colleges",
+    "MPA (Master of Public Administration)",
+    "MBM (Master of Business Management)",
+    "PGDM (Post Graduate Diploma in Management)"
+  ],
+  "subjects": [
+    {
+      "id": "verbal-ability",
+      "name": "Verbal Ability",
+      "marks": 25,
+      "questions": 25,
+      "icon": "Languages",
+      "description": "Tests language skills, reading comprehension, grammar, and vocabulary",
+      "chapters": [
+        {
+          "id": "reading-comprehension",
+          "name": "Reading Comprehension",
+          "weightage": "8-10 marks",
+          "topics": [
+            "Long passage comprehension",
+            "Short paragraph questions",
+            "Main idea identification",
+            "Inference and assumption questions",
+            "Tone and purpose questions"
+          ],
+          "examTip": "Read the questions before the passage to know what to look for."
+        },
+        {
+          "id": "grammar",
+          "name": "Grammar and Usage",
+          "weightage": "6-8 marks",
+          "topics": [
+            "Sentence correction",
+            "Subject-verb agreement",
+            "Tense consistency",
+            "Pronoun reference",
+            "Parallelism",
+            "Dangling modifiers"
+          ],
+          "examTip": "Eliminate answer choices that change the meaning of the sentence."
+        },
+        {
+          "id": "vocabulary",
+          "name": "Vocabulary",
+          "weightage": "5-7 marks",
+          "topics": [
+            "Synonyms and Antonyms",
+            "Analogies",
+            "Word usage in context",
+            "Idioms and phrases",
+            "Fill in the blanks"
+          ],
+          "examTip": "Build a daily vocabulary of 10 new words during preparation."
+        },
+        {
+          "id": "verbal-reasoning",
+          "name": "Verbal Reasoning",
+          "weightage": "4-5 marks",
+          "topics": [
+            "Para jumbles (sentence arrangement)",
+            "Sentence completion",
+            "Critical reasoning (arguments)"
+          ],
+          "examTip": "For para jumbles, identify the opening and closing sentences first."
+        }
+      ]
+    },
+    {
+      "id": "quantitative-ability",
+      "name": "Quantitative Ability",
+      "marks": 25,
+      "questions": 25,
+      "icon": "Calculator",
+      "description": "Tests mathematical and analytical reasoning skills",
+      "chapters": [
+        {
+          "id": "arithmetic",
+          "name": "Arithmetic",
+          "weightage": "8-10 marks",
+          "topics": [
+            "Number System (HCF, LCM)",
+            "Percentages",
+            "Profit and Loss",
+            "Simple and Compound Interest",
+            "Ratio and Proportion",
+            "Time, Speed and Distance",
+            "Work and Time"
+          ],
+          "examTip": "Profit/Loss and SI/CI questions use standard formulas — memorize them."
+        },
+        {
+          "id": "algebra",
+          "name": "Algebra",
+          "weightage": "5-6 marks",
+          "topics": [
+            "Linear and Quadratic Equations",
+            "Inequalities",
+            "Functions and Graphs",
+            "Progressions (AP and GP)"
+          ],
+          "examTip": "For word problems, define variables clearly before writing equations."
+        },
+        {
+          "id": "data-interpretation",
+          "name": "Data Interpretation",
+          "weightage": "6-8 marks",
+          "topics": [
+            "Bar Graphs",
+            "Pie Charts",
+            "Line Graphs",
+            "Tables",
+            "Mixed Data Sets"
+          ],
+          "examTip": "Approximate values quickly — exact calculation wastes time in DI questions."
+        },
+        {
+          "id": "geometry-mensuration",
+          "name": "Geometry and Mensuration",
+          "weightage": "3-4 marks",
+          "topics": [
+            "Area and Perimeter",
+            "Volume of 3D shapes",
+            "Triangles and Circles",
+            "Coordinate Geometry basics"
+          ],
+          "examTip": "Know formulas for all common shapes — tested with diagrams."
+        }
+      ]
+    },
+    {
+      "id": "logical-reasoning",
+      "name": "Logical Reasoning",
+      "marks": 25,
+      "questions": 25,
+      "icon": "Brain",
+      "description": "Tests analytical and logical reasoning ability",
+      "chapters": [
+        {
+          "id": "analytical-reasoning",
+          "name": "Analytical Reasoning",
+          "weightage": "8-10 marks",
+          "topics": [
+            "Seating Arrangement",
+            "Blood Relations",
+            "Direction Sense",
+            "Ranking and Order",
+            "Syllogisms",
+            "Coding and Decoding"
+          ],
+          "examTip": "Draw diagrams for seating arrangement problems — never attempt mentally."
+        },
+        {
+          "id": "logical-patterns",
+          "name": "Logical Patterns",
+          "weightage": "6-8 marks",
+          "topics": [
+            "Number Series",
+            "Letter Series",
+            "Analogy",
+            "Odd One Out",
+            "Pattern Recognition"
+          ],
+          "examTip": "Check differences, ratios, and alternating terms when identifying series."
+        },
+        {
+          "id": "critical-reasoning",
+          "name": "Critical Reasoning",
+          "weightage": "6-8 marks",
+          "topics": [
+            "Argument Analysis",
+            "Conclusions and Assumptions",
+            "Cause and Effect",
+            "Strengthening and Weakening Arguments",
+            "Courses of Action"
+          ],
+          "examTip": "Critical reasoning answers must be based ONLY on the passage — no personal knowledge."
+        }
+      ]
+    },
+    {
+      "id": "general-awareness",
+      "name": "General Awareness",
+      "marks": 25,
+      "questions": 25,
+      "icon": "Globe",
+      "description": "Tests knowledge of business, economy, current affairs, and general management concepts",
+      "chapters": [
+        {
+          "id": "business-economy",
+          "name": "Business and Economy",
+          "weightage": "8-10 marks",
+          "topics": [
+            "Nepal's economy (GDP, inflation, trade)",
+            "Banking and Finance in Nepal",
+            "Nepal Rastra Bank (NRB) policies",
+            "Stock market basics (NEPSE)",
+            "Fiscal and monetary policy",
+            "Import/Export data",
+            "Major industries in Nepal"
+          ],
+          "examTip": "Read The Himalayan Times business section weekly during preparation."
+        },
+        {
+          "id": "current-affairs",
+          "name": "Current Affairs — Nepal and World",
+          "weightage": "8-10 marks",
+          "topics": [
+            "National and international news (last 6 months)",
+            "Government policies and schemes",
+            "Awards and recognitions",
+            "Important summits and agreements",
+            "Leaders and appointments",
+            "Sports achievements"
+          ],
+          "examTip": "Follow Gorkhapatra or Ratopati daily. Focus on news from the last 6 months."
+        },
+        {
+          "id": "management-concepts",
+          "name": "Basic Management Concepts",
+          "weightage": "5-6 marks",
+          "topics": [
+            "Functions of Management (POLC)",
+            "Types of business organizations",
+            "Marketing basics (4Ps)",
+            "Human Resource Management",
+            "Financial Management basics",
+            "Business ethics and CSR"
+          ],
+          "examTip": "Know the '4 functions of management' and 'SWOT analysis' — classic CMAT questions."
+        }
+      ]
+    }
+  ],
+  "preparationStrategy": {
+    "timeRequired": "3-6 months",
+    "recommendedBooks": [
+      "CMAT Preparation Guide — Sunlight Publication",
+      "Quantitative Aptitude — R.S. Aggarwal",
+      "Word Power Made Easy — Norman Lewis",
+      "CMAT Previous Year Papers"
+    ],
+    "dailyPlan": "2 hours/day: 45 min Verbal + 45 min Quant + 30 min Current Affairs",
+    "mockTests": "Solve 2 full-length mock tests per week in the last month"
+  },
+  "scoreInterpretation": {
+    "90+": "Excellent — top management colleges guaranteed",
+    "75-89": "Good — most MBS/MBA seats available",
+    "60-74": "Average — limited college options",
+    "50-59": "Pass — few options available",
+    "below50": "Fail — must retake next year"
+  }
+}

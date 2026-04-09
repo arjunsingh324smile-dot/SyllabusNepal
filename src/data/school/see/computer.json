@@ -1,0 +1,152 @@
+{
+  "program": "SEE",
+  "category": "school",
+  "board": "National Examination Board (NEB)",
+  "lastUpdated": "2025",
+  "color": "#059669",
+  "subject": {
+    "id": "computer",
+    "name": "Computer Science",
+    "icon": "Monitor",
+    "totalMarks": 100,
+    "units": [
+      {
+        "id": "unit-1",
+        "name": "Computer Fundamentals",
+        "chapters": [
+          {
+            "id": "ch-1",
+            "number": 1,
+            "name": "Computer System (Hardware and Software)",
+            "weightage": "15-20 marks",
+            "difficulty": "easy",
+            "introduction": "A computer system consists of hardware (physical components) and software (programs/instructions). Covers CPU, memory, storage, I/O devices, and software types.",
+            "whyItMatters": "15-20 marks. Definitions, types, and functions of hardware/software are standard questions.",
+            "yearlyTrend": {"2019": 15, "2020": 18, "2021": 15, "2022": 20, "2023": 15, "2024": 18, "2025": 16},
+            "topics": [
+              {
+                "id": "see-cs-ch1-t1",
+                "name": "Input and Output Devices",
+                "difficulty": "easy",
+                "explanation": "Input devices send data to the CPU: keyboard, mouse, scanner, microphone, camera, barcode reader. Output devices receive processed data from CPU: monitor, printer, speaker, projector. I/O devices: touchscreen, modem, network card.",
+                "keyPoints": ["Input: Keyboard, Mouse, Scanner, Mic", "Output: Monitor, Printer, Speaker", "I/O: Touchscreen, Modem"],
+                "examTip": "Give 3 examples each for input and output — 1 mark per correct example.",
+                "relatedTopics": ["Operating System", "Memory Types"]
+              },
+              {
+                "id": "see-cs-ch1-t2",
+                "name": "Memory Types",
+                "difficulty": "easy",
+                "explanation": "Primary Memory: RAM (volatile, main working memory), ROM (non-volatile, stores BIOS). Secondary Memory: HDD, SSD, USB, CD/DVD (permanent storage). Cache memory speeds up CPU operations. Registers are fastest, smallest memory inside CPU.",
+                "keyPoints": ["RAM: volatile, fast, expensive", "ROM: non-volatile, stores firmware", "1 GB = 1024 MB; 1 TB = 1024 GB"],
+                "examTip": "Know the memory hierarchy: Registers > Cache > RAM > HDD (speed order).",
+                "formula": "1 Byte = 8 bits\n1 KB = 1024 Bytes\n1 MB = 1024 KB\n1 GB = 1024 MB",
+                "relatedTopics": ["I/O Devices", "CPU"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit-2",
+        "name": "Software",
+        "chapters": [
+          {
+            "id": "ch-2",
+            "number": 2,
+            "name": "Operating System and Application Software",
+            "weightage": "10-12 marks",
+            "difficulty": "easy",
+            "introduction": "Software is classified as system software (OS, utilities) and application software (word processors, browsers). Covers Windows, Linux, and common applications.",
+            "whyItMatters": "10-12 marks. OS functions and software classification are direct questions.",
+            "yearlyTrend": {"2019": 10, "2020": 10, "2021": 12, "2022": 10, "2023": 12, "2024": 10, "2025": 10},
+            "topics": [
+              {
+                "id": "see-cs-ch2-t1",
+                "name": "Operating System Functions",
+                "difficulty": "easy",
+                "explanation": "An OS manages hardware and software resources. Major functions: Process management, Memory management, File system management, Device management, User interface. Popular OS: Windows, macOS, Linux (Ubuntu), Android, iOS.",
+                "keyPoints": ["OS = interface between user and hardware", "Types: Single-user (Windows), Multi-user (Linux), Real-time (RTOS)", "GUI vs CLI interfaces"],
+                "examTip": "List at least 5 functions of an OS with brief explanation.",
+                "relatedTopics": ["Hardware", "Programming"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit-3",
+        "name": "Programming",
+        "chapters": [
+          {
+            "id": "ch-3",
+            "number": 3,
+            "name": "Programming Basics and QBASIC",
+            "weightage": "20-25 marks",
+            "difficulty": "intermediate",
+            "introduction": "Programming involves writing step-by-step instructions for computers. SEE covers algorithm, flowchart, and QBASIC programming with variables, loops, conditions, and subroutines.",
+            "whyItMatters": "20-25 marks. QBASIC programs are compulsory in SEE. Flowchart questions appear every year.",
+            "yearlyTrend": {"2019": 20, "2020": 22, "2021": 20, "2022": 25, "2023": 20, "2024": 22, "2025": 22},
+            "topics": [
+              {
+                "id": "see-cs-ch3-t1",
+                "name": "Algorithm and Flowchart",
+                "difficulty": "easy",
+                "explanation": "Algorithm: Step-by-step logical process to solve a problem. Flowchart: Visual representation using standardised symbols — Terminal (oval), Process (rectangle), Decision (diamond), I/O (parallelogram), Connector (circle), Arrow (flow line).",
+                "keyPoints": ["Algorithm must be finite, definite, and effective", "Oval: Start/End; Rectangle: Process; Diamond: Decision", "Flowchart must have exactly ONE start and ONE end"],
+                "examTip": "Always use correct shapes in flowcharts — wrong shapes lose marks even if logic is correct.",
+                "relatedTopics": ["QBASIC", "Networking"]
+              },
+              {
+                "id": "see-cs-ch3-t2",
+                "name": "QBASIC Programming",
+                "difficulty": "intermediate",
+                "explanation": "QBASIC is an interpreted BASIC language. Key commands: PRINT (output), INPUT (input), LET (assignment), IF-THEN-ELSE (decision), FOR-NEXT (fixed loop), DO-LOOP (condition loop), SUB (subroutine), FUNCTION (return value). String variables end with $.",
+                "keyPoints": ["PRINT \"text\"; variable", "IF condition THEN ... ELSE ... END IF", "FOR i = 1 TO 10 ... NEXT i"],
+                "examTip": "Test every QBASIC program mentally with a sample input. Wrong output = 0 marks.",
+                "formula": "FOR i = start TO end [STEP increment]\n  'statements\nNEXT i\n\nDO WHILE condition\n  'statements\nLOOP",
+                "relatedTopics": ["Algorithm", "Internet IT"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit-4",
+        "name": "Internet and IT",
+        "chapters": [
+          {
+            "id": "ch-4",
+            "number": 4,
+            "name": "Networking and Cyber Security",
+            "weightage": "15-18 marks",
+            "difficulty": "intermediate",
+            "introduction": "Computer networks, internet protocols, cybersecurity threats, and digital safety practices.",
+            "whyItMatters": "15-18 marks. Networking types, protocols, and cybersecurity are topical and appear regularly.",
+            "yearlyTrend": {"2019": 15, "2020": 15, "2021": 18, "2022": 15, "2023": 18, "2024": 15, "2025": 16},
+            "topics": [
+              {
+                "id": "see-cs-ch4-t1",
+                "name": "Networking Basics",
+                "difficulty": "intermediate",
+                "explanation": "LAN (Local Area Network): within a building. MAN (Metropolitan): city-wide. WAN (Wide Area Network): nationwide/worldwide. Internet = global WAN. Protocols: TCP/IP (data transmission), HTTP (web), FTP (file transfer), SMTP (email), DNS (domain name). IP address identifies devices.",
+                "keyPoints": ["LAN < MAN < WAN in size", "HTTP: web browsing; FTP: file transfer", "IP Address: unique identifier for device on network"],
+                "examTip": "Know full forms of all protocols and network types — common fill-in-the-blank questions.",
+                "relatedTopics": ["Cyber Security", "Programming"]
+              },
+              {
+                "id": "see-cs-ch4-t2",
+                "name": "Cyber Security",
+                "difficulty": "intermediate",
+                "explanation": "Cybersecurity protects computers and networks from digital attacks. Common threats: viruses, worms, trojans, ransomware, phishing, hacking. Preventions: antivirus, firewall, strong passwords, 2FA, regular updates, VPN. Nepal's Electronic Transaction Act 2063 B.S. governs cyber crimes.",
+                "keyPoints": ["Virus: self-replicating; Ransomware: encrypts then demands payment", "Firewall: filters network traffic", "Electronic Transaction Act 2063 BS — Nepal's cyber law"],
+                "examTip": "List at least 3 cyber crimes and 3 preventive measures for full marks.",
+                "relatedTopics": ["Networking", "Internet"]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

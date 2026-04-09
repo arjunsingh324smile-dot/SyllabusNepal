@@ -22,6 +22,8 @@ const KeyboardShortcuts = lazy(() => import('./pages/KeyboardShortcuts'))
 // School
 const SchoolHub = lazy(() => import('./pages/school/SchoolHub'))
 const SEEHome = lazy(() => import('./pages/school/SEEHome'))
+const BLEHome = lazy(() => import('./pages/school/BLEHome'))
+const Class9Home = lazy(() => import('./pages/school/Class9Home'))
 const NEBHome = lazy(() => import('./pages/school/NEBHome'))
 
 // Entrance
@@ -32,6 +34,9 @@ const IOEChapter = lazy(() => import('./pages/entrance/IOEChapter'))
 const CEEHub = lazy(() => import('./pages/entrance/CEEHub'))
 const CEEExamDetail = lazy(() => import('./pages/entrance/CEEExamDetail'))
 const CSITHome = lazy(() => import('./pages/entrance/CSITHome'))
+const KUCATHome = lazy(() => import('./pages/entrance/KUCATHome'))
+const CMATHome = lazy(() => import('./pages/entrance/CMATHome'))
+const PUEntranceHome = lazy(() => import('./pages/entrance/PUEntranceHome'))
 
 // Bachelor
 const BachelorHub = lazy(() => import('./pages/bachelor/BachelorHub'))
@@ -40,6 +45,12 @@ const ProgramDetail = lazy(() => import('./pages/bachelor/ProgramDetail'))
 // Competitive
 const CompetitiveHub = lazy(() => import('./pages/competitive/CompetitiveHub'))
 const CompetitiveExamDetail = lazy(() => import('./pages/competitive/CompetitiveExamDetail'))
+
+// Engineering
+const EngineeringHub = lazy(() => import('./pages/engineering/EngineeringHub'))
+const EngineeringUniversity = lazy(() => import('./pages/engineering/EngineeringUniversity'))
+const EngineeringCourse = lazy(() => import('./pages/engineering/EngineeringCourse'))
+const EngineeringSemester = lazy(() => import('./pages/engineering/EngineeringSemester'))
 
 // Features
 const NotesPage = lazy(() => import('./features/notes/pages/NotesPage'))
@@ -73,6 +84,8 @@ export default function App() {
               {/* School */}
               <Route path="/school" element={<SchoolHub />} />
               <Route path="/school/see" element={<SEEHome />} />
+              <Route path="/school/ble-8" element={<BLEHome />} />
+              <Route path="/school/class-9" element={<Class9Home />} />
               <Route path="/school/:gradeId" element={<NEBHome />} />
 
               {/* Entrance */}
@@ -83,6 +96,15 @@ export default function App() {
               <Route path="/entrance/cee" element={<CEEHub />} />
               <Route path="/entrance/cee/:examId" element={<CEEExamDetail />} />
               <Route path="/entrance/csit" element={<CSITHome />} />
+              <Route path="/entrance/kucat" element={<KUCATHome />} />
+              <Route path="/entrance/cmat" element={<CMATHome />} />
+              <Route path="/entrance/pu" element={<PUEntranceHome />} />
+
+              {/* Engineering */}
+              <Route path="/engineering" element={<EngineeringHub />} />
+              <Route path="/engineering/:universityId" element={<EngineeringUniversity />} />
+              <Route path="/engineering/:universityId/:courseId" element={<EngineeringCourse />} />
+              <Route path="/engineering/:universityId/:courseId/semester/:semesterNum" element={<EngineeringSemester />} />
 
               {/* Bachelor */}
               <Route path="/bachelor" element={<BachelorHub />} />

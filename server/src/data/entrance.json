@@ -9,7 +9,7 @@
     "icon": "ClipboardList",
     "path": "/entrance/ioe",
     "totalMarks": 140,
-    "duration": "3 hours",
+    "duration": "2 hours",
     "subjects": ["ioe-mathematics", "ioe-physics", "ioe-chemistry", "ioe-english"]
   },
   {
@@ -36,6 +36,45 @@
     "path": "/entrance/csit",
     "totalMarks": 100,
     "duration": "2 hours",
+    "subjects": []
+  },
+  {
+    "examId": "kucat",
+    "name": "KUCAT-CBT",
+    "shortName": "KUCAT",
+    "description": "Kathmandu University Computer Based Test for engineering and science programs",
+    "board": "Kathmandu University",
+    "color": "#1D4ED8",
+    "icon": "Building2",
+    "path": "/entrance/kucat",
+    "totalMarks": 100,
+    "duration": "2 hours",
+    "subjects": []
+  },
+  {
+    "examId": "cmat",
+    "name": "CMAT",
+    "shortName": "CMAT",
+    "description": "Common Management Admission Test for MBS/MBA programs",
+    "board": "Pokhara University / TU Management",
+    "color": "#0D9488",
+    "icon": "Briefcase",
+    "path": "/entrance/cmat",
+    "totalMarks": 100,
+    "duration": "90 minutes",
+    "subjects": []
+  },
+  {
+    "examId": "pu-entrance",
+    "name": "PU Entrance (Pokhara University)",
+    "shortName": "PU Entrance",
+    "description": "Pokhara University entrance for Engineering (150 marks) and Management (100 marks)",
+    "board": "Pokhara University",
+    "color": "#059669",
+    "icon": "Building2",
+    "path": "/entrance/pu",
+    "totalMarks": 150,
+    "duration": "2.5 hours",
     "subjects": []
   }
 ]

@@ -7,7 +7,7 @@ const programSchema = new mongoose.Schema({
   category: {
     type: String,
     required: true,
-    enum: ['school', 'bachelor', 'entrance', 'competitive'],
+    enum: ['school', 'bachelor', 'entrance', 'competitive', 'engineering'],
     index: true,
   },
   description: { type: String },

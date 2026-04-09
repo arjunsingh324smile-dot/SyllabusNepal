@@ -1,0 +1,293 @@
+{
+  "id": "kucat-cbt",
+  "name": "KUCAT-CBT",
+  "fullName": "Kathmandu University Common Admission Test (Computer Based Test)",
+  "conductingBody": "Kathmandu University (KU)",
+  "category": "entrance",
+  "color": "#1D4ED8",
+  "icon": "Building2",
+  "path": "/entrance/kucat",
+  "lastUpdated": "2025",
+  "about": "KUCAT-CBT is the Computer-Based entrance examination conducted by Kathmandu University for admission to its undergraduate engineering programs. It is fully computer-based, conducted at designated centers in Nepal.",
+  "examFormat": {
+    "totalMarks": 100,
+    "duration": "2 hours",
+    "questionType": "MCQ (Single Best Answer)",
+    "totalQuestions": 100,
+    "negativeMarking": false,
+    "medium": "English",
+    "mode": "Computer-Based Test (CBT)",
+    "passingMarks": 45
+  },
+  "eligibility": {
+    "qualification": "NEB Grade 12 (or equivalent) in Science Stream",
+    "requiredSubjects": "Physics, Chemistry, Mathematics (PCM)",
+    "minimumMarks": "50% aggregate in PCM",
+    "ageLimit": "No age bar"
+  },
+  "importantDates": {
+    "applicationStart": "January (approximately)",
+    "applicationDeadline": "March",
+    "examDate": "April-May",
+    "resultDate": "2-4 weeks after exam"
+  },
+  "admissionPrograms": [
+    "BE Computer Engineering",
+    "BE Civil Engineering",
+    "BE Electrical Engineering",
+    "BE Mechanical Engineering",
+    "BE Electrical and Electronic Engineering",
+    "BE Environmental Engineering",
+    "BEng Architecture"
+  ],
+  "subjects": [
+    {
+      "id": "mathematics",
+      "name": "Mathematics",
+      "marks": 40,
+      "questions": 40,
+      "icon": "Calculator",
+      "description": "Covers Grade 11 and 12 Mathematics curriculum",
+      "chapters": [
+        {
+          "id": "algebra",
+          "name": "Algebra",
+          "weightage": "10-12 marks",
+          "topics": [
+            "Matrices and Determinants",
+            "Complex Numbers",
+            "Sequence and Series",
+            "Quadratic Equations and Inequalities",
+            "Binomial Theorem",
+            "Permutation and Combination"
+          ]
+        },
+        {
+          "id": "trigonometry",
+          "name": "Trigonometry",
+          "weightage": "6-8 marks",
+          "topics": [
+            "Compound Angle Formulas",
+            "Multiple and Sub-multiple Angles",
+            "Factorization Formulas",
+            "Heights and Distances",
+            "Inverse Trigonometric Functions"
+          ]
+        },
+        {
+          "id": "coordinate-geometry",
+          "name": "Coordinate Geometry",
+          "weightage": "8-10 marks",
+          "topics": [
+            "Straight Lines (all forms)",
+            "Pair of Lines",
+            "Circle",
+            "Parabola",
+            "Ellipse (basic)",
+            "Vectors and 3D Geometry"
+          ]
+        },
+        {
+          "id": "calculus",
+          "name": "Calculus",
+          "weightage": "8-10 marks",
+          "topics": [
+            "Limits and Continuity",
+            "Differentiation (all rules)",
+            "Application of Derivatives (maxima/minima)",
+            "Integration (indefinite and definite)",
+            "Application of Integration (area)"
+          ]
+        },
+        {
+          "id": "statistics-probability",
+          "name": "Statistics and Probability",
+          "weightage": "4-6 marks",
+          "topics": [
+            "Measures of Central Tendency",
+            "Measures of Dispersion",
+            "Probability (classical and conditional)",
+            "Binomial and Normal Distribution (basic)"
+          ]
+        }
+      ],
+      "preparationTips": [
+        "Focus on Calculus and Coordinate Geometry — highest weightage",
+        "Practice MCQ-format problems, not just long solutions",
+        "Revise all formulas one day before exam",
+        "Solve previous year KUCAT papers"
+      ]
+    },
+    {
+      "id": "physics",
+      "name": "Physics",
+      "marks": 30,
+      "questions": 30,
+      "icon": "Atom",
+      "description": "Covers Grade 11 and 12 Physics curriculum",
+      "chapters": [
+        {
+          "id": "mechanics",
+          "name": "Mechanics",
+          "weightage": "8-10 marks",
+          "topics": [
+            "Newton's Laws and Applications",
+            "Work, Energy and Power",
+            "Circular Motion",
+            "Gravitation",
+            "Rotational Motion",
+            "Simple Harmonic Motion"
+          ]
+        },
+        {
+          "id": "heat-thermodynamics",
+          "name": "Heat and Thermodynamics",
+          "weightage": "4-5 marks",
+          "topics": [
+            "Thermal Expansion",
+            "Laws of Thermodynamics",
+            "Heat Transfer (conduction, convection, radiation)",
+            "Ideal Gas Laws"
+          ]
+        },
+        {
+          "id": "waves-optics",
+          "name": "Waves and Optics",
+          "weightage": "5-6 marks",
+          "topics": [
+            "Sound Waves",
+            "Wave Properties (reflection, refraction, diffraction)",
+            "Lenses and Mirrors",
+            "Optical Instruments",
+            "Interference and Diffraction"
+          ]
+        },
+        {
+          "id": "electricity-magnetism",
+          "name": "Electricity and Magnetism",
+          "weightage": "6-8 marks",
+          "topics": [
+            "Ohm's Law and Circuits",
+            "Capacitors",
+            "Magnetic Effects of Current",
+            "Electromagnetic Induction",
+            "AC Circuits"
+          ]
+        },
+        {
+          "id": "modern-physics",
+          "name": "Modern Physics",
+          "weightage": "4-5 marks",
+          "topics": [
+            "Photoelectric Effect",
+            "Bohr's Model",
+            "Nuclear Physics (radioactivity, fission, fusion)",
+            "Semiconductors"
+          ]
+        }
+      ],
+      "preparationTips": [
+        "Formula-based questions dominate — make a formula sheet",
+        "Conceptual MCQs from Mechanics are the most",
+        "Practice numerical problems with time limits"
+      ]
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry",
+      "marks": 20,
+      "questions": 20,
+      "icon": "FlaskConical",
+      "description": "Covers Grade 11 and 12 Chemistry curriculum",
+      "chapters": [
+        {
+          "id": "physical-chemistry",
+          "name": "Physical Chemistry",
+          "weightage": "6-8 marks",
+          "topics": [
+            "Atomic Structure and Periodic Table",
+            "Chemical Bonding",
+            "States of Matter",
+            "Chemical Equilibrium",
+            "Electrochemistry",
+            "Thermochemistry"
+          ]
+        },
+        {
+          "id": "organic-chemistry",
+          "name": "Organic Chemistry",
+          "weightage": "6-8 marks",
+          "topics": [
+            "Hydrocarbons (alkane, alkene, alkyne)",
+            "Functional Groups",
+            "Reaction Mechanisms",
+            "Polymers"
+          ]
+        },
+        {
+          "id": "inorganic-chemistry",
+          "name": "Inorganic Chemistry",
+          "weightage": "4-6 marks",
+          "topics": [
+            "Metals and Non-metals",
+            "Acids, Bases and Salts",
+            "Coordination Compounds",
+            "Environmental Chemistry"
+          ]
+        }
+      ],
+      "preparationTips": [
+        "Organic Chemistry reaction mechanisms are frequently asked",
+        "Know the periodic table trends well",
+        "Chemical equations must be balanced"
+      ]
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "marks": 10,
+      "questions": 10,
+      "icon": "Languages",
+      "description": "Covers reading comprehension, grammar, and vocabulary",
+      "chapters": [
+        {
+          "id": "grammar-vocabulary",
+          "name": "Grammar and Vocabulary",
+          "weightage": "5-6 marks",
+          "topics": [
+            "Tense and Voice",
+            "Parts of Speech",
+            "Idioms and Phrases",
+            "Synonyms and Antonyms",
+            "Word Forms"
+          ]
+        },
+        {
+          "id": "reading-comprehension",
+          "name": "Reading Comprehension",
+          "weightage": "4-5 marks",
+          "topics": [
+            "Unseen Passage",
+            "Inference Questions",
+            "Vocabulary in Context"
+          ]
+        }
+      ],
+      "preparationTips": [
+        "Read the passage carefully before attempting questions",
+        "Focus on grammar rules — tense and voice transformation are common",
+        "English is the easiest section — score all 10 marks"
+      ]
+    }
+  ],
+  "preparationStrategy": {
+    "timeRequired": "6-12 months",
+    "recommendedBooks": [
+      "The Pearl — A guide to KUCAT Mathematics",
+      "H.C. Verma — Concepts of Physics (Vol 1 & 2)",
+      "NCERT Chemistry (Class 11 & 12)",
+      "KUCAT Previous Year Papers"
+    ],
+    "dailyPlan": "3 hours/day: 1.5 hours Math + 1 hour Physics + 0.5 hour Chemistry/English"
+  }
+}

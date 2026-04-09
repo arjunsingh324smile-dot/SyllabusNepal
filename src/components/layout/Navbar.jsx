@@ -3,7 +3,8 @@ import { Link, useLocation, useNavigate } from 'react-router-dom'
 import { motion, AnimatePresence } from 'framer-motion'
 import {
   Search, Bookmark, Moon, Sun, Menu, X,
-  GraduationCap, ClipboardList, Award, BookOpen
+  GraduationCap, ClipboardList, Award, BookOpen,
+  School, Building2, Briefcase
 } from 'lucide-react'
 import { useThemeStore } from '../../store/themeStore'
 import { useFontStore } from '../../store/fontStore'
@@ -12,16 +13,45 @@ import { useScrollPosition } from '../../hooks/useScrollPosition'
 
 const navLinks = [
   {
-    label: 'Programs',
-    path: '/programs',
+    label: 'School Level',
+    path: '/school',
+    icon: School,
+    items: [
+      { label: 'SEE (Class 10)', path: '/school/see', color: '#059669' },
+      { label: 'Class 9', path: '/school/class-9', color: '#0891B2' },
+      { label: 'BLE (Class 8)', path: '/school/ble-8', color: '#14B8A6' },
+    ],
+  },
+  {
+    label: 'High School',
+    path: '/school',
     icon: BookOpen,
     items: [
-      { label: 'SEE', path: '/school/see', color: '#059669' },
-      { label: 'NEB Grade 11', path: '/school/neb/grade-11', color: '#D97706' },
-      { label: 'NEB Grade 12', path: '/school/neb/grade-12', color: '#EA580C' },
+      { label: 'NEB Grade 11', path: '/school/neb-11', color: '#D97706' },
+      { label: 'NEB Grade 12', path: '/school/neb-12', color: '#EA580C' },
+    ],
+  },
+  {
+    label: 'Bachelor',
+    path: '/bachelor',
+    icon: GraduationCap,
+    items: [
       { label: 'BBS', path: '/bachelor/tu/bbs', color: '#2563EB' },
+      { label: 'BBA', path: '/bachelor/tu/bba', color: '#D97706' },
       { label: 'BCA', path: '/bachelor/tu/bca', color: '#2563EB' },
       { label: 'BSc CSIT', path: '/bachelor/tu/bsc-csit', color: '#0D9488' },
+      { label: 'BSc', path: '/bachelor/tu/bsc', color: '#7C3AED' },
+    ],
+  },
+  {
+    label: 'Engineering',
+    path: '/engineering',
+    icon: Building2,
+    items: [
+      { label: 'TU / IOE', path: '/engineering/tribhuvan-university', color: '#DC2626' },
+      { label: 'Kathmandu University', path: '/engineering/kathmandu-university', color: '#1D4ED8' },
+      { label: 'Pokhara University', path: '/engineering/pokhara-university', color: '#059669' },
+      { label: 'Purbanchal University', path: '/engineering/purbanchal-university', color: '#92400E' },
     ],
   },
   {
@@ -32,7 +62,9 @@ const navLinks = [
       { label: 'IOE Entrance', path: '/entrance/ioe', color: '#DC2626' },
       { label: 'CEE Medical', path: '/entrance/cee', color: '#7C3AED' },
       { label: 'CSIT Entrance', path: '/entrance/csit', color: '#0D9488' },
-      { label: 'PU Entrance', path: '/entrance/pu', color: '#0891B2' },
+      { label: 'KUCAT-CBT', path: '/entrance/kucat', color: '#1D4ED8' },
+      { label: 'CMAT', path: '/entrance/cmat', color: '#0D9488' },
+      { label: 'PU Entrance', path: '/entrance/pu', color: '#059669' },
     ],
   },
   {
@@ -41,11 +73,11 @@ const navLinks = [
     icon: Award,
     items: [
       { label: 'Loksewa — Kharidar', path: '/competitive/loksewa-kharidar', color: '#92400E' },
+      { label: 'Loksewa — Nayab Subba', path: '/competitive/loksewa-nayab-subba', color: '#92400E' },
       { label: 'Banking Exam', path: '/competitive/banking', color: '#1E40AF' },
       { label: 'TSC Primary', path: '/competitive/tsc-primary', color: '#065F46' },
     ],
   },
-  { label: 'Updates', path: '/updates', icon: GraduationCap },
 ]
 
 export default function Navbar({ onSearchOpen }) {
@@ -83,18 +115,18 @@ export default function Navbar({ onSearchOpen }) {
           </Link>
 
           {/* Desktop Nav */}
-          <nav className="hidden lg:flex items-center gap-1" role="navigation" aria-label="Main navigation">
+          <nav className="hidden lg:flex items-center gap-0" role="navigation" aria-label="Main navigation">
             {navLinks.map((link) => (
               <div
-                key={link.path}
+                key={link.label}
                 className="relative"
                 onMouseEnter={() => setHoveredNav(link.label)}
                 onMouseLeave={() => setHoveredNav(null)}
               >
                 <Link
                   to={link.path}
-                  className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors relative ${
-                    location.pathname.startsWith(link.path)
+                  className={`px-3 py-2 rounded-lg text-[13px] font-medium transition-colors relative ${
+                    location.pathname.startsWith(link.path) && link.label !== 'High School'
                       ? 'text-accent-blue bg-hovr'
                       : 'text-txt-secondary hover:text-txt-primary hover:bg-hovr'
                   }`}

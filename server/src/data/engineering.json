@@ -1,0 +1,1137 @@
+{
+  "category": "engineering",
+  "lastUpdated": "2025",
+  "universities": [
+    {
+      "id": "tribhuvan-university",
+      "name": "Tribhuvan University",
+      "shortName": "TU",
+      "established": 1959,
+      "location": "Kirtipur, Kathmandu",
+      "website": "https://ioe.edu.np",
+      "department": "Institute of Engineering (IOE)",
+      "color": "#DC2626",
+      "icon": "Building2",
+      "path": "/engineering/tu",
+      "description": "Nepal's oldest and largest university. IOE-TU offers engineering programs across multiple constituent and affiliated campuses.",
+      "courses": [
+        {
+          "id": "computer-engineering",
+          "name": "Computer Engineering",
+          "shortName": "BE Computer",
+          "duration": "4 Years (8 Semesters)",
+          "totalCredits": 160,
+          "eligibility": "NEB Grade 12 Science with Physics, Chemistry, Math (PCM); IOE Entrance passed",
+          "color": "#2563EB",
+          "semesters": [
+            {
+              "number": 1,
+              "subjects": [
+                { "id": "engineering-math-i", "name": "Engineering Mathematics I", "creditHours": 3, "code": "SH 401", "type": "theory" },
+                { "id": "engineering-physics", "name": "Engineering Physics", "creditHours": 3, "code": "SH 402", "type": "theory" },
+                { "id": "engineering-chemistry", "name": "Engineering Chemistry", "creditHours": 3, "code": "SH 403", "type": "theory" },
+                { "id": "basic-electrical", "name": "Basic Electrical Engineering", "creditHours": 3, "code": "EE 401", "type": "theory" },
+                { "id": "engineering-drawing-i", "name": "Engineering Drawing I", "creditHours": 2, "code": "ME 401", "type": "practical" },
+                { "id": "workshop-technology", "name": "Workshop Technology", "creditHours": 2, "code": "ME 402", "type": "practical" }
+              ]
+            },
+            {
+              "number": 2,
+              "subjects": [
+                { "id": "engineering-math-ii", "name": "Engineering Mathematics II", "creditHours": 3, "code": "SH 451", "type": "theory" },
+                { "id": "object-oriented-programming", "name": "Object Oriented Programming", "creditHours": 3, "code": "CT 451", "type": "theory" },
+                { "id": "digital-logic", "name": "Digital Logic", "creditHours": 3, "code": "EX 451", "type": "theory" },
+                { "id": "basic-electronics", "name": "Basic Electronics Engineering", "creditHours": 3, "code": "EX 452", "type": "theory" },
+                { "id": "engineering-drawing-ii", "name": "Engineering Drawing II", "creditHours": 2, "code": "ME 451", "type": "practical" },
+                { "id": "computer-programming", "name": "Computer Programming (C)", "creditHours": 3, "code": "CT 452", "type": "theory" }
+              ]
+            },
+            {
+              "number": 3,
+              "subjects": [
+                { "id": "engineering-math-iii", "name": "Engineering Mathematics III", "creditHours": 3, "code": "SH 501", "type": "theory" },
+                { "id": "data-structures-algorithms", "name": "Data Structures and Algorithms", "creditHours": 3, "code": "CT 501", "type": "theory" },
+                { "id": "theory-of-computation", "name": "Theory of Computation", "creditHours": 3, "code": "CT 502", "type": "theory" },
+                { "id": "electronics-devices-circuits", "name": "Electronic Devices and Circuits", "creditHours": 3, "code": "EX 501", "type": "theory" },
+                { "id": "computer-organization", "name": "Computer Organization and Architecture", "creditHours": 3, "code": "CT 503", "type": "theory" },
+                { "id": "discrete-structures", "name": "Discrete Structures", "creditHours": 3, "code": "CT 504", "type": "theory" }
+              ]
+            },
+            {
+              "number": 4,
+              "subjects": [
+                { "id": "numerical-methods", "name": "Numerical Methods", "creditHours": 3, "code": "SH 551", "type": "theory" },
+                { "id": "operating-systems", "name": "Operating Systems", "creditHours": 3, "code": "CT 551", "type": "theory" },
+                { "id": "database-management", "name": "Database Management Systems", "creditHours": 3, "code": "CT 552", "type": "theory" },
+                { "id": "microprocessors", "name": "Microprocessors", "creditHours": 3, "code": "EX 551", "type": "theory" },
+                { "id": "software-engineering", "name": "Software Engineering", "creditHours": 3, "code": "CT 553", "type": "theory" },
+                { "id": "communication-english", "name": "Communication English", "creditHours": 3, "code": "SH 552", "type": "theory" }
+              ]
+            },
+            {
+              "number": 5,
+              "subjects": [
+                { "id": "computer-networks", "name": "Computer Networks", "creditHours": 3, "code": "CT 601", "type": "theory" },
+                { "id": "compiler-design", "name": "Compiler Design and Construction", "creditHours": 3, "code": "CT 602", "type": "theory" },
+                { "id": "embedded-systems", "name": "Embedded Systems", "creditHours": 3, "code": "CT 603", "type": "theory" },
+                { "id": "simulation-modeling", "name": "Simulation and Modelling", "creditHours": 3, "code": "CT 604", "type": "theory" },
+                { "id": "technical-writing", "name": "Technical Writing", "creditHours": 2, "code": "SH 601", "type": "theory" },
+                { "id": "project-i", "name": "Project Work I", "creditHours": 2, "code": "CT 605", "type": "project" }
+              ]
+            },
+            {
+              "number": 6,
+              "subjects": [
+                { "id": "distributed-systems", "name": "Distributed Systems", "creditHours": 3, "code": "CT 651", "type": "theory" },
+                { "id": "information-security", "name": "Information Security", "creditHours": 3, "code": "CT 652", "type": "theory" },
+                { "id": "artificial-intelligence", "name": "Artificial Intelligence", "creditHours": 3, "code": "CT 653", "type": "theory" },
+                { "id": "computer-graphics", "name": "Computer Graphics and Visualization", "creditHours": 3, "code": "CT 654", "type": "theory" },
+                { "id": "engineering-economics", "name": "Engineering Economics", "creditHours": 3, "code": "CE 651", "type": "theory" },
+                { "id": "project-ii", "name": "Project Work II", "creditHours": 2, "code": "CT 655", "type": "project" }
+              ]
+            },
+            {
+              "number": 7,
+              "subjects": [
+                { "id": "machine-learning", "name": "Machine Learning", "creditHours": 3, "code": "CT 701", "type": "theory" },
+                { "id": "internet-of-things", "name": "Internet of Things", "creditHours": 3, "code": "CT 702", "type": "theory" },
+                { "id": "cloud-computing", "name": "Cloud Computing", "creditHours": 3, "code": "CT 703", "type": "theory" },
+                { "id": "elective-i", "name": "Elective I (Web Technology / Mobile Computing)", "creditHours": 3, "code": "CT 704", "type": "elective" },
+                { "id": "seminar", "name": "Seminar", "creditHours": 1, "code": "CT 705", "type": "seminar" }
+              ]
+            },
+            {
+              "number": 8,
+              "subjects": [
+                { "id": "big-data-analytics", "name": "Big Data Analytics", "creditHours": 3, "code": "CT 751", "type": "theory" },
+                { "id": "elective-ii", "name": "Elective II (Blockchain / Natural Language Processing)", "creditHours": 3, "code": "CT 752", "type": "elective" },
+                { "id": "project-final", "name": "Final Year Project", "creditHours": 6, "code": "CT 753", "type": "project" },
+                { "id": "engineering-professional-practice", "name": "Engineering Professional Practice", "creditHours": 2, "code": "SH 751", "type": "theory" }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "civil-engineering",
+          "name": "Civil Engineering",
+          "shortName": "BE Civil",
+          "duration": "4 Years (8 Semesters)",
+          "totalCredits": 160,
+          "eligibility": "NEB Grade 12 Science PCM; IOE Entrance passed",
+          "color": "#92400E",
+          "semesters": [
+            {
+              "number": 1,
+              "subjects": [
+                { "id": "engineering-math-i", "name": "Engineering Mathematics I", "creditHours": 3, "code": "SH 401" },
+                { "id": "engineering-physics", "name": "Engineering Physics", "creditHours": 3, "code": "SH 402" },
+                { "id": "engineering-chemistry", "name": "Engineering Chemistry", "creditHours": 3, "code": "SH 403" },
+                { "id": "basic-electrical", "name": "Basic Electrical Engineering", "creditHours": 3, "code": "EE 401" },
+                { "id": "engineering-drawing-i", "name": "Engineering Drawing I", "creditHours": 2, "code": "ME 401" },
+                { "id": "computer-programming", "name": "Computer Programming", "creditHours": 3, "code": "CT 401" }
+              ]
+            },
+            {
+              "number": 2,
+              "subjects": [
+                { "id": "engineering-math-ii", "name": "Engineering Mathematics II", "creditHours": 3, "code": "SH 451" },
+                { "id": "applied-mechanics", "name": "Applied Mechanics", "creditHours": 3, "code": "CE 451" },
+                { "id": "civil-engineering-materials", "name": "Civil Engineering Materials", "creditHours": 3, "code": "CE 452" },
+                { "id": "fluid-mechanics-i", "name": "Fluid Mechanics I", "creditHours": 3, "code": "CE 453" },
+                { "id": "engineering-drawing-ii", "name": "Engineering Drawing II", "creditHours": 2, "code": "ME 451" },
+                { "id": "surveying-i", "name": "Surveying I", "creditHours": 3, "code": "CE 454" }
+              ]
+            },
+            {
+              "number": 3,
+              "subjects": [
+                { "id": "engineering-math-iii", "name": "Engineering Mathematics III", "creditHours": 3, "code": "SH 501" },
+                { "id": "structural-analysis-i", "name": "Structural Analysis I", "creditHours": 3, "code": "CE 501" },
+                { "id": "soil-mechanics", "name": "Soil Mechanics", "creditHours": 3, "code": "CE 502" },
+                { "id": "fluid-mechanics-ii", "name": "Fluid Mechanics II", "creditHours": 3, "code": "CE 503" },
+                { "id": "surveying-ii", "name": "Surveying II", "creditHours": 3, "code": "CE 504" },
+                { "id": "concrete-technology", "name": "Concrete Technology", "creditHours": 3, "code": "CE 505" }
+              ]
+            },
+            {
+              "number": 4,
+              "subjects": [
+                { "id": "theory-of-structures", "name": "Theory of Structures", "creditHours": 3, "code": "CE 551" },
+                { "id": "structural-analysis-ii", "name": "Structural Analysis II", "creditHours": 3, "code": "CE 552" },
+                { "id": "foundation-engineering", "name": "Foundation Engineering", "creditHours": 3, "code": "CE 553" },
+                { "id": "hydrology", "name": "Hydrology", "creditHours": 3, "code": "CE 554" },
+                { "id": "highway-engineering", "name": "Highway Engineering", "creditHours": 3, "code": "CE 555" },
+                { "id": "communication-english", "name": "Communication English", "creditHours": 3, "code": "SH 551" }
+              ]
+            },
+            {
+              "number": 5,
+              "subjects": [
+                { "id": "design-of-rcc", "name": "Design of RCC Structures", "creditHours": 3, "code": "CE 601" },
+                { "id": "sanitary-engineering", "name": "Sanitary Engineering", "creditHours": 3, "code": "CE 602" },
+                { "id": "irrigation-engineering", "name": "Irrigation Engineering", "creditHours": 3, "code": "CE 603" },
+                { "id": "transportation-engineering", "name": "Transportation Engineering", "creditHours": 3, "code": "CE 604" },
+                { "id": "project-engineering", "name": "Project Engineering", "creditHours": 3, "code": "CE 605" }
+              ]
+            },
+            {
+              "number": 6,
+              "subjects": [
+                { "id": "design-of-steel", "name": "Design of Steel Structures", "creditHours": 3, "code": "CE 651" },
+                { "id": "water-supply", "name": "Water Supply Engineering", "creditHours": 3, "code": "CE 652" },
+                { "id": "hydropower-engineering", "name": "Hydropower Engineering", "creditHours": 3, "code": "CE 653" },
+                { "id": "engineering-economics", "name": "Engineering Economics", "creditHours": 3, "code": "CE 654" },
+                { "id": "project-i", "name": "Project Work I", "creditHours": 2, "code": "CE 655" }
+              ]
+            },
+            {
+              "number": 7,
+              "subjects": [
+                { "id": "advanced-structural", "name": "Advanced Structural Analysis", "creditHours": 3, "code": "CE 701" },
+                { "id": "earthquake-engineering", "name": "Earthquake Engineering", "creditHours": 3, "code": "CE 702" },
+                { "id": "bridge-engineering", "name": "Bridge Engineering", "creditHours": 3, "code": "CE 703" },
+                { "id": "elective-i", "name": "Elective I", "creditHours": 3, "code": "CE 704" },
+                { "id": "seminar", "name": "Seminar", "creditHours": 1, "code": "CE 705" }
+              ]
+            },
+            {
+              "number": 8,
+              "subjects": [
+                { "id": "construction-management", "name": "Construction Management", "creditHours": 3, "code": "CE 751" },
+                { "id": "elective-ii", "name": "Elective II", "creditHours": 3, "code": "CE 752" },
+                { "id": "project-final", "name": "Final Year Project", "creditHours": 6, "code": "CE 753" },
+                { "id": "professional-ethics", "name": "Engineering Professional Practice", "creditHours": 2, "code": "SH 751" }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "electrical-engineering",
+          "name": "Electrical Engineering",
+          "shortName": "BE Electrical",
+          "duration": "4 Years (8 Semesters)",
+          "totalCredits": 160,
+          "eligibility": "NEB Grade 12 Science PCM; IOE Entrance passed",
+          "color": "#D97706",
+          "semesters": [
+            {
+              "number": 1,
+              "subjects": [
+                { "id": "engineering-math-i", "name": "Engineering Mathematics I", "creditHours": 3, "code": "SH 401" },
+                { "id": "engineering-physics", "name": "Engineering Physics", "creditHours": 3, "code": "SH 402" },
+                { "id": "engineering-chemistry", "name": "Engineering Chemistry", "creditHours": 3, "code": "SH 403" },
+                { "id": "basic-electrical", "name": "Basic Electrical Engineering", "creditHours": 3, "code": "EE 401" },
+                { "id": "engineering-drawing", "name": "Engineering Drawing", "creditHours": 2, "code": "ME 401" },
+                { "id": "computer-programming", "name": "Computer Programming (C)", "creditHours": 3, "code": "CT 401" }
+              ]
+            },
+            {
+              "number": 2,
+              "subjects": [
+                { "id": "engineering-math-ii", "name": "Engineering Mathematics II", "creditHours": 3, "code": "SH 451" },
+                { "id": "circuit-theory", "name": "Circuit Theory", "creditHours": 3, "code": "EE 451" },
+                { "id": "electronic-devices", "name": "Electronic Devices and Circuits", "creditHours": 3, "code": "EX 451" },
+                { "id": "digital-logic", "name": "Digital Logic", "creditHours": 3, "code": "EX 452" },
+                { "id": "electromagnetic-fields", "name": "Electromagnetic Fields", "creditHours": 3, "code": "EE 452" }
+              ]
+            },
+            {
+              "number": 3,
+              "subjects": [
+                { "id": "engineering-math-iii", "name": "Engineering Mathematics III", "creditHours": 3, "code": "SH 501" },
+                { "id": "electric-machines-i", "name": "Electric Machines I", "creditHours": 3, "code": "EE 501" },
+                { "id": "power-systems-i", "name": "Power Systems I", "creditHours": 3, "code": "EE 502" },
+                { "id": "signals-systems", "name": "Signals and Systems", "creditHours": 3, "code": "EE 503" },
+                { "id": "control-systems-i", "name": "Control Systems I", "creditHours": 3, "code": "EE 504" }
+              ]
+            },
+            {
+              "number": 4,
+              "subjects": [
+                { "id": "electric-machines-ii", "name": "Electric Machines II", "creditHours": 3, "code": "EE 551" },
+                { "id": "power-systems-ii", "name": "Power Systems II", "creditHours": 3, "code": "EE 552" },
+                { "id": "microprocessors", "name": "Microprocessors", "creditHours": 3, "code": "EX 551" },
+                { "id": "power-electronics", "name": "Power Electronics", "creditHours": 3, "code": "EE 553" },
+                { "id": "electrical-measurements", "name": "Electrical Measurements", "creditHours": 3, "code": "EE 554" }
+              ]
+            },
+            {
+              "number": 5,
+              "subjects": [
+                { "id": "switchgear-protection", "name": "Switchgear and Protection", "creditHours": 3, "code": "EE 601" },
+                { "id": "high-voltage", "name": "High Voltage Engineering", "creditHours": 3, "code": "EE 602" },
+                { "id": "drives-control", "name": "Drives and Control", "creditHours": 3, "code": "EE 603" },
+                { "id": "communication-english", "name": "Communication English", "creditHours": 3, "code": "SH 601" }
+              ]
+            },
+            {
+              "number": 6,
+              "subjects": [
+                { "id": "power-system-analysis", "name": "Power System Analysis", "creditHours": 3, "code": "EE 651" },
+                { "id": "renewable-energy", "name": "Renewable Energy Engineering", "creditHours": 3, "code": "EE 652" },
+                { "id": "engineering-economics", "name": "Engineering Economics", "creditHours": 3, "code": "CE 651" },
+                { "id": "project-i", "name": "Project Work I", "creditHours": 2, "code": "EE 653" }
+              ]
+            },
+            {
+              "number": 7,
+              "subjects": [
+                { "id": "elective-i", "name": "Elective I (Hydropower / Smart Grid)", "creditHours": 3, "code": "EE 701" },
+                { "id": "automation", "name": "Industrial Automation", "creditHours": 3, "code": "EE 702" },
+                { "id": "seminar", "name": "Seminar", "creditHours": 1, "code": "EE 703" }
+              ]
+            },
+            {
+              "number": 8,
+              "subjects": [
+                { "id": "elective-ii", "name": "Elective II", "creditHours": 3, "code": "EE 751" },
+                { "id": "project-final", "name": "Final Year Project", "creditHours": 6, "code": "EE 752" },
+                { "id": "professional-practice", "name": "Engineering Professional Practice", "creditHours": 2, "code": "SH 751" }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mechanical-engineering",
+          "name": "Mechanical Engineering",
+          "shortName": "BE Mechanical",
+          "duration": "4 Years (8 Semesters)",
+          "totalCredits": 160,
+          "eligibility": "NEB Grade 12 Science PCM; IOE Entrance passed",
+          "color": "#059669",
+          "semesters": [
+            {
+              "number": 1,
+              "subjects": [
+                { "id": "engineering-math-i", "name": "Engineering Mathematics I", "creditHours": 3, "code": "SH 401" },
+                { "id": "engineering-physics", "name": "Engineering Physics", "creditHours": 3, "code": "SH 402" },
+                { "id": "engineering-chemistry", "name": "Engineering Chemistry", "creditHours": 3, "code": "SH 403" },
+                { "id": "basic-electrical", "name": "Basic Electrical Engineering", "creditHours": 3, "code": "EE 401" },
+                { "id": "engineering-drawing-i", "name": "Engineering Drawing I", "creditHours": 2, "code": "ME 401" },
+                { "id": "workshop-technology", "name": "Workshop Technology", "creditHours": 2, "code": "ME 402" }
+              ]
+            },
+            {
+              "number": 2,
+              "subjects": [
+                { "id": "engineering-math-ii", "name": "Engineering Mathematics II", "creditHours": 3, "code": "SH 451" },
+                { "id": "applied-mechanics", "name": "Applied Mechanics - Statics", "creditHours": 3, "code": "ME 451" },
+                { "id": "thermodynamics-i", "name": "Thermodynamics I", "creditHours": 3, "code": "ME 452" },
+                { "id": "material-science", "name": "Material Science and Metallurgy", "creditHours": 3, "code": "ME 453" },
+                { "id": "engineering-drawing-ii", "name": "Engineering Drawing II", "creditHours": 2, "code": "ME 454" }
+              ]
+            },
+            {
+              "number": 3,
+              "subjects": [
+                { "id": "engineering-math-iii", "name": "Engineering Mathematics III", "creditHours": 3, "code": "SH 501" },
+                { "id": "dynamics", "name": "Applied Mechanics - Dynamics", "creditHours": 3, "code": "ME 501" },
+                { "id": "thermodynamics-ii", "name": "Thermodynamics II", "creditHours": 3, "code": "ME 502" },
+                { "id": "fluid-mechanics", "name": "Fluid Mechanics", "creditHours": 3, "code": "ME 503" },
+                { "id": "manufacturing-processes", "name": "Manufacturing Processes I", "creditHours": 3, "code": "ME 504" }
+              ]
+            },
+            {
+              "number": 4,
+              "subjects": [
+                { "id": "strength-of-materials", "name": "Strength of Materials", "creditHours": 3, "code": "ME 551" },
+                { "id": "heat-transfer", "name": "Heat Transfer", "creditHours": 3, "code": "ME 552" },
+                { "id": "manufacturing-processes-ii", "name": "Manufacturing Processes II", "creditHours": 3, "code": "ME 553" },
+                { "id": "machine-design-i", "name": "Machine Design I", "creditHours": 3, "code": "ME 554" },
+                { "id": "communication-english", "name": "Communication English", "creditHours": 3, "code": "SH 551" }
+              ]
+            },
+            {
+              "number": 5,
+              "subjects": [
+                { "id": "machine-design-ii", "name": "Machine Design II", "creditHours": 3, "code": "ME 601" },
+                { "id": "industrial-engineering", "name": "Industrial Engineering", "creditHours": 3, "code": "ME 602" },
+                { "id": "turbomachinery", "name": "Turbomachinery", "creditHours": 3, "code": "ME 603" },
+                { "id": "automobile-engineering", "name": "Automobile Engineering", "creditHours": 3, "code": "ME 604" }
+              ]
+            },
+            {
+              "number": 6,
+              "subjects": [
+                { "id": "refrigeration-ac", "name": "Refrigeration and Air Conditioning", "creditHours": 3, "code": "ME 651" },
+                { "id": "power-plant", "name": "Power Plant Engineering", "creditHours": 3, "code": "ME 652" },
+                { "id": "engineering-economics", "name": "Engineering Economics", "creditHours": 3, "code": "CE 651" },
+                { "id": "project-i", "name": "Project Work I", "creditHours": 2, "code": "ME 653" }
+              ]
+            },
+            {
+              "number": 7,
+              "subjects": [
+                { "id": "cad-cam", "name": "CAD/CAM", "creditHours": 3, "code": "ME 701" },
+                { "id": "elective-i", "name": "Elective I", "creditHours": 3, "code": "ME 702" },
+                { "id": "seminar", "name": "Seminar", "creditHours": 1, "code": "ME 703" }
+              ]
+            },
+            {
+              "number": 8,
+              "subjects": [
+                { "id": "elective-ii", "name": "Elective II", "creditHours": 3, "code": "ME 751" },
+                { "id": "project-final", "name": "Final Year Project", "creditHours": 6, "code": "ME 752" },
+                { "id": "professional-practice", "name": "Engineering Professional Practice", "creditHours": 2, "code": "SH 751" }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "electrical-electronic-engineering",
+          "name": "Electrical and Electronic Engineering",
+          "shortName": "BE EEE",
+          "duration": "4 Years (8 Semesters)",
+          "totalCredits": 160,
+          "eligibility": "NEB Grade 12 Science PCM; IOE Entrance passed",
+          "color": "#7C3AED",
+          "semesters": [
+            {
+              "number": 1,
+              "subjects": [
+                { "id": "engineering-math-i", "name": "Engineering Mathematics I", "creditHours": 3, "code": "SH 401" },
+                { "id": "engineering-physics", "name": "Engineering Physics", "creditHours": 3, "code": "SH 402" },
+                { "id": "engineering-chemistry", "name": "Engineering Chemistry", "creditHours": 3, "code": "SH 403" },
+                { "id": "basic-electrical", "name": "Basic Electrical Engineering", "creditHours": 3, "code": "EE 401" },
+                { "id": "engineering-drawing", "name": "Engineering Drawing", "creditHours": 2, "code": "ME 401" },
+                { "id": "computer-programming", "name": "Computer Programming", "creditHours": 3, "code": "CT 401" }
+              ]
+            },
+            {
+              "number": 2,
+              "subjects": [
+                { "id": "engineering-math-ii", "name": "Engineering Mathematics II", "creditHours": 3, "code": "SH 451" },
+                { "id": "circuit-theory", "name": "Circuit Theory", "creditHours": 3, "code": "EE 451" },
+                { "id": "electronic-devices", "name": "Electronic Devices and Circuits", "creditHours": 3, "code": "EX 451" },
+                { "id": "digital-logic", "name": "Digital Logic", "creditHours": 3, "code": "EX 452" },
+                { "id": "electromagnetic-fields", "name": "Electromagnetic Fields", "creditHours": 3, "code": "EE 452" }
+              ]
+            },
+            {
+              "number": 3,
+              "subjects": [
+                { "id": "engineering-math-iii", "name": "Engineering Mathematics III", "creditHours": 3, "code": "SH 501" },
+                { "id": "analog-electronics", "name": "Analog Electronics", "creditHours": 3, "code": "EX 501" },
+                { "id": "digital-electronics", "name": "Digital Electronics", "creditHours": 3, "code": "EX 502" },
+                { "id": "electric-machines", "name": "Electric Machines", "creditHours": 3, "code": "EE 501" },
+                { "id": "signals-systems", "name": "Signals and Systems", "creditHours": 3, "code": "EE 503" }
+              ]
+            },
+            {
+              "number": 4,
+              "subjects": [
+                { "id": "power-electronics", "name": "Power Electronics", "creditHours": 3, "code": "EE 551" },
+                { "id": "microprocessors", "name": "Microprocessors and Embedded Systems", "creditHours": 3, "code": "EX 551" },
+                { "id": "control-systems", "name": "Control Systems", "creditHours": 3, "code": "EE 552" },
+                { "id": "communication-systems", "name": "Communication Systems", "creditHours": 3, "code": "EX 553" },
+                { "id": "communication-english", "name": "Communication English", "creditHours": 3, "code": "SH 551" }
+              ]
+            },
+            {
+              "number": 5,
+              "subjects": [
+                { "id": "vlsi-design", "name": "VLSI Design", "creditHours": 3, "code": "EX 601" },
+                { "id": "industrial-automation", "name": "Industrial Automation and Control", "creditHours": 3, "code": "EE 602" },
+                { "id": "digital-signal-processing", "name": "Digital Signal Processing", "creditHours": 3, "code": "EX 603" },
+                { "id": "telecommunication", "name": "Telecommunication Systems", "creditHours": 3, "code": "EX 604" }
+              ]
+            },
+            {
+              "number": 6,
+              "subjects": [
+                { "id": "renewable-energy", "name": "Renewable Energy Systems", "creditHours": 3, "code": "EE 651" },
+                { "id": "optical-fiber", "name": "Optical Fiber Communication", "creditHours": 3, "code": "EX 651" },
+                { "id": "engineering-economics", "name": "Engineering Economics", "creditHours": 3, "code": "CE 651" },
+                { "id": "project-i", "name": "Project Work I", "creditHours": 2, "code": "EE 652" }
+              ]
+            },
+            {
+              "number": 7,
+              "subjects": [
+                { "id": "elective-i", "name": "Elective I (IoT / Robotics)", "creditHours": 3, "code": "EX 701" },
+                { "id": "wireless-networks", "name": "Wireless Communication and Networks", "creditHours": 3, "code": "EX 702" },
+                { "id": "seminar", "name": "Seminar", "creditHours": 1, "code": "EX 703" }
+              ]
+            },
+            {
+              "number": 8,
+              "subjects": [
+                { "id": "elective-ii", "name": "Elective II", "creditHours": 3, "code": "EX 751" },
+                { "id": "project-final", "name": "Final Year Project", "creditHours": 6, "code": "EX 752" },
+                { "id": "professional-practice", "name": "Engineering Professional Practice", "creditHours": 2, "code": "SH 751" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kathmandu-university",
+      "name": "Kathmandu University",
+      "shortName": "KU",
+      "established": 1991,
+      "location": "Dhulikhel, Kavre",
+      "website": "https://ku.edu.np",
+      "department": "School of Engineering (KUSOE)",
+      "color": "#1D4ED8",
+      "icon": "Building2",
+      "path": "/engineering/ku",
+      "description": "A premier autonomous institution known for quality engineering education with semester-based CBCS curriculum.",
+      "courses": [
+        {
+          "id": "computer-engineering",
+          "name": "Computer Engineering",
+          "shortName": "BE Computer",
+          "duration": "4 Years (8 Semesters)",
+          "totalCredits": 156,
+          "eligibility": "NEB Grade 12 Science PCM; KUCAT-CBT passed",
+          "color": "#2563EB",
+          "semesters": [
+            {
+              "number": 1,
+              "subjects": [
+                { "id": "calculus", "name": "Calculus and Analytical Geometry", "creditHours": 3, "code": "MATH 101" },
+                { "id": "chemistry", "name": "Chemistry", "creditHours": 3, "code": "CHEM 101" },
+                { "id": "comp-programming", "name": "Computer Programming (C)", "creditHours": 3, "code": "COMP 101" },
+                { "id": "basic-electrical-electronics", "name": "Basic Electrical and Electronics Engineering", "creditHours": 3, "code": "ELEC 101" },
+                { "id": "engineering-drawing", "name": "Engineering Drawing", "creditHours": 2, "code": "MECH 101" },
+                { "id": "communication-skills", "name": "Communication Skills", "creditHours": 2, "code": "ENGL 101" }
+              ]
+            },
+            {
+              "number": 2,
+              "subjects": [
+                { "id": "linear-algebra", "name": "Linear Algebra and Statistics", "creditHours": 3, "code": "MATH 151" },
+                { "id": "physics", "name": "Physics", "creditHours": 3, "code": "PHYS 151" },
+                { "id": "oop", "name": "Object Oriented Programming (Java)", "creditHours": 3, "code": "COMP 151" },
+                { "id": "digital-logic", "name": "Digital Logic and Computer Organisation", "creditHours": 3, "code": "COMP 152" },
+                { "id": "environmental-science", "name": "Environmental Science and Engineering", "creditHours": 2, "code": "ENVE 151" }
+              ]
+            },
+            {
+              "number": 3,
+              "subjects": [
+                { "id": "discrete-math", "name": "Discrete Mathematics", "creditHours": 3, "code": "MATH 201" },
+                { "id": "data-structures", "name": "Data Structures and Algorithms", "creditHours": 3, "code": "COMP 201" },
+                { "id": "electronics", "name": "Electronics and Instrumentation", "creditHours": 3, "code": "ELEC 201" },
+                { "id": "numerical-methods", "name": "Numerical Methods", "creditHours": 3, "code": "MATH 202" },
+                { "id": "computer-architecture", "name": "Computer Architecture", "creditHours": 3, "code": "COMP 202" }
+              ]
+            },
+            {
+              "number": 4,
+              "subjects": [
+                { "id": "operating-systems", "name": "Operating Systems", "creditHours": 3, "code": "COMP 251" },
+                { "id": "theory-of-computation", "name": "Theory of Computation", "creditHours": 3, "code": "COMP 252" },
+                { "id": "database-systems", "name": "Database Systems", "creditHours": 3, "code": "COMP 253" },
+                { "id": "software-engineering", "name": "Software Engineering", "creditHours": 3, "code": "COMP 254" },
+                { "id": "probability-statistics", "name": "Probability and Statistics", "creditHours": 3, "code": "MATH 251" }
+              ]
+            },
+            {
+              "number": 5,
+              "subjects": [
+                { "id": "computer-networks", "name": "Computer Networks", "creditHours": 3, "code": "COMP 301" },
+                { "id": "compiler-design", "name": "Compiler Design", "creditHours": 3, "code": "COMP 302" },
+                { "id": "ai", "name": "Artificial Intelligence", "creditHours": 3, "code": "COMP 303" },
+                { "id": "minor-project", "name": "Minor Project", "creditHours": 3, "code": "COMP 305" }
+              ]
+            },
+            {
+              "number": 6,
+              "subjects": [
+                { "id": "machine-learning", "name": "Machine Learning", "creditHours": 3, "code": "COMP 351" },
+                { "id": "network-security", "name": "Network and Cyber Security", "creditHours": 3, "code": "COMP 352" },
+                { "id": "web-technologies", "name": "Web Technologies", "creditHours": 3, "code": "COMP 353" },
+                { "id": "management-skills", "name": "Engineering Management", "creditHours": 3, "code": "MGMT 351" }
+              ]
+            },
+            {
+              "number": 7,
+              "subjects": [
+                { "id": "cloud-computing", "name": "Cloud Computing", "creditHours": 3, "code": "COMP 401" },
+                { "id": "deep-learning", "name": "Deep Learning", "creditHours": 3, "code": "COMP 402" },
+                { "id": "elective-i", "name": "Elective I", "creditHours": 3, "code": "COMP 403" },
+                { "id": "final-project-i", "name": "Final Project I", "creditHours": 3, "code": "COMP 405" }
+              ]
+            },
+            {
+              "number": 8,
+              "subjects": [
+                { "id": "elective-ii", "name": "Elective II", "creditHours": 3, "code": "COMP 451" },
+                { "id": "final-project-ii", "name": "Final Project II", "creditHours": 6, "code": "COMP 452" },
+                { "id": "professional-ethics", "name": "Engineering Professional Ethics", "creditHours": 2, "code": "MGMT 451" }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "civil-engineering",
+          "name": "Civil Engineering",
+          "shortName": "BE Civil",
+          "duration": "4 Years (8 Semesters)",
+          "totalCredits": 156,
+          "eligibility": "NEB Grade 12 Science PCM; KUCAT-CBT passed",
+          "color": "#92400E",
+          "semesters": [
+            { "number": 1, "subjects": [
+              { "id": "calculus", "name": "Calculus and Analytical Geometry", "creditHours": 3, "code": "MATH 101" },
+              { "id": "chemistry", "name": "Chemistry", "creditHours": 3, "code": "CHEM 101" },
+              { "id": "engineering-drawing", "name": "Engineering Drawing", "creditHours": 2, "code": "CIVL 101" },
+              { "id": "basic-electrical", "name": "Basic Electrical Engineering", "creditHours": 3, "code": "ELEC 101" },
+              { "id": "computer-programming", "name": "Computer Programming", "creditHours": 3, "code": "COMP 101" },
+              { "id": "communication-skills", "name": "Communication Skills", "creditHours": 2, "code": "ENGL 101" }
+            ]},
+            { "number": 2, "subjects": [
+              { "id": "linear-algebra", "name": "Linear Algebra and Statistics", "creditHours": 3, "code": "MATH 151" },
+              { "id": "physics", "name": "Physics", "creditHours": 3, "code": "PHYS 151" },
+              { "id": "engineering-mechanics", "name": "Engineering Mechanics", "creditHours": 3, "code": "CIVL 151" },
+              { "id": "civil-materials", "name": "Civil Engineering Materials", "creditHours": 3, "code": "CIVL 152" },
+              { "id": "surveying-i", "name": "Surveying I", "creditHours": 3, "code": "CIVL 153" }
+            ]},
+            { "number": 3, "subjects": [
+              { "id": "fluid-mechanics", "name": "Fluid Mechanics", "creditHours": 3, "code": "CIVL 201" },
+              { "id": "structural-analysis-i", "name": "Structural Analysis I", "creditHours": 3, "code": "CIVL 202" },
+              { "id": "soil-mechanics", "name": "Soil Mechanics", "creditHours": 3, "code": "CIVL 203" },
+              { "id": "surveying-ii", "name": "Surveying II", "creditHours": 3, "code": "CIVL 204" },
+              { "id": "numerical-methods", "name": "Numerical Methods", "creditHours": 3, "code": "MATH 201" }
+            ]},
+            { "number": 4, "subjects": [
+              { "id": "structural-analysis-ii", "name": "Structural Analysis II", "creditHours": 3, "code": "CIVL 251" },
+              { "id": "foundation-engineering", "name": "Foundation Engineering", "creditHours": 3, "code": "CIVL 252" },
+              { "id": "hydraulics", "name": "Hydraulics and River Engineering", "creditHours": 3, "code": "CIVL 253" },
+              { "id": "highway-engineering", "name": "Highway Engineering", "creditHours": 3, "code": "CIVL 254" }
+            ]},
+            { "number": 5, "subjects": [
+              { "id": "rcc-design", "name": "Design of RCC Structures", "creditHours": 3, "code": "CIVL 301" },
+              { "id": "sanitary-engineering", "name": "Sanitary Engineering", "creditHours": 3, "code": "CIVL 302" },
+              { "id": "irrigation", "name": "Irrigation and Drainage Engineering", "creditHours": 3, "code": "CIVL 303" },
+              { "id": "minor-project", "name": "Minor Project", "creditHours": 3, "code": "CIVL 305" }
+            ]},
+            { "number": 6, "subjects": [
+              { "id": "steel-design", "name": "Design of Steel Structures", "creditHours": 3, "code": "CIVL 351" },
+              { "id": "hydropower", "name": "Hydropower Engineering", "creditHours": 3, "code": "CIVL 352" },
+              { "id": "construction-management", "name": "Construction Management", "creditHours": 3, "code": "CIVL 353" },
+              { "id": "engineering-economics", "name": "Engineering Economics", "creditHours": 3, "code": "MGMT 351" }
+            ]},
+            { "number": 7, "subjects": [
+              { "id": "earthquake-engineering", "name": "Earthquake Engineering", "creditHours": 3, "code": "CIVL 401" },
+              { "id": "bridge-engineering", "name": "Bridge Engineering", "creditHours": 3, "code": "CIVL 402" },
+              { "id": "elective-i", "name": "Elective I", "creditHours": 3, "code": "CIVL 403" },
+              { "id": "final-project-i", "name": "Final Project I", "creditHours": 3, "code": "CIVL 405" }
+            ]},
+            { "number": 8, "subjects": [
+              { "id": "elective-ii", "name": "Elective II", "creditHours": 3, "code": "CIVL 451" },
+              { "id": "final-project-ii", "name": "Final Project II", "creditHours": 6, "code": "CIVL 452" },
+              { "id": "professional-ethics", "name": "Engineering Professional Ethics", "creditHours": 2, "code": "MGMT 451" }
+            ]}
+          ]
+        },
+        {
+          "id": "electrical-engineering",
+          "name": "Electrical Engineering",
+          "shortName": "BE Electrical",
+          "duration": "4 Years (8 Semesters)",
+          "totalCredits": 156,
+          "eligibility": "NEB Grade 12 Science PCM; KUCAT-CBT passed",
+          "color": "#D97706",
+          "semesters": [
+            { "number": 1, "subjects": [
+              { "id": "calculus", "name": "Calculus and Analytical Geometry", "creditHours": 3, "code": "MATH 101" },
+              { "id": "chemistry", "name": "Chemistry", "creditHours": 3, "code": "CHEM 101" },
+              { "id": "basic-electrical", "name": "Basic Electrical Engineering", "creditHours": 3, "code": "ELEC 101" },
+              { "id": "engineering-drawing", "name": "Engineering Drawing", "creditHours": 2, "code": "MECH 101" },
+              { "id": "computer-programming", "name": "Computer Programming", "creditHours": 3, "code": "COMP 101" },
+              { "id": "communication-skills", "name": "Communication Skills", "creditHours": 2, "code": "ENGL 101" }
+            ]},
+            { "number": 2, "subjects": [
+              { "id": "linear-algebra", "name": "Linear Algebra and Statistics", "creditHours": 3, "code": "MATH 151" },
+              { "id": "physics", "name": "Physics", "creditHours": 3, "code": "PHYS 151" },
+              { "id": "circuit-theory", "name": "Circuit Theory", "creditHours": 3, "code": "ELEC 151" },
+              { "id": "electronic-devices", "name": "Electronic Devices and Circuits", "creditHours": 3, "code": "ELEC 152" },
+              { "id": "digital-logic", "name": "Digital Logic", "creditHours": 3, "code": "ELEC 153" }
+            ]},
+            { "number": 3, "subjects": [
+              { "id": "electric-machines-i", "name": "Electric Machines I", "creditHours": 3, "code": "ELEC 201" },
+              { "id": "signals-systems", "name": "Signals and Systems", "creditHours": 3, "code": "ELEC 202" },
+              { "id": "electromagnetic-fields", "name": "Electromagnetic Fields and Waves", "creditHours": 3, "code": "ELEC 203" },
+              { "id": "control-systems-i", "name": "Control Systems I", "creditHours": 3, "code": "ELEC 204" },
+              { "id": "numerical-methods", "name": "Numerical Methods", "creditHours": 3, "code": "MATH 201" }
+            ]},
+            { "number": 4, "subjects": [
+              { "id": "electric-machines-ii", "name": "Electric Machines II", "creditHours": 3, "code": "ELEC 251" },
+              { "id": "power-electronics", "name": "Power Electronics", "creditHours": 3, "code": "ELEC 252" },
+              { "id": "power-systems-i", "name": "Power Systems I", "creditHours": 3, "code": "ELEC 253" },
+              { "id": "microprocessors", "name": "Microprocessors", "creditHours": 3, "code": "ELEC 254" }
+            ]},
+            { "number": 5, "subjects": [
+              { "id": "power-systems-ii", "name": "Power Systems II", "creditHours": 3, "code": "ELEC 301" },
+              { "id": "high-voltage", "name": "High Voltage Engineering", "creditHours": 3, "code": "ELEC 302" },
+              { "id": "renewable-energy", "name": "Renewable Energy Systems", "creditHours": 3, "code": "ELEC 303" },
+              { "id": "minor-project", "name": "Minor Project", "creditHours": 3, "code": "ELEC 305" }
+            ]},
+            { "number": 6, "subjects": [
+              { "id": "switchgear-protection", "name": "Switchgear and Protection", "creditHours": 3, "code": "ELEC 351" },
+              { "id": "drives", "name": "Drives and Control", "creditHours": 3, "code": "ELEC 352" },
+              { "id": "engineering-economics", "name": "Engineering Economics", "creditHours": 3, "code": "MGMT 351" },
+              { "id": "project-i", "name": "Project Work I", "creditHours": 2, "code": "ELEC 353" }
+            ]},
+            { "number": 7, "subjects": [
+              { "id": "smart-grid", "name": "Smart Grid Technology", "creditHours": 3, "code": "ELEC 401" },
+              { "id": "elective-i", "name": "Elective I", "creditHours": 3, "code": "ELEC 402" },
+              { "id": "final-project-i", "name": "Final Project I", "creditHours": 3, "code": "ELEC 405" }
+            ]},
+            { "number": 8, "subjects": [
+              { "id": "elective-ii", "name": "Elective II", "creditHours": 3, "code": "ELEC 451" },
+              { "id": "final-project-ii", "name": "Final Project II", "creditHours": 6, "code": "ELEC 452" },
+              { "id": "professional-ethics", "name": "Engineering Professional Ethics", "creditHours": 2, "code": "MGMT 451" }
+            ]}
+          ]
+        },
+        {
+          "id": "mechanical-engineering",
+          "name": "Mechanical Engineering",
+          "shortName": "BE Mechanical",
+          "duration": "4 Years (8 Semesters)",
+          "totalCredits": 156,
+          "eligibility": "NEB Grade 12 Science PCM; KUCAT-CBT passed",
+          "color": "#059669",
+          "semesters": [
+            { "number": 1, "subjects": [
+              { "id": "calculus", "name": "Calculus and Analytical Geometry", "creditHours": 3, "code": "MATH 101" },
+              { "id": "chemistry", "name": "Chemistry (Applied)", "creditHours": 3, "code": "CHEM 101" },
+              { "id": "engineering-drawing", "name": "Engineering Drawing", "creditHours": 2, "code": "MECH 101" },
+              { "id": "basic-electrical", "name": "Basic Electrical Engineering", "creditHours": 3, "code": "ELEC 101" },
+              { "id": "computer-programming", "name": "Computer Programming", "creditHours": 3, "code": "COMP 101" },
+              { "id": "workshop", "name": "Workshop Practice", "creditHours": 2, "code": "MECH 102" }
+            ]},
+            { "number": 2, "subjects": [
+              { "id": "linear-algebra", "name": "Linear Algebra", "creditHours": 3, "code": "MATH 151" },
+              { "id": "physics", "name": "Physics", "creditHours": 3, "code": "PHYS 151" },
+              { "id": "statics", "name": "Engineering Mechanics - Statics", "creditHours": 3, "code": "MECH 151" },
+              { "id": "thermodynamics-i", "name": "Thermodynamics I", "creditHours": 3, "code": "MECH 152" },
+              { "id": "material-science", "name": "Engineering Material Science", "creditHours": 3, "code": "MECH 153" }
+            ]},
+            { "number": 3, "subjects": [
+              { "id": "dynamics", "name": "Engineering Mechanics - Dynamics", "creditHours": 3, "code": "MECH 201" },
+              { "id": "thermodynamics-ii", "name": "Thermodynamics II", "creditHours": 3, "code": "MECH 202" },
+              { "id": "fluid-mechanics", "name": "Fluid Mechanics", "creditHours": 3, "code": "MECH 203" },
+              { "id": "manufacturing-i", "name": "Manufacturing Processes I", "creditHours": 3, "code": "MECH 204" },
+              { "id": "numerical-methods", "name": "Numerical Methods", "creditHours": 3, "code": "MATH 201" }
+            ]},
+            { "number": 4, "subjects": [
+              { "id": "strength-materials", "name": "Strength of Materials", "creditHours": 3, "code": "MECH 251" },
+              { "id": "heat-transfer", "name": "Heat Transfer", "creditHours": 3, "code": "MECH 252" },
+              { "id": "manufacturing-ii", "name": "Manufacturing Processes II", "creditHours": 3, "code": "MECH 253" },
+              { "id": "machine-design-i", "name": "Machine Design I", "creditHours": 3, "code": "MECH 254" }
+            ]},
+            { "number": 5, "subjects": [
+              { "id": "machine-design-ii", "name": "Machine Design II", "creditHours": 3, "code": "MECH 301" },
+              { "id": "turbomachinery", "name": "Turbomachinery", "creditHours": 3, "code": "MECH 302" },
+              { "id": "industrial-engineering", "name": "Industrial Engineering", "creditHours": 3, "code": "MECH 303" },
+              { "id": "minor-project", "name": "Minor Project", "creditHours": 3, "code": "MECH 305" }
+            ]},
+            { "number": 6, "subjects": [
+              { "id": "refrigeration", "name": "Refrigeration and Air Conditioning", "creditHours": 3, "code": "MECH 351" },
+              { "id": "power-plant", "name": "Power Plant Engineering", "creditHours": 3, "code": "MECH 352" },
+              { "id": "engineering-economics", "name": "Engineering Economics", "creditHours": 3, "code": "MGMT 351" },
+              { "id": "project-i", "name": "Project Work I", "creditHours": 2, "code": "MECH 353" }
+            ]},
+            { "number": 7, "subjects": [
+              { "id": "cad-cam", "name": "CAD/CAM and CNC", "creditHours": 3, "code": "MECH 401" },
+              { "id": "elective-i", "name": "Elective I (Automotive / Robotics)", "creditHours": 3, "code": "MECH 402" },
+              { "id": "final-project-i", "name": "Final Project I", "creditHours": 3, "code": "MECH 405" }
+            ]},
+            { "number": 8, "subjects": [
+              { "id": "elective-ii", "name": "Elective II", "creditHours": 3, "code": "MECH 451" },
+              { "id": "final-project-ii", "name": "Final Project II", "creditHours": 6, "code": "MECH 452" },
+              { "id": "professional-ethics", "name": "Engineering Professional Ethics", "creditHours": 2, "code": "MGMT 451" }
+            ]}
+          ]
+        },
+        {
+          "id": "electrical-electronic-engineering",
+          "name": "Electrical and Electronic Engineering",
+          "shortName": "BE EEE",
+          "duration": "4 Years (8 Semesters)",
+          "totalCredits": 156,
+          "eligibility": "NEB Grade 12 Science PCM; KUCAT-CBT passed",
+          "color": "#7C3AED",
+          "semesters": [
+            { "number": 1, "subjects": [
+              { "id": "calculus", "name": "Calculus and Analytical Geometry", "creditHours": 3, "code": "MATH 101" },
+              { "id": "chemistry", "name": "Chemistry", "creditHours": 3, "code": "CHEM 101" },
+              { "id": "basic-electrical", "name": "Basic Electrical Engineering", "creditHours": 3, "code": "ELEC 101" },
+              { "id": "engineering-drawing", "name": "Engineering Drawing", "creditHours": 2, "code": "MECH 101" },
+              { "id": "computer-programming", "name": "Computer Programming", "creditHours": 3, "code": "COMP 101" },
+              { "id": "communication-skills", "name": "Communication Skills", "creditHours": 2, "code": "ENGL 101" }
+            ]},
+            { "number": 2, "subjects": [
+              { "id": "linear-algebra", "name": "Linear Algebra", "creditHours": 3, "code": "MATH 151" },
+              { "id": "physics", "name": "Physics", "creditHours": 3, "code": "PHYS 151" },
+              { "id": "circuit-theory", "name": "Circuit Theory", "creditHours": 3, "code": "ELEC 151" },
+              { "id": "electronic-devices", "name": "Electronic Devices", "creditHours": 3, "code": "ELEC 152" },
+              { "id": "digital-logic", "name": "Digital Logic", "creditHours": 3, "code": "ELEC 153" }
+            ]},
+            { "number": 3, "subjects": [
+              { "id": "analog-electronics", "name": "Analog Electronics", "creditHours": 3, "code": "ELEC 201" },
+              { "id": "digital-electronics", "name": "Digital Electronics", "creditHours": 3, "code": "ELEC 202" },
+              { "id": "electromagnetic-fields", "name": "Electromagnetic Fields", "creditHours": 3, "code": "ELEC 203" },
+              { "id": "electric-machines", "name": "Electric Machines", "creditHours": 3, "code": "ELEC 204" },
+              { "id": "signals-systems", "name": "Signals and Systems", "creditHours": 3, "code": "ELEC 205" }
+            ]},
+            { "number": 4, "subjects": [
+              { "id": "power-electronics", "name": "Power Electronics", "creditHours": 3, "code": "ELEC 251" },
+              { "id": "control-systems", "name": "Control Systems", "creditHours": 3, "code": "ELEC 252" },
+              { "id": "communication-systems", "name": "Communication Systems", "creditHours": 3, "code": "ELEC 253" },
+              { "id": "microprocessors", "name": "Microprocessors and Embedded Systems", "creditHours": 3, "code": "ELEC 254" }
+            ]},
+            { "number": 5, "subjects": [
+              { "id": "vlsi", "name": "VLSI Design", "creditHours": 3, "code": "ELEC 301" },
+              { "id": "dsp", "name": "Digital Signal Processing", "creditHours": 3, "code": "ELEC 302" },
+              { "id": "industrial-automation", "name": "Industrial Automation", "creditHours": 3, "code": "ELEC 303" },
+              { "id": "minor-project", "name": "Minor Project", "creditHours": 3, "code": "ELEC 305" }
+            ]},
+            { "number": 6, "subjects": [
+              { "id": "optical-fiber", "name": "Optical Fiber Communication", "creditHours": 3, "code": "ELEC 351" },
+              { "id": "renewable-energy", "name": "Renewable Energy Systems", "creditHours": 3, "code": "ELEC 352" },
+              { "id": "engineering-economics", "name": "Engineering Economics", "creditHours": 3, "code": "MGMT 351" },
+              { "id": "project-i", "name": "Project Work I", "creditHours": 2, "code": "ELEC 353" }
+            ]},
+            { "number": 7, "subjects": [
+              { "id": "iot", "name": "Internet of Things", "creditHours": 3, "code": "ELEC 401" },
+              { "id": "elective-i", "name": "Elective I", "creditHours": 3, "code": "ELEC 402" },
+              { "id": "final-project-i", "name": "Final Project I", "creditHours": 3, "code": "ELEC 405" }
+            ]},
+            { "number": 8, "subjects": [
+              { "id": "elective-ii", "name": "Elective II", "creditHours": 3, "code": "ELEC 451" },
+              { "id": "final-project-ii", "name": "Final Project II", "creditHours": 6, "code": "ELEC 452" },
+              { "id": "professional-ethics", "name": "Engineering Professional Ethics", "creditHours": 2, "code": "MGMT 451" }
+            ]}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pokhara-university",
+      "name": "Pokhara University",
+      "shortName": "PU",
+      "established": 1997,
+      "location": "Lekhnath, Kaski",
+      "website": "https://pu.edu.np",
+      "department": "School of Engineering and Technology",
+      "color": "#059669",
+      "icon": "Building2",
+      "path": "/engineering/pu",
+      "description": "Autonomous university in Western Nepal offering engineering and technology programs with strong industry linkage.",
+      "courses": [
+        {
+          "id": "computer-engineering",
+          "name": "Computer Engineering",
+          "shortName": "BE Computer",
+          "duration": "4 Years (8 Semesters)",
+          "totalCredits": 160,
+          "eligibility": "NEB Grade 12 Science PCM; PU Entrance passed",
+          "color": "#2563EB",
+          "semesters": [
+            { "number": 1, "subjects": [
+              { "id": "engineering-math-i", "name": "Engineering Mathematics I", "creditHours": 3, "code": "Math101" },
+              { "id": "engineering-physics", "name": "Engineering Physics", "creditHours": 3, "code": "Phys101" },
+              { "id": "engineering-chemistry", "name": "Engineering Chemistry", "creditHours": 3, "code": "Chem101" },
+              { "id": "basic-electronics", "name": "Basic Electronics Engineering", "creditHours": 3, "code": "Elec101" },
+              { "id": "computer-programming", "name": "Computer Programming (C)", "creditHours": 3, "code": "Comp101" },
+              { "id": "engineering-drawing", "name": "Engineering Drawing", "creditHours": 2, "code": "Mech101" }
+            ]},
+            { "number": 2, "subjects": [
+              { "id": "engineering-math-ii", "name": "Engineering Mathematics II", "creditHours": 3, "code": "Math151" },
+              { "id": "oop", "name": "Object Oriented Programming", "creditHours": 3, "code": "Comp151" },
+              { "id": "digital-logic", "name": "Digital Logic", "creditHours": 3, "code": "Comp152" },
+              { "id": "basic-electrical", "name": "Basic Electrical Engineering", "creditHours": 3, "code": "Elec151" },
+              { "id": "communication-english", "name": "Technical English", "creditHours": 2, "code": "Eng151" }
+            ]},
+            { "number": 3, "subjects": [
+              { "id": "engineering-math-iii", "name": "Engineering Mathematics III", "creditHours": 3, "code": "Math201" },
+              { "id": "data-structures", "name": "Data Structures and Algorithms", "creditHours": 3, "code": "Comp201" },
+              { "id": "computer-organisation", "name": "Computer Organisation and Architecture", "creditHours": 3, "code": "Comp202" },
+              { "id": "electronics-devices", "name": "Electronic Devices and Circuits", "creditHours": 3, "code": "Elec201" },
+              { "id": "discrete-structures", "name": "Discrete Mathematics", "creditHours": 3, "code": "Math202" }
+            ]},
+            { "number": 4, "subjects": [
+              { "id": "operating-systems", "name": "Operating Systems", "creditHours": 3, "code": "Comp251" },
+              { "id": "database", "name": "Database Management Systems", "creditHours": 3, "code": "Comp252" },
+              { "id": "software-engineering", "name": "Software Engineering", "creditHours": 3, "code": "Comp253" },
+              { "id": "numerical-methods", "name": "Numerical Methods", "creditHours": 3, "code": "Math251" },
+              { "id": "theory-of-computation", "name": "Theory of Computation", "creditHours": 3, "code": "Comp254" }
+            ]},
+            { "number": 5, "subjects": [
+              { "id": "computer-networks", "name": "Computer Networks", "creditHours": 3, "code": "Comp301" },
+              { "id": "artificial-intelligence", "name": "Artificial Intelligence", "creditHours": 3, "code": "Comp302" },
+              { "id": "compiler-design", "name": "Compiler Design", "creditHours": 3, "code": "Comp303" },
+              { "id": "project-i", "name": "Project Work I", "creditHours": 2, "code": "Comp305" }
+            ]},
+            { "number": 6, "subjects": [
+              { "id": "machine-learning", "name": "Machine Learning", "creditHours": 3, "code": "Comp351" },
+              { "id": "information-security", "name": "Information Security", "creditHours": 3, "code": "Comp352" },
+              { "id": "cloud-computing", "name": "Cloud Computing", "creditHours": 3, "code": "Comp353" },
+              { "id": "engineering-economics", "name": "Engineering Economics", "creditHours": 3, "code": "Mgmt351" }
+            ]},
+            { "number": 7, "subjects": [
+              { "id": "big-data", "name": "Big Data and Analytics", "creditHours": 3, "code": "Comp401" },
+              { "id": "elective-i", "name": "Elective I", "creditHours": 3, "code": "Comp402" },
+              { "id": "project-ii", "name": "Minor Project", "creditHours": 3, "code": "Comp405" }
+            ]},
+            { "number": 8, "subjects": [
+              { "id": "elective-ii", "name": "Elective II", "creditHours": 3, "code": "Comp451" },
+              { "id": "project-final", "name": "Final Year Project", "creditHours": 6, "code": "Comp452" },
+              { "id": "professional-practice", "name": "Engineering Professional Practice", "creditHours": 2, "code": "Mgmt451" }
+            ]}
+          ]
+        },
+        {
+          "id": "civil-engineering",
+          "name": "Civil Engineering",
+          "shortName": "BE Civil",
+          "duration": "4 Years (8 Semesters)",
+          "totalCredits": 160,
+          "eligibility": "NEB Grade 12 Science PCM; PU Entrance passed",
+          "color": "#92400E",
+          "semesters": [
+            { "number": 1, "subjects": [
+              { "id": "engineering-math-i", "name": "Engineering Mathematics I", "creditHours": 3, "code": "Math101" },
+              { "id": "engineering-physics", "name": "Engineering Physics", "creditHours": 3, "code": "Phys101" },
+              { "id": "engineering-chemistry", "name": "Engineering Chemistry", "creditHours": 3, "code": "Chem101" },
+              { "id": "engineering-drawing", "name": "Engineering Drawing I", "creditHours": 2, "code": "Civl101" },
+              { "id": "computer-programming", "name": "Computer Programming", "creditHours": 3, "code": "Comp101" },
+              { "id": "basic-electrical", "name": "Basic Electrical Engineering", "creditHours": 3, "code": "Elec101" }
+            ]},
+            { "number": 2, "subjects": [
+              { "id": "engineering-math-ii", "name": "Engineering Mathematics II", "creditHours": 3, "code": "Math151" },
+              { "id": "applied-mechanics", "name": "Applied Mechanics", "creditHours": 3, "code": "Civl151" },
+              { "id": "civil-materials", "name": "Civil Engineering Materials", "creditHours": 3, "code": "Civl152" },
+              { "id": "surveying-i", "name": "Surveying I", "creditHours": 3, "code": "Civl153" },
+              { "id": "fluid-mechanics-i", "name": "Fluid Mechanics I", "creditHours": 3, "code": "Civl154" }
+            ]},
+            { "number": 3, "subjects": [
+              { "id": "structural-analysis-i", "name": "Structural Analysis I", "creditHours": 3, "code": "Civl201" },
+              { "id": "soil-mechanics", "name": "Soil Mechanics", "creditHours": 3, "code": "Civl202" },
+              { "id": "fluid-mechanics-ii", "name": "Fluid Mechanics II", "creditHours": 3, "code": "Civl203" },
+              { "id": "surveying-ii", "name": "Surveying II", "creditHours": 3, "code": "Civl204" },
+              { "id": "concrete-technology", "name": "Concrete Technology", "creditHours": 3, "code": "Civl205" }
+            ]},
+            { "number": 4, "subjects": [
+              { "id": "structural-analysis-ii", "name": "Structural Analysis II", "creditHours": 3, "code": "Civl251" },
+              { "id": "foundation-engineering", "name": "Foundation Engineering", "creditHours": 3, "code": "Civl252" },
+              { "id": "highway-engineering", "name": "Highway Engineering", "creditHours": 3, "code": "Civl253" },
+              { "id": "hydrology", "name": "Hydrology", "creditHours": 3, "code": "Civl254" }
+            ]},
+            { "number": 5, "subjects": [
+              { "id": "rcc-design", "name": "Design of RCC Structures", "creditHours": 3, "code": "Civl301" },
+              { "id": "sanitary-engineering", "name": "Sanitary Engineering", "creditHours": 3, "code": "Civl302" },
+              { "id": "irrigation", "name": "Irrigation Engineering", "creditHours": 3, "code": "Civl303" },
+              { "id": "project-i", "name": "Project Work I", "creditHours": 2, "code": "Civl305" }
+            ]},
+            { "number": 6, "subjects": [
+              { "id": "steel-design", "name": "Design of Steel Structures", "creditHours": 3, "code": "Civl351" },
+              { "id": "hydropower", "name": "Hydropower Engineering", "creditHours": 3, "code": "Civl352" },
+              { "id": "construction-management", "name": "Construction Management", "creditHours": 3, "code": "Civl353" },
+              { "id": "engineering-economics", "name": "Engineering Economics", "creditHours": 3, "code": "Mgmt351" }
+            ]},
+            { "number": 7, "subjects": [
+              { "id": "earthquake-engineering", "name": "Earthquake Engineering", "creditHours": 3, "code": "Civl401" },
+              { "id": "bridge-engineering", "name": "Bridge Engineering", "creditHours": 3, "code": "Civl402" },
+              { "id": "elective-i", "name": "Elective I", "creditHours": 3, "code": "Civl403" }
+            ]},
+            { "number": 8, "subjects": [
+              { "id": "elective-ii", "name": "Elective II", "creditHours": 3, "code": "Civl451" },
+              { "id": "project-final", "name": "Final Year Project", "creditHours": 6, "code": "Civl452" },
+              { "id": "professional-practice", "name": "Engineering Professional Practice", "creditHours": 2, "code": "Mgmt451" }
+            ]}
+          ]
+        },
+        {
+          "id": "electrical-engineering",
+          "name": "Electrical Engineering",
+          "shortName": "BE Electrical",
+          "duration": "4 Years (8 Semesters)",
+          "totalCredits": 160,
+          "eligibility": "NEB Grade 12 Science PCM; PU Entrance passed",
+          "color": "#D97706",
+          "semesters": [
+            { "number": 1, "subjects": [
+              { "id": "engineering-math-i", "name": "Engineering Mathematics I", "creditHours": 3, "code": "Math101" },
+              { "id": "engineering-physics", "name": "Engineering Physics", "creditHours": 3, "code": "Phys101" },
+              { "id": "basic-electrical", "name": "Basic Electrical Engineering", "creditHours": 3, "code": "Elec101" },
+              { "id": "engineering-drawing", "name": "Engineering Drawing", "creditHours": 2, "code": "Mech101" },
+              { "id": "computer-programming", "name": "Computer Programming", "creditHours": 3, "code": "Comp101" },
+              { "id": "engineering-chemistry", "name": "Engineering Chemistry", "creditHours": 3, "code": "Chem101" }
+            ]},
+            { "number": 2, "subjects": [
+              { "id": "engineering-math-ii", "name": "Engineering Mathematics II", "creditHours": 3, "code": "Math151" },
+              { "id": "circuit-theory", "name": "Circuit Theory", "creditHours": 3, "code": "Elec151" },
+              { "id": "electronic-devices", "name": "Electronic Devices", "creditHours": 3, "code": "Elec152" },
+              { "id": "digital-logic", "name": "Digital Logic", "creditHours": 3, "code": "Elec153" },
+              { "id": "electromagnetic-theory", "name": "Electromagnetic Theory", "creditHours": 3, "code": "Elec154" }
+            ]},
+            { "number": 3, "subjects": [
+              { "id": "electric-machines-i", "name": "Electric Machines I", "creditHours": 3, "code": "Elec201" },
+              { "id": "power-systems-i", "name": "Power Systems I", "creditHours": 3, "code": "Elec202" },
+              { "id": "signals-systems", "name": "Signals and Systems", "creditHours": 3, "code": "Elec203" },
+              { "id": "control-systems-i", "name": "Control Systems I", "creditHours": 3, "code": "Elec204" },
+              { "id": "numerical-methods", "name": "Numerical Methods", "creditHours": 3, "code": "Math201" }
+            ]},
+            { "number": 4, "subjects": [
+              { "id": "electric-machines-ii", "name": "Electric Machines II", "creditHours": 3, "code": "Elec251" },
+              { "id": "power-electronics", "name": "Power Electronics", "creditHours": 3, "code": "Elec252" },
+              { "id": "power-systems-ii", "name": "Power Systems II", "creditHours": 3, "code": "Elec253" },
+              { "id": "microprocessors", "name": "Microprocessors", "creditHours": 3, "code": "Elec254" }
+            ]},
+            { "number": 5, "subjects": [
+              { "id": "switchgear", "name": "Switchgear and Protection", "creditHours": 3, "code": "Elec301" },
+              { "id": "high-voltage", "name": "High Voltage Engineering", "creditHours": 3, "code": "Elec302" },
+              { "id": "renewable-energy", "name": "Renewable Energy Systems", "creditHours": 3, "code": "Elec303" },
+              { "id": "project-i", "name": "Project Work I", "creditHours": 2, "code": "Elec305" }
+            ]},
+            { "number": 6, "subjects": [
+              { "id": "power-system-analysis", "name": "Power System Analysis", "creditHours": 3, "code": "Elec351" },
+              { "id": "drives-control", "name": "Drives and Control", "creditHours": 3, "code": "Elec352" },
+              { "id": "engineering-economics", "name": "Engineering Economics", "creditHours": 3, "code": "Mgmt351" },
+              { "id": "project-ii", "name": "Project Work II", "creditHours": 2, "code": "Elec353" }
+            ]},
+            { "number": 7, "subjects": [
+              { "id": "elective-i", "name": "Elective I (Smart Grid / Hydropower)", "creditHours": 3, "code": "Elec401" },
+              { "id": "automation", "name": "Industrial Automation", "creditHours": 3, "code": "Elec402" },
+              { "id": "final-project-i", "name": "Final Project I", "creditHours": 3, "code": "Elec405" }
+            ]},
+            { "number": 8, "subjects": [
+              { "id": "elective-ii", "name": "Elective II", "creditHours": 3, "code": "Elec451" },
+              { "id": "project-final", "name": "Final Year Project", "creditHours": 6, "code": "Elec452" },
+              { "id": "professional-practice", "name": "Engineering Professional Practice", "creditHours": 2, "code": "Mgmt451" }
+            ]}
+          ]
+        },
+        {
+          "id": "mechanical-engineering",
+          "name": "Mechanical Engineering",
+          "shortName": "BE Mechanical",
+          "duration": "4 Years (8 Semesters)",
+          "totalCredits": 160,
+          "eligibility": "NEB Grade 12 Science PCM; PU Entrance passed",
+          "color": "#059669",
+          "semesters": [
+            { "number": 1, "subjects": [
+              { "id": "engineering-math-i", "name": "Engineering Mathematics I", "creditHours": 3, "code": "Math101" },
+              { "id": "engineering-physics", "name": "Engineering Physics", "creditHours": 3, "code": "Phys101" },
+              { "id": "engineering-chemistry", "name": "Engineering Chemistry", "creditHours": 3, "code": "Chem101" },
+              { "id": "engineering-drawing", "name": "Engineering Drawing I", "creditHours": 2, "code": "Mech101" },
+              { "id": "basic-electrical", "name": "Basic Electrical Engineering", "creditHours": 3, "code": "Elec101" },
+              { "id": "workshop", "name": "Workshop Technology", "creditHours": 2, "code": "Mech102" }
+            ]},
+            { "number": 2, "subjects": [
+              { "id": "engineering-math-ii", "name": "Engineering Mathematics II", "creditHours": 3, "code": "Math151" },
+              { "id": "statics", "name": "Applied Mechanics - Statics", "creditHours": 3, "code": "Mech151" },
+              { "id": "thermodynamics-i", "name": "Thermodynamics I", "creditHours": 3, "code": "Mech152" },
+              { "id": "material-science", "name": "Material Science", "creditHours": 3, "code": "Mech153" },
+              { "id": "computer-programming", "name": "Computer Programming", "creditHours": 3, "code": "Comp151" }
+            ]},
+            { "number": 3, "subjects": [
+              { "id": "dynamics", "name": "Applied Mechanics - Dynamics", "creditHours": 3, "code": "Mech201" },
+              { "id": "thermodynamics-ii", "name": "Thermodynamics II", "creditHours": 3, "code": "Mech202" },
+              { "id": "fluid-mechanics", "name": "Fluid Mechanics", "creditHours": 3, "code": "Mech203" },
+              { "id": "manufacturing-i", "name": "Manufacturing Processes I", "creditHours": 3, "code": "Mech204" },
+              { "id": "numerical-methods", "name": "Numerical Methods", "creditHours": 3, "code": "Math201" }
+            ]},
+            { "number": 4, "subjects": [
+              { "id": "strength-materials", "name": "Strength of Materials", "creditHours": 3, "code": "Mech251" },
+              { "id": "heat-transfer", "name": "Heat Transfer", "creditHours": 3, "code": "Mech252" },
+              { "id": "manufacturing-ii", "name": "Manufacturing Processes II", "creditHours": 3, "code": "Mech253" },
+              { "id": "machine-design-i", "name": "Machine Design I", "creditHours": 3, "code": "Mech254" }
+            ]},
+            { "number": 5, "subjects": [
+              { "id": "machine-design-ii", "name": "Machine Design II", "creditHours": 3, "code": "Mech301" },
+              { "id": "turbomachinery", "name": "Turbomachinery", "creditHours": 3, "code": "Mech302" },
+              { "id": "industrial-engineering", "name": "Industrial Engineering", "creditHours": 3, "code": "Mech303" },
+              { "id": "project-i", "name": "Project Work I", "creditHours": 2, "code": "Mech305" }
+            ]},
+            { "number": 6, "subjects": [
+              { "id": "refrigeration", "name": "Refrigeration and Air Conditioning", "creditHours": 3, "code": "Mech351" },
+              { "id": "power-plant", "name": "Power Plant Engineering", "creditHours": 3, "code": "Mech352" },
+              { "id": "engineering-economics", "name": "Engineering Economics", "creditHours": 3, "code": "Mgmt351" },
+              { "id": "project-ii", "name": "Project Work II", "creditHours": 2, "code": "Mech353" }
+            ]},
+            { "number": 7, "subjects": [
+              { "id": "cad-cam", "name": "CAD/CAM", "creditHours": 3, "code": "Mech401" },
+              { "id": "elective-i", "name": "Elective I", "creditHours": 3, "code": "Mech402" },
+              { "id": "final-project-i", "name": "Final Project I", "creditHours": 3, "code": "Mech405" }
+            ]},
+            { "number": 8, "subjects": [
+              { "id": "elective-ii", "name": "Elective II", "creditHours": 3, "code": "Mech451" },
+              { "id": "project-final", "name": "Final Year Project", "creditHours": 6, "code": "Mech452" },
+              { "id": "professional-practice", "name": "Engineering Professional Practice", "creditHours": 2, "code": "Mgmt451" }
+            ]}
+          ]
+        },
+        {
+          "id": "electrical-electronic-engineering",
+          "name": "Electrical and Electronic Engineering",
+          "shortName": "BE EEE",
+          "duration": "4 Years (8 Semesters)",
+          "totalCredits": 160,
+          "eligibility": "NEB Grade 12 Science PCM; PU Entrance passed",
+          "color": "#7C3AED",
+          "semesters": [
+            { "number": 1, "subjects": [
+              { "id": "engineering-math-i", "name": "Engineering Mathematics I", "creditHours": 3, "code": "Math101" },
+              { "id": "engineering-physics", "name": "Engineering Physics", "creditHours": 3, "code": "Phys101" },
+              { "id": "basic-electrical", "name": "Basic Electrical Engineering", "creditHours": 3, "code": "Elec101" },
+              { "id": "engineering-drawing", "name": "Engineering Drawing", "creditHours": 2, "code": "Mech101" },
+              { "id": "computer-programming", "name": "Computer Programming", "creditHours": 3, "code": "Comp101" },
+              { "id": "engineering-chemistry", "name": "Engineering Chemistry", "creditHours": 3, "code": "Chem101" }
+            ]},
+            { "number": 2, "subjects": [
+              { "id": "engineering-math-ii", "name": "Engineering Mathematics II", "creditHours": 3, "code": "Math151" },
+              { "id": "circuit-theory", "name": "Circuit Theory", "creditHours": 3, "code": "Elec151" },
+              { "id": "electronic-devices", "name": "Electronic Devices and Circuits", "creditHours": 3, "code": "Elec152" },
+              { "id": "digital-logic", "name": "Digital Logic", "creditHours": 3, "code": "Elec153" },
+              { "id": "communication-english", "name": "Technical English", "creditHours": 2, "code": "Eng151" }
+            ]},
+            { "number": 3, "subjects": [
+              { "id": "analog-electronics", "name": "Analog Electronics", "creditHours": 3, "code": "Elec201" },
+              { "id": "digital-electronics", "name": "Digital Electronics", "creditHours": 3, "code": "Elec202" },
+              { "id": "electromagnetic-fields", "name": "Electromagnetic Fields", "creditHours": 3, "code": "Elec203" },
+              { "id": "electric-machines", "name": "Electric Machines", "creditHours": 3, "code": "Elec204" },
+              { "id": "numerical-methods", "name": "Numerical Methods", "creditHours": 3, "code": "Math201" }
+            ]},
+            { "number": 4, "subjects": [
+              { "id": "power-electronics", "name": "Power Electronics", "creditHours": 3, "code": "Elec251" },
+              { "id": "control-systems", "name": "Control Systems", "creditHours": 3, "code": "Elec252" },
+              { "id": "communication-systems", "name": "Communication Systems", "creditHours": 3, "code": "Elec253" },
+              { "id": "microprocessors", "name": "Microprocessors and Embedded Systems", "creditHours": 3, "code": "Elec254" }
+            ]},
+            { "number": 5, "subjects": [
+              { "id": "vlsi", "name": "VLSI Design", "creditHours": 3, "code": "Elec301" },
+              { "id": "dsp", "name": "Digital Signal Processing", "creditHours": 3, "code": "Elec302" },
+              { "id": "industrial-automation", "name": "Industrial Automation", "creditHours": 3, "code": "Elec303" },
+              { "id": "project-i", "name": "Project Work I", "creditHours": 2, "code": "Elec305" }
+            ]},
+            { "number": 6, "subjects": [
+              { "id": "optical-fiber", "name": "Optical Fiber Communication", "creditHours": 3, "code": "Elec351" },
+              { "id": "renewable-energy", "name": "Renewable Energy Systems", "creditHours": 3, "code": "Elec352" },
+              { "id": "engineering-economics", "name": "Engineering Economics", "creditHours": 3, "code": "Mgmt351" },
+              { "id": "project-ii", "name": "Project Work II", "creditHours": 2, "code": "Elec353" }
+            ]},
+            { "number": 7, "subjects": [
+              { "id": "iot", "name": "Internet of Things", "creditHours": 3, "code": "Elec401" },
+              { "id": "elective-i", "name": "Elective I", "creditHours": 3, "code": "Elec402" },
+              { "id": "final-project-i", "name": "Final Project I", "creditHours": 3, "code": "Elec405" }
+            ]},
+            { "number": 8, "subjects": [
+              { "id": "elective-ii", "name": "Elective II", "creditHours": 3, "code": "Elec451" },
+              { "id": "project-final", "name": "Final Year Project", "creditHours": 6, "code": "Elec452" },
+              { "id": "professional-practice", "name": "Engineering Professional Practice", "creditHours": 2, "code": "Mgmt451" }
+            ]}
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "program": "SEE",
+  "category": "school",
+  "board": "National Examination Board (NEB)",
+  "lastUpdated": "2025",
+  "color": "#059669",
+  "subject": {
+    "id": "optional-math",
+    "name": "Optional Mathematics",
+    "icon": "Calculator",
+    "totalMarks": 100,
+    "units": [
+      {
+        "id": "unit-1",
+        "name": "Algebra",
+        "chapters": [
+          {
+            "id": "ch-1",
+            "number": 1,
+            "name": "Matrices and Determinants",
+            "weightage": "12-15 marks",
+            "difficulty": "intermediate",
+            "introduction": "Matrices represent data in rows and columns. Determinants are scalar values derived from square matrices. SEE covers order, operations, inverse, and determinant of 2×2 matrices.",
+            "whyItMatters": "12-15 marks. Matrix operations and inverse are always tested.",
+            "yearlyTrend": {"2019": 12, "2020": 15, "2021": 12, "2022": 15, "2023": 12, "2024": 15, "2025": 12},
+            "topics": [
+              {
+                "id": "see-optmath-ch1-t1",
+                "name": "Matrix Operations",
+                "difficulty": "intermediate",
+                "explanation": "For 2×2 matrices A and B: Addition/Subtraction requires same order. Multiplication: (2×2)(2×2) → (2×2). Scalar multiplication multiplies every element. Transpose swaps rows and columns.",
+                "keyPoints": ["Addition: element-wise", "Multiplication: row × column", "Transpose: AT[i][j] = A[j][i]"],
+                "examTip": "Always check dimensions are compatible before multiplying.",
+                "formula": "For A = [[a,b],[c,d]]:  det(A) = ad - bc\nA⁻¹ = (1/det(A)) × [[d,-b],[-c,a]]",
+                "relatedTopics": ["Determinants", "Complex Numbers"]
+              },
+              {
+                "id": "see-optmath-ch1-t2",
+                "name": "Complex Numbers",
+                "difficulty": "hard",
+                "explanation": "Complex number z = a + bi, where a is real part and b is imaginary part. i = √(-1), i² = -1. Operations: addition (add real and imaginary separately), multiplication (use FOIL), modulus |z| = √(a²+b²).",
+                "keyPoints": ["i² = -1", "Conjugate of a+bi is a-bi", "Modulus = √(a²+b²)"],
+                "examTip": "Always simplify i² to -1 immediately.",
+                "formula": "|z| = √(a² + b²)\nz₁ × z₂: (a+bi)(c+di) = (ac-bd) + (ad+bc)i",
+                "relatedTopics": ["Matrix Operations", "Trigonometry"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit-2",
+        "name": "Coordinate Geometry",
+        "chapters": [
+          {
+            "id": "ch-2",
+            "number": 2,
+            "name": "Straight Line and Curves",
+            "weightage": "15-18 marks",
+            "difficulty": "intermediate",
+            "introduction": "Covers equation of straight lines (all forms), pair of straight lines, circle, parabola basics, and distance/area formulas.",
+            "whyItMatters": "15-18 marks. Straight line problems are the highest-weighted coordinate geometry section.",
+            "yearlyTrend": {"2019": 15, "2020": 18, "2021": 15, "2022": 18, "2023": 15, "2024": 18, "2025": 16},
+            "topics": [
+              {
+                "id": "see-optmath-ch2-t1",
+                "name": "Straight Lines",
+                "difficulty": "intermediate",
+                "explanation": "Forms: Slope-intercept y = mx+c; Point-slope y-y₁ = m(x-x₁); Two-point (y-y₁)/(y₂-y₁) = (x-x₁)/(x₂-x₁). Parallel lines: equal slopes. Perpendicular lines: m₁×m₂ = -1.",
+                "keyPoints": ["Slope m = (y₂-y₁)/(x₂-x₁)", "Parallel: m₁ = m₂", "Perpendicular: m₁m₂ = -1"],
+                "examTip": "Convert to slope-intercept form first to read the slope directly.",
+                "formula": "y = mx + c  ;  m = tan θ  ;  Distance = |c₁-c₂|/√(1+m²)",
+                "relatedTopics": ["Circle", "Vectors"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit-3",
+        "name": "Trigonometry",
+        "chapters": [
+          {
+            "id": "ch-3",
+            "number": 3,
+            "name": "Advanced Trigonometric Identities",
+            "weightage": "15-18 marks",
+            "difficulty": "hard",
+            "introduction": "Compound angle formulas, double angle formulas, product-to-sum and sum-to-product formulas, and solving trigonometric equations.",
+            "whyItMatters": "15-18 marks. Identity proofs and graph sketching are standard Optional Math questions.",
+            "yearlyTrend": {"2019": 15, "2020": 15, "2021": 18, "2022": 15, "2023": 18, "2024": 15, "2025": 16},
+            "topics": [
+              {
+                "id": "see-optmath-ch3-t1",
+                "name": "Compound Angle Formulas",
+                "difficulty": "hard",
+                "explanation": "sin(A±B) = sinA cosB ± cosA sinB. cos(A±B) = cosA cosB ∓ sinA sinB. Double angle: sin 2A = 2 sinA cosA, cos 2A = cos²A - sin²A = 1 - 2sin²A = 2cos²A - 1.",
+                "keyPoints": ["Derive double angle from compound angle (A=B)", "tan(A+B) = (tanA+tanB)/(1-tanAtanB)", "sin²A + cos²A = 1 always"],
+                "examTip": "Start proof from the more complex side. Never cross-multiply.",
+                "formula": "sin(A+B) = sinAcosB + cosAsinB\ncos(A+B) = cosAcosB - sinAsinB\nsin2A = 2sinAcosA",
+                "relatedTopics": ["Straight Lines", "Calculus Intro"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit-4",
+        "name": "Calculus (Basic)",
+        "chapters": [
+          {
+            "id": "ch-4",
+            "number": 4,
+            "name": "Limits and Derivatives",
+            "weightage": "12-15 marks",
+            "difficulty": "hard",
+            "introduction": "Introduction to limits, continuity, and differentiation. Covers power rule, product rule, quotient rule, and chain rule for polynomials and trigonometric functions.",
+            "whyItMatters": "12-15 marks. Differentiation rules are directly tested with polynomial and trig functions.",
+            "yearlyTrend": {"2019": 12, "2020": 12, "2021": 15, "2022": 12, "2023": 15, "2024": 12, "2025": 12},
+            "topics": [
+              {
+                "id": "see-optmath-ch4-t1",
+                "name": "Derivatives",
+                "difficulty": "hard",
+                "explanation": "Power rule: d/dx(xⁿ) = nxⁿ⁻¹. Product rule: d/dx(uv) = u'v + uv'. Quotient rule: d/dx(u/v) = (u'v - uv')/v². Chain rule: d/dx[f(g(x))] = f'(g(x))·g'(x). Common: d/dx(sinx)=cosx, d/dx(cosx)=-sinx.",
+                "keyPoints": ["Power rule is the most used", "Chain rule for composite functions", "d/dx(constant) = 0"],
+                "examTip": "For complex functions, identify the form (product/quotient/chain) before applying the rule.",
+                "formula": "d/dx(xⁿ) = nxⁿ⁻¹\nd/dx(sinx) = cosx\nd/dx(cosx) = -sinx",
+                "relatedTopics": ["Trigonometry", "Coordinate Geometry"]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

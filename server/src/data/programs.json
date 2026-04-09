@@ -9,14 +9,38 @@
     "color": "#059669",
     "icon": "School",
     "path": "/school/see",
-    "subjectCount": 7
+    "subjectCount": 9
+  },
+  {
+    "programId": "ble-8",
+    "name": "BLE (Basic Level Examination — Class 8)",
+    "shortName": "BLE",
+    "category": "school",
+    "description": "Basic Level Examination for Grade 8 students",
+    "board": "National Examination Board (NEB)",
+    "color": "#14B8A6",
+    "icon": "School",
+    "path": "/school/ble-8",
+    "subjectCount": 8
+  },
+  {
+    "programId": "class-9",
+    "name": "Class 9",
+    "shortName": "Class 9",
+    "category": "school",
+    "description": "Grade 9 examination preparation",
+    "board": "National Examination Board (NEB)",
+    "color": "#0891B2",
+    "icon": "School",
+    "path": "/school/class-9",
+    "subjectCount": 10
   },
   {
     "programId": "neb-11",
     "name": "NEB Grade 11",
     "shortName": "Grade 11",
     "category": "school",
-    "description": "NEB Grade 11 across Science, Management, Humanities",
+    "description": "NEB Grade 11 across Science, Management, Humanities, Law",
     "board": "National Examination Board (NEB)",
     "color": "#D97706",
     "icon": "BookOpen",
@@ -28,7 +52,7 @@
     "name": "NEB Grade 12",
     "shortName": "Grade 12",
     "category": "school",
-    "description": "NEB Grade 12 across Science, Management, Humanities",
+    "description": "NEB Grade 12 across Science, Management, Humanities, Law",
     "board": "National Examination Board (NEB)",
     "color": "#DC2626",
     "icon": "GraduationCap",
@@ -69,7 +93,43 @@
     "color": "#2563EB",
     "icon": "Monitor",
     "path": "/entrance/csit",
-    "subjectCount": 3
+    "subjectCount": 5
+  },
+  {
+    "programId": "kucat-entrance",
+    "name": "KUCAT-CBT",
+    "shortName": "KUCAT",
+    "category": "entrance",
+    "description": "Kathmandu University Computer Based Test entrance",
+    "board": "Kathmandu University",
+    "color": "#1D4ED8",
+    "icon": "Building2",
+    "path": "/entrance/kucat",
+    "subjectCount": 4
+  },
+  {
+    "programId": "cmat-entrance",
+    "name": "CMAT",
+    "shortName": "CMAT",
+    "category": "entrance",
+    "description": "Common Management Admission Test for MBS/MBA",
+    "board": "Pokhara University / TU Management",
+    "color": "#0D9488",
+    "icon": "Briefcase",
+    "path": "/entrance/cmat",
+    "subjectCount": 4
+  },
+  {
+    "programId": "pu-entrance",
+    "name": "PU Entrance (Pokhara University)",
+    "shortName": "PU Entrance",
+    "category": "entrance",
+    "description": "Pokhara University entrance for Engineering and Management",
+    "board": "Pokhara University",
+    "color": "#059669",
+    "icon": "Building2",
+    "path": "/entrance/pu",
+    "subjectCount": 4
   },
   {
     "programId": "bsc-csit",
@@ -96,27 +156,63 @@
     "subjectCount": 38
   },
   {
+    "programId": "bbs",
+    "name": "BBS (Bachelor of Business Studies)",
+    "shortName": "BBS",
+    "category": "bachelor",
+    "description": "Bachelor of Business Studies under Tribhuvan University",
+    "board": "Tribhuvan University",
+    "color": "#2563EB",
+    "icon": "Briefcase",
+    "path": "/bachelor/bbs",
+    "subjectCount": 20
+  },
+  {
+    "programId": "bba",
+    "name": "BBA (Bachelor of Business Administration)",
+    "shortName": "BBA",
+    "category": "bachelor",
+    "description": "Bachelor of Business Administration under Tribhuvan University",
+    "board": "Tribhuvan University",
+    "color": "#D97706",
+    "icon": "Briefcase",
+    "path": "/bachelor/bba",
+    "subjectCount": 22
+  },
+  {
+    "programId": "bsc",
+    "name": "B.Sc (Bachelor of Science)",
+    "shortName": "BSc",
+    "category": "bachelor",
+    "description": "Bachelor of Science with Physics, Chemistry, Math, Biology majors",
+    "board": "Tribhuvan University",
+    "color": "#7C3AED",
+    "icon": "FlaskConical",
+    "path": "/bachelor/bsc",
+    "subjectCount": 24
+  },
+  {
     "programId": "be-civil",
     "name": "BE Civil Engineering",
     "shortName": "BE Civil",
-    "category": "bachelor",
+    "category": "engineering",
     "description": "Bachelor of Civil Engineering under IOE",
     "board": "IOE - Tribhuvan University",
     "color": "#059669",
     "icon": "Building2",
-    "path": "/bachelor/be-civil",
+    "path": "/engineering/tribhuvan-university/civil-engineering",
     "subjectCount": 42
   },
   {
     "programId": "be-computer",
     "name": "BE Computer Engineering",
     "shortName": "BE Computer",
-    "category": "bachelor",
+    "category": "engineering",
     "description": "Bachelor of Computer Engineering under IOE",
     "board": "IOE - Tribhuvan University",
     "color": "#DC2626",
     "icon": "Cpu",
-    "path": "/bachelor/be-computer",
+    "path": "/engineering/tribhuvan-university/computer-engineering",
     "subjectCount": 44
   },
   {
@@ -142,5 +238,17 @@
     "icon": "Banknote",
     "path": "/competitive/banking",
     "subjectCount": 4
+  },
+  {
+    "programId": "tsc",
+    "name": "TSC (Teacher Service Commission)",
+    "shortName": "TSC",
+    "category": "competitive",
+    "description": "Teacher Service Commission examinations at various levels",
+    "board": "Teacher Service Commission",
+    "color": "#065F46",
+    "icon": "GraduationCap",
+    "path": "/competitive/tsc",
+    "subjectCount": 5
   }
 ]

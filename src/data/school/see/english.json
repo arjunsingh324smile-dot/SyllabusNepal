@@ -1,0 +1,143 @@
+{
+  "program": "SEE",
+  "category": "school",
+  "board": "National Examination Board (NEB)",
+  "lastUpdated": "2025",
+  "color": "#059669",
+  "subject": {
+    "id": "english",
+    "name": "Compulsory English",
+    "icon": "Languages",
+    "totalMarks": 100,
+    "units": [
+      {
+        "id": "unit-1",
+        "name": "Reading",
+        "chapters": [
+          {
+            "id": "ch-1",
+            "number": 1,
+            "name": "Reading Comprehension",
+            "weightage": "15-20 marks",
+            "difficulty": "intermediate",
+            "introduction": "Reading comprehension tests the ability to understand and interpret unseen prose passages. Questions target main idea, inferencing, vocabulary in context, and factual detail.",
+            "whyItMatters": "15-20 marks. Both factual and inferential questions appear. Strong comprehension skills boost performance across all English sections.",
+            "yearlyTrend": {"2019": 15, "2020": 18, "2021": 16, "2022": 18, "2023": 15, "2024": 18, "2025": 16},
+            "topics": [
+              {
+                "id": "see-eng-ch1-t1",
+                "name": "Factual Questions",
+                "difficulty": "easy",
+                "explanation": "Factual questions ask what a passage directly states. Locate the relevant sentence, restate the answer in your own words or in a complete sentence. Use clue words from the question to skim the passage.",
+                "keyPoints": ["Answer directly from the passage", "Use complete sentences", "Quote relevant lines for support"],
+                "examTip": "Do not add outside knowledge. All answers exist in the passage.",
+                "relatedTopics": ["Inferential Questions", "Vocabulary in Context"]
+              },
+              {
+                "id": "see-eng-ch1-t2",
+                "name": "Inferential Questions",
+                "difficulty": "intermediate",
+                "explanation": "Inferential questions require reading between the lines. The answer is implied, not directly stated. Use clues from the text, tone, and context to arrive at the logical conclusion.",
+                "keyPoints": ["Read surrounding sentences carefully", "Consider the author's tone", "Eliminate impossible options"],
+                "examTip": "Base inferences only on the text. Personal opinions cause wrong answers.",
+                "relatedTopics": ["Factual Questions", "Theme Identification"]
+              },
+              {
+                "id": "see-eng-ch1-t3",
+                "name": "Poems and Stories Interpretation",
+                "difficulty": "intermediate",
+                "explanation": "Literary texts require identifying theme, moral, tone, and figures of speech (simile, metaphor, personification, alliteration). Poems use compressed language; stories carry narrative morals.",
+                "keyPoints": ["Identify theme vs plot", "Know 5 key figures of speech", "State moral in one sentence"],
+                "examTip": "Theme = universal lesson; Plot = what happened.",
+                "relatedTopics": ["Poetry", "Literature Prose"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit-2",
+        "name": "Writing",
+        "chapters": [
+          {
+            "id": "ch-2",
+            "number": 2,
+            "name": "Letter Writing",
+            "weightage": "10-12 marks",
+            "difficulty": "easy",
+            "introduction": "Formal and informal letters are regularly tested. Formal letters include complaint, application, and inquiry. Informal letters are to friends or family.",
+            "whyItMatters": "10-12 marks. Format marks are easy to secure. Content, tone, and format together determine the score.",
+            "yearlyTrend": {"2019": 10, "2020": 12, "2021": 10, "2022": 10, "2023": 12, "2024": 10, "2025": 10},
+            "topics": [
+              {
+                "id": "see-eng-ch2-t1",
+                "name": "Formal Letter",
+                "difficulty": "easy",
+                "explanation": "Formal letter format: Sender's Address → Date → Receiver's Address → Subject → Salutation → Body (3 paragraphs) → Closing → Signature. Use formal, polite language throughout.",
+                "keyPoints": ["Never use contractions (don't → do not)", "Subject line is mandatory", "Sign off: Yours sincerely / Yours faithfully"],
+                "examTip": "Losing format marks is avoidable — memorise the structure and reproduce it correctly.",
+                "relatedTopics": ["Informal Letter", "Application Writing"]
+              },
+              {
+                "id": "see-eng-ch2-t2",
+                "name": "Essay Writing",
+                "difficulty": "intermediate",
+                "explanation": "Essays have Introduction → 2-3 Body Paragraphs → Conclusion. Common topics: pollution, technology, education, tourism in Nepal. Use topic sentences to open each paragraph.",
+                "keyPoints": ["5-paragraph essay format", "Use linking words (however, furthermore)", "Conclusion restates thesis"],
+                "examTip": "Spend 2 minutes planning before writing. Organised essays score higher.",
+                "relatedTopics": ["Formal Letter", "Report Writing"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit-3",
+        "name": "Grammar",
+        "chapters": [
+          {
+            "id": "ch-3",
+            "number": 3,
+            "name": "Tense",
+            "weightage": "10-15 marks",
+            "difficulty": "intermediate",
+            "introduction": "Tenses define the time of an action. SEE tests all 12 tenses with a focus on Present Perfect, Past Simple, and Future forms through gap-fills and sentence transformation.",
+            "whyItMatters": "Grammar carries 35-40 marks total. Tense errors are the most common in writing.",
+            "yearlyTrend": {"2019": 8, "2020": 10, "2021": 8, "2022": 10, "2023": 8, "2024": 10, "2025": 9},
+            "topics": [
+              {
+                "id": "see-eng-ch3-t1",
+                "name": "12 Tenses Overview",
+                "difficulty": "intermediate",
+                "explanation": "Present (Simple / Continuous / Perfect / Perfect Continuous), Past (Simple / Continuous / Perfect / Perfect Continuous), Future (Simple / Continuous / Perfect / Perfect Continuous). Each tense has a specific time signal.",
+                "keyPoints": ["Time signals: just/already/yet → Present Perfect", "Yesterday/last week → Past Simple", "Since/for → Perfect tenses"],
+                "examTip": "Identify the time expression first. It will tell you the tense.",
+                "formula": "Present Perfect: Subject + has/have + V3",
+                "relatedTopics": ["Voice", "Narration"]
+              },
+              {
+                "id": "see-eng-ch3-t2",
+                "name": "Active and Passive Voice",
+                "difficulty": "intermediate",
+                "explanation": "Voice transformation changes focus from doer (active) to receiver (passive). Formula: Object → Subject, Verb → be + past participle, Subject → by + Agent (optional). Tense of 'be' must match original tense.",
+                "keyPoints": ["Active: Subject + V + Object", "Passive: Object + be(tense) + V3 + by Subject", "Modal passives: Subject + modal + be + V3"],
+                "examTip": "Change both the verb form and pronoun case (he → him) simultaneously.",
+                "formula": "Active: She writes a letter → Passive: A letter is written by her",
+                "relatedTopics": ["Narration", "Tense"]
+              },
+              {
+                "id": "see-eng-ch3-t3",
+                "name": "Direct and Indirect Narration",
+                "difficulty": "hard",
+                "explanation": "Narration converts quoted speech (direct) to reported speech (indirect). Rules: (1) Reporting verb changes, (2) Tense backshifts, (3) Pronouns change, (4) Time expressions change (today → that day, yesterday → the day before).",
+                "keyPoints": ["say/say to → tell/ask", "Tense backshift: is → was, will → would", "This/here → that/there"],
+                "examTip": "Write out the pronoun and tense changes on your scratch paper before writing the answer.",
+                "relatedTopics": ["Tense", "Voice"]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

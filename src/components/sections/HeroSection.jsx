@@ -8,6 +8,9 @@ const placeholders = [
   'Search NEB Grade 12 Chemistry...',
   'Search Loksewa preparation...',
   'Search BCA Data Structures...',
+  'Search SEE Mathematics chapters...',
+  'Search BBA Marketing Management...',
+  'Search Engineering Computer Networks...',
 ]
 
 export default function HeroSection({ onSearchOpen }) {
@@ -53,7 +56,7 @@ export default function HeroSection({ onSearchOpen }) {
           transition={{ duration: 0.5, delay: 0.1 }}
           className="text-lg md:text-xl text-txt-secondary mb-10 max-w-2xl mx-auto"
         >
-          Everything from SEE to Entrance Exams — All in One Place
+          Everything from SEE to Engineering, Entrance to Competitive Exams — All in One Place
         </motion.p>
 
         {/* Search bar */}
@@ -87,10 +90,10 @@ export default function HeroSection({ onSearchOpen }) {
 
 function StatsCounter() {
   const stats = [
-    { label: 'Programs', target: 12 },
-    { label: 'Subjects', target: 80 },
-    { label: 'Chapters', target: 600 },
-    { label: 'Topics', target: 3000 },
+    { label: 'Programs', target: 20 },
+    { label: 'Subjects', target: 120 },
+    { label: 'Chapters', target: 800 },
+    { label: 'Topics', target: 4000 },
   ]
 
   return (

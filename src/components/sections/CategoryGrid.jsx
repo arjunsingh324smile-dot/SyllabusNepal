@@ -9,10 +9,10 @@ export default function CategoryGrid() {
           Browse by Category
         </h2>
         <p className="text-txt-secondary max-w-xl mx-auto">
-          Explore syllabi organized across school, bachelor, entrance, and competitive exam categories
+          Explore syllabi organized across school, high school, bachelor, engineering, entrance, and competitive exam categories
         </p>
       </div>
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
         {categories.map((cat, i) => (
           <ProgramCard key={cat.id} program={cat} index={i} />
         ))}

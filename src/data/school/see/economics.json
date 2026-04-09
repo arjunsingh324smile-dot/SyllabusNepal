@@ -1,0 +1,137 @@
+{
+  "program": "SEE",
+  "category": "school",
+  "board": "National Examination Board (NEB)",
+  "lastUpdated": "2025",
+  "color": "#059669",
+  "subject": {
+    "id": "economics",
+    "name": "Economics",
+    "icon": "Banknote",
+    "totalMarks": 100,
+    "units": [
+      {
+        "id": "unit-1",
+        "name": "Microeconomics",
+        "chapters": [
+          {
+            "id": "ch-1",
+            "number": 1,
+            "name": "Demand and Supply",
+            "weightage": "15-20 marks",
+            "difficulty": "easy",
+            "introduction": "Demand and supply are the fundamental forces of any market economy. This chapter covers law of demand, supply, elasticity, and market equilibrium.",
+            "whyItMatters": "15-20 marks. Demand-supply diagrams and equilibrium questions always appear.",
+            "yearlyTrend": {"2019": 15, "2020": 18, "2021": 15, "2022": 20, "2023": 15, "2024": 18, "2025": 16},
+            "topics": [
+              {
+                "id": "see-eco-ch1-t1",
+                "name": "Law of Demand",
+                "difficulty": "easy",
+                "explanation": "Law of Demand: Other things being equal, as price increases, quantity demanded decreases (inverse relationship). Demand curve slopes downward to the right. Exceptions: Giffen goods, conspicuous goods, necessities during emergency.",
+                "keyPoints": ["Inverse relationship: Price ↑ → Demand ↓", "Demand curve: downward sloping", "Exceptions: Giffen goods, prestigious goods"],
+                "examTip": "Always draw the demand curve in answers — it earns diagram marks.",
+                "relatedTopics": ["Law of Supply", "Elasticity", "Market Equilibrium"]
+              },
+              {
+                "id": "see-eco-ch1-t2",
+                "name": "Law of Supply and Market Equilibrium",
+                "difficulty": "easy",
+                "explanation": "Law of Supply: As price increases, quantity supplied increases (direct relationship). Supply curve slopes upward. Equilibrium: Price where Qd = Qs. Surplus: Qs > Qd → price falls. Shortage: Qd > Qs → price rises.",
+                "keyPoints": ["Direct relationship: Price ↑ → Supply ↑", "Equilibrium: Demand curve intersects Supply curve", "Surplus and shortage self-correct"],
+                "examTip": "Show equilibrium as the crossing point of demand and supply curves.",
+                "formula": "Elasticity of Demand = % change in Qd / % change in Price",
+                "relatedTopics": ["Demand", "Macroeconomics"]
+              }
+            ]
+          },
+          {
+            "id": "ch-2",
+            "number": 2,
+            "name": "Market System",
+            "weightage": "10-12 marks",
+            "difficulty": "easy",
+            "introduction": "Types of market structures: perfect competition, monopoly, monopolistic competition, and oligopoly.",
+            "whyItMatters": "10-12 marks. Market types and their characteristics are definitional questions.",
+            "yearlyTrend": {"2019": 10, "2020": 12, "2021": 10, "2022": 12, "2023": 10, "2024": 12, "2025": 10},
+            "topics": [
+              {
+                "id": "see-eco-ch2-t1",
+                "name": "Types of Market",
+                "difficulty": "easy",
+                "explanation": "Perfect Competition: Many buyers/sellers, homogeneous products, no barriers. Monopoly: Single seller, unique product, high barriers. Oligopoly: Few large sellers (e.g., telecom). Monopolistic: Many sellers, differentiated products (e.g., restaurants).",
+                "keyPoints": ["Perfect competition: price taker", "Monopoly: price maker", "Nepal examples: Nepal Telecom vs private ISPs"],
+                "examTip": "Give local Nepali examples when discussing market structures.",
+                "relatedTopics": ["Demand Supply", "Development Economics"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit-2",
+        "name": "Macroeconomics",
+        "chapters": [
+          {
+            "id": "ch-3",
+            "number": 3,
+            "name": "National Income and Inflation",
+            "weightage": "15-18 marks",
+            "difficulty": "intermediate",
+            "introduction": "GDP, GNP, NNP, per capita income, and circular flow of income. Inflation types, causes, and effects on the economy.",
+            "whyItMatters": "15-18 marks. Definitions and differences between GDP/GNP/NNP are standard.",
+            "yearlyTrend": {"2019": 15, "2020": 15, "2021": 18, "2022": 15, "2023": 18, "2024": 15, "2025": 16},
+            "topics": [
+              {
+                "id": "see-eco-ch3-t1",
+                "name": "GDP, GNP and NNP",
+                "difficulty": "intermediate",
+                "explanation": "GDP = Total market value of all goods and services produced within a country in a year (regardless of nationality). GNP = GDP + Net factor income from abroad. NNP = GNP − Depreciation. Per Capita Income = National Income / Total Population.",
+                "keyPoints": ["GDP: location-based", "GNP: nationality-based = GDP + NFIA", "NNP = GNP − Depreciation"],
+                "examTip": "Know all formulas and be able to calculate with given values.",
+                "formula": "GNP = GDP + Net Factor Income from Abroad (NFIA)\nNNP = GNP − Depreciation\nPer Capita Income = NNP / Population",
+                "relatedTopics": ["Inflation", "Development"]
+              },
+              {
+                "id": "see-eco-ch3-t2",
+                "name": "Inflation",
+                "difficulty": "intermediate",
+                "explanation": "Inflation: general, sustained rise in price level. Types: demand-pull (excess demand) and cost-push (rising production costs). Effects: reduces purchasing power, affects savings, widens inequality. Controlled by monetary policy (NRB raising interest rates) and fiscal policy.",
+                "keyPoints": ["Demand-pull: economy overheating", "Cost-push: oil price rise, wage rise", "NRB controls money supply to fight inflation"],
+                "examTip": "Use Nepal examples: NRB raising CRR and SLR to control inflation.",
+                "relatedTopics": ["GDP", "Development"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit-3",
+        "name": "Development Economics",
+        "chapters": [
+          {
+            "id": "ch-4",
+            "number": 4,
+            "name": "Economic Development of Nepal",
+            "weightage": "15-18 marks",
+            "difficulty": "easy",
+            "introduction": "Nepal's development challenges: poverty, unemployment, low productivity, dependence on agriculture, and foreign aid.",
+            "whyItMatters": "15-18 marks. Nepal's economic development is always tested with current data.",
+            "yearlyTrend": {"2019": 15, "2020": 15, "2021": 18, "2022": 15, "2023": 18, "2024": 15, "2025": 16},
+            "topics": [
+              {
+                "id": "see-eco-ch4-t1",
+                "name": "Poverty and Employment",
+                "difficulty": "easy",
+                "explanation": "Poverty: income below minimum threshold. Absolute poverty: cannot meet basic needs. Relative poverty: below national average. Unemployment types: frictional, structural, cyclical. Nepal's poverty rate ~17%. Major employer: agriculture, followed by services sector.",
+                "keyPoints": ["Nepal poverty rate ~17% (2023)", "Unemployment rate ~11%", "Remittances = major income source"],
+                "examTip": "Use recent data and government statistics (NPC, CBS) in answers for full marks.",
+                "relatedTopics": ["GDP NNP", "Development Goals"]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

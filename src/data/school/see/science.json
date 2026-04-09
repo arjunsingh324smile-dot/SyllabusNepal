@@ -1,0 +1,219 @@
+{
+  "program": "SEE",
+  "category": "school",
+  "board": "National Examination Board (NEB)",
+  "lastUpdated": "2025",
+  "color": "#059669",
+  "subject": {
+    "id": "science",
+    "name": "Science and Technology",
+    "icon": "FlaskConical",
+    "totalMarks": 100,
+    "units": [
+      {
+        "id": "unit-1",
+        "name": "Physics",
+        "chapters": [
+          {
+            "id": "ch-1",
+            "number": 1,
+            "name": "Force and Motion",
+            "weightage": "10-12 marks",
+            "difficulty": "intermediate",
+            "introduction": "Force and motion is a foundational physics chapter covering Newton's three laws, types of force, speed, velocity, acceleration, and equations of motion.",
+            "whyItMatters": "10-12 marks. Numerical problems on equations of motion appear every year.",
+            "yearlyTrend": {"2019": 10, "2020": 12, "2021": 10, "2022": 12, "2023": 10, "2024": 12, "2025": 11},
+            "topics": [
+              {
+                "id": "see-sci-ch1-t1",
+                "name": "Newton's Laws of Motion",
+                "difficulty": "easy",
+                "explanation": "1st Law (Inertia): An object stays at rest or in uniform motion unless acted upon by a net force. 2nd Law: F = ma. 3rd Law: Every action has an equal and opposite reaction.",
+                "keyPoints": ["Inertia depends on mass", "F = ma is the most used formula", "Action-reaction pairs act on different objects"],
+                "examTip": "Always mention units in numerical answers (N, m/s², kg).",
+                "formula": "F = ma\nAcceleration a = (v-u)/t\nv² = u² + 2as",
+                "relatedTopics": ["Work Energy Power", "Circular Motion"]
+              },
+              {
+                "id": "see-sci-ch1-t2",
+                "name": "Equations of Motion",
+                "difficulty": "intermediate",
+                "explanation": "Three kinematic equations relate initial velocity (u), final velocity (v), acceleration (a), time (t), and displacement (s). Use these for uniform acceleration problems.",
+                "keyPoints": ["v = u + at", "s = ut + ½at²", "v² = u² + 2as"],
+                "examTip": "List all given values first, identify the unknown, then choose the right equation.",
+                "formula": "v = u + at ; s = ut + ½at² ; v² = u² + 2as",
+                "relatedTopics": ["Newton's Laws", "Gravity"]
+              }
+            ]
+          },
+          {
+            "id": "ch-2",
+            "number": 2,
+            "name": "Work, Energy and Power",
+            "weightage": "8-10 marks",
+            "difficulty": "intermediate",
+            "introduction": "Chapter covers mechanical work, kinetic and potential energy, conservation of energy, and power calculations relevant to SEE.",
+            "whyItMatters": "8-10 marks. Conservation of energy is the most tested concept.",
+            "yearlyTrend": {"2019": 8, "2020": 10, "2021": 8, "2022": 10, "2023": 8, "2024": 10, "2025": 9},
+            "topics": [
+              {
+                "id": "see-sci-ch2-t1",
+                "name": "Work and Energy",
+                "difficulty": "intermediate",
+                "explanation": "Work = Force × Displacement × cos θ. Kinetic Energy = ½mv². Potential Energy = mgh. Law of conservation: Energy cannot be created or destroyed, only converted.",
+                "keyPoints": ["Work is scalar despite F and d being vectors", "KE and PE interconvert constantly", "Power = Work/Time, unit = Watt"],
+                "examTip": "In conversion problems, set KE = PE to find velocity at a given height.",
+                "formula": "W = Fs·cosθ  ;  KE = ½mv²  ;  PE = mgh  ;  P = W/t",
+                "relatedTopics": ["Force and Motion", "Heat and Temperature"]
+              }
+            ]
+          },
+          {
+            "id": "ch-3",
+            "number": 3,
+            "name": "Light and Optics",
+            "weightage": "8-10 marks",
+            "difficulty": "intermediate",
+            "introduction": "Covers reflection, refraction, lenses (convex/concave), mirrors, and the human eye as an optical instrument.",
+            "whyItMatters": "8-10 marks. Lens formula and mirror formula numericals appear frequently.",
+            "yearlyTrend": {"2019": 8, "2020": 8, "2021": 10, "2022": 8, "2023": 10, "2024": 8, "2025": 9},
+            "topics": [
+              {
+                "id": "see-sci-ch3-t1",
+                "name": "Reflection and Refraction",
+                "difficulty": "easy",
+                "explanation": "Reflection: angle of incidence = angle of reflection. Refraction: light bends at interface. Refractive index n = sin i / sin r. Total internal reflection occurs when angle > critical angle.",
+                "keyPoints": ["Laws of reflection (2 laws)", "Snell's Law: n₁ sin i = n₂ sin r", "Critical angle: sin C = 1/n"],
+                "examTip": "Draw a diagram with normal line for full marks on optics questions.",
+                "formula": "n = sin i / sin r  ;  n = c/v",
+                "relatedTopics": ["Lenses", "Electricity"]
+              }
+            ]
+          },
+          {
+            "id": "ch-4",
+            "number": 4,
+            "name": "Electricity and Magnetism",
+            "weightage": "10-12 marks",
+            "difficulty": "intermediate",
+            "introduction": "Covers Ohm's law, series/parallel circuits, electrical power, magnetic effects of current, and electromagnetic induction.",
+            "whyItMatters": "10-12 marks. Circuit calculations are very common in SEE.",
+            "yearlyTrend": {"2019": 10, "2020": 12, "2021": 10, "2022": 12, "2023": 10, "2024": 12, "2025": 11},
+            "topics": [
+              {
+                "id": "see-sci-ch4-t1",
+                "name": "Ohm's Law and Circuits",
+                "difficulty": "intermediate",
+                "explanation": "Ohm's Law: V = IR. Series: R_total = R₁ + R₂; same current flows. Parallel: 1/R_total = 1/R₁ + 1/R₂; same voltage across each. Electrical Power P = VI = I²R = V²/R.",
+                "keyPoints": ["Series: current same; voltage divides", "Parallel: voltage same; current divides", "Power unit = Watt; Energy unit = Joule or kWh"],
+                "examTip": "For mixed circuits, simplify parallel branches first, then add series.",
+                "formula": "V = IR  ;  P = VI = I²R  ;  E = Pt",
+                "relatedTopics": ["Magnetism", "Light"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit-2",
+        "name": "Chemistry",
+        "chapters": [
+          {
+            "id": "ch-5",
+            "number": 5,
+            "name": "Atomic Structure and Chemical Reactions",
+            "weightage": "8-10 marks",
+            "difficulty": "intermediate",
+            "introduction": "Atomic models (Bohr's), electron configuration, types of chemical reactions, and balancing chemical equations.",
+            "whyItMatters": "8-10 marks. Balancing equations and electron configuration appear every year.",
+            "yearlyTrend": {"2019": 8, "2020": 10, "2021": 8, "2022": 10, "2023": 8, "2024": 10, "2025": 9},
+            "topics": [
+              {
+                "id": "see-sci-ch5-t1",
+                "name": "Acids, Bases and Salts",
+                "difficulty": "easy",
+                "explanation": "Acids: pH < 7, turn blue litmus red, donate H⁺. Bases: pH > 7, turn red litmus blue, accept H⁺. Salts are formed by neutralisation. Indicators: litmus, phenolphthalein, methyl orange.",
+                "keyPoints": ["Neutralisation: Acid + Base → Salt + Water", "pH scale: 0-14", "Common acids: HCl, H₂SO₄, HNO₃"],
+                "examTip": "Know the colour changes for all three indicators.",
+                "formula": "Acid + Base → Salt + Water (Neutralisation)",
+                "relatedTopics": ["Metals and Non-metals", "Chemical Reactions"]
+              },
+              {
+                "id": "see-sci-ch5-t2",
+                "name": "Metals and Non-metals",
+                "difficulty": "easy",
+                "explanation": "Metals: lustrous, malleable, good conductors, form basic oxides. Non-metals: poor conductors (except graphite), form acidic oxides. Reactivity series determines displacement reactions.",
+                "keyPoints": ["Reactivity series: K, Na, Ca, Mg, Al, Zn, Fe, Cu, Ag, Au", "Active metals react with water", "Alloys: mixtures of metals"],
+                "examTip": "Higher in reactivity series = displaces lower metals from their salts.",
+                "relatedTopics": ["Acids Bases Salts"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit-3",
+        "name": "Biology",
+        "chapters": [
+          {
+            "id": "ch-6",
+            "number": 6,
+            "name": "Cell and Human Body",
+            "weightage": "12-15 marks",
+            "difficulty": "easy",
+            "introduction": "Cell structure (plant vs animal), body systems (digestive, respiratory, circulatory, nervous), reproduction and heredity.",
+            "whyItMatters": "12-15 marks. Diagrams with labels are required for many biology questions.",
+            "yearlyTrend": {"2019": 12, "2020": 15, "2021": 12, "2022": 15, "2023": 12, "2024": 15, "2025": 12},
+            "topics": [
+              {
+                "id": "see-sci-ch6-t1",
+                "name": "Cell Structure",
+                "difficulty": "easy",
+                "explanation": "Animal cell: cell membrane, cytoplasm, nucleus, mitochondria, ribosomes. Plant cell includes: cell wall, chloroplast, vacuole (large). Prokaryotic cells lack membrane-bound nucleus (bacteria).",
+                "keyPoints": ["Cell wall = plant cells only", "Chloroplast = photosynthesis organelle", "Mitochondria = powerhouse of cell"],
+                "examTip": "Draw a well-labelled diagram. Each correctly labelled part earns marks.",
+                "relatedTopics": ["Reproduction", "Ecosystem"]
+              },
+              {
+                "id": "see-sci-ch6-t2",
+                "name": "Reproduction and Heredity",
+                "difficulty": "intermediate",
+                "explanation": "Sexual reproduction: fusion of gametes, genetic variation. Asexual reproduction: budding, fragmentation, no variation. Heredity: DNA carries genes. Mendel's laws of inheritance apply to dominant/recessive traits.",
+                "keyPoints": ["Dominant: expressed in heterozygous state", "Recessive: expressed only in homozygous state", "Genotype vs Phenotype"],
+                "examTip": "Use Punnett squares for cross problems — always show the working.",
+                "relatedTopics": ["Cell Structure", "Environment"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit-4",
+        "name": "Environment and Technology",
+        "chapters": [
+          {
+            "id": "ch-7",
+            "number": 7,
+            "name": "Environment, Ecosystem and Technology",
+            "weightage": "8-10 marks",
+            "difficulty": "easy",
+            "introduction": "Covers food chains, ecosystems, environmental degradation, renewable energy, and modern communication technology.",
+            "whyItMatters": "8-10 marks. Environmental questions are short-answer based and straightforward.",
+            "yearlyTrend": {"2019": 8, "2020": 8, "2021": 10, "2022": 8, "2023": 10, "2024": 8, "2025": 9},
+            "topics": [
+              {
+                "id": "see-sci-ch7-t1",
+                "name": "Renewable Energy and Technology",
+                "difficulty": "easy",
+                "explanation": "Renewable: solar, wind, hydro, biomass. Non-renewable: fossil fuels (coal, oil, gas). Nepal focuses on hydropower. Modern tech: internet, AI, satellite communication, mobile networks.",
+                "keyPoints": ["Solar energy is unlimited and pollution-free", "Nepal has highest hydropower potential in the world", "5G enables faster data communication"],
+                "examTip": "Answer environmental questions with causes, effects, AND solutions for full marks.",
+                "relatedTopics": ["Biology Ecosystem", "Physics Energy"]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

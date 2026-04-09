@@ -1,0 +1,126 @@
+{
+  "program": "SEE",
+  "category": "school",
+  "board": "National Examination Board (NEB)",
+  "lastUpdated": "2025",
+  "color": "#059669",
+  "subject": {
+    "id": "account",
+    "name": "Account (Accountancy)",
+    "icon": "BarChart3",
+    "totalMarks": 100,
+    "units": [
+      {
+        "id": "unit-1",
+        "name": "Basics of Accounting",
+        "chapters": [
+          {
+            "id": "ch-1",
+            "number": 1,
+            "name": "Accounting Principles and Journal Entries",
+            "weightage": "20-25 marks",
+            "difficulty": "easy",
+            "introduction": "Accounting is the systematic recording of financial transactions. Covers basic principles, types of accounts, and journal entry rules.",
+            "whyItMatters": "20-25 marks. Journal entries form the foundation of every accounting exam.",
+            "yearlyTrend": {"2019": 20, "2020": 25, "2021": 20, "2022": 25, "2023": 20, "2024": 25, "2025": 22},
+            "topics": [
+              {
+                "id": "see-acc-ch1-t1",
+                "name": "Golden Rules of Accounting",
+                "difficulty": "easy",
+                "explanation": "Three types of accounts: (1) Personal Account — Debit the receiver, credit the giver. (2) Real Account — Debit what comes in, credit what goes out. (3) Nominal Account — Debit all expenses/losses, credit all incomes/gains.",
+                "keyPoints": ["Personal: Dr receiver, Cr giver", "Real: Dr what comes in, Cr what goes out", "Nominal: Dr expenses, Cr incomes"],
+                "examTip": "Identify the account type first before applying the rule.",
+                "relatedTopics": ["Ledger", "Trial Balance"]
+              },
+              {
+                "id": "see-acc-ch1-t2",
+                "name": "Journal Entry Format",
+                "difficulty": "easy",
+                "explanation": "A journal entry records a transaction with Date | Particulars | L.F. | Debit Amount | Credit Amount. Every entry must balance (Debit = Credit). Narration is written below in brackets explaining the transaction.",
+                "keyPoints": ["Date | Particulars | L.F. | Dr | Cr", "Total Debit = Total Credit", "Narration is mandatory"],
+                "examTip": "Never forget the narration — it carries marks.",
+                "formula": "Debit = Credit (Double Entry Principle)",
+                "relatedTopics": ["Golden Rules", "Ledger"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit-2",
+        "name": "Ledger and Trial Balance",
+        "chapters": [
+          {
+            "id": "ch-2",
+            "number": 2,
+            "name": "Posting to Ledger",
+            "weightage": "15-20 marks",
+            "difficulty": "intermediate",
+            "introduction": "The ledger is the principal book of accounts. Journalized transactions are posted to individual T-accounts (ledger accounts). Balancing closes each account to find the net balance.",
+            "whyItMatters": "15-20 marks. Ledger posting and balancing questions are standard.",
+            "yearlyTrend": {"2019": 15, "2020": 18, "2021": 15, "2022": 20, "2023": 15, "2024": 18, "2025": 16},
+            "topics": [
+              {
+                "id": "see-acc-ch2-t1",
+                "name": "Balancing Ledger Accounts",
+                "difficulty": "intermediate",
+                "explanation": "After posting all entries to a T-account, total both sides. If Debit > Credit: balance c/d on credit side (Debit Balance). If Credit > Debit: balance c/d on debit side (Credit Balance). Bring forward the balance as b/d on the opposite side for the next period.",
+                "keyPoints": ["Dr balance: asset or expense", "Cr balance: liability or income", "Balance c/d → Balance b/d"],
+                "examTip": "Draw the T-account clearly, post all entries, then balance.",
+                "relatedTopics": ["Trial Balance", "Journal Entry"]
+              },
+              {
+                "id": "see-acc-ch2-t2",
+                "name": "Trial Balance and Error Correction",
+                "difficulty": "intermediate",
+                "explanation": "Trial balance lists all ledger account balances. Total Dr = Total Cr proves arithmetical accuracy. Does NOT detect: errors of omission, commission, compensation, and principle. Common corrections: suspense account for one-sided errors.",
+                "keyPoints": ["Trial Balance is NOT a final account", "Errors it cannot detect: complete omission, wrong account posting", "Suspense account for one-sided errors"],
+                "examTip": "Show the DR and CR columns with totals matching. Marks are given for correct column totals.",
+                "relatedTopics": ["Ledger", "Final Accounts"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit-3",
+        "name": "Final Accounts",
+        "chapters": [
+          {
+            "id": "ch-3",
+            "number": 3,
+            "name": "Trading Account, P&L Account, and Balance Sheet",
+            "weightage": "25-30 marks",
+            "difficulty": "hard",
+            "introduction": "Final accounts summarise the financial performance and position of a business. Trading Account shows gross profit. Profit & Loss Account shows net profit. Balance Sheet shows financial position.",
+            "whyItMatters": "25-30 marks. The highest-weighted section. Questions always appear.",
+            "yearlyTrend": {"2019": 25, "2020": 30, "2021": 25, "2022": 30, "2023": 25, "2024": 30, "2025": 26},
+            "topics": [
+              {
+                "id": "see-acc-ch3-t1",
+                "name": "Trading and Profit & Loss Account",
+                "difficulty": "hard",
+                "explanation": "Trading Account: Dr side — Opening Stock + Purchases + Direct Expenses. Cr side — Sales + Closing Stock. Gross Profit = Cr side − Dr side. P&L Account: Dr — Gross Loss + Indirect Expenses. Cr — Gross Profit + Non-operating Income. Net Profit = Cr − Dr.",
+                "keyPoints": ["Gross Profit = Net Sales − COGS", "Direct expenses go to Trading Account", "Indirect expenses go to P&L Account"],
+                "examTip": "Memorise which expenses are direct vs indirect. This differentiates average from top scores.",
+                "formula": "Gross Profit = (Sales + Closing Stock) − (Opening Stock + Purchases + Direct Exp)\nNet Profit = Gross Profit + Other Income − Indirect Expenses",
+                "relatedTopics": ["Balance Sheet", "Trial Balance"]
+              },
+              {
+                "id": "see-acc-ch3-t2",
+                "name": "Balance Sheet",
+                "difficulty": "hard",
+                "explanation": "Balance Sheet shows assets and liabilities at a point in time. Left side (Liabilities): Capital + Net Profit − Drawings, Long-term liabilities, Current liabilities. Right side (Assets): Fixed assets, Current assets (Cash, Debtors, Stock).",
+                "keyPoints": ["Assets = Liabilities + Capital", "Fixed assets depreciated", "Current ratio = Current Assets / Current Liabilities"],
+                "examTip": "If balance sheet doesn't balance, check net profit/loss is correctly transferred.",
+                "formula": "Assets = Capital + Liabilities\nWorking Capital = Current Assets − Current Liabilities",
+                "relatedTopics": ["P&L Account", "Ledger"]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
