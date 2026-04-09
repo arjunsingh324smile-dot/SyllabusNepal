@@ -1,0 +1,33 @@
+{
+  "program": "IOE Entrance",
+  "subject": {
+    "id": "chemistry",
+    "name": "Chemistry",
+    "totalMarks": 10,
+    "units": [
+      {
+        "id": "unit-1", "name": "General and Physical Chemistry",
+        "chapters": [
+          {
+            "id": "ch-1", "number": 1, "name": "Chemical Bonding and Molecular Structure",
+            "weightage": "1-2 marks", "difficulty": "intermediate",
+            "introduction": "Chemical bonding explains how atoms combine to form molecules. This chapter covers ionic bonds, covalent bonds, metallic bonds, VSEPR theory, and hybridization. For IOE, understanding molecular geometry and bond characteristics is key.",
+            "whyItMatters": "1-2 marks per year. VSEPR geometry and hybridization are the most tested subtopics.",
+            "prerequisites": ["Atomic structure", "Electron configuration"],
+            "yearlyTrend": {"2019": 1, "2020": 2, "2021": 1, "2022": 2, "2023": 1, "2024": 2, "2025": 1},
+            "topics": [
+              {
+                "id": "ioe-chem-ch1-t1", "name": "Types of Chemical Bonds",
+                "difficulty": "beginner",
+                "explanation": "Chemical bonds form when atoms transfer or share electrons to achieve stability. Ionic bonds form between metals and nonmetals through electron transfer. Covalent bonds form between nonmetals through electron sharing. Metallic bonds involve a 'sea of electrons' shared among metal atoms.\n\nBond strength and properties depend on the type: ionic compounds have high melting points and conduct electricity when dissolved, covalent compounds generally have lower melting points, and metals are malleable and conductive.",
+                "keyPoints": ["Ionic: electron transfer, high MP, conducts in solution", "Covalent: electron sharing, lower MP", "Metallic: electron sea, conducts, malleable"],
+                "examTip": "Know the electronegativity difference: >1.7 is ionic, <1.7 is covalent.",
+                "formula": null, "relatedTopics": ["VSEPR Theory", "Hybridization"]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

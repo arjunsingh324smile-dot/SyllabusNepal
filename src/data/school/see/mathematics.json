@@ -1,0 +1,37 @@
+{
+  "program": "SEE",
+  "category": "school",
+  "board": "National Examination Board (NEB)",
+  "lastUpdated": "2025",
+  "color": "#059669",
+  "subject": {
+    "id": "mathematics",
+    "name": "Compulsory Mathematics",
+    "units": [
+      {
+        "id": "unit-1", "name": "Arithmetic",
+        "chapters": [
+          {
+            "id": "ch-1", "number": 1, "name": "Taxation",
+            "weightage": "8-10 marks", "difficulty": "intermediate",
+            "introduction": "Taxation is one of the most practical and frequently tested chapters in SEE Mathematics. This chapter covers income tax, Value Added Tax (VAT), customs duty, and discount calculations as applicable in Nepal. Students must understand Nepal's tax brackets and apply them to real-world salary and business scenarios.",
+            "whyItMatters": "8-10 marks in SEE exams. Problems on income tax calculation using Nepal's tax slabs and VAT are guaranteed to appear. This is the highest-weighted single chapter.",
+            "prerequisites": ["Percentage", "Basic arithmetic"],
+            "yearlyTrend": {"2019": 8, "2020": 10, "2021": 8, "2022": 10, "2023": 8, "2024": 10, "2025": 9},
+            "topics": [
+              {
+                "id": "see-math-ch1-t1", "name": "Income Tax Calculation",
+                "difficulty": "intermediate",
+                "explanation": "Income tax in Nepal is calculated based on annual income slabs defined by the Inland Revenue Department. For SEE, you need to know how to calculate tax for married and unmarried individuals using the progressive tax system.\n\nThe calculation involves: (1) Determining the total annual income, (2) Identifying the applicable tax bracket, (3) Applying the rate for each slab, and (4) Summing up the tax amounts. Social Security Tax (SST) of 1% applies to income up to a threshold.\n\nFor example, if an unmarried person earns Rs. 6,00,000 annually and the first Rs. 5,00,000 is taxed at 1% SST and the next Rs. 1,00,000 at 10%, the total tax = Rs. 5,000 + Rs. 10,000 = Rs. 15,000.",
+                "keyPoints": ["Progressive tax slabs apply", "Different rates for married vs unmarried", "1% SST on initial threshold", "VAT is 13% in Nepal"],
+                "examTip": "Always check if the question says married or unmarried — the tax slabs differ. Show clear slab-wise calculation to get full marks.",
+                "formula": "Tax = Σ(slab amount × slab rate)\nVAT = 13% of selling price",
+                "relatedTopics": ["VAT Calculation", "Discount"]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

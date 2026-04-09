@@ -1,0 +1,33 @@
+{
+  "program": "IOE Entrance",
+  "subject": {
+    "id": "english",
+    "name": "English",
+    "totalMarks": 10,
+    "units": [
+      {
+        "id": "unit-1", "name": "Grammar and Composition",
+        "chapters": [
+          {
+            "id": "ch-1", "number": 1, "name": "Grammar — Tenses and Voice",
+            "weightage": "2-3 marks", "difficulty": "beginner",
+            "introduction": "English grammar in IOE entrance focuses on tenses, active/passive voice, direct/indirect speech, and prepositions. A solid command of grammar rules helps score easy marks in the 10-mark English section.",
+            "whyItMatters": "2-3 marks from grammar. Tenses and voice transformation are nearly guaranteed questions.",
+            "prerequisites": ["Basic English"],
+            "yearlyTrend": {"2019": 2, "2020": 3, "2021": 2, "2022": 3, "2023": 2, "2024": 3, "2025": 2},
+            "topics": [
+              {
+                "id": "ioe-eng-ch1-t1", "name": "Tenses",
+                "difficulty": "beginner",
+                "explanation": "English has 12 tenses grouped into four categories: simple, continuous, perfect, and perfect continuous for past, present, and future. For IOE, focus on identifying the correct tense from context and converting between tenses.\n\nPresent Simple: I go (habitual actions). Present Continuous: I am going (ongoing). Present Perfect: I have gone (past action with present relevance). These distinctions appear in fill-in-the-blank questions.",
+                "keyPoints": ["12 tenses: 4 types × 3 times", "Simple: habitual/factual", "Continuous: ongoing action", "Perfect: completed with present relevance"],
+                "examTip": "Look for signal words: 'yesterday' = past simple, 'since/for' = present perfect, 'at the moment' = present continuous.",
+                "formula": null, "relatedTopics": ["Active and Passive Voice"]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+@media print {
+  nav, footer, .mobile-bottom-nav, .sidebar,
+  .back-to-top, .suggestion-btn, .no-print {
+    display: none !important;
+  }
+
+  body {
+    background: #fff !important;
+    color: #000 !important;
+    font-size: 12pt;
+    line-height: 1.5;
+  }
+
+  * {
+    -webkit-user-select: text !important;
+    user-select: text !important;
+  }
+
+  h1, h2, h3, h4 {
+    color: #000 !important;
+    page-break-after: avoid;
+  }
+
+  .topic-card {
+    page-break-inside: avoid;
+    border: 1px solid #ddd;
+    margin-bottom: 16px;
+    padding: 12px;
+  }
+
+  a { color: #000 !important; text-decoration: none; }
+  a[href]::after { content: none !important; }
+
+  .breadcrumb { font-size: 10pt; color: #666; }
+}

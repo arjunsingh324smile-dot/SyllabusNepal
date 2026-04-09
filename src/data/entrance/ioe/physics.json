@@ -1,0 +1,303 @@
+{
+  "program": "IOE Entrance",
+  "category": "entrance",
+  "subcategory": "ioe",
+  "conductingBody": "Institute of Engineering, TU",
+  "lastUpdated": "2025",
+  "color": "#DC2626",
+  "icon": "Atom",
+  "subject": {
+    "id": "physics",
+    "name": "Physics",
+    "totalMarks": 40,
+    "units": [
+      {
+        "id": "unit-1",
+        "name": "Mechanics",
+        "chapters": [
+          {
+            "id": "ch-1",
+            "number": 1,
+            "name": "Physical Quantities and Measurement",
+            "weightage": "2-3 marks",
+            "difficulty": "beginner",
+            "introduction": "This chapter covers the fundamental concepts of physical measurement, the international system of units (SI), dimensional analysis, and the principles of measurement uncertainty. Understanding these concepts is the gateway to all physics problems you will encounter in the IOE entrance examination. Dimensional analysis alone can help you eliminate wrong answer choices quickly.",
+            "whyItMatters": "Typically 2-3 MCQs appear from this chapter every year. Questions often test dimensional formulas, unit conversions, and significant figures. This is a high-scoring chapter with relatively easy concepts — perfect for quick marks.",
+            "prerequisites": ["Basic algebra", "Scientific notation"],
+            "yearlyTrend": { "2019": 2, "2020": 3, "2021": 2, "2022": 3, "2023": 2, "2024": 3, "2025": 2 },
+            "topics": [
+              {
+                "id": "ioe-phy-ch1-t1",
+                "name": "SI Units and Base Quantities",
+                "difficulty": "beginner",
+                "explanation": "The International System of Units (SI) is the globally accepted standard for scientific measurement. It is built upon seven base quantities, each with a defined unit: mass (kilogram, kg), length (metre, m), time (second, s), electric current (ampere, A), temperature (kelvin, K), amount of substance (mole, mol), and luminous intensity (candela, cd).\n\nEvery other physical quantity — velocity, force, energy, pressure — is derived from combinations of these seven base units. For example, the unit of force (newton) equals kg·m/s². Understanding this hierarchy is essential because IOE questions frequently ask you to express derived quantities in terms of base SI units.\n\nIn Nepal's context, while we use metric units in science, everyday measurements sometimes use local units. The IOE exam, however, strictly uses SI, so ensure you are comfortable converting between CGS and SI systems.",
+                "keyPoints": [
+                  "7 base SI units: kg, m, s, A, K, mol, cd",
+                  "All other units are derived from these base units",
+                  "Dimensional formula shows how a quantity relates to base quantities",
+                  "CGS to SI conversion is commonly tested"
+                ],
+                "examTip": "In IOE exams, at least 1 question usually involves finding the dimensional formula of a given quantity. Memorize formulas for common quantities like pressure [ML⁻¹T⁻²], energy [ML²T⁻²], and power [ML²T⁻³].",
+                "formula": "[M^a L^b T^c] — Dimensional formula representation",
+                "relatedTopics": ["Dimensional Analysis", "Significant Figures"]
+              },
+              {
+                "id": "ioe-phy-ch1-t2",
+                "name": "Dimensional Analysis",
+                "difficulty": "intermediate",
+                "explanation": "Dimensional analysis is one of the most powerful tools in physics. It lets you verify equations, derive relationships between quantities, and even eliminate wrong MCQ options without solving the full problem.\n\nThe principle is simple: both sides of any valid physics equation must have the same dimensions. If someone claims that force equals mass times velocity (F = mv), you can check: [MLT⁻²] ≠ [MLT⁻¹]. The dimensions don't match, so the equation is wrong.\n\nTo derive a relationship, express the unknown quantity in terms of possible variables, assign dimensional formulas, and solve for the exponents. For example, to find how the time period T of a simple pendulum depends on length l, mass m, and acceleration due to gravity g, you write T = k·lᵃ·mᵇ·gᶜ and equate dimensions on both sides.\n\nThis technique is heavily tested in IOE entrance exams. Practice identifying dimensional formulas quickly, as this saves valuable time during the exam.",
+                "keyPoints": [
+                  "Both sides of an equation must have identical dimensions",
+                  "Cannot determine dimensionless constants",
+                  "Used to derive relationships between physical quantities",
+                  "Can verify correctness of physics equations",
+                  "Limitations: cannot handle logarithmic or trigonometric functions"
+                ],
+                "examTip": "If stuck on a numerical MCQ, use dimensional analysis to eliminate options. If the question asks for velocity, the answer must have dimensions [LT⁻¹]. This technique alone can help you score 3-4 additional marks.",
+                "formula": "If P = k · Mᵃ · Lᵇ · Tᶜ, equate dimensions: [P] = [MᵃLᵇTᶜ]",
+                "relatedTopics": ["SI Units", "Errors in Measurement"]
+              },
+              {
+                "id": "ioe-phy-ch1-t3",
+                "name": "Errors and Significant Figures",
+                "difficulty": "beginner",
+                "explanation": "No measurement is perfectly accurate. Every measurement carries some degree of uncertainty, which we call error. Understanding the types of errors and how they propagate through calculations is fundamental to experimental physics.\n\nThere are three main types of errors: systematic errors (consistently offset results in one direction, such as a miscalibrated instrument), random errors (unpredictable fluctuations that can be reduced by averaging), and gross errors (human mistakes like misreading a scale).\n\nSignificant figures indicate the precision of a measurement. The number 3.50 has three significant figures, meaning the measurement is precise to the hundredths place. When performing calculations, the result should be rounded to match the least number of significant figures among the input values.\n\nFor the IOE entrance, focus on error propagation rules: when quantities are added or subtracted, absolute errors add; when multiplied or divided, relative (percentage) errors add.",
+                "keyPoints": [
+                  "Systematic errors: consistent bias in one direction",
+                  "Random errors: reduced by repetition and averaging",
+                  "Absolute error = |measured − true value|",
+                  "Relative error = absolute error / true value",
+                  "Significant figures: all certain digits plus one uncertain digit"
+                ],
+                "examTip": "IOE commonly asks: 'If X = A²B/C³, what is the maximum percentage error in X?' Answer: %X = 2(%A) + %B + 3(%C). Remember the power rule for error propagation.",
+                "formula": "Relative error in Xⁿ = n × (relative error in X)\nFor X = AᵃBᵇ/Cᶜ: δX/X = a(δA/A) + b(δB/B) + c(δC/C)",
+                "relatedTopics": ["SI Units", "Dimensional Analysis"]
+              }
+            ]
+          },
+          {
+            "id": "ch-2",
+            "number": 2,
+            "name": "Vectors",
+            "weightage": "3-4 marks",
+            "difficulty": "intermediate",
+            "introduction": "Vectors are the mathematical language of physics. Almost every physical quantity in mechanics — displacement, velocity, force, momentum — is a vector. This chapter builds the foundation for resolving forces, analyzing projectile motion, and understanding rotational mechanics. A solid grasp of vector operations is non-negotiable for the IOE entrance exam.",
+            "whyItMatters": "One of the most important chapters. Expect 3-4 direct questions plus the concepts are needed in nearly every other mechanics problem. Vector resolution and cross products are the most frequently tested operations.",
+            "prerequisites": ["Trigonometry basics", "Coordinate geometry"],
+            "yearlyTrend": { "2019": 3, "2020": 4, "2021": 3, "2022": 4, "2023": 3, "2024": 4, "2025": 3 },
+            "topics": [
+              {
+                "id": "ioe-phy-ch2-t1",
+                "name": "Scalar and Vector Quantities",
+                "difficulty": "beginner",
+                "explanation": "Physical quantities are classified as either scalars or vectors. A scalar quantity has only magnitude — examples include mass, temperature, speed, energy, and time. A vector quantity has both magnitude and direction — examples include displacement, velocity, acceleration, force, and momentum.\n\nThe distinction matters because vectors follow different mathematical rules than scalars. You cannot simply add two velocities of 3 m/s and 4 m/s to get 7 m/s unless they point in the same direction. If they are perpendicular, the resultant is 5 m/s (by the Pythagorean theorem).\n\nIn Nepal's mountainous terrain, direction is everything. A hiker walking 5 km north and then 5 km east has not traveled 10 km from their starting point — their displacement is approximately 7.07 km northeast. This real-world example illustrates why vectors are fundamental to physics.",
+                "keyPoints": [
+                  "Scalars: only magnitude (mass, time, temperature, energy)",
+                  "Vectors: magnitude + direction (force, velocity, displacement)",
+                  "Vectors are represented by arrows: length = magnitude, direction = angle",
+                  "Two equal vectors have same magnitude AND direction"
+                ],
+                "examTip": "Common trick question: 'Is current a vector?' No! Current has direction but doesn't obey vector addition laws (it follows Kirchhoff's rules), so it's a scalar.",
+                "formula": null,
+                "relatedTopics": ["Vector Addition", "Unit Vectors"]
+              },
+              {
+                "id": "ioe-phy-ch2-t2",
+                "name": "Vector Addition and Resolution",
+                "difficulty": "intermediate",
+                "explanation": "Vector addition is performed using the triangle law, parallelogram law, or the component method. The component method is by far the most useful and widely tested approach in the IOE entrance exam.\n\nTo add vectors using components: (1) Resolve each vector into x and y components using Ax = A·cos θ and Ay = A·sin θ. (2) Add all x-components together and all y-components together. (3) Find the resultant magnitude R = √(Rx² + Ry²) and direction θ = tan⁻¹(Ry/Rx).\n\nThe parallelogram law states that if two vectors acting at a point are represented by adjacent sides of a parallelogram, their resultant is the diagonal. For two vectors A and B separated by angle θ, the resultant R = √(A² + B² + 2AB·cos θ).\n\nSpecial cases to memorize: when θ = 0° (same direction), R = A + B; when θ = 180° (opposite), R = |A − B|; when θ = 90° (perpendicular), R = √(A² + B²). These shortcuts save precious time in the exam.",
+                "keyPoints": [
+                  "Component method: Ax = Acosθ, Ay = Asinθ",
+                  "Resultant: R = √(Rx² + Ry²)",
+                  "Parallelogram law: R = √(A² + B² + 2ABcosθ)",
+                  "When θ = 90°: R = √(A² + B²)",
+                  "Maximum resultant when vectors are parallel, minimum when anti-parallel"
+                ],
+                "examTip": "The parallelogram law formula R = √(A² + B² + 2ABcosθ) appears in almost every IOE exam. Also memorize that for equal vectors at angle θ, R = 2A·cos(θ/2).",
+                "formula": "R = √(A² + B² + 2ABcosθ)\ntan α = (Bsinθ)/(A + Bcosθ)",
+                "relatedTopics": ["Dot Product", "Cross Product"]
+              },
+              {
+                "id": "ioe-phy-ch2-t3",
+                "name": "Dot Product and Cross Product",
+                "difficulty": "intermediate",
+                "explanation": "The dot product (scalar product) and cross product (vector product) are two fundamental operations on vectors, each with distinct physical significance.\n\nThe dot product A·B = AB·cos θ gives a scalar result. It measures how much one vector projects onto another. Physical applications include work done (W = F·d = Fd·cos θ) and power (P = F·v). When two vectors are perpendicular, their dot product is zero — this is how we mathematically verify orthogonality.\n\nThe cross product A×B = AB·sin θ n̂ gives a vector result perpendicular to both A and B. Its direction follows the right-hand rule. Physical applications include torque (τ = r × F), magnetic force (F = qv × B), and angular momentum (L = r × p).\n\nKey differences: the dot product is commutative (A·B = B·A), while the cross product is anti-commutative (A×B = −B×A). Both distributive over addition.",
+                "keyPoints": [
+                  "Dot product: A·B = ABcosθ (result is scalar)",
+                  "Cross product: A×B = ABsinθ n̂ (result is vector)",
+                  "A·B = 0 when vectors are perpendicular",
+                  "A×B = 0 when vectors are parallel",
+                  "Cross product direction: right-hand rule"
+                ],
+                "examTip": "IOE frequently asks cross product direction questions. Practice the right-hand rule: curl fingers from A to B, thumb points in direction of A×B. Also, |A×B|² + (A·B)² = A²B².",
+                "formula": "A·B = AxBx + AyBy + AzBz\nA×B = |î ĵ k̂; Ax Ay Az; Bx By Bz|",
+                "relatedTopics": ["Scalar and Vector Quantities", "Torque"]
+              }
+            ]
+          },
+          {
+            "id": "ch-3",
+            "number": 3,
+            "name": "Laws of Motion",
+            "weightage": "4-5 marks",
+            "difficulty": "intermediate",
+            "introduction": "Newton's three laws of motion form the bedrock of classical mechanics. This chapter connects force, mass, and acceleration in a framework that explains everything from a ball rolling down Kathmandu's hills to satellite orbits. For the IOE entrance, this chapter is one of the highest-weighted topics in the physics section, typically contributing 4-5 marks through conceptual MCQs and numerical problems.",
+            "whyItMatters": "Expect 4-5 MCQs covering free body diagrams, friction, circular motion applications, and connected body problems. Mastery of F = ma in various contexts (incline planes, pulleys, lifts) is essential.",
+            "prerequisites": ["Vectors", "Basic trigonometry"],
+            "yearlyTrend": { "2019": 4, "2020": 5, "2021": 4, "2022": 5, "2023": 4, "2024": 5, "2025": 4 },
+            "topics": [
+              {
+                "id": "ioe-phy-ch3-t1",
+                "name": "Newton's First Law and Inertia",
+                "difficulty": "beginner",
+                "explanation": "Newton's First Law states that a body remains at rest or in uniform motion in a straight line unless acted upon by an external unbalanced force. This property of matter to resist changes in its state of motion is called inertia.\n\nInertia is directly proportional to mass — a heavier object is harder to start moving or stop. Think of a loaded truck versus a bicycle: the truck has much greater inertia. In Nepal, consider a heavy dhiki (traditional grain pounder) — once set in motion, it's difficult to stop due to its large mass and thus large inertia.\n\nThis law also defines what an inertial reference frame is: a frame where Newton's first law holds true. A vehicle moving at constant velocity is approximately inertial; one that is accelerating is not. Many IOE problems specify 'in an inertial frame' as a given condition.\n\nThe concept of inertia extends to rotational motion as well, where moment of inertia plays an analogous role. However, for this chapter, focus on linear inertia.",
+                "keyPoints": [
+                  "Objects resist changes in motion (inertia)",
+                  "Inertia is proportional to mass",
+                  "No net force = no change in velocity",
+                  "Defines inertial reference frames",
+                  "First law is a special case of second law (when F=0)"
+                ],
+                "examTip": "The first law is rarely asked directly. Instead, it appears in conceptual questions about reference frames or as the basis for understanding why seatbelts are needed (passengers continue forward motion when a car stops suddenly).",
+                "formula": null,
+                "relatedTopics": ["Newton's Second Law", "Friction"]
+              },
+              {
+                "id": "ioe-phy-ch3-t2",
+                "name": "Newton's Second Law — F = ma",
+                "difficulty": "intermediate",
+                "explanation": "Newton's Second Law quantifies the relationship between force, mass, and acceleration: the net external force on a body equals the product of its mass and acceleration (F = ma). More precisely, F = dp/dt, where p is linear momentum.\n\nThis is the workhorse equation of mechanics. To apply it effectively in IOE entrance problems, follow a systematic approach: (1) Identify the body of interest, (2) Draw a free body diagram showing ALL forces, (3) Choose a coordinate system, (4) Resolve forces into components, (5) Apply F = ma along each axis.\n\nFor connected bodies (e.g., two masses connected by a string over a pulley), apply F = ma to each body separately. The constraint is that the string tension is the same throughout (for massless, inextensible strings) and the accelerations are related by the system geometry.\n\nIn problems involving inclined planes — very common in IOE — resolve weight into components parallel and perpendicular to the surface: mg·sin θ acts down the plane, mg·cos θ acts into the surface. The normal force equals mg·cos θ for objects on inclines without additional vertical forces.",
+                "keyPoints": [
+                  "F_net = ma (vector equation)",
+                  "More general form: F = dp/dt",
+                  "Always draw free body diagrams first",
+                  "Valid only in inertial reference frames",
+                  "1 Newton = force that accelerates 1 kg at 1 m/s²"
+                ],
+                "examTip": "Inclined plane problems with friction appear in almost every IOE exam. Quick formula: a = g(sinθ − μcosθ) for motion down a rough incline. Practice Atwood machine problems (two masses on a pulley): a = (m₁−m₂)g/(m₁+m₂).",
+                "formula": "F = ma\nF = dp/dt\nFor incline: a = g(sinθ − μcosθ)\nAtwood machine: a = (m₁−m₂)g/(m₁+m₂), T = 2m₁m₂g/(m₁+m₂)",
+                "relatedTopics": ["Free Body Diagrams", "Friction", "Newton's Third Law"]
+              },
+              {
+                "id": "ioe-phy-ch3-t3",
+                "name": "Newton's Third Law",
+                "difficulty": "beginner",
+                "explanation": "Newton's Third Law states that for every action, there is an equal and opposite reaction. When body A exerts a force on body B, body B simultaneously exerts a force of equal magnitude but opposite direction on body A.\n\nCrucially, action-reaction pairs act on DIFFERENT bodies. This is the most common source of confusion. The normal force on a book resting on a table is NOT the reaction to the book's weight. The weight acts between the Earth and the book (gravitational pair), while the normal force is between the table surface and the book (contact pair).\n\nThird law pairs always: (1) act on different bodies, (2) are of the same type (both gravitational, both electromagnetic, etc.), (3) are equal in magnitude, (4) are opposite in direction, (5) act simultaneously.\n\nIn rocket propulsion, the exhaust gases are pushed backwards (action) and the rocket moves forward (reaction). A swimmer pushes water backwards with their arms and moves forward. These are real-world applications tested in the IOE exam.",
+                "keyPoints": [
+                  "Action and reaction are equal and opposite",
+                  "They act on DIFFERENT bodies",
+                  "They are the same type of force",
+                  "They exist simultaneously",
+                  "Do not cancel each other (different bodies)"
+                ],
+                "examTip": "Classic IOE question: 'A horse pulls a cart. If the cart pulls the horse back equally, how does the system move?' Answer: Consider external forces — the horse pushes the ground backward, and friction pushes it forward (external force to the horse-cart system).",
+                "formula": "F_AB = −F_BA",
+                "relatedTopics": ["Newton's Second Law", "Momentum"]
+              }
+            ]
+          },
+          {
+            "id": "ch-4",
+            "number": 4,
+            "name": "Work, Energy and Power",
+            "weightage": "3-4 marks",
+            "difficulty": "intermediate",
+            "introduction": "The concepts of work, energy, and power provide an alternative framework to Newton's laws for solving mechanics problems. While force analysis requires tracking acceleration and velocity at every instant, energy methods let you compare initial and final states directly. This chapter introduces the fundamental principle of conservation of energy, which is one of the most powerful tools in all of physics.",
+            "whyItMatters": "Expect 3-4 MCQs. Work-energy theorem problems, conservation of energy on inclines, and power calculations are recurring patterns. Energy methods often provide quicker solutions than force-based approaches.",
+            "prerequisites": ["Laws of Motion", "Vectors"],
+            "yearlyTrend": { "2019": 3, "2020": 4, "2021": 3, "2022": 3, "2023": 4, "2024": 3, "2025": 4 },
+            "topics": [
+              {
+                "id": "ioe-phy-ch4-t1",
+                "name": "Work Done by a Force",
+                "difficulty": "beginner",
+                "explanation": "Work is done when a force causes displacement. Mathematically, W = F·d·cos θ, where θ is the angle between the force and displacement vectors. Work is a scalar quantity measured in joules (J).\n\nPositive work occurs when force and displacement are in the same direction (θ < 90°) — like pushing a box forward. Negative work occurs when force opposes displacement (θ > 90°) — like friction opposing a sliding object. Zero work occurs when force is perpendicular to displacement (θ = 90°) — like the normal force on an object moving horizontally.\n\nThe work done by a variable force is calculated using integration: W = ∫F·dx. Graphically, this equals the area under the force-displacement curve. This is important for spring forces where F = −kx varies with position.",
+                "keyPoints": [
+                  "W = Fd cosθ (constant force)",
+                  "W = ∫F·dx (variable force)",
+                  "Work is scalar, SI unit: Joule (J)",
+                  "Positive work: force aids motion",
+                  "Negative work: force opposes motion",
+                  "Zero work: force perpendicular to displacement"
+                ],
+                "examTip": "Remember: gravity does NO work on horizontal motion. Normal force does NO work on flat surfaces. These conceptual questions appear frequently in IOE.",
+                "formula": "W = Fd cosθ\nW = ∫F·dx\n1 J = 1 N·m = 1 kg·m²/s²",
+                "relatedTopics": ["Kinetic Energy", "Potential Energy"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit-2",
+        "name": "Heat and Thermodynamics",
+        "chapters": [
+          {
+            "id": "ch-5",
+            "number": 5,
+            "name": "Heat and Temperature",
+            "weightage": "2-3 marks",
+            "difficulty": "intermediate",
+            "introduction": "This chapter covers thermal equilibrium, temperature scales, heat transfer mechanisms, and calorimetry. Understanding heat and temperature is essential for both the thermodynamics questions in the IOE entrance and for engineering applications. Nepal's diverse climate — from subtropical Terai to frigid Himalayas — provides natural context for these concepts.",
+            "whyItMatters": "2-3 marks typically come from this chapter. Focus on calorimetry problems, thermal expansion, and heat transfer mechanisms. These are straightforward scoring opportunities.",
+            "prerequisites": ["Basic algebra", "Energy concepts"],
+            "yearlyTrend": { "2019": 2, "2020": 3, "2021": 2, "2022": 2, "2023": 3, "2024": 2, "2025": 3 },
+            "topics": [
+              {
+                "id": "ioe-phy-ch5-t1",
+                "name": "Temperature and Thermal Equilibrium",
+                "difficulty": "beginner",
+                "explanation": "Temperature is a measure of the average kinetic energy of molecules in a substance. When two bodies at different temperatures are placed in contact, heat flows from the hotter body to the cooler one until they reach the same temperature — this state is called thermal equilibrium.\n\nThe Zeroth Law of Thermodynamics formalizes this: if body A is in thermal equilibrium with body C, and body B is also in thermal equilibrium with body C, then A and B are in thermal equilibrium with each other. This law is the basis for thermometry — it justifies using a thermometer (body C) to compare temperatures.\n\nThree temperature scales are commonly used: Celsius (°C), Fahrenheit (°F), and Kelvin (K). The Kelvin scale is the SI unit and starts at absolute zero (0 K = −273.15°C), where molecular motion theoretically ceases.",
+                "keyPoints": [
+                  "Temperature measures average molecular kinetic energy",
+                  "Zeroth Law: basis for temperature measurement",
+                  "K = °C + 273.15",
+                  "°F = (9/5)°C + 32",
+                  "Absolute zero: 0 K = −273.15°C"
+                ],
+                "examTip": "Conversion between temperature scales is a quick-marks question. Also remember: temperature change in Celsius equals temperature change in Kelvin (ΔT_C = ΔT_K).",
+                "formula": "K = °C + 273.15\n°F = (9/5)°C + 32\n°C = (5/9)(°F − 32)",
+                "relatedTopics": ["Heat Transfer", "Thermal Expansion"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unit-3",
+        "name": "Waves and Optics",
+        "chapters": [
+          {
+            "id": "ch-8",
+            "number": 8,
+            "name": "Wave Motion",
+            "weightage": "3-4 marks",
+            "difficulty": "intermediate",
+            "introduction": "Wave motion describes how disturbances propagate through media (or vacuum, in the case of electromagnetic waves). This chapter covers wave types, wave equations, superposition, interference, and standing waves. These concepts are foundational for understanding sound, light, and communication technologies.",
+            "whyItMatters": "3-4 marks consistently. Wave equation, standing waves, and beat frequency problems are IOE favorites. This chapter bridges mechanics and optics.",
+            "prerequisites": ["Simple Harmonic Motion", "Trigonometry"],
+            "yearlyTrend": { "2019": 3, "2020": 3, "2021": 4, "2022": 3, "2023": 4, "2024": 3, "2025": 3 },
+            "topics": [
+              {
+                "id": "ioe-phy-ch8-t1",
+                "name": "Types of Waves",
+                "difficulty": "beginner",
+                "explanation": "Waves are classified based on several criteria. Based on medium requirement: mechanical waves need a medium (sound, water waves) while electromagnetic waves do not (light, radio waves). Based on particle vibration: transverse waves have particle oscillation perpendicular to wave propagation (light, string waves), while longitudinal waves have oscillation parallel to propagation (sound in air).\n\nBased on energy transfer: progressive (travelling) waves transfer energy from one point to another, while standing (stationary) waves do not transfer net energy. Standing waves are formed by superposition of two identical waves travelling in opposite directions.",
+                "keyPoints": [
+                  "Mechanical vs electromagnetic waves",
+                  "Transverse vs longitudinal waves",
+                  "Progressive vs standing waves",
+                  "Sound is longitudinal; light is transverse",
+                  "EM waves travel at c = 3×10⁸ m/s in vacuum"
+                ],
+                "examTip": "Remember: sound cannot travel through vacuum (mechanical wave), but light can (electromagnetic wave). This basic distinction still appears in IOE MCQs.",
+                "formula": "v = fλ\nv = λ/T",
+                "relatedTopics": ["Wave Equation", "Superposition"]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

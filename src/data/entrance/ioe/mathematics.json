@@ -1,0 +1,54 @@
+{
+  "program": "IOE Entrance",
+  "subject": {
+    "id": "mathematics",
+    "name": "Mathematics",
+    "totalMarks": 40,
+    "units": [
+      {
+        "id": "unit-1",
+        "name": "Algebra",
+        "chapters": [
+          {
+            "id": "ch-1", "number": 1, "name": "Set Theory and Real Number System",
+            "weightage": "2-3 marks", "difficulty": "beginner",
+            "introduction": "Set theory is the foundation of modern mathematics. This chapter covers set operations, Venn diagrams, real number properties, and intervals. IOE entrance questions from this chapter are generally straightforward, making it an easy scoring area.",
+            "whyItMatters": "2-3 marks per year. Venn diagram problems with three sets and real number properties are most frequently tested.",
+            "prerequisites": ["Basic arithmetic"],
+            "yearlyTrend": {"2019": 2, "2020": 3, "2021": 2, "2022": 2, "2023": 3, "2024": 2, "2025": 3},
+            "topics": [
+              {
+                "id": "ioe-math-ch1-t1", "name": "Sets and Set Operations",
+                "difficulty": "beginner",
+                "explanation": "A set is a well-defined collection of distinct objects called elements or members. Sets are fundamental to mathematics and computer science. Operations on sets include union (A∪B), intersection (A∩B), difference (A−B), and complement (A'). For IOE, focus on solving problems using Venn diagrams, especially with three overlapping sets.\n\nThe formula for three sets: n(A∪B∪C) = n(A) + n(B) + n(C) − n(A∩B) − n(B∩C) − n(A∩C) + n(A∩B∩C). This formula appears in nearly every IOE entrance exam.",
+                "keyPoints": ["Union, intersection, difference, complement", "Venn diagram for 3 sets", "De Morgan's Laws: (A∪B)' = A'∩B'"],
+                "examTip": "Practice 3-set Venn diagram word problems. They appear every year in IOE mathematics.",
+                "formula": "n(A∪B∪C) = n(A)+n(B)+n(C)−n(A∩B)−n(B∩C)−n(A∩C)+n(A∩B∩C)",
+                "relatedTopics": ["Real Number System"]
+              }
+            ]
+          },
+          {
+            "id": "ch-2", "number": 2, "name": "Quadratic Equations and Sequence Series",
+            "weightage": "3-4 marks", "difficulty": "intermediate",
+            "introduction": "This chapter covers quadratic equations, arithmetic and geometric sequences, and series. The sum formulas and properties of AP and GP are heavily tested in the IOE entrance examination.",
+            "whyItMatters": "3-4 marks from this chapter. Focus on sum of series, nature of roots, and GP convergence problems.",
+            "prerequisites": ["Algebra basics", "Factoring"],
+            "yearlyTrend": {"2019": 3, "2020": 4, "2021": 3, "2022": 3, "2023": 4, "2024": 3, "2025": 4},
+            "topics": [
+              {
+                "id": "ioe-math-ch2-t1", "name": "Quadratic Equations",
+                "difficulty": "intermediate",
+                "explanation": "A quadratic equation ax² + bx + c = 0 (a≠0) has solutions given by the quadratic formula. The discriminant D = b²−4ac determines the nature of roots: D > 0 gives two distinct real roots, D = 0 gives repeated real roots, D < 0 gives complex conjugate roots.\n\nFor IOE, know the relationship between roots and coefficients: sum of roots = −b/a, product of roots = c/a. Problems often ask you to form new equations whose roots are related to the original roots.",
+                "keyPoints": ["Quadratic formula: x = (−b ± √D) / 2a", "Discriminant determines nature of roots", "Sum of roots = −b/a, Product = c/a"],
+                "examTip": "If roots are α and β, the equation with roots α² and β² is found using α²+β² = (α+β)²−2αβ.",
+                "formula": "x = (−b ± √(b²−4ac)) / 2a",
+                "relatedTopics": ["Polynomials", "AP and GP"]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

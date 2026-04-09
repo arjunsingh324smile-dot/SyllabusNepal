@@ -1,0 +1,36 @@
+[
+  {
+    "year": "2025",
+    "changes": [
+      { "type": "MODIFIED", "program": "SEE", "detail": "Compulsory Mathematics updated with revised taxation slabs and new chapters on financial literacy.", "color": "#059669" },
+      { "type": "NEW", "program": "NEB Grade 11", "detail": "New Law Stream introduced with Legal System of Nepal and Constitutional Law subjects.", "color": "#D97706" },
+      { "type": "MODIFIED", "program": "IOE Entrance", "detail": "Mathematics weightage increased to 40 marks. New questions from AP/GP and matrices/determinants sections added.", "color": "#DC2626" },
+      { "type": "NEW", "program": "CEE", "detail": "Medical Education Commission introduced unified marking format for all sub-exams.", "color": "#7C3AED" },
+      { "type": "MODIFIED", "program": "CSIT Entrance", "detail": "Basic Computer Science section updated with new topics on Cloud Computing and Cybersecurity basics.", "color": "#0D9488" }
+    ]
+  },
+  {
+    "year": "2024",
+    "changes": [
+      { "type": "RESTRUCTURED", "program": "NEB Grade 12", "detail": "Science stream chemistry syllabus restructured with organic chemistry moved to later units.", "color": "#EA580C" },
+      { "type": "MODIFIED", "program": "BCA", "detail": "TU BCA semester 3 now includes Web Technologies as compulsory instead of elective.", "color": "#2563EB" },
+      { "type": "NEW", "program": "Loksewa", "detail": "Computer basics section expanded with questions on e-governance and digital Nepal framework.", "color": "#92400E" },
+      { "type": "REMOVED", "program": "IOE Entrance", "detail": "Removed questions from Botany section that were erroneously included in 2023 paper.", "color": "#DC2626" }
+    ]
+  },
+  {
+    "year": "2023",
+    "changes": [
+      { "type": "MODIFIED", "program": "SEE", "detail": "Science and Technology subject received new chapters on Space Science and Nanotechnology.", "color": "#059669" },
+      { "type": "NEW", "program": "Pokhara University", "detail": "PU launched new BSc CSIT program with credit-based semester system.", "color": "#0891B2" },
+      { "type": "MODIFIED", "program": "TSC", "detail": "Primary level teacher exam syllabus updated with Inclusive Education and ICT in Education topics.", "color": "#065F46" }
+    ]
+  },
+  {
+    "year": "2022",
+    "changes": [
+      { "type": "MODIFIED", "program": "CEE", "detail": "BSc Nursing entrance now includes General Knowledge Nepal section worth 20 marks.", "color": "#7C3AED" },
+      { "type": "RESTRUCTURED", "program": "BBS", "detail": "TU BBS shifted to semester system from annual system starting Year 1.", "color": "#2563EB" }
+    ]
+  }
+]
