@@ -1,0 +1,254 @@
+{
+  "meta": {
+    "program": "Loksewa",
+    "category": "competitive",
+    "subCategory": "loksewa",
+    "subject": "General English",
+    "subjectId": "general-english",
+    "color": "#92400E",
+    "lastUpdated": "2025",
+    "totalChapters": 5
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Grammar",
+      "shortIntro": "Loksewa: Grammar — competitive exam preparation.",
+      "introduction": {
+        "overview": "Grammar is an essential section in the Loksewa examination. Competitive exams in Nepal's public and banking sector require thorough preparation across multiple subjects, and Grammar is one of the key areas.\n\nThis chapter provides structured content covering all the topics that appear in Loksewa examinations. The material is organized to facilitate both systematic study and quick revision.\n\nPast papers analysis shows consistent patterns in the types of questions asked from Grammar. Understanding these patterns and practicing accordingly can significantly improve your performance.\n\nCombine this study material with daily current affairs reading (for relevant subjects) and regular mock tests to build the speed and accuracy needed for competitive success.",
+        "whyItMatters": "Regularly tested in Loksewa examinations. Consistent preparation of Grammar is essential for competitive success. Practice with past papers to understand the pattern.",
+        "prerequisites": [
+          "General education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Grammar: Key Concepts",
+          "difficulty": "beginner",
+          "explanation": "Essential concepts and information for Grammar as tested in Loksewa. This topic provides the foundational knowledge needed to answer most examination questions.\n\nFocus on frequently tested areas and build a solid knowledge base through regular study.",
+          "keyPoints": [
+            "Essential facts and information",
+            "Frequently asked topics",
+            "Quick review points"
+          ],
+          "formula": null,
+          "examTip": "Make flashcards for quick revision of facts. Loksewa often tests factual recall with time pressure."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Grammar: Advanced Practice",
+          "difficulty": "intermediate",
+          "explanation": "Advanced practice material for Grammar covering complex question types and analytical problems that appear in Loksewa examinations.",
+          "keyPoints": [
+            "Advanced question types",
+            "Analytical problem solving",
+            "Time-saving techniques"
+          ],
+          "formula": null,
+          "examTip": "In competitive exams, eliminate obviously wrong options first. This strategy saves valuable time."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Vocabulary",
+      "shortIntro": "Loksewa: Vocabulary — competitive exam preparation.",
+      "introduction": {
+        "overview": "Vocabulary is an essential section in the Loksewa examination. Competitive exams in Nepal's public and banking sector require thorough preparation across multiple subjects, and Vocabulary is one of the key areas.\n\nThis chapter provides structured content covering all the topics that appear in Loksewa examinations. The material is organized to facilitate both systematic study and quick revision.\n\nPast papers analysis shows consistent patterns in the types of questions asked from Vocabulary. Understanding these patterns and practicing accordingly can significantly improve your performance.\n\nCombine this study material with daily current affairs reading (for relevant subjects) and regular mock tests to build the speed and accuracy needed for competitive success.",
+        "whyItMatters": "Regularly tested in Loksewa examinations. Consistent preparation of Vocabulary is essential for competitive success. Practice with past papers to understand the pattern.",
+        "prerequisites": [
+          "General education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Vocabulary: Key Concepts",
+          "difficulty": "beginner",
+          "explanation": "Essential concepts and information for Vocabulary as tested in Loksewa. This topic provides the foundational knowledge needed to answer most examination questions.\n\nFocus on frequently tested areas and build a solid knowledge base through regular study.",
+          "keyPoints": [
+            "Essential facts and information",
+            "Frequently asked topics",
+            "Quick review points"
+          ],
+          "formula": null,
+          "examTip": "Make flashcards for quick revision of facts. Loksewa often tests factual recall with time pressure."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Vocabulary: Advanced Practice",
+          "difficulty": "intermediate",
+          "explanation": "Advanced practice material for Vocabulary covering complex question types and analytical problems that appear in Loksewa examinations.",
+          "keyPoints": [
+            "Advanced question types",
+            "Analytical problem solving",
+            "Time-saving techniques"
+          ],
+          "formula": null,
+          "examTip": "In competitive exams, eliminate obviously wrong options first. This strategy saves valuable time."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Comprehension",
+      "shortIntro": "Loksewa: Comprehension — competitive exam preparation.",
+      "introduction": {
+        "overview": "Comprehension is an essential section in the Loksewa examination. Competitive exams in Nepal's public and banking sector require thorough preparation across multiple subjects, and Comprehension is one of the key areas.\n\nThis chapter provides structured content covering all the topics that appear in Loksewa examinations. The material is organized to facilitate both systematic study and quick revision.\n\nPast papers analysis shows consistent patterns in the types of questions asked from Comprehension. Understanding these patterns and practicing accordingly can significantly improve your performance.\n\nCombine this study material with daily current affairs reading (for relevant subjects) and regular mock tests to build the speed and accuracy needed for competitive success.",
+        "whyItMatters": "Regularly tested in Loksewa examinations. Consistent preparation of Comprehension is essential for competitive success. Practice with past papers to understand the pattern.",
+        "prerequisites": [
+          "General education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Comprehension: Key Concepts",
+          "difficulty": "beginner",
+          "explanation": "Essential concepts and information for Comprehension as tested in Loksewa. This topic provides the foundational knowledge needed to answer most examination questions.\n\nFocus on frequently tested areas and build a solid knowledge base through regular study.",
+          "keyPoints": [
+            "Essential facts and information",
+            "Frequently asked topics",
+            "Quick review points"
+          ],
+          "formula": null,
+          "examTip": "Make flashcards for quick revision of facts. Loksewa often tests factual recall with time pressure."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Comprehension: Advanced Practice",
+          "difficulty": "intermediate",
+          "explanation": "Advanced practice material for Comprehension covering complex question types and analytical problems that appear in Loksewa examinations.",
+          "keyPoints": [
+            "Advanced question types",
+            "Analytical problem solving",
+            "Time-saving techniques"
+          ],
+          "formula": null,
+          "examTip": "In competitive exams, eliminate obviously wrong options first. This strategy saves valuable time."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Writing Skills",
+      "shortIntro": "Loksewa: Writing Skills — competitive exam preparation.",
+      "introduction": {
+        "overview": "Writing Skills is an essential section in the Loksewa examination. Competitive exams in Nepal's public and banking sector require thorough preparation across multiple subjects, and Writing Skills is one of the key areas.\n\nThis chapter provides structured content covering all the topics that appear in Loksewa examinations. The material is organized to facilitate both systematic study and quick revision.\n\nPast papers analysis shows consistent patterns in the types of questions asked from Writing Skills. Understanding these patterns and practicing accordingly can significantly improve your performance.\n\nCombine this study material with daily current affairs reading (for relevant subjects) and regular mock tests to build the speed and accuracy needed for competitive success.",
+        "whyItMatters": "Regularly tested in Loksewa examinations. Consistent preparation of Writing Skills is essential for competitive success. Practice with past papers to understand the pattern.",
+        "prerequisites": [
+          "General education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Writing Skills: Key Concepts",
+          "difficulty": "beginner",
+          "explanation": "Essential concepts and information for Writing Skills as tested in Loksewa. This topic provides the foundational knowledge needed to answer most examination questions.\n\nFocus on frequently tested areas and build a solid knowledge base through regular study.",
+          "keyPoints": [
+            "Essential facts and information",
+            "Frequently asked topics",
+            "Quick review points"
+          ],
+          "formula": null,
+          "examTip": "Make flashcards for quick revision of facts. Loksewa often tests factual recall with time pressure."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Writing Skills: Advanced Practice",
+          "difficulty": "intermediate",
+          "explanation": "Advanced practice material for Writing Skills covering complex question types and analytical problems that appear in Loksewa examinations.",
+          "keyPoints": [
+            "Advanced question types",
+            "Analytical problem solving",
+            "Time-saving techniques"
+          ],
+          "formula": null,
+          "examTip": "In competitive exams, eliminate obviously wrong options first. This strategy saves valuable time."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Official English",
+      "shortIntro": "Loksewa: Official English — competitive exam preparation.",
+      "introduction": {
+        "overview": "Official English is an essential section in the Loksewa examination. Competitive exams in Nepal's public and banking sector require thorough preparation across multiple subjects, and Official English is one of the key areas.\n\nThis chapter provides structured content covering all the topics that appear in Loksewa examinations. The material is organized to facilitate both systematic study and quick revision.\n\nPast papers analysis shows consistent patterns in the types of questions asked from Official English. Understanding these patterns and practicing accordingly can significantly improve your performance.\n\nCombine this study material with daily current affairs reading (for relevant subjects) and regular mock tests to build the speed and accuracy needed for competitive success.",
+        "whyItMatters": "Regularly tested in Loksewa examinations. Consistent preparation of Official English is essential for competitive success. Practice with past papers to understand the pattern.",
+        "prerequisites": [
+          "General education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Official English: Key Concepts",
+          "difficulty": "beginner",
+          "explanation": "Essential concepts and information for Official English as tested in Loksewa. This topic provides the foundational knowledge needed to answer most examination questions.\n\nFocus on frequently tested areas and build a solid knowledge base through regular study.",
+          "keyPoints": [
+            "Essential facts and information",
+            "Frequently asked topics",
+            "Quick review points"
+          ],
+          "formula": null,
+          "examTip": "Make flashcards for quick revision of facts. Loksewa often tests factual recall with time pressure."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Official English: Advanced Practice",
+          "difficulty": "intermediate",
+          "explanation": "Advanced practice material for Official English covering complex question types and analytical problems that appear in Loksewa examinations.",
+          "keyPoints": [
+            "Advanced question types",
+            "Analytical problem solving",
+            "Time-saving techniques"
+          ],
+          "formula": null,
+          "examTip": "In competitive exams, eliminate obviously wrong options first. This strategy saves valuable time."
+        }
+      ]
+    }
+  ]
+}

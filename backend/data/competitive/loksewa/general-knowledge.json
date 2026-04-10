@@ -1,0 +1,302 @@
+{
+  "meta": {
+    "program": "Loksewa",
+    "category": "competitive",
+    "subCategory": "loksewa",
+    "subject": "General Knowledge",
+    "subjectId": "general-knowledge",
+    "color": "#92400E",
+    "lastUpdated": "2025",
+    "totalChapters": 6
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Nepal Geography",
+      "shortIntro": "Loksewa: Nepal Geography — competitive exam preparation.",
+      "introduction": {
+        "overview": "Nepal Geography is an essential section in the Loksewa examination. Competitive exams in Nepal's public and banking sector require thorough preparation across multiple subjects, and Nepal Geography is one of the key areas.\n\nThis chapter provides structured content covering all the topics that appear in Loksewa examinations. The material is organized to facilitate both systematic study and quick revision.\n\nPast papers analysis shows consistent patterns in the types of questions asked from Nepal Geography. Understanding these patterns and practicing accordingly can significantly improve your performance.\n\nCombine this study material with daily current affairs reading (for relevant subjects) and regular mock tests to build the speed and accuracy needed for competitive success.",
+        "whyItMatters": "Regularly tested in Loksewa examinations. Consistent preparation of Nepal Geography is essential for competitive success. Practice with past papers to understand the pattern.",
+        "prerequisites": [
+          "General education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Nepal Geography: Key Concepts",
+          "difficulty": "beginner",
+          "explanation": "Essential concepts and information for Nepal Geography as tested in Loksewa. This topic provides the foundational knowledge needed to answer most examination questions.\n\nFocus on frequently tested areas and build a solid knowledge base through regular study.",
+          "keyPoints": [
+            "Essential facts and information",
+            "Frequently asked topics",
+            "Quick review points"
+          ],
+          "formula": null,
+          "examTip": "Make flashcards for quick revision of facts. Loksewa often tests factual recall with time pressure."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Nepal Geography: Advanced Practice",
+          "difficulty": "intermediate",
+          "explanation": "Advanced practice material for Nepal Geography covering complex question types and analytical problems that appear in Loksewa examinations.",
+          "keyPoints": [
+            "Advanced question types",
+            "Analytical problem solving",
+            "Time-saving techniques"
+          ],
+          "formula": null,
+          "examTip": "In competitive exams, eliminate obviously wrong options first. This strategy saves valuable time."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "History of Nepal",
+      "shortIntro": "Loksewa: History of Nepal — competitive exam preparation.",
+      "introduction": {
+        "overview": "History of Nepal is an essential section in the Loksewa examination. Competitive exams in Nepal's public and banking sector require thorough preparation across multiple subjects, and History of Nepal is one of the key areas.\n\nThis chapter provides structured content covering all the topics that appear in Loksewa examinations. The material is organized to facilitate both systematic study and quick revision.\n\nPast papers analysis shows consistent patterns in the types of questions asked from History of Nepal. Understanding these patterns and practicing accordingly can significantly improve your performance.\n\nCombine this study material with daily current affairs reading (for relevant subjects) and regular mock tests to build the speed and accuracy needed for competitive success.",
+        "whyItMatters": "Regularly tested in Loksewa examinations. Consistent preparation of History of Nepal is essential for competitive success. Practice with past papers to understand the pattern.",
+        "prerequisites": [
+          "General education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "History of Nepal: Key Concepts",
+          "difficulty": "beginner",
+          "explanation": "Essential concepts and information for History of Nepal as tested in Loksewa. This topic provides the foundational knowledge needed to answer most examination questions.\n\nFocus on frequently tested areas and build a solid knowledge base through regular study.",
+          "keyPoints": [
+            "Essential facts and information",
+            "Frequently asked topics",
+            "Quick review points"
+          ],
+          "formula": null,
+          "examTip": "Make flashcards for quick revision of facts. Loksewa often tests factual recall with time pressure."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "History of Nepal: Advanced Practice",
+          "difficulty": "intermediate",
+          "explanation": "Advanced practice material for History of Nepal covering complex question types and analytical problems that appear in Loksewa examinations.",
+          "keyPoints": [
+            "Advanced question types",
+            "Analytical problem solving",
+            "Time-saving techniques"
+          ],
+          "formula": null,
+          "examTip": "In competitive exams, eliminate obviously wrong options first. This strategy saves valuable time."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Constitution of Nepal",
+      "shortIntro": "Loksewa: Constitution of Nepal — competitive exam preparation.",
+      "introduction": {
+        "overview": "Constitution of Nepal is an essential section in the Loksewa examination. Competitive exams in Nepal's public and banking sector require thorough preparation across multiple subjects, and Constitution of Nepal is one of the key areas.\n\nThis chapter provides structured content covering all the topics that appear in Loksewa examinations. The material is organized to facilitate both systematic study and quick revision.\n\nPast papers analysis shows consistent patterns in the types of questions asked from Constitution of Nepal. Understanding these patterns and practicing accordingly can significantly improve your performance.\n\nCombine this study material with daily current affairs reading (for relevant subjects) and regular mock tests to build the speed and accuracy needed for competitive success.",
+        "whyItMatters": "Regularly tested in Loksewa examinations. Consistent preparation of Constitution of Nepal is essential for competitive success. Practice with past papers to understand the pattern.",
+        "prerequisites": [
+          "General education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Constitution of Nepal: Key Concepts",
+          "difficulty": "beginner",
+          "explanation": "Essential concepts and information for Constitution of Nepal as tested in Loksewa. This topic provides the foundational knowledge needed to answer most examination questions.\n\nFocus on frequently tested areas and build a solid knowledge base through regular study.",
+          "keyPoints": [
+            "Essential facts and information",
+            "Frequently asked topics",
+            "Quick review points"
+          ],
+          "formula": null,
+          "examTip": "Make flashcards for quick revision of facts. Loksewa often tests factual recall with time pressure."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Constitution of Nepal: Advanced Practice",
+          "difficulty": "intermediate",
+          "explanation": "Advanced practice material for Constitution of Nepal covering complex question types and analytical problems that appear in Loksewa examinations.",
+          "keyPoints": [
+            "Advanced question types",
+            "Analytical problem solving",
+            "Time-saving techniques"
+          ],
+          "formula": null,
+          "examTip": "In competitive exams, eliminate obviously wrong options first. This strategy saves valuable time."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "International Organizations",
+      "shortIntro": "Loksewa: International Organizations — competitive exam preparation.",
+      "introduction": {
+        "overview": "International Organizations is an essential section in the Loksewa examination. Competitive exams in Nepal's public and banking sector require thorough preparation across multiple subjects, and International Organizations is one of the key areas.\n\nThis chapter provides structured content covering all the topics that appear in Loksewa examinations. The material is organized to facilitate both systematic study and quick revision.\n\nPast papers analysis shows consistent patterns in the types of questions asked from International Organizations. Understanding these patterns and practicing accordingly can significantly improve your performance.\n\nCombine this study material with daily current affairs reading (for relevant subjects) and regular mock tests to build the speed and accuracy needed for competitive success.",
+        "whyItMatters": "Regularly tested in Loksewa examinations. Consistent preparation of International Organizations is essential for competitive success. Practice with past papers to understand the pattern.",
+        "prerequisites": [
+          "General education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "International Organizations: Key Concepts",
+          "difficulty": "beginner",
+          "explanation": "Essential concepts and information for International Organizations as tested in Loksewa. This topic provides the foundational knowledge needed to answer most examination questions.\n\nFocus on frequently tested areas and build a solid knowledge base through regular study.",
+          "keyPoints": [
+            "Essential facts and information",
+            "Frequently asked topics",
+            "Quick review points"
+          ],
+          "formula": null,
+          "examTip": "Make flashcards for quick revision of facts. Loksewa often tests factual recall with time pressure."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "International Organizations: Advanced Practice",
+          "difficulty": "intermediate",
+          "explanation": "Advanced practice material for International Organizations covering complex question types and analytical problems that appear in Loksewa examinations.",
+          "keyPoints": [
+            "Advanced question types",
+            "Analytical problem solving",
+            "Time-saving techniques"
+          ],
+          "formula": null,
+          "examTip": "In competitive exams, eliminate obviously wrong options first. This strategy saves valuable time."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Science and Technology",
+      "shortIntro": "Loksewa: Science and Technology — competitive exam preparation.",
+      "introduction": {
+        "overview": "Science and Technology is an essential section in the Loksewa examination. Competitive exams in Nepal's public and banking sector require thorough preparation across multiple subjects, and Science and Technology is one of the key areas.\n\nThis chapter provides structured content covering all the topics that appear in Loksewa examinations. The material is organized to facilitate both systematic study and quick revision.\n\nPast papers analysis shows consistent patterns in the types of questions asked from Science and Technology. Understanding these patterns and practicing accordingly can significantly improve your performance.\n\nCombine this study material with daily current affairs reading (for relevant subjects) and regular mock tests to build the speed and accuracy needed for competitive success.",
+        "whyItMatters": "Regularly tested in Loksewa examinations. Consistent preparation of Science and Technology is essential for competitive success. Practice with past papers to understand the pattern.",
+        "prerequisites": [
+          "General education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Science and Technology: Key Concepts",
+          "difficulty": "beginner",
+          "explanation": "Essential concepts and information for Science and Technology as tested in Loksewa. This topic provides the foundational knowledge needed to answer most examination questions.\n\nFocus on frequently tested areas and build a solid knowledge base through regular study.",
+          "keyPoints": [
+            "Essential facts and information",
+            "Frequently asked topics",
+            "Quick review points"
+          ],
+          "formula": null,
+          "examTip": "Make flashcards for quick revision of facts. Loksewa often tests factual recall with time pressure."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Science and Technology: Advanced Practice",
+          "difficulty": "intermediate",
+          "explanation": "Advanced practice material for Science and Technology covering complex question types and analytical problems that appear in Loksewa examinations.",
+          "keyPoints": [
+            "Advanced question types",
+            "Analytical problem solving",
+            "Time-saving techniques"
+          ],
+          "formula": null,
+          "examTip": "In competitive exams, eliminate obviously wrong options first. This strategy saves valuable time."
+        }
+      ]
+    },
+    {
+      "id": "ch-6",
+      "number": 6,
+      "title": "Current Affairs",
+      "shortIntro": "Loksewa: Current Affairs — competitive exam preparation.",
+      "introduction": {
+        "overview": "Current Affairs is an essential section in the Loksewa examination. Competitive exams in Nepal's public and banking sector require thorough preparation across multiple subjects, and Current Affairs is one of the key areas.\n\nThis chapter provides structured content covering all the topics that appear in Loksewa examinations. The material is organized to facilitate both systematic study and quick revision.\n\nPast papers analysis shows consistent patterns in the types of questions asked from Current Affairs. Understanding these patterns and practicing accordingly can significantly improve your performance.\n\nCombine this study material with daily current affairs reading (for relevant subjects) and regular mock tests to build the speed and accuracy needed for competitive success.",
+        "whyItMatters": "Regularly tested in Loksewa examinations. Consistent preparation of Current Affairs is essential for competitive success. Practice with past papers to understand the pattern.",
+        "prerequisites": [
+          "General education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-6-1",
+          "number": 1,
+          "name": "Current Affairs: Key Concepts",
+          "difficulty": "beginner",
+          "explanation": "Essential concepts and information for Current Affairs as tested in Loksewa. This topic provides the foundational knowledge needed to answer most examination questions.\n\nFocus on frequently tested areas and build a solid knowledge base through regular study.",
+          "keyPoints": [
+            "Essential facts and information",
+            "Frequently asked topics",
+            "Quick review points"
+          ],
+          "formula": null,
+          "examTip": "Make flashcards for quick revision of facts. Loksewa often tests factual recall with time pressure."
+        },
+        {
+          "id": "t-6-2",
+          "number": 2,
+          "name": "Current Affairs: Advanced Practice",
+          "difficulty": "intermediate",
+          "explanation": "Advanced practice material for Current Affairs covering complex question types and analytical problems that appear in Loksewa examinations.",
+          "keyPoints": [
+            "Advanced question types",
+            "Analytical problem solving",
+            "Time-saving techniques"
+          ],
+          "formula": null,
+          "examTip": "In competitive exams, eliminate obviously wrong options first. This strategy saves valuable time."
+        }
+      ]
+    }
+  ]
+}

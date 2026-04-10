@@ -1,0 +1,302 @@
+{
+  "meta": {
+    "program": "BLE (Grade 8)",
+    "category": "school",
+    "subCategory": "ble",
+    "subject": "Science",
+    "subjectId": "science",
+    "color": "#7C3AED",
+    "lastUpdated": "2025",
+    "totalChapters": 6
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Living Beings",
+      "shortIntro": "Introduction to Living Beings for BLE students.",
+      "introduction": {
+        "overview": "Living Beings is a fundamental topic in Science for Grade 8 students preparing for the Basic Level Examination (BLE). This chapter builds on concepts learned in earlier grades and prepares students for the more advanced work they will encounter in secondary school.\n\nThe chapter covers core principles and applications that students need to master. Understanding these concepts thoroughly will help in both the BLE examination and in building a strong foundation for future studies.\n\nStudents should practice regularly with textbook exercises and past BLE papers to gain confidence in solving problems related to Living Beings. Pay attention to the marking scheme and allocate time accordingly during the exam.\n\nThis chapter typically carries moderate weightage in the BLE examination, making it important for achieving a good overall score.",
+        "whyItMatters": "This chapter is regularly tested in BLE examinations. Mastering Living Beings ensures a solid foundation for SEE-level studies.",
+        "prerequisites": [
+          "Basic concepts from Grade 7"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Introduction to Living Beings",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the fundamental concepts of Living Beings. Students will learn the basic definitions, terminology, and foundational principles that form the basis of this chapter.\n\nUnderstanding these basics is essential before moving on to more complex problems and applications.",
+          "keyPoints": [
+            "Core concept of Living Beings",
+            "Used in BLE examination",
+            "Foundation for higher-level study"
+          ],
+          "formula": null,
+          "examTip": "Focus on definitions and basic applications. BLE often asks direct concept questions."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Applications of Living Beings",
+          "difficulty": "intermediate",
+          "explanation": "Once students understand the basic concepts, they can apply them to solve practical problems. This topic focuses on real-world applications and problem-solving strategies.\n\nPractice with textbook examples and past papers to develop speed and accuracy.",
+          "keyPoints": [
+            "Apply concepts to word problems",
+            "Show clear working in solutions",
+            "Check answers by substitution"
+          ],
+          "formula": null,
+          "examTip": "In BLE, show all working steps clearly. Partial marks are awarded for correct methodology."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Matter and Energy",
+      "shortIntro": "Introduction to Matter and Energy for BLE students.",
+      "introduction": {
+        "overview": "Matter and Energy is a fundamental topic in Science for Grade 8 students preparing for the Basic Level Examination (BLE). This chapter builds on concepts learned in earlier grades and prepares students for the more advanced work they will encounter in secondary school.\n\nThe chapter covers core principles and applications that students need to master. Understanding these concepts thoroughly will help in both the BLE examination and in building a strong foundation for future studies.\n\nStudents should practice regularly with textbook exercises and past BLE papers to gain confidence in solving problems related to Matter and Energy. Pay attention to the marking scheme and allocate time accordingly during the exam.\n\nThis chapter typically carries moderate weightage in the BLE examination, making it important for achieving a good overall score.",
+        "whyItMatters": "This chapter is regularly tested in BLE examinations. Mastering Matter and Energy ensures a solid foundation for SEE-level studies.",
+        "prerequisites": [
+          "Basic concepts from Grade 7"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Introduction to Matter and Energy",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the fundamental concepts of Matter and Energy. Students will learn the basic definitions, terminology, and foundational principles that form the basis of this chapter.\n\nUnderstanding these basics is essential before moving on to more complex problems and applications.",
+          "keyPoints": [
+            "Core concept of Matter and Energy",
+            "Used in BLE examination",
+            "Foundation for higher-level study"
+          ],
+          "formula": null,
+          "examTip": "Focus on definitions and basic applications. BLE often asks direct concept questions."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Applications of Matter and Energy",
+          "difficulty": "intermediate",
+          "explanation": "Once students understand the basic concepts, they can apply them to solve practical problems. This topic focuses on real-world applications and problem-solving strategies.\n\nPractice with textbook examples and past papers to develop speed and accuracy.",
+          "keyPoints": [
+            "Apply concepts to word problems",
+            "Show clear working in solutions",
+            "Check answers by substitution"
+          ],
+          "formula": null,
+          "examTip": "In BLE, show all working steps clearly. Partial marks are awarded for correct methodology."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Earth Science",
+      "shortIntro": "Introduction to Earth Science for BLE students.",
+      "introduction": {
+        "overview": "Earth Science is a fundamental topic in Science for Grade 8 students preparing for the Basic Level Examination (BLE). This chapter builds on concepts learned in earlier grades and prepares students for the more advanced work they will encounter in secondary school.\n\nThe chapter covers core principles and applications that students need to master. Understanding these concepts thoroughly will help in both the BLE examination and in building a strong foundation for future studies.\n\nStudents should practice regularly with textbook exercises and past BLE papers to gain confidence in solving problems related to Earth Science. Pay attention to the marking scheme and allocate time accordingly during the exam.\n\nThis chapter typically carries moderate weightage in the BLE examination, making it important for achieving a good overall score.",
+        "whyItMatters": "This chapter is regularly tested in BLE examinations. Mastering Earth Science ensures a solid foundation for SEE-level studies.",
+        "prerequisites": [
+          "Basic concepts from Grade 7"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Introduction to Earth Science",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the fundamental concepts of Earth Science. Students will learn the basic definitions, terminology, and foundational principles that form the basis of this chapter.\n\nUnderstanding these basics is essential before moving on to more complex problems and applications.",
+          "keyPoints": [
+            "Core concept of Earth Science",
+            "Used in BLE examination",
+            "Foundation for higher-level study"
+          ],
+          "formula": null,
+          "examTip": "Focus on definitions and basic applications. BLE often asks direct concept questions."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Applications of Earth Science",
+          "difficulty": "intermediate",
+          "explanation": "Once students understand the basic concepts, they can apply them to solve practical problems. This topic focuses on real-world applications and problem-solving strategies.\n\nPractice with textbook examples and past papers to develop speed and accuracy.",
+          "keyPoints": [
+            "Apply concepts to word problems",
+            "Show clear working in solutions",
+            "Check answers by substitution"
+          ],
+          "formula": null,
+          "examTip": "In BLE, show all working steps clearly. Partial marks are awarded for correct methodology."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Force and Motion",
+      "shortIntro": "Introduction to Force and Motion for BLE students.",
+      "introduction": {
+        "overview": "Force and Motion is a fundamental topic in Science for Grade 8 students preparing for the Basic Level Examination (BLE). This chapter builds on concepts learned in earlier grades and prepares students for the more advanced work they will encounter in secondary school.\n\nThe chapter covers core principles and applications that students need to master. Understanding these concepts thoroughly will help in both the BLE examination and in building a strong foundation for future studies.\n\nStudents should practice regularly with textbook exercises and past BLE papers to gain confidence in solving problems related to Force and Motion. Pay attention to the marking scheme and allocate time accordingly during the exam.\n\nThis chapter typically carries moderate weightage in the BLE examination, making it important for achieving a good overall score.",
+        "whyItMatters": "This chapter is regularly tested in BLE examinations. Mastering Force and Motion ensures a solid foundation for SEE-level studies.",
+        "prerequisites": [
+          "Basic concepts from Grade 7"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Introduction to Force and Motion",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the fundamental concepts of Force and Motion. Students will learn the basic definitions, terminology, and foundational principles that form the basis of this chapter.\n\nUnderstanding these basics is essential before moving on to more complex problems and applications.",
+          "keyPoints": [
+            "Core concept of Force and Motion",
+            "Used in BLE examination",
+            "Foundation for higher-level study"
+          ],
+          "formula": null,
+          "examTip": "Focus on definitions and basic applications. BLE often asks direct concept questions."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Applications of Force and Motion",
+          "difficulty": "intermediate",
+          "explanation": "Once students understand the basic concepts, they can apply them to solve practical problems. This topic focuses on real-world applications and problem-solving strategies.\n\nPractice with textbook examples and past papers to develop speed and accuracy.",
+          "keyPoints": [
+            "Apply concepts to word problems",
+            "Show clear working in solutions",
+            "Check answers by substitution"
+          ],
+          "formula": null,
+          "examTip": "In BLE, show all working steps clearly. Partial marks are awarded for correct methodology."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Environment",
+      "shortIntro": "Introduction to Environment for BLE students.",
+      "introduction": {
+        "overview": "Environment is a fundamental topic in Science for Grade 8 students preparing for the Basic Level Examination (BLE). This chapter builds on concepts learned in earlier grades and prepares students for the more advanced work they will encounter in secondary school.\n\nThe chapter covers core principles and applications that students need to master. Understanding these concepts thoroughly will help in both the BLE examination and in building a strong foundation for future studies.\n\nStudents should practice regularly with textbook exercises and past BLE papers to gain confidence in solving problems related to Environment. Pay attention to the marking scheme and allocate time accordingly during the exam.\n\nThis chapter typically carries moderate weightage in the BLE examination, making it important for achieving a good overall score.",
+        "whyItMatters": "This chapter is regularly tested in BLE examinations. Mastering Environment ensures a solid foundation for SEE-level studies.",
+        "prerequisites": [
+          "Basic concepts from Grade 7"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Introduction to Environment",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the fundamental concepts of Environment. Students will learn the basic definitions, terminology, and foundational principles that form the basis of this chapter.\n\nUnderstanding these basics is essential before moving on to more complex problems and applications.",
+          "keyPoints": [
+            "Core concept of Environment",
+            "Used in BLE examination",
+            "Foundation for higher-level study"
+          ],
+          "formula": null,
+          "examTip": "Focus on definitions and basic applications. BLE often asks direct concept questions."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Applications of Environment",
+          "difficulty": "intermediate",
+          "explanation": "Once students understand the basic concepts, they can apply them to solve practical problems. This topic focuses on real-world applications and problem-solving strategies.\n\nPractice with textbook examples and past papers to develop speed and accuracy.",
+          "keyPoints": [
+            "Apply concepts to word problems",
+            "Show clear working in solutions",
+            "Check answers by substitution"
+          ],
+          "formula": null,
+          "examTip": "In BLE, show all working steps clearly. Partial marks are awarded for correct methodology."
+        }
+      ]
+    },
+    {
+      "id": "ch-6",
+      "number": 6,
+      "title": "Human Body",
+      "shortIntro": "Introduction to Human Body for BLE students.",
+      "introduction": {
+        "overview": "Human Body is a fundamental topic in Science for Grade 8 students preparing for the Basic Level Examination (BLE). This chapter builds on concepts learned in earlier grades and prepares students for the more advanced work they will encounter in secondary school.\n\nThe chapter covers core principles and applications that students need to master. Understanding these concepts thoroughly will help in both the BLE examination and in building a strong foundation for future studies.\n\nStudents should practice regularly with textbook exercises and past BLE papers to gain confidence in solving problems related to Human Body. Pay attention to the marking scheme and allocate time accordingly during the exam.\n\nThis chapter typically carries moderate weightage in the BLE examination, making it important for achieving a good overall score.",
+        "whyItMatters": "This chapter is regularly tested in BLE examinations. Mastering Human Body ensures a solid foundation for SEE-level studies.",
+        "prerequisites": [
+          "Basic concepts from Grade 7"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-6-1",
+          "number": 1,
+          "name": "Introduction to Human Body",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the fundamental concepts of Human Body. Students will learn the basic definitions, terminology, and foundational principles that form the basis of this chapter.\n\nUnderstanding these basics is essential before moving on to more complex problems and applications.",
+          "keyPoints": [
+            "Core concept of Human Body",
+            "Used in BLE examination",
+            "Foundation for higher-level study"
+          ],
+          "formula": null,
+          "examTip": "Focus on definitions and basic applications. BLE often asks direct concept questions."
+        },
+        {
+          "id": "t-6-2",
+          "number": 2,
+          "name": "Applications of Human Body",
+          "difficulty": "intermediate",
+          "explanation": "Once students understand the basic concepts, they can apply them to solve practical problems. This topic focuses on real-world applications and problem-solving strategies.\n\nPractice with textbook examples and past papers to develop speed and accuracy.",
+          "keyPoints": [
+            "Apply concepts to word problems",
+            "Show clear working in solutions",
+            "Check answers by substitution"
+          ],
+          "formula": null,
+          "examTip": "In BLE, show all working steps clearly. Partial marks are awarded for correct methodology."
+        }
+      ]
+    }
+  ]
+}

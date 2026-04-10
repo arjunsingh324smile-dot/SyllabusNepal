@@ -4,34 +4,42 @@
 
 ```
 SyllabusNepal/
-├── src/                    # Frontend (React + Vite)
-│   ├── components/         # Reusable UI, layout, common components
-│   ├── features/           # Feature modules (syllabus, search, notes, planner)
-│   ├── hooks/              # Shared custom hooks
-│   ├── pages/              # Route pages
-│   ├── services/           # API service layer (Axios)
-│   ├── store/              # Zustand global stores
-│   ├── styles/             # CSS files
-│   └── utils/              # Utility functions
-├── server/                 # Backend (Express + MongoDB)
-│   └── src/
-│       ├── config/         # DB connection, env config
-│       ├── modules/        # Domain modules (program, subject, chapter, topic, etc.)
-│       ├── middleware/      # Express middleware
-│       ├── routes/         # Centralized route aggregator
-│       ├── utils/          # ApiError, ApiResponse
-│       ├── data/           # Seed JSON files
-│       └── loaders/        # Database seeders
+├── frontend/               # React + Vite SPA
+│   ├── src/
+│   │   ├── components/     # Reusable UI, layout, common components
+│   │   ├── features/       # Feature modules (syllabus, search, notes, planner)
+│   │   ├── hooks/          # Shared custom hooks
+│   │   ├── pages/          # Route pages (category hubs + Shared generic pages)
+│   │   ├── services/       # API service layer
+│   │   ├── store/          # Zustand global stores
+│   │   ├── styles/         # CSS files
+│   │   └── utils/          # Utility functions + api.js
+│   ├── index.html
+│   ├── vite.config.js      # Vite config with /api proxy to backend
+│   └── package.json
+├── backend/                # Express file-based JSON API
+│   ├── server.js           # Express server (port 5000)
+│   ├── controllers/        # generic.controller.js (handles all categories)
+│   ├── routes/             # Category route files + index.routes.js
+│   ├── middleware/          # CORS config
+│   ├── data/               # 150+ JSON subject files
+│   │   ├── _meta/          # programs-index.json, subjects-index.json
+│   │   ├── school/         # ble, class-9, see, neb-grade-11, neb-grade-12
+│   │   ├── bachelor/       # bbs, bba, bca, bsc, bsc-csit
+│   │   ├── engineering/    # tu-ioe, kathmandu-university, pokhara, purvanchal
+│   │   ├── entrance/       # ioe, csit, cmat, cee, kucat-cbt, pu-entrance
+│   │   └── competitive/    # loksewa, banking, tsc, army-police
+│   └── package.json
 ├── shared/                 # Shared constants and types
 ├── docs/                   # Documentation
-└── scripts/                # Setup and utility scripts
+├── scripts/                # generate-data.cjs (creates all JSON data files)
+└── package.json            # Monorepo orchestrator (concurrently)
 ```
 
 ## Quick Start
 
 ### Prerequisites
 - Node.js 18+
-- MongoDB running locally (or Atlas URI)
 
 ### Setup
 
@@ -39,63 +47,56 @@ SyllabusNepal/
 # Install all dependencies
 npm run install:all
 
-# Seed the database
-npm run seed
-
 # Run both frontend and backend
-npm run dev:all
+npm run dev
 ```
 
 Or run separately:
 ```bash
-# Terminal 1 — Backend
-npm run dev:server
+# Terminal 1 — Backend (port 5000)
+cd backend && npm run dev
 
-# Terminal 2 — Frontend
-npm run dev
+# Terminal 2 — Frontend (port 5173)
+cd frontend && npm run dev
+```
+
+### Regenerate Data
+
+```bash
+npm run generate-data
 ```
 
 ## API Endpoints
 
-| Method | Endpoint                       | Description                  |
-|--------|--------------------------------|------------------------------|
-| GET    | /api/programs                  | List all programs            |
-| GET    | /api/programs/:id              | Get program by ID            |
-| GET    | /api/programs/category/:cat    | Get programs by category     |
-| GET    | /api/subjects                  | List all subjects            |
-| GET    | /api/subjects/:id              | Get subject by ID            |
-| GET    | /api/subjects/program/:pid     | Get subjects for program     |
-| GET    | /api/chapters                  | List all chapters            |
-| GET    | /api/chapters/:id              | Get chapter by ID            |
-| GET    | /api/chapters/subject/:sid     | Get chapters for subject     |
-| GET    | /api/topics                    | List all topics              |
-| GET    | /api/topics/:id                | Get topic by ID              |
-| GET    | /api/topics/chapter/:cid       | Get topics for chapter       |
-| GET    | /api/entrance                  | List entrance exams          |
-| GET    | /api/entrance/:id              | Get entrance exam by ID      |
-| GET    | /api/competitive               | List competitive exams       |
-| GET    | /api/competitive/:id           | Get competitive exam by ID   |
-| GET    | /api/search?q=query            | Search across all content    |
-| POST   | /api/analytics/track           | Track user event             |
-| GET    | /api/analytics/popular         | Get popular resources        |
-| GET    | /api/analytics/stats           | Get aggregate stats          |
+| Method | Endpoint                                    | Description                        |
+|--------|---------------------------------------------|------------------------------------|
+| GET    | /api/health                                 | Health check                       |
+| GET    | /api/meta/programs                          | List all 25 programs               |
+| GET    | /api/:category/:programPath/subjects        | List subjects for a program        |
+| GET    | /api/:category/:programPath/:subjectId      | Get full subject with chapters     |
+| GET    | /api/:category/:programPath/:subjectId/:chId| Get single chapter (ch-N prefix)   |
 
-## Data Model
+See [API.md](API.md) for full documentation.
 
-Programs → Subjects → Chapters → Topics (hierarchical)
+## Data Format
 
-Each module in the backend follows:
-```
-module/
-├── model.js       # Mongoose schema
-├── service.js     # Business logic
-├── controller.js  # HTTP request handling
-└── routes.js      # Express routes
+Each subject JSON file follows this universal schema:
+```json
+{
+  "meta": { "program", "category", "subject", "subjectId", "color", "totalChapters" },
+  "chapters": [{
+    "id": "ch-1",
+    "title": "...",
+    "introduction": { "overview", "whyItMatters", "prerequisites", "yearlyTrend" },
+    "topics": [{ "id", "name", "difficulty", "explanation", "keyPoints", "formula", "examTip" }]
+  }]
+}
 ```
 
 ## Frontend Features
 
 - **Syllabus Browser**: Navigate programs → subjects → chapters → topics
+- **Generic Pages**: `SubjectPage` and `ChapterPage` in `pages/Shared/` render any subject/chapter from any category
 - **Search**: Full-text search across all content
 - **Bookmarks**: Save topics for later
 - **Progress Tracking**: Mark topics as read

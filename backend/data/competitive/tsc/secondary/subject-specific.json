@@ -1,0 +1,207 @@
+{
+  "meta": {
+    "program": "TSC (Teacher)",
+    "category": "competitive",
+    "subCategory": "tsc",
+    "level": "secondary",
+    "subject": "Subject Specific",
+    "subjectId": "subject-specific",
+    "color": "#065F46",
+    "lastUpdated": "2025",
+    "totalChapters": 4
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Subject Pedagogy",
+      "shortIntro": "TSC secondary: Subject Pedagogy — teacher service commission preparation.",
+      "introduction": {
+        "overview": "Subject Pedagogy is a key topic in the Teacher Service Commission (TSC) secondary level examination. The TSC exam is the gateway to permanent teaching positions in Nepal's government schools.\n\nThis chapter covers the pedagogical and theoretical knowledge that TSC tests. Understanding these concepts is essential both for the examination and for effective teaching practice.\n\nThe TSC secondary level exam has a specific syllabus prescribed by the commission. This material follows that prescribed syllabus and focuses on the most frequently tested areas.\n\nRegular study combined with practice teaching and mock examinations provides the best preparation strategy for the TSC.",
+        "whyItMatters": "Essential for TSC secondary level candidates. This topic appears consistently in TSC examinations and is crucial for a competitive score.",
+        "prerequisites": [
+          "Education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Subject Pedagogy: Fundamentals",
+          "difficulty": "beginner",
+          "explanation": "Core concepts of Subject Pedagogy for the TSC secondary level examination. Provides the essential theoretical knowledge and practical understanding needed.",
+          "keyPoints": [
+            "Key theories and principles",
+            "Important researchers and their work",
+            "Practical applications"
+          ],
+          "formula": null,
+          "examTip": "TSC exams test both theoretical knowledge and practical application. Include real teaching examples in your answers."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Subject Pedagogy: Application",
+          "difficulty": "intermediate",
+          "explanation": "Applied aspects of Subject Pedagogy with focus on classroom practice, case studies, and examination-oriented content.",
+          "keyPoints": [
+            "Classroom application scenarios",
+            "Case study approach",
+            "Assessment strategies"
+          ],
+          "formula": null,
+          "examTip": "Relate theoretical concepts to Nepal's school education context. TSC values locally relevant examples."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Content Knowledge",
+      "shortIntro": "TSC secondary: Content Knowledge — teacher service commission preparation.",
+      "introduction": {
+        "overview": "Content Knowledge is a key topic in the Teacher Service Commission (TSC) secondary level examination. The TSC exam is the gateway to permanent teaching positions in Nepal's government schools.\n\nThis chapter covers the pedagogical and theoretical knowledge that TSC tests. Understanding these concepts is essential both for the examination and for effective teaching practice.\n\nThe TSC secondary level exam has a specific syllabus prescribed by the commission. This material follows that prescribed syllabus and focuses on the most frequently tested areas.\n\nRegular study combined with practice teaching and mock examinations provides the best preparation strategy for the TSC.",
+        "whyItMatters": "Essential for TSC secondary level candidates. This topic appears consistently in TSC examinations and is crucial for a competitive score.",
+        "prerequisites": [
+          "Education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Content Knowledge: Fundamentals",
+          "difficulty": "beginner",
+          "explanation": "Core concepts of Content Knowledge for the TSC secondary level examination. Provides the essential theoretical knowledge and practical understanding needed.",
+          "keyPoints": [
+            "Key theories and principles",
+            "Important researchers and their work",
+            "Practical applications"
+          ],
+          "formula": null,
+          "examTip": "TSC exams test both theoretical knowledge and practical application. Include real teaching examples in your answers."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Content Knowledge: Application",
+          "difficulty": "intermediate",
+          "explanation": "Applied aspects of Content Knowledge with focus on classroom practice, case studies, and examination-oriented content.",
+          "keyPoints": [
+            "Classroom application scenarios",
+            "Case study approach",
+            "Assessment strategies"
+          ],
+          "formula": null,
+          "examTip": "Relate theoretical concepts to Nepal's school education context. TSC values locally relevant examples."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Assessment Design",
+      "shortIntro": "TSC secondary: Assessment Design — teacher service commission preparation.",
+      "introduction": {
+        "overview": "Assessment Design is a key topic in the Teacher Service Commission (TSC) secondary level examination. The TSC exam is the gateway to permanent teaching positions in Nepal's government schools.\n\nThis chapter covers the pedagogical and theoretical knowledge that TSC tests. Understanding these concepts is essential both for the examination and for effective teaching practice.\n\nThe TSC secondary level exam has a specific syllabus prescribed by the commission. This material follows that prescribed syllabus and focuses on the most frequently tested areas.\n\nRegular study combined with practice teaching and mock examinations provides the best preparation strategy for the TSC.",
+        "whyItMatters": "Essential for TSC secondary level candidates. This topic appears consistently in TSC examinations and is crucial for a competitive score.",
+        "prerequisites": [
+          "Education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Assessment Design: Fundamentals",
+          "difficulty": "beginner",
+          "explanation": "Core concepts of Assessment Design for the TSC secondary level examination. Provides the essential theoretical knowledge and practical understanding needed.",
+          "keyPoints": [
+            "Key theories and principles",
+            "Important researchers and their work",
+            "Practical applications"
+          ],
+          "formula": null,
+          "examTip": "TSC exams test both theoretical knowledge and practical application. Include real teaching examples in your answers."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Assessment Design: Application",
+          "difficulty": "intermediate",
+          "explanation": "Applied aspects of Assessment Design with focus on classroom practice, case studies, and examination-oriented content.",
+          "keyPoints": [
+            "Classroom application scenarios",
+            "Case study approach",
+            "Assessment strategies"
+          ],
+          "formula": null,
+          "examTip": "Relate theoretical concepts to Nepal's school education context. TSC values locally relevant examples."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Resource Development",
+      "shortIntro": "TSC secondary: Resource Development — teacher service commission preparation.",
+      "introduction": {
+        "overview": "Resource Development is a key topic in the Teacher Service Commission (TSC) secondary level examination. The TSC exam is the gateway to permanent teaching positions in Nepal's government schools.\n\nThis chapter covers the pedagogical and theoretical knowledge that TSC tests. Understanding these concepts is essential both for the examination and for effective teaching practice.\n\nThe TSC secondary level exam has a specific syllabus prescribed by the commission. This material follows that prescribed syllabus and focuses on the most frequently tested areas.\n\nRegular study combined with practice teaching and mock examinations provides the best preparation strategy for the TSC.",
+        "whyItMatters": "Essential for TSC secondary level candidates. This topic appears consistently in TSC examinations and is crucial for a competitive score.",
+        "prerequisites": [
+          "Education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Resource Development: Fundamentals",
+          "difficulty": "beginner",
+          "explanation": "Core concepts of Resource Development for the TSC secondary level examination. Provides the essential theoretical knowledge and practical understanding needed.",
+          "keyPoints": [
+            "Key theories and principles",
+            "Important researchers and their work",
+            "Practical applications"
+          ],
+          "formula": null,
+          "examTip": "TSC exams test both theoretical knowledge and practical application. Include real teaching examples in your answers."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Resource Development: Application",
+          "difficulty": "intermediate",
+          "explanation": "Applied aspects of Resource Development with focus on classroom practice, case studies, and examination-oriented content.",
+          "keyPoints": [
+            "Classroom application scenarios",
+            "Case study approach",
+            "Assessment strategies"
+          ],
+          "formula": null,
+          "examTip": "Relate theoretical concepts to Nepal's school education context. TSC values locally relevant examples."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "meta": {
+    "program": "Banking Exam",
+    "category": "competitive",
+    "subCategory": "banking",
+    "subject": "Quantitative Aptitude",
+    "subjectId": "quantitative-aptitude",
+    "color": "#1E40AF",
+    "lastUpdated": "2025",
+    "totalChapters": 5
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Number System",
+      "shortIntro": "Banking Exam: Number System — competitive exam preparation.",
+      "introduction": {
+        "overview": "Number System is an essential section in the Banking Exam examination. Competitive exams in Nepal's public and banking sector require thorough preparation across multiple subjects, and Number System is one of the key areas.\n\nThis chapter provides structured content covering all the topics that appear in Banking Exam examinations. The material is organized to facilitate both systematic study and quick revision.\n\nPast papers analysis shows consistent patterns in the types of questions asked from Number System. Understanding these patterns and practicing accordingly can significantly improve your performance.\n\nCombine this study material with daily current affairs reading (for relevant subjects) and regular mock tests to build the speed and accuracy needed for competitive success.",
+        "whyItMatters": "Regularly tested in Banking Exam examinations. Consistent preparation of Number System is essential for competitive success. Practice with past papers to understand the pattern.",
+        "prerequisites": [
+          "General education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Number System: Key Concepts",
+          "difficulty": "beginner",
+          "explanation": "Essential concepts and information for Number System as tested in Banking Exam. This topic provides the foundational knowledge needed to answer most examination questions.\n\nFocus on frequently tested areas and build a solid knowledge base through regular study.",
+          "keyPoints": [
+            "Essential facts and information",
+            "Frequently asked topics",
+            "Quick review points"
+          ],
+          "formula": null,
+          "examTip": "Make flashcards for quick revision of facts. Banking Exam often tests factual recall with time pressure."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Number System: Advanced Practice",
+          "difficulty": "intermediate",
+          "explanation": "Advanced practice material for Number System covering complex question types and analytical problems that appear in Banking Exam examinations.",
+          "keyPoints": [
+            "Advanced question types",
+            "Analytical problem solving",
+            "Time-saving techniques"
+          ],
+          "formula": null,
+          "examTip": "In competitive exams, eliminate obviously wrong options first. This strategy saves valuable time."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Percentage",
+      "shortIntro": "Banking Exam: Percentage — competitive exam preparation.",
+      "introduction": {
+        "overview": "Percentage is an essential section in the Banking Exam examination. Competitive exams in Nepal's public and banking sector require thorough preparation across multiple subjects, and Percentage is one of the key areas.\n\nThis chapter provides structured content covering all the topics that appear in Banking Exam examinations. The material is organized to facilitate both systematic study and quick revision.\n\nPast papers analysis shows consistent patterns in the types of questions asked from Percentage. Understanding these patterns and practicing accordingly can significantly improve your performance.\n\nCombine this study material with daily current affairs reading (for relevant subjects) and regular mock tests to build the speed and accuracy needed for competitive success.",
+        "whyItMatters": "Regularly tested in Banking Exam examinations. Consistent preparation of Percentage is essential for competitive success. Practice with past papers to understand the pattern.",
+        "prerequisites": [
+          "General education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Percentage: Key Concepts",
+          "difficulty": "beginner",
+          "explanation": "Essential concepts and information for Percentage as tested in Banking Exam. This topic provides the foundational knowledge needed to answer most examination questions.\n\nFocus on frequently tested areas and build a solid knowledge base through regular study.",
+          "keyPoints": [
+            "Essential facts and information",
+            "Frequently asked topics",
+            "Quick review points"
+          ],
+          "formula": null,
+          "examTip": "Make flashcards for quick revision of facts. Banking Exam often tests factual recall with time pressure."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Percentage: Advanced Practice",
+          "difficulty": "intermediate",
+          "explanation": "Advanced practice material for Percentage covering complex question types and analytical problems that appear in Banking Exam examinations.",
+          "keyPoints": [
+            "Advanced question types",
+            "Analytical problem solving",
+            "Time-saving techniques"
+          ],
+          "formula": null,
+          "examTip": "In competitive exams, eliminate obviously wrong options first. This strategy saves valuable time."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Profit and Loss",
+      "shortIntro": "Banking Exam: Profit and Loss — competitive exam preparation.",
+      "introduction": {
+        "overview": "Profit and Loss is an essential section in the Banking Exam examination. Competitive exams in Nepal's public and banking sector require thorough preparation across multiple subjects, and Profit and Loss is one of the key areas.\n\nThis chapter provides structured content covering all the topics that appear in Banking Exam examinations. The material is organized to facilitate both systematic study and quick revision.\n\nPast papers analysis shows consistent patterns in the types of questions asked from Profit and Loss. Understanding these patterns and practicing accordingly can significantly improve your performance.\n\nCombine this study material with daily current affairs reading (for relevant subjects) and regular mock tests to build the speed and accuracy needed for competitive success.",
+        "whyItMatters": "Regularly tested in Banking Exam examinations. Consistent preparation of Profit and Loss is essential for competitive success. Practice with past papers to understand the pattern.",
+        "prerequisites": [
+          "General education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Profit and Loss: Key Concepts",
+          "difficulty": "beginner",
+          "explanation": "Essential concepts and information for Profit and Loss as tested in Banking Exam. This topic provides the foundational knowledge needed to answer most examination questions.\n\nFocus on frequently tested areas and build a solid knowledge base through regular study.",
+          "keyPoints": [
+            "Essential facts and information",
+            "Frequently asked topics",
+            "Quick review points"
+          ],
+          "formula": null,
+          "examTip": "Make flashcards for quick revision of facts. Banking Exam often tests factual recall with time pressure."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Profit and Loss: Advanced Practice",
+          "difficulty": "intermediate",
+          "explanation": "Advanced practice material for Profit and Loss covering complex question types and analytical problems that appear in Banking Exam examinations.",
+          "keyPoints": [
+            "Advanced question types",
+            "Analytical problem solving",
+            "Time-saving techniques"
+          ],
+          "formula": null,
+          "examTip": "In competitive exams, eliminate obviously wrong options first. This strategy saves valuable time."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Time and Work",
+      "shortIntro": "Banking Exam: Time and Work — competitive exam preparation.",
+      "introduction": {
+        "overview": "Time and Work is an essential section in the Banking Exam examination. Competitive exams in Nepal's public and banking sector require thorough preparation across multiple subjects, and Time and Work is one of the key areas.\n\nThis chapter provides structured content covering all the topics that appear in Banking Exam examinations. The material is organized to facilitate both systematic study and quick revision.\n\nPast papers analysis shows consistent patterns in the types of questions asked from Time and Work. Understanding these patterns and practicing accordingly can significantly improve your performance.\n\nCombine this study material with daily current affairs reading (for relevant subjects) and regular mock tests to build the speed and accuracy needed for competitive success.",
+        "whyItMatters": "Regularly tested in Banking Exam examinations. Consistent preparation of Time and Work is essential for competitive success. Practice with past papers to understand the pattern.",
+        "prerequisites": [
+          "General education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Time and Work: Key Concepts",
+          "difficulty": "beginner",
+          "explanation": "Essential concepts and information for Time and Work as tested in Banking Exam. This topic provides the foundational knowledge needed to answer most examination questions.\n\nFocus on frequently tested areas and build a solid knowledge base through regular study.",
+          "keyPoints": [
+            "Essential facts and information",
+            "Frequently asked topics",
+            "Quick review points"
+          ],
+          "formula": null,
+          "examTip": "Make flashcards for quick revision of facts. Banking Exam often tests factual recall with time pressure."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Time and Work: Advanced Practice",
+          "difficulty": "intermediate",
+          "explanation": "Advanced practice material for Time and Work covering complex question types and analytical problems that appear in Banking Exam examinations.",
+          "keyPoints": [
+            "Advanced question types",
+            "Analytical problem solving",
+            "Time-saving techniques"
+          ],
+          "formula": null,
+          "examTip": "In competitive exams, eliminate obviously wrong options first. This strategy saves valuable time."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Data Interpretation",
+      "shortIntro": "Banking Exam: Data Interpretation — competitive exam preparation.",
+      "introduction": {
+        "overview": "Data Interpretation is an essential section in the Banking Exam examination. Competitive exams in Nepal's public and banking sector require thorough preparation across multiple subjects, and Data Interpretation is one of the key areas.\n\nThis chapter provides structured content covering all the topics that appear in Banking Exam examinations. The material is organized to facilitate both systematic study and quick revision.\n\nPast papers analysis shows consistent patterns in the types of questions asked from Data Interpretation. Understanding these patterns and practicing accordingly can significantly improve your performance.\n\nCombine this study material with daily current affairs reading (for relevant subjects) and regular mock tests to build the speed and accuracy needed for competitive success.",
+        "whyItMatters": "Regularly tested in Banking Exam examinations. Consistent preparation of Data Interpretation is essential for competitive success. Practice with past papers to understand the pattern.",
+        "prerequisites": [
+          "General education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Data Interpretation: Key Concepts",
+          "difficulty": "beginner",
+          "explanation": "Essential concepts and information for Data Interpretation as tested in Banking Exam. This topic provides the foundational knowledge needed to answer most examination questions.\n\nFocus on frequently tested areas and build a solid knowledge base through regular study.",
+          "keyPoints": [
+            "Essential facts and information",
+            "Frequently asked topics",
+            "Quick review points"
+          ],
+          "formula": null,
+          "examTip": "Make flashcards for quick revision of facts. Banking Exam often tests factual recall with time pressure."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Data Interpretation: Advanced Practice",
+          "difficulty": "intermediate",
+          "explanation": "Advanced practice material for Data Interpretation covering complex question types and analytical problems that appear in Banking Exam examinations.",
+          "keyPoints": [
+            "Advanced question types",
+            "Analytical problem solving",
+            "Time-saving techniques"
+          ],
+          "formula": null,
+          "examTip": "In competitive exams, eliminate obviously wrong options first. This strategy saves valuable time."
+        }
+      ]
+    }
+  ]
+}

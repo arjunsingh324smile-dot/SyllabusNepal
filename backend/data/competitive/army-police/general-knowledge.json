@@ -1,0 +1,254 @@
+{
+  "meta": {
+    "program": "Army / Police",
+    "category": "competitive",
+    "subCategory": "army-police",
+    "subject": "General Knowledge",
+    "subjectId": "general-knowledge",
+    "color": "#374151",
+    "lastUpdated": "2025",
+    "totalChapters": 5
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Nepal Geography and History",
+      "shortIntro": "Army/Police recruitment: Nepal Geography and History.",
+      "introduction": {
+        "overview": "Nepal Geography and History is important for Nepal Army and Nepal Police recruitment examinations. These competitive exams test candidates on general knowledge, physical fitness, and aptitude.\n\nThis chapter provides comprehensive preparation material for the written examination component. Candidates should combine this study with physical training as per the recruitment requirements.\n\nThe recruitment process in Nepal's security forces is highly competitive, and thorough preparation across all tested areas is essential for success.\n\nStay updated with current affairs and practice with model questions regularly to build the knowledge base and speed required for the examination.",
+        "whyItMatters": "Army/Police recruitment exams test Nepal Geography and History regularly. Thorough preparation is key to clearing the written component.",
+        "prerequisites": [
+          "General education"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Nepal Geography and History: Overview",
+          "difficulty": "beginner",
+          "explanation": "Comprehensive overview of Nepal Geography and History for Army/Police recruitment preparation. Covers the key information and concepts that candidates must know.",
+          "keyPoints": [
+            "Essential facts and knowledge",
+            "Recruitment-specific focus areas",
+            "Common question patterns"
+          ],
+          "formula": null,
+          "examTip": "Stay updated with current affairs — Army/Police exams heavily test recent events and developments."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Nepal Geography and History: Practice",
+          "difficulty": "intermediate",
+          "explanation": "Practice-oriented content with focus on the specific types of questions that appear in security forces recruitment examinations.",
+          "keyPoints": [
+            "Practice questions",
+            "Mock test strategies",
+            "Time management"
+          ],
+          "formula": null,
+          "examTip": "Practice with official model papers. The pattern of questions is usually consistent across years."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Constitution and Governance",
+      "shortIntro": "Army/Police recruitment: Constitution and Governance.",
+      "introduction": {
+        "overview": "Constitution and Governance is important for Nepal Army and Nepal Police recruitment examinations. These competitive exams test candidates on general knowledge, physical fitness, and aptitude.\n\nThis chapter provides comprehensive preparation material for the written examination component. Candidates should combine this study with physical training as per the recruitment requirements.\n\nThe recruitment process in Nepal's security forces is highly competitive, and thorough preparation across all tested areas is essential for success.\n\nStay updated with current affairs and practice with model questions regularly to build the knowledge base and speed required for the examination.",
+        "whyItMatters": "Army/Police recruitment exams test Constitution and Governance regularly. Thorough preparation is key to clearing the written component.",
+        "prerequisites": [
+          "General education"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Constitution and Governance: Overview",
+          "difficulty": "beginner",
+          "explanation": "Comprehensive overview of Constitution and Governance for Army/Police recruitment preparation. Covers the key information and concepts that candidates must know.",
+          "keyPoints": [
+            "Essential facts and knowledge",
+            "Recruitment-specific focus areas",
+            "Common question patterns"
+          ],
+          "formula": null,
+          "examTip": "Stay updated with current affairs — Army/Police exams heavily test recent events and developments."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Constitution and Governance: Practice",
+          "difficulty": "intermediate",
+          "explanation": "Practice-oriented content with focus on the specific types of questions that appear in security forces recruitment examinations.",
+          "keyPoints": [
+            "Practice questions",
+            "Mock test strategies",
+            "Time management"
+          ],
+          "formula": null,
+          "examTip": "Practice with official model papers. The pattern of questions is usually consistent across years."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Current Affairs",
+      "shortIntro": "Army/Police recruitment: Current Affairs.",
+      "introduction": {
+        "overview": "Current Affairs is important for Nepal Army and Nepal Police recruitment examinations. These competitive exams test candidates on general knowledge, physical fitness, and aptitude.\n\nThis chapter provides comprehensive preparation material for the written examination component. Candidates should combine this study with physical training as per the recruitment requirements.\n\nThe recruitment process in Nepal's security forces is highly competitive, and thorough preparation across all tested areas is essential for success.\n\nStay updated with current affairs and practice with model questions regularly to build the knowledge base and speed required for the examination.",
+        "whyItMatters": "Army/Police recruitment exams test Current Affairs regularly. Thorough preparation is key to clearing the written component.",
+        "prerequisites": [
+          "General education"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Current Affairs: Overview",
+          "difficulty": "beginner",
+          "explanation": "Comprehensive overview of Current Affairs for Army/Police recruitment preparation. Covers the key information and concepts that candidates must know.",
+          "keyPoints": [
+            "Essential facts and knowledge",
+            "Recruitment-specific focus areas",
+            "Common question patterns"
+          ],
+          "formula": null,
+          "examTip": "Stay updated with current affairs — Army/Police exams heavily test recent events and developments."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Current Affairs: Practice",
+          "difficulty": "intermediate",
+          "explanation": "Practice-oriented content with focus on the specific types of questions that appear in security forces recruitment examinations.",
+          "keyPoints": [
+            "Practice questions",
+            "Mock test strategies",
+            "Time management"
+          ],
+          "formula": null,
+          "examTip": "Practice with official model papers. The pattern of questions is usually consistent across years."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "International Affairs",
+      "shortIntro": "Army/Police recruitment: International Affairs.",
+      "introduction": {
+        "overview": "International Affairs is important for Nepal Army and Nepal Police recruitment examinations. These competitive exams test candidates on general knowledge, physical fitness, and aptitude.\n\nThis chapter provides comprehensive preparation material for the written examination component. Candidates should combine this study with physical training as per the recruitment requirements.\n\nThe recruitment process in Nepal's security forces is highly competitive, and thorough preparation across all tested areas is essential for success.\n\nStay updated with current affairs and practice with model questions regularly to build the knowledge base and speed required for the examination.",
+        "whyItMatters": "Army/Police recruitment exams test International Affairs regularly. Thorough preparation is key to clearing the written component.",
+        "prerequisites": [
+          "General education"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "International Affairs: Overview",
+          "difficulty": "beginner",
+          "explanation": "Comprehensive overview of International Affairs for Army/Police recruitment preparation. Covers the key information and concepts that candidates must know.",
+          "keyPoints": [
+            "Essential facts and knowledge",
+            "Recruitment-specific focus areas",
+            "Common question patterns"
+          ],
+          "formula": null,
+          "examTip": "Stay updated with current affairs — Army/Police exams heavily test recent events and developments."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "International Affairs: Practice",
+          "difficulty": "intermediate",
+          "explanation": "Practice-oriented content with focus on the specific types of questions that appear in security forces recruitment examinations.",
+          "keyPoints": [
+            "Practice questions",
+            "Mock test strategies",
+            "Time management"
+          ],
+          "formula": null,
+          "examTip": "Practice with official model papers. The pattern of questions is usually consistent across years."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Science and Technology",
+      "shortIntro": "Army/Police recruitment: Science and Technology.",
+      "introduction": {
+        "overview": "Science and Technology is important for Nepal Army and Nepal Police recruitment examinations. These competitive exams test candidates on general knowledge, physical fitness, and aptitude.\n\nThis chapter provides comprehensive preparation material for the written examination component. Candidates should combine this study with physical training as per the recruitment requirements.\n\nThe recruitment process in Nepal's security forces is highly competitive, and thorough preparation across all tested areas is essential for success.\n\nStay updated with current affairs and practice with model questions regularly to build the knowledge base and speed required for the examination.",
+        "whyItMatters": "Army/Police recruitment exams test Science and Technology regularly. Thorough preparation is key to clearing the written component.",
+        "prerequisites": [
+          "General education"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Science and Technology: Overview",
+          "difficulty": "beginner",
+          "explanation": "Comprehensive overview of Science and Technology for Army/Police recruitment preparation. Covers the key information and concepts that candidates must know.",
+          "keyPoints": [
+            "Essential facts and knowledge",
+            "Recruitment-specific focus areas",
+            "Common question patterns"
+          ],
+          "formula": null,
+          "examTip": "Stay updated with current affairs — Army/Police exams heavily test recent events and developments."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Science and Technology: Practice",
+          "difficulty": "intermediate",
+          "explanation": "Practice-oriented content with focus on the specific types of questions that appear in security forces recruitment examinations.",
+          "keyPoints": [
+            "Practice questions",
+            "Mock test strategies",
+            "Time management"
+          ],
+          "formula": null,
+          "examTip": "Practice with official model papers. The pattern of questions is usually consistent across years."
+        }
+      ]
+    }
+  ]
+}

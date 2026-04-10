@@ -1,0 +1,208 @@
+{
+  "programs": [
+    {
+      "id": "ble",
+      "name": "BLE (Grade 8)",
+      "category": "school",
+      "path": "school/ble",
+      "color": "#10B981",
+      "icon": "school"
+    },
+    {
+      "id": "class-9",
+      "name": "Class 9",
+      "category": "school",
+      "path": "school/class-9",
+      "color": "#059669",
+      "icon": "book"
+    },
+    {
+      "id": "see",
+      "name": "SEE (Class 10)",
+      "category": "school",
+      "path": "school/see",
+      "color": "#047857",
+      "icon": "graduation-cap"
+    },
+    {
+      "id": "neb-11",
+      "name": "NEB Grade 11",
+      "category": "school",
+      "path": "school/neb-grade-11",
+      "streams": ["science", "management", "humanities", "education"],
+      "color": "#D97706",
+      "icon": "book-open"
+    },
+    {
+      "id": "neb-12",
+      "name": "NEB Grade 12",
+      "category": "school",
+      "path": "school/neb-grade-12",
+      "streams": ["science", "management", "humanities", "education"],
+      "color": "#B45309",
+      "icon": "book-open"
+    },
+    {
+      "id": "bbs",
+      "name": "BBS",
+      "category": "bachelor",
+      "path": "bachelor/bbs",
+      "semesters": ["year-1", "year-2", "year-3", "year-4"],
+      "color": "#2563EB",
+      "icon": "briefcase"
+    },
+    {
+      "id": "bba",
+      "name": "BBA",
+      "category": "bachelor",
+      "path": "bachelor/bba",
+      "semesters": ["sem-1", "sem-2", "sem-3", "sem-4", "sem-5", "sem-6", "sem-7", "sem-8"],
+      "color": "#1D4ED8",
+      "icon": "briefcase"
+    },
+    {
+      "id": "bca",
+      "name": "BCA",
+      "category": "bachelor",
+      "path": "bachelor/bca",
+      "semesters": ["sem-1", "sem-2", "sem-3", "sem-4", "sem-5", "sem-6", "sem-7", "sem-8"],
+      "color": "#7C3AED",
+      "icon": "cpu"
+    },
+    {
+      "id": "bsc-csit",
+      "name": "BSc CSIT",
+      "category": "bachelor",
+      "path": "bachelor/bsc-csit",
+      "semesters": ["sem-1", "sem-2", "sem-3", "sem-4", "sem-5", "sem-6", "sem-7", "sem-8"],
+      "color": "#6D28D9",
+      "icon": "code"
+    },
+    {
+      "id": "bsc",
+      "name": "BSc",
+      "category": "bachelor",
+      "path": "bachelor/bsc",
+      "color": "#3B82F6",
+      "icon": "flask"
+    },
+    {
+      "id": "tu-ioe",
+      "name": "TU / IOE Engineering",
+      "category": "engineering",
+      "path": "engineering/tu-ioe",
+      "branches": ["civil", "computer", "electrical", "electronics"],
+      "color": "#DC2626",
+      "icon": "hard-hat"
+    },
+    {
+      "id": "kathmandu-university",
+      "name": "Kathmandu University",
+      "category": "engineering",
+      "path": "engineering/kathmandu-university",
+      "branches": ["computer", "civil"],
+      "color": "#B91C1C",
+      "icon": "hard-hat"
+    },
+    {
+      "id": "pokhara-university",
+      "name": "Pokhara University",
+      "category": "engineering",
+      "path": "engineering/pokhara-university",
+      "branches": ["computer", "civil"],
+      "color": "#991B1B",
+      "icon": "hard-hat"
+    },
+    {
+      "id": "purvanchal-university",
+      "name": "Purvanchal University",
+      "category": "engineering",
+      "path": "engineering/purvanchal-university",
+      "branches": ["computer", "civil"],
+      "color": "#7F1D1D",
+      "icon": "hard-hat"
+    },
+    {
+      "id": "ioe-entrance",
+      "name": "IOE Entrance",
+      "category": "entrance",
+      "path": "entrance/ioe",
+      "color": "#DC2626",
+      "icon": "target"
+    },
+    {
+      "id": "cee",
+      "name": "CEE Medical Entrance",
+      "category": "entrance",
+      "path": "entrance/cee",
+      "subExams": ["mbbs", "bds", "bsc-nursing", "b-pharmacy"],
+      "color": "#7C3AED",
+      "icon": "heart"
+    },
+    {
+      "id": "csit-entrance",
+      "name": "CSIT Entrance",
+      "category": "entrance",
+      "path": "entrance/csit",
+      "color": "#0891B2",
+      "icon": "target"
+    },
+    {
+      "id": "kucat-cbt",
+      "name": "KUCAT-CBT",
+      "category": "entrance",
+      "path": "entrance/kucat-cbt",
+      "color": "#0E7490",
+      "icon": "target"
+    },
+    {
+      "id": "cmat",
+      "name": "CMAT",
+      "category": "entrance",
+      "path": "entrance/cmat",
+      "color": "#D97706",
+      "icon": "target"
+    },
+    {
+      "id": "pu-entrance",
+      "name": "PU Entrance",
+      "category": "entrance",
+      "path": "entrance/pu-entrance",
+      "subExams": ["be", "bba"],
+      "color": "#0369A1",
+      "icon": "target"
+    },
+    {
+      "id": "loksewa",
+      "name": "Loksewa",
+      "category": "competitive",
+      "path": "competitive/loksewa",
+      "color": "#92400E",
+      "icon": "landmark"
+    },
+    {
+      "id": "banking",
+      "name": "Banking Exam",
+      "category": "competitive",
+      "path": "competitive/banking",
+      "color": "#1E40AF",
+      "icon": "bank"
+    },
+    {
+      "id": "tsc",
+      "name": "TSC (Teacher)",
+      "category": "competitive",
+      "path": "competitive/tsc",
+      "color": "#065F46",
+      "icon": "users"
+    },
+    {
+      "id": "army-police",
+      "name": "Army / Police",
+      "category": "competitive",
+      "path": "competitive/army-police",
+      "color": "#374151",
+      "icon": "shield"
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "program": "BBS",
+    "category": "bachelor",
+    "subCategory": "bbs",
+    "subject": "Business Statistics",
+    "subjectId": "business-statistics",
+    "color": "#059669",
+    "lastUpdated": "2025",
+    "semester": "year-2",
+    "totalChapters": 5
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Introduction to Statistics",
+      "shortIntro": "BBS year-2: Introduction to Statistics — comprehensive study material.",
+      "introduction": {
+        "overview": "Introduction to Statistics is a key chapter in the BBS Business Statistics curriculum for year 2. This chapter provides students with the knowledge and skills needed for success in their university examinations and future professional careers.\n\nThe content is designed according to Tribhuvan University's approved syllabus and covers both theoretical frameworks and practical applications. Students are expected to demonstrate analytical thinking and the ability to apply concepts to business scenarios.\n\nRegular attendance in lectures, combined with self-study using recommended textbooks, is essential for mastering this chapter. Past examination papers from TU provide valuable insight into the types of questions that are typically asked.\n\nThis chapter forms an important foundation for advanced topics that students will encounter in subsequent years of their BBS program.",
+        "whyItMatters": "This chapter is essential for BBS year 2 examinations and provides practical knowledge applicable to business and commerce careers in Nepal.",
+        "prerequisites": [
+          "Previous year coursework"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Core Concepts: Introduction to Statistics",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental concepts of Introduction to Statistics. Students will learn the essential theories, definitions, and frameworks that form the basis of this chapter.\n\nA solid understanding of these fundamentals is necessary for tackling examination questions and for practical application in real-world business scenarios.",
+          "keyPoints": [
+            "Key theories and frameworks",
+            "Essential definitions",
+            "Foundational principles",
+            "TU examination relevance"
+          ],
+          "formula": null,
+          "examTip": "In TU exams, start long answers with a clear definition, followed by explanation and examples. This structure typically earns the highest marks."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Applied Introduction to Statistics",
+          "difficulty": "intermediate",
+          "explanation": "Building on the foundational concepts, this topic explores practical applications of Introduction to Statistics in business contexts. Case studies and examples relevant to Nepal's business environment are emphasized.",
+          "keyPoints": [
+            "Real-world business applications",
+            "Case study approach",
+            "Nepal-specific examples",
+            "Problem-solving framework"
+          ],
+          "formula": null,
+          "examTip": "TU often asks case-based questions. Practice applying theoretical concepts to practical scenarios."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Measures of Central Tendency",
+      "shortIntro": "BBS year-2: Measures of Central Tendency — comprehensive study material.",
+      "introduction": {
+        "overview": "Measures of Central Tendency is a key chapter in the BBS Business Statistics curriculum for year 2. This chapter provides students with the knowledge and skills needed for success in their university examinations and future professional careers.\n\nThe content is designed according to Tribhuvan University's approved syllabus and covers both theoretical frameworks and practical applications. Students are expected to demonstrate analytical thinking and the ability to apply concepts to business scenarios.\n\nRegular attendance in lectures, combined with self-study using recommended textbooks, is essential for mastering this chapter. Past examination papers from TU provide valuable insight into the types of questions that are typically asked.\n\nThis chapter forms an important foundation for advanced topics that students will encounter in subsequent years of their BBS program.",
+        "whyItMatters": "This chapter is essential for BBS year 2 examinations and provides practical knowledge applicable to business and commerce careers in Nepal.",
+        "prerequisites": [
+          "Previous year coursework"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Core Concepts: Measures of Central Tendency",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental concepts of Measures of Central Tendency. Students will learn the essential theories, definitions, and frameworks that form the basis of this chapter.\n\nA solid understanding of these fundamentals is necessary for tackling examination questions and for practical application in real-world business scenarios.",
+          "keyPoints": [
+            "Key theories and frameworks",
+            "Essential definitions",
+            "Foundational principles",
+            "TU examination relevance"
+          ],
+          "formula": null,
+          "examTip": "In TU exams, start long answers with a clear definition, followed by explanation and examples. This structure typically earns the highest marks."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Applied Measures of Central Tendency",
+          "difficulty": "intermediate",
+          "explanation": "Building on the foundational concepts, this topic explores practical applications of Measures of Central Tendency in business contexts. Case studies and examples relevant to Nepal's business environment are emphasized.",
+          "keyPoints": [
+            "Real-world business applications",
+            "Case study approach",
+            "Nepal-specific examples",
+            "Problem-solving framework"
+          ],
+          "formula": null,
+          "examTip": "TU often asks case-based questions. Practice applying theoretical concepts to practical scenarios."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Probability",
+      "shortIntro": "BBS year-2: Probability — comprehensive study material.",
+      "introduction": {
+        "overview": "Probability is a key chapter in the BBS Business Statistics curriculum for year 2. This chapter provides students with the knowledge and skills needed for success in their university examinations and future professional careers.\n\nThe content is designed according to Tribhuvan University's approved syllabus and covers both theoretical frameworks and practical applications. Students are expected to demonstrate analytical thinking and the ability to apply concepts to business scenarios.\n\nRegular attendance in lectures, combined with self-study using recommended textbooks, is essential for mastering this chapter. Past examination papers from TU provide valuable insight into the types of questions that are typically asked.\n\nThis chapter forms an important foundation for advanced topics that students will encounter in subsequent years of their BBS program.",
+        "whyItMatters": "This chapter is essential for BBS year 2 examinations and provides practical knowledge applicable to business and commerce careers in Nepal.",
+        "prerequisites": [
+          "Previous year coursework"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Core Concepts: Probability",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental concepts of Probability. Students will learn the essential theories, definitions, and frameworks that form the basis of this chapter.\n\nA solid understanding of these fundamentals is necessary for tackling examination questions and for practical application in real-world business scenarios.",
+          "keyPoints": [
+            "Key theories and frameworks",
+            "Essential definitions",
+            "Foundational principles",
+            "TU examination relevance"
+          ],
+          "formula": null,
+          "examTip": "In TU exams, start long answers with a clear definition, followed by explanation and examples. This structure typically earns the highest marks."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Applied Probability",
+          "difficulty": "intermediate",
+          "explanation": "Building on the foundational concepts, this topic explores practical applications of Probability in business contexts. Case studies and examples relevant to Nepal's business environment are emphasized.",
+          "keyPoints": [
+            "Real-world business applications",
+            "Case study approach",
+            "Nepal-specific examples",
+            "Problem-solving framework"
+          ],
+          "formula": null,
+          "examTip": "TU often asks case-based questions. Practice applying theoretical concepts to practical scenarios."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Correlation and Regression",
+      "shortIntro": "BBS year-2: Correlation and Regression — comprehensive study material.",
+      "introduction": {
+        "overview": "Correlation and Regression is a key chapter in the BBS Business Statistics curriculum for year 2. This chapter provides students with the knowledge and skills needed for success in their university examinations and future professional careers.\n\nThe content is designed according to Tribhuvan University's approved syllabus and covers both theoretical frameworks and practical applications. Students are expected to demonstrate analytical thinking and the ability to apply concepts to business scenarios.\n\nRegular attendance in lectures, combined with self-study using recommended textbooks, is essential for mastering this chapter. Past examination papers from TU provide valuable insight into the types of questions that are typically asked.\n\nThis chapter forms an important foundation for advanced topics that students will encounter in subsequent years of their BBS program.",
+        "whyItMatters": "This chapter is essential for BBS year 2 examinations and provides practical knowledge applicable to business and commerce careers in Nepal.",
+        "prerequisites": [
+          "Previous year coursework"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Core Concepts: Correlation and Regression",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental concepts of Correlation and Regression. Students will learn the essential theories, definitions, and frameworks that form the basis of this chapter.\n\nA solid understanding of these fundamentals is necessary for tackling examination questions and for practical application in real-world business scenarios.",
+          "keyPoints": [
+            "Key theories and frameworks",
+            "Essential definitions",
+            "Foundational principles",
+            "TU examination relevance"
+          ],
+          "formula": null,
+          "examTip": "In TU exams, start long answers with a clear definition, followed by explanation and examples. This structure typically earns the highest marks."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Applied Correlation and Regression",
+          "difficulty": "intermediate",
+          "explanation": "Building on the foundational concepts, this topic explores practical applications of Correlation and Regression in business contexts. Case studies and examples relevant to Nepal's business environment are emphasized.",
+          "keyPoints": [
+            "Real-world business applications",
+            "Case study approach",
+            "Nepal-specific examples",
+            "Problem-solving framework"
+          ],
+          "formula": null,
+          "examTip": "TU often asks case-based questions. Practice applying theoretical concepts to practical scenarios."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Index Numbers",
+      "shortIntro": "BBS year-2: Index Numbers — comprehensive study material.",
+      "introduction": {
+        "overview": "Index Numbers is a key chapter in the BBS Business Statistics curriculum for year 2. This chapter provides students with the knowledge and skills needed for success in their university examinations and future professional careers.\n\nThe content is designed according to Tribhuvan University's approved syllabus and covers both theoretical frameworks and practical applications. Students are expected to demonstrate analytical thinking and the ability to apply concepts to business scenarios.\n\nRegular attendance in lectures, combined with self-study using recommended textbooks, is essential for mastering this chapter. Past examination papers from TU provide valuable insight into the types of questions that are typically asked.\n\nThis chapter forms an important foundation for advanced topics that students will encounter in subsequent years of their BBS program.",
+        "whyItMatters": "This chapter is essential for BBS year 2 examinations and provides practical knowledge applicable to business and commerce careers in Nepal.",
+        "prerequisites": [
+          "Previous year coursework"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Core Concepts: Index Numbers",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental concepts of Index Numbers. Students will learn the essential theories, definitions, and frameworks that form the basis of this chapter.\n\nA solid understanding of these fundamentals is necessary for tackling examination questions and for practical application in real-world business scenarios.",
+          "keyPoints": [
+            "Key theories and frameworks",
+            "Essential definitions",
+            "Foundational principles",
+            "TU examination relevance"
+          ],
+          "formula": null,
+          "examTip": "In TU exams, start long answers with a clear definition, followed by explanation and examples. This structure typically earns the highest marks."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Applied Index Numbers",
+          "difficulty": "intermediate",
+          "explanation": "Building on the foundational concepts, this topic explores practical applications of Index Numbers in business contexts. Case studies and examples relevant to Nepal's business environment are emphasized.",
+          "keyPoints": [
+            "Real-world business applications",
+            "Case study approach",
+            "Nepal-specific examples",
+            "Problem-solving framework"
+          ],
+          "formula": null,
+          "examTip": "TU often asks case-based questions. Practice applying theoretical concepts to practical scenarios."
+        }
+      ]
+    }
+  ]
+}

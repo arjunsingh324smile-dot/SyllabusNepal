@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "program": "BBS",
+    "category": "bachelor",
+    "subCategory": "bbs",
+    "subject": "Microeconomics",
+    "subjectId": "microeconomics",
+    "color": "#DC2626",
+    "lastUpdated": "2025",
+    "semester": "year-1",
+    "totalChapters": 5
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Introduction to Economics",
+      "shortIntro": "BBS year-1: Introduction to Economics — comprehensive study material.",
+      "introduction": {
+        "overview": "Introduction to Economics is a key chapter in the BBS Microeconomics curriculum for year 1. This chapter provides students with the knowledge and skills needed for success in their university examinations and future professional careers.\n\nThe content is designed according to Tribhuvan University's approved syllabus and covers both theoretical frameworks and practical applications. Students are expected to demonstrate analytical thinking and the ability to apply concepts to business scenarios.\n\nRegular attendance in lectures, combined with self-study using recommended textbooks, is essential for mastering this chapter. Past examination papers from TU provide valuable insight into the types of questions that are typically asked.\n\nThis chapter forms an important foundation for advanced topics that students will encounter in subsequent years of their BBS program.",
+        "whyItMatters": "This chapter is essential for BBS year 1 examinations and provides practical knowledge applicable to business and commerce careers in Nepal.",
+        "prerequisites": [
+          "Previous year coursework"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Core Concepts: Introduction to Economics",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental concepts of Introduction to Economics. Students will learn the essential theories, definitions, and frameworks that form the basis of this chapter.\n\nA solid understanding of these fundamentals is necessary for tackling examination questions and for practical application in real-world business scenarios.",
+          "keyPoints": [
+            "Key theories and frameworks",
+            "Essential definitions",
+            "Foundational principles",
+            "TU examination relevance"
+          ],
+          "formula": null,
+          "examTip": "In TU exams, start long answers with a clear definition, followed by explanation and examples. This structure typically earns the highest marks."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Applied Introduction to Economics",
+          "difficulty": "intermediate",
+          "explanation": "Building on the foundational concepts, this topic explores practical applications of Introduction to Economics in business contexts. Case studies and examples relevant to Nepal's business environment are emphasized.",
+          "keyPoints": [
+            "Real-world business applications",
+            "Case study approach",
+            "Nepal-specific examples",
+            "Problem-solving framework"
+          ],
+          "formula": null,
+          "examTip": "TU often asks case-based questions. Practice applying theoretical concepts to practical scenarios."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Demand and Supply",
+      "shortIntro": "BBS year-1: Demand and Supply — comprehensive study material.",
+      "introduction": {
+        "overview": "Demand and Supply is a key chapter in the BBS Microeconomics curriculum for year 1. This chapter provides students with the knowledge and skills needed for success in their university examinations and future professional careers.\n\nThe content is designed according to Tribhuvan University's approved syllabus and covers both theoretical frameworks and practical applications. Students are expected to demonstrate analytical thinking and the ability to apply concepts to business scenarios.\n\nRegular attendance in lectures, combined with self-study using recommended textbooks, is essential for mastering this chapter. Past examination papers from TU provide valuable insight into the types of questions that are typically asked.\n\nThis chapter forms an important foundation for advanced topics that students will encounter in subsequent years of their BBS program.",
+        "whyItMatters": "This chapter is essential for BBS year 1 examinations and provides practical knowledge applicable to business and commerce careers in Nepal.",
+        "prerequisites": [
+          "Previous year coursework"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Core Concepts: Demand and Supply",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental concepts of Demand and Supply. Students will learn the essential theories, definitions, and frameworks that form the basis of this chapter.\n\nA solid understanding of these fundamentals is necessary for tackling examination questions and for practical application in real-world business scenarios.",
+          "keyPoints": [
+            "Key theories and frameworks",
+            "Essential definitions",
+            "Foundational principles",
+            "TU examination relevance"
+          ],
+          "formula": null,
+          "examTip": "In TU exams, start long answers with a clear definition, followed by explanation and examples. This structure typically earns the highest marks."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Applied Demand and Supply",
+          "difficulty": "intermediate",
+          "explanation": "Building on the foundational concepts, this topic explores practical applications of Demand and Supply in business contexts. Case studies and examples relevant to Nepal's business environment are emphasized.",
+          "keyPoints": [
+            "Real-world business applications",
+            "Case study approach",
+            "Nepal-specific examples",
+            "Problem-solving framework"
+          ],
+          "formula": null,
+          "examTip": "TU often asks case-based questions. Practice applying theoretical concepts to practical scenarios."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Consumer Behavior",
+      "shortIntro": "BBS year-1: Consumer Behavior — comprehensive study material.",
+      "introduction": {
+        "overview": "Consumer Behavior is a key chapter in the BBS Microeconomics curriculum for year 1. This chapter provides students with the knowledge and skills needed for success in their university examinations and future professional careers.\n\nThe content is designed according to Tribhuvan University's approved syllabus and covers both theoretical frameworks and practical applications. Students are expected to demonstrate analytical thinking and the ability to apply concepts to business scenarios.\n\nRegular attendance in lectures, combined with self-study using recommended textbooks, is essential for mastering this chapter. Past examination papers from TU provide valuable insight into the types of questions that are typically asked.\n\nThis chapter forms an important foundation for advanced topics that students will encounter in subsequent years of their BBS program.",
+        "whyItMatters": "This chapter is essential for BBS year 1 examinations and provides practical knowledge applicable to business and commerce careers in Nepal.",
+        "prerequisites": [
+          "Previous year coursework"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Core Concepts: Consumer Behavior",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental concepts of Consumer Behavior. Students will learn the essential theories, definitions, and frameworks that form the basis of this chapter.\n\nA solid understanding of these fundamentals is necessary for tackling examination questions and for practical application in real-world business scenarios.",
+          "keyPoints": [
+            "Key theories and frameworks",
+            "Essential definitions",
+            "Foundational principles",
+            "TU examination relevance"
+          ],
+          "formula": null,
+          "examTip": "In TU exams, start long answers with a clear definition, followed by explanation and examples. This structure typically earns the highest marks."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Applied Consumer Behavior",
+          "difficulty": "intermediate",
+          "explanation": "Building on the foundational concepts, this topic explores practical applications of Consumer Behavior in business contexts. Case studies and examples relevant to Nepal's business environment are emphasized.",
+          "keyPoints": [
+            "Real-world business applications",
+            "Case study approach",
+            "Nepal-specific examples",
+            "Problem-solving framework"
+          ],
+          "formula": null,
+          "examTip": "TU often asks case-based questions. Practice applying theoretical concepts to practical scenarios."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Production Theory",
+      "shortIntro": "BBS year-1: Production Theory — comprehensive study material.",
+      "introduction": {
+        "overview": "Production Theory is a key chapter in the BBS Microeconomics curriculum for year 1. This chapter provides students with the knowledge and skills needed for success in their university examinations and future professional careers.\n\nThe content is designed according to Tribhuvan University's approved syllabus and covers both theoretical frameworks and practical applications. Students are expected to demonstrate analytical thinking and the ability to apply concepts to business scenarios.\n\nRegular attendance in lectures, combined with self-study using recommended textbooks, is essential for mastering this chapter. Past examination papers from TU provide valuable insight into the types of questions that are typically asked.\n\nThis chapter forms an important foundation for advanced topics that students will encounter in subsequent years of their BBS program.",
+        "whyItMatters": "This chapter is essential for BBS year 1 examinations and provides practical knowledge applicable to business and commerce careers in Nepal.",
+        "prerequisites": [
+          "Previous year coursework"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Core Concepts: Production Theory",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental concepts of Production Theory. Students will learn the essential theories, definitions, and frameworks that form the basis of this chapter.\n\nA solid understanding of these fundamentals is necessary for tackling examination questions and for practical application in real-world business scenarios.",
+          "keyPoints": [
+            "Key theories and frameworks",
+            "Essential definitions",
+            "Foundational principles",
+            "TU examination relevance"
+          ],
+          "formula": null,
+          "examTip": "In TU exams, start long answers with a clear definition, followed by explanation and examples. This structure typically earns the highest marks."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Applied Production Theory",
+          "difficulty": "intermediate",
+          "explanation": "Building on the foundational concepts, this topic explores practical applications of Production Theory in business contexts. Case studies and examples relevant to Nepal's business environment are emphasized.",
+          "keyPoints": [
+            "Real-world business applications",
+            "Case study approach",
+            "Nepal-specific examples",
+            "Problem-solving framework"
+          ],
+          "formula": null,
+          "examTip": "TU often asks case-based questions. Practice applying theoretical concepts to practical scenarios."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Market Structure",
+      "shortIntro": "BBS year-1: Market Structure — comprehensive study material.",
+      "introduction": {
+        "overview": "Market Structure is a key chapter in the BBS Microeconomics curriculum for year 1. This chapter provides students with the knowledge and skills needed for success in their university examinations and future professional careers.\n\nThe content is designed according to Tribhuvan University's approved syllabus and covers both theoretical frameworks and practical applications. Students are expected to demonstrate analytical thinking and the ability to apply concepts to business scenarios.\n\nRegular attendance in lectures, combined with self-study using recommended textbooks, is essential for mastering this chapter. Past examination papers from TU provide valuable insight into the types of questions that are typically asked.\n\nThis chapter forms an important foundation for advanced topics that students will encounter in subsequent years of their BBS program.",
+        "whyItMatters": "This chapter is essential for BBS year 1 examinations and provides practical knowledge applicable to business and commerce careers in Nepal.",
+        "prerequisites": [
+          "Previous year coursework"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Core Concepts: Market Structure",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental concepts of Market Structure. Students will learn the essential theories, definitions, and frameworks that form the basis of this chapter.\n\nA solid understanding of these fundamentals is necessary for tackling examination questions and for practical application in real-world business scenarios.",
+          "keyPoints": [
+            "Key theories and frameworks",
+            "Essential definitions",
+            "Foundational principles",
+            "TU examination relevance"
+          ],
+          "formula": null,
+          "examTip": "In TU exams, start long answers with a clear definition, followed by explanation and examples. This structure typically earns the highest marks."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Applied Market Structure",
+          "difficulty": "intermediate",
+          "explanation": "Building on the foundational concepts, this topic explores practical applications of Market Structure in business contexts. Case studies and examples relevant to Nepal's business environment are emphasized.",
+          "keyPoints": [
+            "Real-world business applications",
+            "Case study approach",
+            "Nepal-specific examples",
+            "Problem-solving framework"
+          ],
+          "formula": null,
+          "examTip": "TU often asks case-based questions. Practice applying theoretical concepts to practical scenarios."
+        }
+      ]
+    }
+  ]
+}

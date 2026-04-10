@@ -1,0 +1,264 @@
+{
+  "meta": {
+    "program": "CMAT",
+    "category": "entrance",
+    "subCategory": "cmat",
+    "subject": "Verbal Ability",
+    "subjectId": "verbal-ability",
+    "color": "#D97706",
+    "lastUpdated": "2025",
+    "totalChapters": 5
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Reading Comprehension",
+      "shortIntro": "CMAT: Reading Comprehension — exam preparation guide.",
+      "introduction": {
+        "overview": "Reading Comprehension is a critical topic for the CMAT examination. This chapter covers the complete syllabus content as specified by the conducting body, with focus on the types of questions that appear in the entrance test.\n\nThe CMAT is one of the most competitive entrance examinations in Nepal, and thorough preparation of Reading Comprehension is essential for achieving a high rank. Past papers analysis shows that this topic consistently carries significant marks.\n\nStudents should combine systematic study with timed practice tests. Focus on accuracy first, then work on speed. Understanding concepts deeply is more effective than memorizing formulas, as the examination tests analytical ability.\n\nA structured preparation plan covering this chapter, combined with regular revision and mock tests, will maximize your chances of success in the CMAT.",
+        "whyItMatters": "High-frequency topic in CMAT. Thorough preparation of Reading Comprehension can significantly improve your entrance rank. Multiple questions appear from this chapter every year.",
+        "prerequisites": [
+          "NEB Grade 11-12 syllabus knowledge"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Core Concepts: Reading Comprehension",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential concepts of Reading Comprehension that are tested in the CMAT examination. Focus is on building a solid understanding that enables quick and accurate problem-solving under exam conditions.\n\nStudents should practice with past entrance papers and model questions to familiarize themselves with the question patterns.",
+          "keyPoints": [
+            "Key formulas and principles",
+            "Common question patterns",
+            "Quick-solving techniques",
+            "High-frequency topics"
+          ],
+          "formula": null,
+          "examTip": "In CMAT, time management is crucial. Practice solving MCQs within 60-90 seconds per question."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Problem Solving: Reading Comprehension",
+          "difficulty": "advanced",
+          "explanation": "Advanced problem-solving techniques for Reading Comprehension in the context of competitive entrance examination. This topic covers shortcuts, elimination strategies, and advanced methods.\n\nFocus on the most frequently tested areas and develop systematic approaches to solve problems efficiently.",
+          "keyPoints": [
+            "Shortcut methods",
+            "Elimination techniques",
+            "Common traps to avoid",
+            "Previous year patterns"
+          ],
+          "formula": null,
+          "examTip": "Review the last 5 years of CMAT papers for Reading Comprehension. Identify the most repeated question types."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Sentence Correction",
+      "shortIntro": "CMAT: Sentence Correction — exam preparation guide.",
+      "introduction": {
+        "overview": "Sentence Correction is a critical topic for the CMAT examination. This chapter covers the complete syllabus content as specified by the conducting body, with focus on the types of questions that appear in the entrance test.\n\nThe CMAT is one of the most competitive entrance examinations in Nepal, and thorough preparation of Sentence Correction is essential for achieving a high rank. Past papers analysis shows that this topic consistently carries significant marks.\n\nStudents should combine systematic study with timed practice tests. Focus on accuracy first, then work on speed. Understanding concepts deeply is more effective than memorizing formulas, as the examination tests analytical ability.\n\nA structured preparation plan covering this chapter, combined with regular revision and mock tests, will maximize your chances of success in the CMAT.",
+        "whyItMatters": "High-frequency topic in CMAT. Thorough preparation of Sentence Correction can significantly improve your entrance rank. Multiple questions appear from this chapter every year.",
+        "prerequisites": [
+          "NEB Grade 11-12 syllabus knowledge"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Core Concepts: Sentence Correction",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential concepts of Sentence Correction that are tested in the CMAT examination. Focus is on building a solid understanding that enables quick and accurate problem-solving under exam conditions.\n\nStudents should practice with past entrance papers and model questions to familiarize themselves with the question patterns.",
+          "keyPoints": [
+            "Key formulas and principles",
+            "Common question patterns",
+            "Quick-solving techniques",
+            "High-frequency topics"
+          ],
+          "formula": null,
+          "examTip": "In CMAT, time management is crucial. Practice solving MCQs within 60-90 seconds per question."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Problem Solving: Sentence Correction",
+          "difficulty": "advanced",
+          "explanation": "Advanced problem-solving techniques for Sentence Correction in the context of competitive entrance examination. This topic covers shortcuts, elimination strategies, and advanced methods.\n\nFocus on the most frequently tested areas and develop systematic approaches to solve problems efficiently.",
+          "keyPoints": [
+            "Shortcut methods",
+            "Elimination techniques",
+            "Common traps to avoid",
+            "Previous year patterns"
+          ],
+          "formula": null,
+          "examTip": "Review the last 5 years of CMAT papers for Sentence Correction. Identify the most repeated question types."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Vocabulary",
+      "shortIntro": "CMAT: Vocabulary — exam preparation guide.",
+      "introduction": {
+        "overview": "Vocabulary is a critical topic for the CMAT examination. This chapter covers the complete syllabus content as specified by the conducting body, with focus on the types of questions that appear in the entrance test.\n\nThe CMAT is one of the most competitive entrance examinations in Nepal, and thorough preparation of Vocabulary is essential for achieving a high rank. Past papers analysis shows that this topic consistently carries significant marks.\n\nStudents should combine systematic study with timed practice tests. Focus on accuracy first, then work on speed. Understanding concepts deeply is more effective than memorizing formulas, as the examination tests analytical ability.\n\nA structured preparation plan covering this chapter, combined with regular revision and mock tests, will maximize your chances of success in the CMAT.",
+        "whyItMatters": "High-frequency topic in CMAT. Thorough preparation of Vocabulary can significantly improve your entrance rank. Multiple questions appear from this chapter every year.",
+        "prerequisites": [
+          "NEB Grade 11-12 syllabus knowledge"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Core Concepts: Vocabulary",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential concepts of Vocabulary that are tested in the CMAT examination. Focus is on building a solid understanding that enables quick and accurate problem-solving under exam conditions.\n\nStudents should practice with past entrance papers and model questions to familiarize themselves with the question patterns.",
+          "keyPoints": [
+            "Key formulas and principles",
+            "Common question patterns",
+            "Quick-solving techniques",
+            "High-frequency topics"
+          ],
+          "formula": null,
+          "examTip": "In CMAT, time management is crucial. Practice solving MCQs within 60-90 seconds per question."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Problem Solving: Vocabulary",
+          "difficulty": "advanced",
+          "explanation": "Advanced problem-solving techniques for Vocabulary in the context of competitive entrance examination. This topic covers shortcuts, elimination strategies, and advanced methods.\n\nFocus on the most frequently tested areas and develop systematic approaches to solve problems efficiently.",
+          "keyPoints": [
+            "Shortcut methods",
+            "Elimination techniques",
+            "Common traps to avoid",
+            "Previous year patterns"
+          ],
+          "formula": null,
+          "examTip": "Review the last 5 years of CMAT papers for Vocabulary. Identify the most repeated question types."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Analogies",
+      "shortIntro": "CMAT: Analogies — exam preparation guide.",
+      "introduction": {
+        "overview": "Analogies is a critical topic for the CMAT examination. This chapter covers the complete syllabus content as specified by the conducting body, with focus on the types of questions that appear in the entrance test.\n\nThe CMAT is one of the most competitive entrance examinations in Nepal, and thorough preparation of Analogies is essential for achieving a high rank. Past papers analysis shows that this topic consistently carries significant marks.\n\nStudents should combine systematic study with timed practice tests. Focus on accuracy first, then work on speed. Understanding concepts deeply is more effective than memorizing formulas, as the examination tests analytical ability.\n\nA structured preparation plan covering this chapter, combined with regular revision and mock tests, will maximize your chances of success in the CMAT.",
+        "whyItMatters": "High-frequency topic in CMAT. Thorough preparation of Analogies can significantly improve your entrance rank. Multiple questions appear from this chapter every year.",
+        "prerequisites": [
+          "NEB Grade 11-12 syllabus knowledge"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Core Concepts: Analogies",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential concepts of Analogies that are tested in the CMAT examination. Focus is on building a solid understanding that enables quick and accurate problem-solving under exam conditions.\n\nStudents should practice with past entrance papers and model questions to familiarize themselves with the question patterns.",
+          "keyPoints": [
+            "Key formulas and principles",
+            "Common question patterns",
+            "Quick-solving techniques",
+            "High-frequency topics"
+          ],
+          "formula": null,
+          "examTip": "In CMAT, time management is crucial. Practice solving MCQs within 60-90 seconds per question."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Problem Solving: Analogies",
+          "difficulty": "advanced",
+          "explanation": "Advanced problem-solving techniques for Analogies in the context of competitive entrance examination. This topic covers shortcuts, elimination strategies, and advanced methods.\n\nFocus on the most frequently tested areas and develop systematic approaches to solve problems efficiently.",
+          "keyPoints": [
+            "Shortcut methods",
+            "Elimination techniques",
+            "Common traps to avoid",
+            "Previous year patterns"
+          ],
+          "formula": null,
+          "examTip": "Review the last 5 years of CMAT papers for Analogies. Identify the most repeated question types."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Para Jumbles",
+      "shortIntro": "CMAT: Para Jumbles — exam preparation guide.",
+      "introduction": {
+        "overview": "Para Jumbles is a critical topic for the CMAT examination. This chapter covers the complete syllabus content as specified by the conducting body, with focus on the types of questions that appear in the entrance test.\n\nThe CMAT is one of the most competitive entrance examinations in Nepal, and thorough preparation of Para Jumbles is essential for achieving a high rank. Past papers analysis shows that this topic consistently carries significant marks.\n\nStudents should combine systematic study with timed practice tests. Focus on accuracy first, then work on speed. Understanding concepts deeply is more effective than memorizing formulas, as the examination tests analytical ability.\n\nA structured preparation plan covering this chapter, combined with regular revision and mock tests, will maximize your chances of success in the CMAT.",
+        "whyItMatters": "High-frequency topic in CMAT. Thorough preparation of Para Jumbles can significantly improve your entrance rank. Multiple questions appear from this chapter every year.",
+        "prerequisites": [
+          "NEB Grade 11-12 syllabus knowledge"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Core Concepts: Para Jumbles",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential concepts of Para Jumbles that are tested in the CMAT examination. Focus is on building a solid understanding that enables quick and accurate problem-solving under exam conditions.\n\nStudents should practice with past entrance papers and model questions to familiarize themselves with the question patterns.",
+          "keyPoints": [
+            "Key formulas and principles",
+            "Common question patterns",
+            "Quick-solving techniques",
+            "High-frequency topics"
+          ],
+          "formula": null,
+          "examTip": "In CMAT, time management is crucial. Practice solving MCQs within 60-90 seconds per question."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Problem Solving: Para Jumbles",
+          "difficulty": "advanced",
+          "explanation": "Advanced problem-solving techniques for Para Jumbles in the context of competitive entrance examination. This topic covers shortcuts, elimination strategies, and advanced methods.\n\nFocus on the most frequently tested areas and develop systematic approaches to solve problems efficiently.",
+          "keyPoints": [
+            "Shortcut methods",
+            "Elimination techniques",
+            "Common traps to avoid",
+            "Previous year patterns"
+          ],
+          "formula": null,
+          "examTip": "Review the last 5 years of CMAT papers for Para Jumbles. Identify the most repeated question types."
+        }
+      ]
+    }
+  ]
+}

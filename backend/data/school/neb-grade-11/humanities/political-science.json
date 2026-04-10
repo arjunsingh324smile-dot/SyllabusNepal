@@ -1,0 +1,315 @@
+{
+  "meta": {
+    "program": "NEB Grade 11",
+    "category": "school",
+    "subCategory": "neb-grade-11",
+    "subject": "Political Science",
+    "subjectId": "political-science",
+    "color": "#DC2626",
+    "lastUpdated": "2025",
+    "stream": "humanities",
+    "totalChapters": 6
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Political Theory",
+      "shortIntro": "NEB Grade 11 humanities stream: Political Theory.",
+      "introduction": {
+        "overview": "Political Theory is a crucial chapter in the NEB Grade 11 Political Science syllabus under the humanities stream. This chapter is designed according to the NEB curriculum framework and covers both theoretical and applied aspects of the topic.\n\nStudents studying in the humanities stream at Grade 11 level will find this chapter essential for their board examinations. The NEB has consistently included questions from this chapter, making it a priority for exam preparation.\n\nThe content builds on secondary-level knowledge and introduces concepts at a higher academic level. Students should regularly practice problems and review past NEB question papers to understand the examination pattern.\n\nBy mastering this chapter, students will develop a strong conceptual foundation that will serve them well in higher education, whether pursuing a bachelor's degree or preparing for entrance examinations.",
+        "whyItMatters": "This chapter is frequently tested in NEB Grade 11 examinations. A strong grasp of Political Theory provides both examination success and practical knowledge for future studies.",
+        "prerequisites": [
+          "Grade 10 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Introduction to Political Theory",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Political Theory as studied in Grade 11 humanities stream. The fundamental concepts, definitions, and principles are covered here.\n\nStudents should aim to understand the conceptual basis thoroughly, as NEB questions often test understanding rather than mere recall.",
+          "keyPoints": [
+            "Core principles of Political Theory",
+            "Definitions and terminology",
+            "Historical context and development",
+            "Applications in daily life"
+          ],
+          "formula": null,
+          "examTip": "NEB Grade 11 often includes short-answer questions testing conceptual clarity. Be precise in your definitions."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Applications of Political Theory",
+          "difficulty": "intermediate",
+          "explanation": "This topic explores how the concepts of Political Theory are applied in practical scenarios and examination contexts. Problem-solving skills are developed through guided examples and practice.",
+          "keyPoints": [
+            "Analytical problem-solving techniques",
+            "Real-world application examples",
+            "Common NEB question formats",
+            "Tips for comprehensive answers"
+          ],
+          "formula": null,
+          "examTip": "For long-answer questions in NEB exams, structure your response with an introduction, main body with examples, and conclusion."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Government Systems",
+      "shortIntro": "NEB Grade 11 humanities stream: Government Systems.",
+      "introduction": {
+        "overview": "Government Systems is a crucial chapter in the NEB Grade 11 Political Science syllabus under the humanities stream. This chapter is designed according to the NEB curriculum framework and covers both theoretical and applied aspects of the topic.\n\nStudents studying in the humanities stream at Grade 11 level will find this chapter essential for their board examinations. The NEB has consistently included questions from this chapter, making it a priority for exam preparation.\n\nThe content builds on secondary-level knowledge and introduces concepts at a higher academic level. Students should regularly practice problems and review past NEB question papers to understand the examination pattern.\n\nBy mastering this chapter, students will develop a strong conceptual foundation that will serve them well in higher education, whether pursuing a bachelor's degree or preparing for entrance examinations.",
+        "whyItMatters": "This chapter is frequently tested in NEB Grade 11 examinations. A strong grasp of Government Systems provides both examination success and practical knowledge for future studies.",
+        "prerequisites": [
+          "Grade 10 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Introduction to Government Systems",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Government Systems as studied in Grade 11 humanities stream. The fundamental concepts, definitions, and principles are covered here.\n\nStudents should aim to understand the conceptual basis thoroughly, as NEB questions often test understanding rather than mere recall.",
+          "keyPoints": [
+            "Core principles of Government Systems",
+            "Definitions and terminology",
+            "Historical context and development",
+            "Applications in daily life"
+          ],
+          "formula": null,
+          "examTip": "NEB Grade 11 often includes short-answer questions testing conceptual clarity. Be precise in your definitions."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Applications of Government Systems",
+          "difficulty": "intermediate",
+          "explanation": "This topic explores how the concepts of Government Systems are applied in practical scenarios and examination contexts. Problem-solving skills are developed through guided examples and practice.",
+          "keyPoints": [
+            "Analytical problem-solving techniques",
+            "Real-world application examples",
+            "Common NEB question formats",
+            "Tips for comprehensive answers"
+          ],
+          "formula": null,
+          "examTip": "For long-answer questions in NEB exams, structure your response with an introduction, main body with examples, and conclusion."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Constitution of Nepal",
+      "shortIntro": "NEB Grade 11 humanities stream: Constitution of Nepal.",
+      "introduction": {
+        "overview": "Constitution of Nepal is a crucial chapter in the NEB Grade 11 Political Science syllabus under the humanities stream. This chapter is designed according to the NEB curriculum framework and covers both theoretical and applied aspects of the topic.\n\nStudents studying in the humanities stream at Grade 11 level will find this chapter essential for their board examinations. The NEB has consistently included questions from this chapter, making it a priority for exam preparation.\n\nThe content builds on secondary-level knowledge and introduces concepts at a higher academic level. Students should regularly practice problems and review past NEB question papers to understand the examination pattern.\n\nBy mastering this chapter, students will develop a strong conceptual foundation that will serve them well in higher education, whether pursuing a bachelor's degree or preparing for entrance examinations.",
+        "whyItMatters": "This chapter is frequently tested in NEB Grade 11 examinations. A strong grasp of Constitution of Nepal provides both examination success and practical knowledge for future studies.",
+        "prerequisites": [
+          "Grade 10 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Introduction to Constitution of Nepal",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Constitution of Nepal as studied in Grade 11 humanities stream. The fundamental concepts, definitions, and principles are covered here.\n\nStudents should aim to understand the conceptual basis thoroughly, as NEB questions often test understanding rather than mere recall.",
+          "keyPoints": [
+            "Core principles of Constitution of Nepal",
+            "Definitions and terminology",
+            "Historical context and development",
+            "Applications in daily life"
+          ],
+          "formula": null,
+          "examTip": "NEB Grade 11 often includes short-answer questions testing conceptual clarity. Be precise in your definitions."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Applications of Constitution of Nepal",
+          "difficulty": "intermediate",
+          "explanation": "This topic explores how the concepts of Constitution of Nepal are applied in practical scenarios and examination contexts. Problem-solving skills are developed through guided examples and practice.",
+          "keyPoints": [
+            "Analytical problem-solving techniques",
+            "Real-world application examples",
+            "Common NEB question formats",
+            "Tips for comprehensive answers"
+          ],
+          "formula": null,
+          "examTip": "For long-answer questions in NEB exams, structure your response with an introduction, main body with examples, and conclusion."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "International Relations",
+      "shortIntro": "NEB Grade 11 humanities stream: International Relations.",
+      "introduction": {
+        "overview": "International Relations is a crucial chapter in the NEB Grade 11 Political Science syllabus under the humanities stream. This chapter is designed according to the NEB curriculum framework and covers both theoretical and applied aspects of the topic.\n\nStudents studying in the humanities stream at Grade 11 level will find this chapter essential for their board examinations. The NEB has consistently included questions from this chapter, making it a priority for exam preparation.\n\nThe content builds on secondary-level knowledge and introduces concepts at a higher academic level. Students should regularly practice problems and review past NEB question papers to understand the examination pattern.\n\nBy mastering this chapter, students will develop a strong conceptual foundation that will serve them well in higher education, whether pursuing a bachelor's degree or preparing for entrance examinations.",
+        "whyItMatters": "This chapter is frequently tested in NEB Grade 11 examinations. A strong grasp of International Relations provides both examination success and practical knowledge for future studies.",
+        "prerequisites": [
+          "Grade 10 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Introduction to International Relations",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to International Relations as studied in Grade 11 humanities stream. The fundamental concepts, definitions, and principles are covered here.\n\nStudents should aim to understand the conceptual basis thoroughly, as NEB questions often test understanding rather than mere recall.",
+          "keyPoints": [
+            "Core principles of International Relations",
+            "Definitions and terminology",
+            "Historical context and development",
+            "Applications in daily life"
+          ],
+          "formula": null,
+          "examTip": "NEB Grade 11 often includes short-answer questions testing conceptual clarity. Be precise in your definitions."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Applications of International Relations",
+          "difficulty": "intermediate",
+          "explanation": "This topic explores how the concepts of International Relations are applied in practical scenarios and examination contexts. Problem-solving skills are developed through guided examples and practice.",
+          "keyPoints": [
+            "Analytical problem-solving techniques",
+            "Real-world application examples",
+            "Common NEB question formats",
+            "Tips for comprehensive answers"
+          ],
+          "formula": null,
+          "examTip": "For long-answer questions in NEB exams, structure your response with an introduction, main body with examples, and conclusion."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Political Parties",
+      "shortIntro": "NEB Grade 11 humanities stream: Political Parties.",
+      "introduction": {
+        "overview": "Political Parties is a crucial chapter in the NEB Grade 11 Political Science syllabus under the humanities stream. This chapter is designed according to the NEB curriculum framework and covers both theoretical and applied aspects of the topic.\n\nStudents studying in the humanities stream at Grade 11 level will find this chapter essential for their board examinations. The NEB has consistently included questions from this chapter, making it a priority for exam preparation.\n\nThe content builds on secondary-level knowledge and introduces concepts at a higher academic level. Students should regularly practice problems and review past NEB question papers to understand the examination pattern.\n\nBy mastering this chapter, students will develop a strong conceptual foundation that will serve them well in higher education, whether pursuing a bachelor's degree or preparing for entrance examinations.",
+        "whyItMatters": "This chapter is frequently tested in NEB Grade 11 examinations. A strong grasp of Political Parties provides both examination success and practical knowledge for future studies.",
+        "prerequisites": [
+          "Grade 10 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Introduction to Political Parties",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Political Parties as studied in Grade 11 humanities stream. The fundamental concepts, definitions, and principles are covered here.\n\nStudents should aim to understand the conceptual basis thoroughly, as NEB questions often test understanding rather than mere recall.",
+          "keyPoints": [
+            "Core principles of Political Parties",
+            "Definitions and terminology",
+            "Historical context and development",
+            "Applications in daily life"
+          ],
+          "formula": null,
+          "examTip": "NEB Grade 11 often includes short-answer questions testing conceptual clarity. Be precise in your definitions."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Applications of Political Parties",
+          "difficulty": "intermediate",
+          "explanation": "This topic explores how the concepts of Political Parties are applied in practical scenarios and examination contexts. Problem-solving skills are developed through guided examples and practice.",
+          "keyPoints": [
+            "Analytical problem-solving techniques",
+            "Real-world application examples",
+            "Common NEB question formats",
+            "Tips for comprehensive answers"
+          ],
+          "formula": null,
+          "examTip": "For long-answer questions in NEB exams, structure your response with an introduction, main body with examples, and conclusion."
+        }
+      ]
+    },
+    {
+      "id": "ch-6",
+      "number": 6,
+      "title": "Human Rights",
+      "shortIntro": "NEB Grade 11 humanities stream: Human Rights.",
+      "introduction": {
+        "overview": "Human Rights is a crucial chapter in the NEB Grade 11 Political Science syllabus under the humanities stream. This chapter is designed according to the NEB curriculum framework and covers both theoretical and applied aspects of the topic.\n\nStudents studying in the humanities stream at Grade 11 level will find this chapter essential for their board examinations. The NEB has consistently included questions from this chapter, making it a priority for exam preparation.\n\nThe content builds on secondary-level knowledge and introduces concepts at a higher academic level. Students should regularly practice problems and review past NEB question papers to understand the examination pattern.\n\nBy mastering this chapter, students will develop a strong conceptual foundation that will serve them well in higher education, whether pursuing a bachelor's degree or preparing for entrance examinations.",
+        "whyItMatters": "This chapter is frequently tested in NEB Grade 11 examinations. A strong grasp of Human Rights provides both examination success and practical knowledge for future studies.",
+        "prerequisites": [
+          "Grade 10 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-6-1",
+          "number": 1,
+          "name": "Introduction to Human Rights",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Human Rights as studied in Grade 11 humanities stream. The fundamental concepts, definitions, and principles are covered here.\n\nStudents should aim to understand the conceptual basis thoroughly, as NEB questions often test understanding rather than mere recall.",
+          "keyPoints": [
+            "Core principles of Human Rights",
+            "Definitions and terminology",
+            "Historical context and development",
+            "Applications in daily life"
+          ],
+          "formula": null,
+          "examTip": "NEB Grade 11 often includes short-answer questions testing conceptual clarity. Be precise in your definitions."
+        },
+        {
+          "id": "t-6-2",
+          "number": 2,
+          "name": "Applications of Human Rights",
+          "difficulty": "intermediate",
+          "explanation": "This topic explores how the concepts of Human Rights are applied in practical scenarios and examination contexts. Problem-solving skills are developed through guided examples and practice.",
+          "keyPoints": [
+            "Analytical problem-solving techniques",
+            "Real-world application examples",
+            "Common NEB question formats",
+            "Tips for comprehensive answers"
+          ],
+          "formula": null,
+          "examTip": "For long-answer questions in NEB exams, structure your response with an introduction, main body with examples, and conclusion."
+        }
+      ]
+    }
+  ]
+}

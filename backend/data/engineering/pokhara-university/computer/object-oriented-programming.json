@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "program": "Pokhara University",
+    "category": "engineering",
+    "subCategory": "pokhara-university",
+    "branch": "computer",
+    "subject": "Object-Oriented Programming",
+    "subjectId": "object-oriented-programming",
+    "color": "#059669",
+    "lastUpdated": "2025",
+    "totalChapters": 5
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "OOP Fundamentals",
+      "shortIntro": "Pokhara University computer engineering: OOP Fundamentals.",
+      "introduction": {
+        "overview": "OOP Fundamentals is a critical chapter in the Object-Oriented Programming course offered under the computer engineering program at Pokhara University. Engineering students must develop a deep understanding of this topic as it forms the basis for professional engineering practice.\n\nThe chapter combines theoretical analysis with practical problem-solving. Students should work through solved examples, practice unsolved problems, and relate theoretical concepts to real-world engineering applications.\n\nLaboratory sessions and tutorial classes complement the lecture content. Students are advised to maintain a problem-solving notebook and regularly review past examination papers for this subject.\n\nMastery of OOP Fundamentals is essential not only for university examinations but also for a successful engineering career.",
+        "whyItMatters": "Critical for computer engineering students — OOP Fundamentals is fundamental to professional practice and regularly tested in university examinations.",
+        "prerequisites": [
+          "Pre-requisite engineering courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Fundamentals of OOP Fundamentals",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential theoretical foundations of OOP Fundamentals as studied in computer engineering. Students learn key principles, derivations, and problem-solving methodologies.\n\nEngineering students should focus on understanding the underlying physics/mathematics rather than memorizing formulas.",
+          "keyPoints": [
+            "Key principles and derivations",
+            "Standard problem types",
+            "Engineering applications"
+          ],
+          "formula": null,
+          "examTip": "Show all derivation steps in exams. Partial marks are significant in engineering examinations."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Applications and Design",
+          "difficulty": "advanced",
+          "explanation": "Advanced applications of OOP Fundamentals in engineering design and analysis. This topic covers practical calculations, design criteria, and real-world engineering challenges.",
+          "keyPoints": [
+            "Design calculations",
+            "Safety factors and standards",
+            "Practical case studies"
+          ],
+          "formula": null,
+          "examTip": "Relate theoretical concepts to Nepal's engineering context where possible — examiners appreciate practical awareness."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Classes and Objects",
+      "shortIntro": "Pokhara University computer engineering: Classes and Objects.",
+      "introduction": {
+        "overview": "Classes and Objects is a critical chapter in the Object-Oriented Programming course offered under the computer engineering program at Pokhara University. Engineering students must develop a deep understanding of this topic as it forms the basis for professional engineering practice.\n\nThe chapter combines theoretical analysis with practical problem-solving. Students should work through solved examples, practice unsolved problems, and relate theoretical concepts to real-world engineering applications.\n\nLaboratory sessions and tutorial classes complement the lecture content. Students are advised to maintain a problem-solving notebook and regularly review past examination papers for this subject.\n\nMastery of Classes and Objects is essential not only for university examinations but also for a successful engineering career.",
+        "whyItMatters": "Critical for computer engineering students — Classes and Objects is fundamental to professional practice and regularly tested in university examinations.",
+        "prerequisites": [
+          "Pre-requisite engineering courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Fundamentals of Classes and Objects",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential theoretical foundations of Classes and Objects as studied in computer engineering. Students learn key principles, derivations, and problem-solving methodologies.\n\nEngineering students should focus on understanding the underlying physics/mathematics rather than memorizing formulas.",
+          "keyPoints": [
+            "Key principles and derivations",
+            "Standard problem types",
+            "Engineering applications"
+          ],
+          "formula": null,
+          "examTip": "Show all derivation steps in exams. Partial marks are significant in engineering examinations."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Applications and Design",
+          "difficulty": "advanced",
+          "explanation": "Advanced applications of Classes and Objects in engineering design and analysis. This topic covers practical calculations, design criteria, and real-world engineering challenges.",
+          "keyPoints": [
+            "Design calculations",
+            "Safety factors and standards",
+            "Practical case studies"
+          ],
+          "formula": null,
+          "examTip": "Relate theoretical concepts to Nepal's engineering context where possible — examiners appreciate practical awareness."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Inheritance",
+      "shortIntro": "Pokhara University computer engineering: Inheritance.",
+      "introduction": {
+        "overview": "Inheritance is a critical chapter in the Object-Oriented Programming course offered under the computer engineering program at Pokhara University. Engineering students must develop a deep understanding of this topic as it forms the basis for professional engineering practice.\n\nThe chapter combines theoretical analysis with practical problem-solving. Students should work through solved examples, practice unsolved problems, and relate theoretical concepts to real-world engineering applications.\n\nLaboratory sessions and tutorial classes complement the lecture content. Students are advised to maintain a problem-solving notebook and regularly review past examination papers for this subject.\n\nMastery of Inheritance is essential not only for university examinations but also for a successful engineering career.",
+        "whyItMatters": "Critical for computer engineering students — Inheritance is fundamental to professional practice and regularly tested in university examinations.",
+        "prerequisites": [
+          "Pre-requisite engineering courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Fundamentals of Inheritance",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential theoretical foundations of Inheritance as studied in computer engineering. Students learn key principles, derivations, and problem-solving methodologies.\n\nEngineering students should focus on understanding the underlying physics/mathematics rather than memorizing formulas.",
+          "keyPoints": [
+            "Key principles and derivations",
+            "Standard problem types",
+            "Engineering applications"
+          ],
+          "formula": null,
+          "examTip": "Show all derivation steps in exams. Partial marks are significant in engineering examinations."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Applications and Design",
+          "difficulty": "advanced",
+          "explanation": "Advanced applications of Inheritance in engineering design and analysis. This topic covers practical calculations, design criteria, and real-world engineering challenges.",
+          "keyPoints": [
+            "Design calculations",
+            "Safety factors and standards",
+            "Practical case studies"
+          ],
+          "formula": null,
+          "examTip": "Relate theoretical concepts to Nepal's engineering context where possible — examiners appreciate practical awareness."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Polymorphism",
+      "shortIntro": "Pokhara University computer engineering: Polymorphism.",
+      "introduction": {
+        "overview": "Polymorphism is a critical chapter in the Object-Oriented Programming course offered under the computer engineering program at Pokhara University. Engineering students must develop a deep understanding of this topic as it forms the basis for professional engineering practice.\n\nThe chapter combines theoretical analysis with practical problem-solving. Students should work through solved examples, practice unsolved problems, and relate theoretical concepts to real-world engineering applications.\n\nLaboratory sessions and tutorial classes complement the lecture content. Students are advised to maintain a problem-solving notebook and regularly review past examination papers for this subject.\n\nMastery of Polymorphism is essential not only for university examinations but also for a successful engineering career.",
+        "whyItMatters": "Critical for computer engineering students — Polymorphism is fundamental to professional practice and regularly tested in university examinations.",
+        "prerequisites": [
+          "Pre-requisite engineering courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Fundamentals of Polymorphism",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential theoretical foundations of Polymorphism as studied in computer engineering. Students learn key principles, derivations, and problem-solving methodologies.\n\nEngineering students should focus on understanding the underlying physics/mathematics rather than memorizing formulas.",
+          "keyPoints": [
+            "Key principles and derivations",
+            "Standard problem types",
+            "Engineering applications"
+          ],
+          "formula": null,
+          "examTip": "Show all derivation steps in exams. Partial marks are significant in engineering examinations."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Applications and Design",
+          "difficulty": "advanced",
+          "explanation": "Advanced applications of Polymorphism in engineering design and analysis. This topic covers practical calculations, design criteria, and real-world engineering challenges.",
+          "keyPoints": [
+            "Design calculations",
+            "Safety factors and standards",
+            "Practical case studies"
+          ],
+          "formula": null,
+          "examTip": "Relate theoretical concepts to Nepal's engineering context where possible — examiners appreciate practical awareness."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Templates and STL",
+      "shortIntro": "Pokhara University computer engineering: Templates and STL.",
+      "introduction": {
+        "overview": "Templates and STL is a critical chapter in the Object-Oriented Programming course offered under the computer engineering program at Pokhara University. Engineering students must develop a deep understanding of this topic as it forms the basis for professional engineering practice.\n\nThe chapter combines theoretical analysis with practical problem-solving. Students should work through solved examples, practice unsolved problems, and relate theoretical concepts to real-world engineering applications.\n\nLaboratory sessions and tutorial classes complement the lecture content. Students are advised to maintain a problem-solving notebook and regularly review past examination papers for this subject.\n\nMastery of Templates and STL is essential not only for university examinations but also for a successful engineering career.",
+        "whyItMatters": "Critical for computer engineering students — Templates and STL is fundamental to professional practice and regularly tested in university examinations.",
+        "prerequisites": [
+          "Pre-requisite engineering courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Fundamentals of Templates and STL",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential theoretical foundations of Templates and STL as studied in computer engineering. Students learn key principles, derivations, and problem-solving methodologies.\n\nEngineering students should focus on understanding the underlying physics/mathematics rather than memorizing formulas.",
+          "keyPoints": [
+            "Key principles and derivations",
+            "Standard problem types",
+            "Engineering applications"
+          ],
+          "formula": null,
+          "examTip": "Show all derivation steps in exams. Partial marks are significant in engineering examinations."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Applications and Design",
+          "difficulty": "advanced",
+          "explanation": "Advanced applications of Templates and STL in engineering design and analysis. This topic covers practical calculations, design criteria, and real-world engineering challenges.",
+          "keyPoints": [
+            "Design calculations",
+            "Safety factors and standards",
+            "Practical case studies"
+          ],
+          "formula": null,
+          "examTip": "Relate theoretical concepts to Nepal's engineering context where possible — examiners appreciate practical awareness."
+        }
+      ]
+    }
+  ]
+}

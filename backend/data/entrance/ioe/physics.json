@@ -1,0 +1,364 @@
+{
+  "meta": {
+    "program": "IOE Entrance",
+    "category": "entrance",
+    "subCategory": "ioe",
+    "subject": "Physics",
+    "subjectId": "physics",
+    "color": "#DC2626",
+    "lastUpdated": "2025",
+    "totalChapters": 7
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Mechanics",
+      "shortIntro": "IOE Entrance: Mechanics — exam preparation guide.",
+      "introduction": {
+        "overview": "Mechanics is a critical topic for the IOE Entrance examination. This chapter covers the complete syllabus content as specified by the conducting body, with focus on the types of questions that appear in the entrance test.\n\nThe IOE Entrance is one of the most competitive entrance examinations in Nepal, and thorough preparation of Mechanics is essential for achieving a high rank. Past papers analysis shows that this topic consistently carries significant marks.\n\nStudents should combine systematic study with timed practice tests. Focus on accuracy first, then work on speed. Understanding concepts deeply is more effective than memorizing formulas, as the examination tests analytical ability.\n\nA structured preparation plan covering this chapter, combined with regular revision and mock tests, will maximize your chances of success in the IOE Entrance.",
+        "whyItMatters": "High-frequency topic in IOE Entrance. Thorough preparation of Mechanics can significantly improve your entrance rank. Multiple questions appear from this chapter every year.",
+        "prerequisites": [
+          "NEB Grade 11-12 syllabus knowledge"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Core Concepts: Mechanics",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential concepts of Mechanics that are tested in the IOE Entrance examination. Focus is on building a solid understanding that enables quick and accurate problem-solving under exam conditions.\n\nStudents should practice with past entrance papers and model questions to familiarize themselves with the question patterns.",
+          "keyPoints": [
+            "Key formulas and principles",
+            "Common question patterns",
+            "Quick-solving techniques",
+            "High-frequency topics"
+          ],
+          "formula": null,
+          "examTip": "In IOE Entrance, time management is crucial. Practice solving MCQs within 60-90 seconds per question."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Problem Solving: Mechanics",
+          "difficulty": "advanced",
+          "explanation": "Advanced problem-solving techniques for Mechanics in the context of competitive entrance examination. This topic covers shortcuts, elimination strategies, and advanced methods.\n\nFocus on the most frequently tested areas and develop systematic approaches to solve problems efficiently.",
+          "keyPoints": [
+            "Shortcut methods",
+            "Elimination techniques",
+            "Common traps to avoid",
+            "Previous year patterns"
+          ],
+          "formula": null,
+          "examTip": "Review the last 5 years of IOE Entrance papers for Mechanics. Identify the most repeated question types."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Heat and Thermodynamics",
+      "shortIntro": "IOE Entrance: Heat and Thermodynamics — exam preparation guide.",
+      "introduction": {
+        "overview": "Heat and Thermodynamics is a critical topic for the IOE Entrance examination. This chapter covers the complete syllabus content as specified by the conducting body, with focus on the types of questions that appear in the entrance test.\n\nThe IOE Entrance is one of the most competitive entrance examinations in Nepal, and thorough preparation of Heat and Thermodynamics is essential for achieving a high rank. Past papers analysis shows that this topic consistently carries significant marks.\n\nStudents should combine systematic study with timed practice tests. Focus on accuracy first, then work on speed. Understanding concepts deeply is more effective than memorizing formulas, as the examination tests analytical ability.\n\nA structured preparation plan covering this chapter, combined with regular revision and mock tests, will maximize your chances of success in the IOE Entrance.",
+        "whyItMatters": "High-frequency topic in IOE Entrance. Thorough preparation of Heat and Thermodynamics can significantly improve your entrance rank. Multiple questions appear from this chapter every year.",
+        "prerequisites": [
+          "NEB Grade 11-12 syllabus knowledge"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Core Concepts: Heat and Thermodynamics",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential concepts of Heat and Thermodynamics that are tested in the IOE Entrance examination. Focus is on building a solid understanding that enables quick and accurate problem-solving under exam conditions.\n\nStudents should practice with past entrance papers and model questions to familiarize themselves with the question patterns.",
+          "keyPoints": [
+            "Key formulas and principles",
+            "Common question patterns",
+            "Quick-solving techniques",
+            "High-frequency topics"
+          ],
+          "formula": null,
+          "examTip": "In IOE Entrance, time management is crucial. Practice solving MCQs within 60-90 seconds per question."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Problem Solving: Heat and Thermodynamics",
+          "difficulty": "advanced",
+          "explanation": "Advanced problem-solving techniques for Heat and Thermodynamics in the context of competitive entrance examination. This topic covers shortcuts, elimination strategies, and advanced methods.\n\nFocus on the most frequently tested areas and develop systematic approaches to solve problems efficiently.",
+          "keyPoints": [
+            "Shortcut methods",
+            "Elimination techniques",
+            "Common traps to avoid",
+            "Previous year patterns"
+          ],
+          "formula": null,
+          "examTip": "Review the last 5 years of IOE Entrance papers for Heat and Thermodynamics. Identify the most repeated question types."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Waves and Optics",
+      "shortIntro": "IOE Entrance: Waves and Optics — exam preparation guide.",
+      "introduction": {
+        "overview": "Waves and Optics is a critical topic for the IOE Entrance examination. This chapter covers the complete syllabus content as specified by the conducting body, with focus on the types of questions that appear in the entrance test.\n\nThe IOE Entrance is one of the most competitive entrance examinations in Nepal, and thorough preparation of Waves and Optics is essential for achieving a high rank. Past papers analysis shows that this topic consistently carries significant marks.\n\nStudents should combine systematic study with timed practice tests. Focus on accuracy first, then work on speed. Understanding concepts deeply is more effective than memorizing formulas, as the examination tests analytical ability.\n\nA structured preparation plan covering this chapter, combined with regular revision and mock tests, will maximize your chances of success in the IOE Entrance.",
+        "whyItMatters": "High-frequency topic in IOE Entrance. Thorough preparation of Waves and Optics can significantly improve your entrance rank. Multiple questions appear from this chapter every year.",
+        "prerequisites": [
+          "NEB Grade 11-12 syllabus knowledge"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Core Concepts: Waves and Optics",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential concepts of Waves and Optics that are tested in the IOE Entrance examination. Focus is on building a solid understanding that enables quick and accurate problem-solving under exam conditions.\n\nStudents should practice with past entrance papers and model questions to familiarize themselves with the question patterns.",
+          "keyPoints": [
+            "Key formulas and principles",
+            "Common question patterns",
+            "Quick-solving techniques",
+            "High-frequency topics"
+          ],
+          "formula": null,
+          "examTip": "In IOE Entrance, time management is crucial. Practice solving MCQs within 60-90 seconds per question."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Problem Solving: Waves and Optics",
+          "difficulty": "advanced",
+          "explanation": "Advanced problem-solving techniques for Waves and Optics in the context of competitive entrance examination. This topic covers shortcuts, elimination strategies, and advanced methods.\n\nFocus on the most frequently tested areas and develop systematic approaches to solve problems efficiently.",
+          "keyPoints": [
+            "Shortcut methods",
+            "Elimination techniques",
+            "Common traps to avoid",
+            "Previous year patterns"
+          ],
+          "formula": null,
+          "examTip": "Review the last 5 years of IOE Entrance papers for Waves and Optics. Identify the most repeated question types."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Electricity",
+      "shortIntro": "IOE Entrance: Electricity — exam preparation guide.",
+      "introduction": {
+        "overview": "Electricity is a critical topic for the IOE Entrance examination. This chapter covers the complete syllabus content as specified by the conducting body, with focus on the types of questions that appear in the entrance test.\n\nThe IOE Entrance is one of the most competitive entrance examinations in Nepal, and thorough preparation of Electricity is essential for achieving a high rank. Past papers analysis shows that this topic consistently carries significant marks.\n\nStudents should combine systematic study with timed practice tests. Focus on accuracy first, then work on speed. Understanding concepts deeply is more effective than memorizing formulas, as the examination tests analytical ability.\n\nA structured preparation plan covering this chapter, combined with regular revision and mock tests, will maximize your chances of success in the IOE Entrance.",
+        "whyItMatters": "High-frequency topic in IOE Entrance. Thorough preparation of Electricity can significantly improve your entrance rank. Multiple questions appear from this chapter every year.",
+        "prerequisites": [
+          "NEB Grade 11-12 syllabus knowledge"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Core Concepts: Electricity",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential concepts of Electricity that are tested in the IOE Entrance examination. Focus is on building a solid understanding that enables quick and accurate problem-solving under exam conditions.\n\nStudents should practice with past entrance papers and model questions to familiarize themselves with the question patterns.",
+          "keyPoints": [
+            "Key formulas and principles",
+            "Common question patterns",
+            "Quick-solving techniques",
+            "High-frequency topics"
+          ],
+          "formula": null,
+          "examTip": "In IOE Entrance, time management is crucial. Practice solving MCQs within 60-90 seconds per question."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Problem Solving: Electricity",
+          "difficulty": "advanced",
+          "explanation": "Advanced problem-solving techniques for Electricity in the context of competitive entrance examination. This topic covers shortcuts, elimination strategies, and advanced methods.\n\nFocus on the most frequently tested areas and develop systematic approaches to solve problems efficiently.",
+          "keyPoints": [
+            "Shortcut methods",
+            "Elimination techniques",
+            "Common traps to avoid",
+            "Previous year patterns"
+          ],
+          "formula": null,
+          "examTip": "Review the last 5 years of IOE Entrance papers for Electricity. Identify the most repeated question types."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Magnetism",
+      "shortIntro": "IOE Entrance: Magnetism — exam preparation guide.",
+      "introduction": {
+        "overview": "Magnetism is a critical topic for the IOE Entrance examination. This chapter covers the complete syllabus content as specified by the conducting body, with focus on the types of questions that appear in the entrance test.\n\nThe IOE Entrance is one of the most competitive entrance examinations in Nepal, and thorough preparation of Magnetism is essential for achieving a high rank. Past papers analysis shows that this topic consistently carries significant marks.\n\nStudents should combine systematic study with timed practice tests. Focus on accuracy first, then work on speed. Understanding concepts deeply is more effective than memorizing formulas, as the examination tests analytical ability.\n\nA structured preparation plan covering this chapter, combined with regular revision and mock tests, will maximize your chances of success in the IOE Entrance.",
+        "whyItMatters": "High-frequency topic in IOE Entrance. Thorough preparation of Magnetism can significantly improve your entrance rank. Multiple questions appear from this chapter every year.",
+        "prerequisites": [
+          "NEB Grade 11-12 syllabus knowledge"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Core Concepts: Magnetism",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential concepts of Magnetism that are tested in the IOE Entrance examination. Focus is on building a solid understanding that enables quick and accurate problem-solving under exam conditions.\n\nStudents should practice with past entrance papers and model questions to familiarize themselves with the question patterns.",
+          "keyPoints": [
+            "Key formulas and principles",
+            "Common question patterns",
+            "Quick-solving techniques",
+            "High-frequency topics"
+          ],
+          "formula": null,
+          "examTip": "In IOE Entrance, time management is crucial. Practice solving MCQs within 60-90 seconds per question."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Problem Solving: Magnetism",
+          "difficulty": "advanced",
+          "explanation": "Advanced problem-solving techniques for Magnetism in the context of competitive entrance examination. This topic covers shortcuts, elimination strategies, and advanced methods.\n\nFocus on the most frequently tested areas and develop systematic approaches to solve problems efficiently.",
+          "keyPoints": [
+            "Shortcut methods",
+            "Elimination techniques",
+            "Common traps to avoid",
+            "Previous year patterns"
+          ],
+          "formula": null,
+          "examTip": "Review the last 5 years of IOE Entrance papers for Magnetism. Identify the most repeated question types."
+        }
+      ]
+    },
+    {
+      "id": "ch-6",
+      "number": 6,
+      "title": "Modern Physics",
+      "shortIntro": "IOE Entrance: Modern Physics — exam preparation guide.",
+      "introduction": {
+        "overview": "Modern Physics is a critical topic for the IOE Entrance examination. This chapter covers the complete syllabus content as specified by the conducting body, with focus on the types of questions that appear in the entrance test.\n\nThe IOE Entrance is one of the most competitive entrance examinations in Nepal, and thorough preparation of Modern Physics is essential for achieving a high rank. Past papers analysis shows that this topic consistently carries significant marks.\n\nStudents should combine systematic study with timed practice tests. Focus on accuracy first, then work on speed. Understanding concepts deeply is more effective than memorizing formulas, as the examination tests analytical ability.\n\nA structured preparation plan covering this chapter, combined with regular revision and mock tests, will maximize your chances of success in the IOE Entrance.",
+        "whyItMatters": "High-frequency topic in IOE Entrance. Thorough preparation of Modern Physics can significantly improve your entrance rank. Multiple questions appear from this chapter every year.",
+        "prerequisites": [
+          "NEB Grade 11-12 syllabus knowledge"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-6-1",
+          "number": 1,
+          "name": "Core Concepts: Modern Physics",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential concepts of Modern Physics that are tested in the IOE Entrance examination. Focus is on building a solid understanding that enables quick and accurate problem-solving under exam conditions.\n\nStudents should practice with past entrance papers and model questions to familiarize themselves with the question patterns.",
+          "keyPoints": [
+            "Key formulas and principles",
+            "Common question patterns",
+            "Quick-solving techniques",
+            "High-frequency topics"
+          ],
+          "formula": null,
+          "examTip": "In IOE Entrance, time management is crucial. Practice solving MCQs within 60-90 seconds per question."
+        },
+        {
+          "id": "t-6-2",
+          "number": 2,
+          "name": "Problem Solving: Modern Physics",
+          "difficulty": "advanced",
+          "explanation": "Advanced problem-solving techniques for Modern Physics in the context of competitive entrance examination. This topic covers shortcuts, elimination strategies, and advanced methods.\n\nFocus on the most frequently tested areas and develop systematic approaches to solve problems efficiently.",
+          "keyPoints": [
+            "Shortcut methods",
+            "Elimination techniques",
+            "Common traps to avoid",
+            "Previous year patterns"
+          ],
+          "formula": null,
+          "examTip": "Review the last 5 years of IOE Entrance papers for Modern Physics. Identify the most repeated question types."
+        }
+      ]
+    },
+    {
+      "id": "ch-7",
+      "number": 7,
+      "title": "Units and Measurements",
+      "shortIntro": "IOE Entrance: Units and Measurements — exam preparation guide.",
+      "introduction": {
+        "overview": "Units and Measurements is a critical topic for the IOE Entrance examination. This chapter covers the complete syllabus content as specified by the conducting body, with focus on the types of questions that appear in the entrance test.\n\nThe IOE Entrance is one of the most competitive entrance examinations in Nepal, and thorough preparation of Units and Measurements is essential for achieving a high rank. Past papers analysis shows that this topic consistently carries significant marks.\n\nStudents should combine systematic study with timed practice tests. Focus on accuracy first, then work on speed. Understanding concepts deeply is more effective than memorizing formulas, as the examination tests analytical ability.\n\nA structured preparation plan covering this chapter, combined with regular revision and mock tests, will maximize your chances of success in the IOE Entrance.",
+        "whyItMatters": "High-frequency topic in IOE Entrance. Thorough preparation of Units and Measurements can significantly improve your entrance rank. Multiple questions appear from this chapter every year.",
+        "prerequisites": [
+          "NEB Grade 11-12 syllabus knowledge"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-7-1",
+          "number": 1,
+          "name": "Core Concepts: Units and Measurements",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential concepts of Units and Measurements that are tested in the IOE Entrance examination. Focus is on building a solid understanding that enables quick and accurate problem-solving under exam conditions.\n\nStudents should practice with past entrance papers and model questions to familiarize themselves with the question patterns.",
+          "keyPoints": [
+            "Key formulas and principles",
+            "Common question patterns",
+            "Quick-solving techniques",
+            "High-frequency topics"
+          ],
+          "formula": null,
+          "examTip": "In IOE Entrance, time management is crucial. Practice solving MCQs within 60-90 seconds per question."
+        },
+        {
+          "id": "t-7-2",
+          "number": 2,
+          "name": "Problem Solving: Units and Measurements",
+          "difficulty": "advanced",
+          "explanation": "Advanced problem-solving techniques for Units and Measurements in the context of competitive entrance examination. This topic covers shortcuts, elimination strategies, and advanced methods.\n\nFocus on the most frequently tested areas and develop systematic approaches to solve problems efficiently.",
+          "keyPoints": [
+            "Shortcut methods",
+            "Elimination techniques",
+            "Common traps to avoid",
+            "Previous year patterns"
+          ],
+          "formula": null,
+          "examTip": "Review the last 5 years of IOE Entrance papers for Units and Measurements. Identify the most repeated question types."
+        }
+      ]
+    }
+  ]
+}

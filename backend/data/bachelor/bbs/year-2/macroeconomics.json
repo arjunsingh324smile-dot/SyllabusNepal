@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "program": "BBS",
+    "category": "bachelor",
+    "subCategory": "bbs",
+    "subject": "Macroeconomics",
+    "subjectId": "macroeconomics",
+    "color": "#DC2626",
+    "lastUpdated": "2025",
+    "semester": "year-2",
+    "totalChapters": 5
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "National Income",
+      "shortIntro": "BBS year-2: National Income — comprehensive study material.",
+      "introduction": {
+        "overview": "National Income is a key chapter in the BBS Macroeconomics curriculum for year 2. This chapter provides students with the knowledge and skills needed for success in their university examinations and future professional careers.\n\nThe content is designed according to Tribhuvan University's approved syllabus and covers both theoretical frameworks and practical applications. Students are expected to demonstrate analytical thinking and the ability to apply concepts to business scenarios.\n\nRegular attendance in lectures, combined with self-study using recommended textbooks, is essential for mastering this chapter. Past examination papers from TU provide valuable insight into the types of questions that are typically asked.\n\nThis chapter forms an important foundation for advanced topics that students will encounter in subsequent years of their BBS program.",
+        "whyItMatters": "This chapter is essential for BBS year 2 examinations and provides practical knowledge applicable to business and commerce careers in Nepal.",
+        "prerequisites": [
+          "Previous year coursework"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Core Concepts: National Income",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental concepts of National Income. Students will learn the essential theories, definitions, and frameworks that form the basis of this chapter.\n\nA solid understanding of these fundamentals is necessary for tackling examination questions and for practical application in real-world business scenarios.",
+          "keyPoints": [
+            "Key theories and frameworks",
+            "Essential definitions",
+            "Foundational principles",
+            "TU examination relevance"
+          ],
+          "formula": null,
+          "examTip": "In TU exams, start long answers with a clear definition, followed by explanation and examples. This structure typically earns the highest marks."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Applied National Income",
+          "difficulty": "intermediate",
+          "explanation": "Building on the foundational concepts, this topic explores practical applications of National Income in business contexts. Case studies and examples relevant to Nepal's business environment are emphasized.",
+          "keyPoints": [
+            "Real-world business applications",
+            "Case study approach",
+            "Nepal-specific examples",
+            "Problem-solving framework"
+          ],
+          "formula": null,
+          "examTip": "TU often asks case-based questions. Practice applying theoretical concepts to practical scenarios."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Monetary Policy",
+      "shortIntro": "BBS year-2: Monetary Policy — comprehensive study material.",
+      "introduction": {
+        "overview": "Monetary Policy is a key chapter in the BBS Macroeconomics curriculum for year 2. This chapter provides students with the knowledge and skills needed for success in their university examinations and future professional careers.\n\nThe content is designed according to Tribhuvan University's approved syllabus and covers both theoretical frameworks and practical applications. Students are expected to demonstrate analytical thinking and the ability to apply concepts to business scenarios.\n\nRegular attendance in lectures, combined with self-study using recommended textbooks, is essential for mastering this chapter. Past examination papers from TU provide valuable insight into the types of questions that are typically asked.\n\nThis chapter forms an important foundation for advanced topics that students will encounter in subsequent years of their BBS program.",
+        "whyItMatters": "This chapter is essential for BBS year 2 examinations and provides practical knowledge applicable to business and commerce careers in Nepal.",
+        "prerequisites": [
+          "Previous year coursework"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Core Concepts: Monetary Policy",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental concepts of Monetary Policy. Students will learn the essential theories, definitions, and frameworks that form the basis of this chapter.\n\nA solid understanding of these fundamentals is necessary for tackling examination questions and for practical application in real-world business scenarios.",
+          "keyPoints": [
+            "Key theories and frameworks",
+            "Essential definitions",
+            "Foundational principles",
+            "TU examination relevance"
+          ],
+          "formula": null,
+          "examTip": "In TU exams, start long answers with a clear definition, followed by explanation and examples. This structure typically earns the highest marks."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Applied Monetary Policy",
+          "difficulty": "intermediate",
+          "explanation": "Building on the foundational concepts, this topic explores practical applications of Monetary Policy in business contexts. Case studies and examples relevant to Nepal's business environment are emphasized.",
+          "keyPoints": [
+            "Real-world business applications",
+            "Case study approach",
+            "Nepal-specific examples",
+            "Problem-solving framework"
+          ],
+          "formula": null,
+          "examTip": "TU often asks case-based questions. Practice applying theoretical concepts to practical scenarios."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Fiscal Policy",
+      "shortIntro": "BBS year-2: Fiscal Policy — comprehensive study material.",
+      "introduction": {
+        "overview": "Fiscal Policy is a key chapter in the BBS Macroeconomics curriculum for year 2. This chapter provides students with the knowledge and skills needed for success in their university examinations and future professional careers.\n\nThe content is designed according to Tribhuvan University's approved syllabus and covers both theoretical frameworks and practical applications. Students are expected to demonstrate analytical thinking and the ability to apply concepts to business scenarios.\n\nRegular attendance in lectures, combined with self-study using recommended textbooks, is essential for mastering this chapter. Past examination papers from TU provide valuable insight into the types of questions that are typically asked.\n\nThis chapter forms an important foundation for advanced topics that students will encounter in subsequent years of their BBS program.",
+        "whyItMatters": "This chapter is essential for BBS year 2 examinations and provides practical knowledge applicable to business and commerce careers in Nepal.",
+        "prerequisites": [
+          "Previous year coursework"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Core Concepts: Fiscal Policy",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental concepts of Fiscal Policy. Students will learn the essential theories, definitions, and frameworks that form the basis of this chapter.\n\nA solid understanding of these fundamentals is necessary for tackling examination questions and for practical application in real-world business scenarios.",
+          "keyPoints": [
+            "Key theories and frameworks",
+            "Essential definitions",
+            "Foundational principles",
+            "TU examination relevance"
+          ],
+          "formula": null,
+          "examTip": "In TU exams, start long answers with a clear definition, followed by explanation and examples. This structure typically earns the highest marks."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Applied Fiscal Policy",
+          "difficulty": "intermediate",
+          "explanation": "Building on the foundational concepts, this topic explores practical applications of Fiscal Policy in business contexts. Case studies and examples relevant to Nepal's business environment are emphasized.",
+          "keyPoints": [
+            "Real-world business applications",
+            "Case study approach",
+            "Nepal-specific examples",
+            "Problem-solving framework"
+          ],
+          "formula": null,
+          "examTip": "TU often asks case-based questions. Practice applying theoretical concepts to practical scenarios."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "International Trade",
+      "shortIntro": "BBS year-2: International Trade — comprehensive study material.",
+      "introduction": {
+        "overview": "International Trade is a key chapter in the BBS Macroeconomics curriculum for year 2. This chapter provides students with the knowledge and skills needed for success in their university examinations and future professional careers.\n\nThe content is designed according to Tribhuvan University's approved syllabus and covers both theoretical frameworks and practical applications. Students are expected to demonstrate analytical thinking and the ability to apply concepts to business scenarios.\n\nRegular attendance in lectures, combined with self-study using recommended textbooks, is essential for mastering this chapter. Past examination papers from TU provide valuable insight into the types of questions that are typically asked.\n\nThis chapter forms an important foundation for advanced topics that students will encounter in subsequent years of their BBS program.",
+        "whyItMatters": "This chapter is essential for BBS year 2 examinations and provides practical knowledge applicable to business and commerce careers in Nepal.",
+        "prerequisites": [
+          "Previous year coursework"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Core Concepts: International Trade",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental concepts of International Trade. Students will learn the essential theories, definitions, and frameworks that form the basis of this chapter.\n\nA solid understanding of these fundamentals is necessary for tackling examination questions and for practical application in real-world business scenarios.",
+          "keyPoints": [
+            "Key theories and frameworks",
+            "Essential definitions",
+            "Foundational principles",
+            "TU examination relevance"
+          ],
+          "formula": null,
+          "examTip": "In TU exams, start long answers with a clear definition, followed by explanation and examples. This structure typically earns the highest marks."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Applied International Trade",
+          "difficulty": "intermediate",
+          "explanation": "Building on the foundational concepts, this topic explores practical applications of International Trade in business contexts. Case studies and examples relevant to Nepal's business environment are emphasized.",
+          "keyPoints": [
+            "Real-world business applications",
+            "Case study approach",
+            "Nepal-specific examples",
+            "Problem-solving framework"
+          ],
+          "formula": null,
+          "examTip": "TU often asks case-based questions. Practice applying theoretical concepts to practical scenarios."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Economic Growth",
+      "shortIntro": "BBS year-2: Economic Growth — comprehensive study material.",
+      "introduction": {
+        "overview": "Economic Growth is a key chapter in the BBS Macroeconomics curriculum for year 2. This chapter provides students with the knowledge and skills needed for success in their university examinations and future professional careers.\n\nThe content is designed according to Tribhuvan University's approved syllabus and covers both theoretical frameworks and practical applications. Students are expected to demonstrate analytical thinking and the ability to apply concepts to business scenarios.\n\nRegular attendance in lectures, combined with self-study using recommended textbooks, is essential for mastering this chapter. Past examination papers from TU provide valuable insight into the types of questions that are typically asked.\n\nThis chapter forms an important foundation for advanced topics that students will encounter in subsequent years of their BBS program.",
+        "whyItMatters": "This chapter is essential for BBS year 2 examinations and provides practical knowledge applicable to business and commerce careers in Nepal.",
+        "prerequisites": [
+          "Previous year coursework"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Core Concepts: Economic Growth",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental concepts of Economic Growth. Students will learn the essential theories, definitions, and frameworks that form the basis of this chapter.\n\nA solid understanding of these fundamentals is necessary for tackling examination questions and for practical application in real-world business scenarios.",
+          "keyPoints": [
+            "Key theories and frameworks",
+            "Essential definitions",
+            "Foundational principles",
+            "TU examination relevance"
+          ],
+          "formula": null,
+          "examTip": "In TU exams, start long answers with a clear definition, followed by explanation and examples. This structure typically earns the highest marks."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Applied Economic Growth",
+          "difficulty": "intermediate",
+          "explanation": "Building on the foundational concepts, this topic explores practical applications of Economic Growth in business contexts. Case studies and examples relevant to Nepal's business environment are emphasized.",
+          "keyPoints": [
+            "Real-world business applications",
+            "Case study approach",
+            "Nepal-specific examples",
+            "Problem-solving framework"
+          ],
+          "formula": null,
+          "examTip": "TU often asks case-based questions. Practice applying theoretical concepts to practical scenarios."
+        }
+      ]
+    }
+  ]
+}

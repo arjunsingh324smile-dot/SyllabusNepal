@@ -1,0 +1,207 @@
+{
+  "meta": {
+    "program": "BBA",
+    "category": "bachelor",
+    "subCategory": "bba",
+    "subject": "Organizational Behavior",
+    "subjectId": "organizational-behavior",
+    "color": "#D97706",
+    "lastUpdated": "2025",
+    "semester": "sem-2",
+    "totalChapters": 4
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Individual Behavior",
+      "shortIntro": "BBA sem-2: Individual Behavior — key concepts and applications.",
+      "introduction": {
+        "overview": "Individual Behavior is an essential chapter in the BBA Organizational Behavior syllabus for sem 2. This chapter builds the managerial and analytical skills that are fundamental to a successful career in business administration.\n\nStudents will explore both classical and contemporary perspectives on Individual Behavior, with emphasis on case studies and practical applications relevant to the Nepali business environment.\n\nThe BBA program emphasizes a practical, application-oriented approach to learning. Students should supplement their textbook study with current business news, case analyses, and group discussions.\n\nMastering this chapter prepares students for more advanced topics in subsequent semesters and provides a competitive edge in the job market.",
+        "whyItMatters": "Mastering Individual Behavior is crucial for BBA students as it directly applies to professional practice and higher-semester coursework.",
+        "prerequisites": [
+          "Pre-requisite: Previous semester courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Fundamentals of Individual Behavior",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces core concepts of Individual Behavior. Students learn essential frameworks, terminology, and principles that underpin this chapter.\n\nThe focus is on building a strong conceptual foundation that can be applied to real business situations.",
+          "keyPoints": [
+            "Core frameworks and models",
+            "Essential business terminology",
+            "Foundational principles"
+          ],
+          "formula": null,
+          "examTip": "In BBA exams, demonstrate both theoretical knowledge and practical application for full marks."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Case Studies in Individual Behavior",
+          "difficulty": "intermediate",
+          "explanation": "This topic uses case studies to illustrate how Individual Behavior concepts apply in real business scenarios. Students develop analytical and problem-solving skills through guided case analysis.",
+          "keyPoints": [
+            "Case analysis methodology",
+            "Real-world application",
+            "Critical thinking development"
+          ],
+          "formula": null,
+          "examTip": "Practice analyzing mini-cases within time limits to prepare for exam scenarios."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Motivation",
+      "shortIntro": "BBA sem-2: Motivation — key concepts and applications.",
+      "introduction": {
+        "overview": "Motivation is an essential chapter in the BBA Organizational Behavior syllabus for sem 2. This chapter builds the managerial and analytical skills that are fundamental to a successful career in business administration.\n\nStudents will explore both classical and contemporary perspectives on Motivation, with emphasis on case studies and practical applications relevant to the Nepali business environment.\n\nThe BBA program emphasizes a practical, application-oriented approach to learning. Students should supplement their textbook study with current business news, case analyses, and group discussions.\n\nMastering this chapter prepares students for more advanced topics in subsequent semesters and provides a competitive edge in the job market.",
+        "whyItMatters": "Mastering Motivation is crucial for BBA students as it directly applies to professional practice and higher-semester coursework.",
+        "prerequisites": [
+          "Pre-requisite: Previous semester courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Fundamentals of Motivation",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces core concepts of Motivation. Students learn essential frameworks, terminology, and principles that underpin this chapter.\n\nThe focus is on building a strong conceptual foundation that can be applied to real business situations.",
+          "keyPoints": [
+            "Core frameworks and models",
+            "Essential business terminology",
+            "Foundational principles"
+          ],
+          "formula": null,
+          "examTip": "In BBA exams, demonstrate both theoretical knowledge and practical application for full marks."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Case Studies in Motivation",
+          "difficulty": "intermediate",
+          "explanation": "This topic uses case studies to illustrate how Motivation concepts apply in real business scenarios. Students develop analytical and problem-solving skills through guided case analysis.",
+          "keyPoints": [
+            "Case analysis methodology",
+            "Real-world application",
+            "Critical thinking development"
+          ],
+          "formula": null,
+          "examTip": "Practice analyzing mini-cases within time limits to prepare for exam scenarios."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Group Dynamics",
+      "shortIntro": "BBA sem-2: Group Dynamics — key concepts and applications.",
+      "introduction": {
+        "overview": "Group Dynamics is an essential chapter in the BBA Organizational Behavior syllabus for sem 2. This chapter builds the managerial and analytical skills that are fundamental to a successful career in business administration.\n\nStudents will explore both classical and contemporary perspectives on Group Dynamics, with emphasis on case studies and practical applications relevant to the Nepali business environment.\n\nThe BBA program emphasizes a practical, application-oriented approach to learning. Students should supplement their textbook study with current business news, case analyses, and group discussions.\n\nMastering this chapter prepares students for more advanced topics in subsequent semesters and provides a competitive edge in the job market.",
+        "whyItMatters": "Mastering Group Dynamics is crucial for BBA students as it directly applies to professional practice and higher-semester coursework.",
+        "prerequisites": [
+          "Pre-requisite: Previous semester courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Fundamentals of Group Dynamics",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces core concepts of Group Dynamics. Students learn essential frameworks, terminology, and principles that underpin this chapter.\n\nThe focus is on building a strong conceptual foundation that can be applied to real business situations.",
+          "keyPoints": [
+            "Core frameworks and models",
+            "Essential business terminology",
+            "Foundational principles"
+          ],
+          "formula": null,
+          "examTip": "In BBA exams, demonstrate both theoretical knowledge and practical application for full marks."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Case Studies in Group Dynamics",
+          "difficulty": "intermediate",
+          "explanation": "This topic uses case studies to illustrate how Group Dynamics concepts apply in real business scenarios. Students develop analytical and problem-solving skills through guided case analysis.",
+          "keyPoints": [
+            "Case analysis methodology",
+            "Real-world application",
+            "Critical thinking development"
+          ],
+          "formula": null,
+          "examTip": "Practice analyzing mini-cases within time limits to prepare for exam scenarios."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Leadership",
+      "shortIntro": "BBA sem-2: Leadership — key concepts and applications.",
+      "introduction": {
+        "overview": "Leadership is an essential chapter in the BBA Organizational Behavior syllabus for sem 2. This chapter builds the managerial and analytical skills that are fundamental to a successful career in business administration.\n\nStudents will explore both classical and contemporary perspectives on Leadership, with emphasis on case studies and practical applications relevant to the Nepali business environment.\n\nThe BBA program emphasizes a practical, application-oriented approach to learning. Students should supplement their textbook study with current business news, case analyses, and group discussions.\n\nMastering this chapter prepares students for more advanced topics in subsequent semesters and provides a competitive edge in the job market.",
+        "whyItMatters": "Mastering Leadership is crucial for BBA students as it directly applies to professional practice and higher-semester coursework.",
+        "prerequisites": [
+          "Pre-requisite: Previous semester courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Fundamentals of Leadership",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces core concepts of Leadership. Students learn essential frameworks, terminology, and principles that underpin this chapter.\n\nThe focus is on building a strong conceptual foundation that can be applied to real business situations.",
+          "keyPoints": [
+            "Core frameworks and models",
+            "Essential business terminology",
+            "Foundational principles"
+          ],
+          "formula": null,
+          "examTip": "In BBA exams, demonstrate both theoretical knowledge and practical application for full marks."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Case Studies in Leadership",
+          "difficulty": "intermediate",
+          "explanation": "This topic uses case studies to illustrate how Leadership concepts apply in real business scenarios. Students develop analytical and problem-solving skills through guided case analysis.",
+          "keyPoints": [
+            "Case analysis methodology",
+            "Real-world application",
+            "Critical thinking development"
+          ],
+          "formula": null,
+          "examTip": "Practice analyzing mini-cases within time limits to prepare for exam scenarios."
+        }
+      ]
+    }
+  ]
+}

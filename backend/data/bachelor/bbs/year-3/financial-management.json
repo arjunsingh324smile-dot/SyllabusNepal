@@ -1,0 +1,215 @@
+{
+  "meta": {
+    "program": "BBS",
+    "category": "bachelor",
+    "subCategory": "bbs",
+    "subject": "Financial Management",
+    "subjectId": "financial-management",
+    "color": "#059669",
+    "lastUpdated": "2025",
+    "semester": "year-3",
+    "totalChapters": 4
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Financial Analysis",
+      "shortIntro": "BBS year-3: Financial Analysis — comprehensive study material.",
+      "introduction": {
+        "overview": "Financial Analysis is a key chapter in the BBS Financial Management curriculum for year 3. This chapter provides students with the knowledge and skills needed for success in their university examinations and future professional careers.\n\nThe content is designed according to Tribhuvan University's approved syllabus and covers both theoretical frameworks and practical applications. Students are expected to demonstrate analytical thinking and the ability to apply concepts to business scenarios.\n\nRegular attendance in lectures, combined with self-study using recommended textbooks, is essential for mastering this chapter. Past examination papers from TU provide valuable insight into the types of questions that are typically asked.\n\nThis chapter forms an important foundation for advanced topics that students will encounter in subsequent years of their BBS program.",
+        "whyItMatters": "This chapter is essential for BBS year 3 examinations and provides practical knowledge applicable to business and commerce careers in Nepal.",
+        "prerequisites": [
+          "Previous year coursework"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Core Concepts: Financial Analysis",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental concepts of Financial Analysis. Students will learn the essential theories, definitions, and frameworks that form the basis of this chapter.\n\nA solid understanding of these fundamentals is necessary for tackling examination questions and for practical application in real-world business scenarios.",
+          "keyPoints": [
+            "Key theories and frameworks",
+            "Essential definitions",
+            "Foundational principles",
+            "TU examination relevance"
+          ],
+          "formula": null,
+          "examTip": "In TU exams, start long answers with a clear definition, followed by explanation and examples. This structure typically earns the highest marks."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Applied Financial Analysis",
+          "difficulty": "intermediate",
+          "explanation": "Building on the foundational concepts, this topic explores practical applications of Financial Analysis in business contexts. Case studies and examples relevant to Nepal's business environment are emphasized.",
+          "keyPoints": [
+            "Real-world business applications",
+            "Case study approach",
+            "Nepal-specific examples",
+            "Problem-solving framework"
+          ],
+          "formula": null,
+          "examTip": "TU often asks case-based questions. Practice applying theoretical concepts to practical scenarios."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Time Value of Money",
+      "shortIntro": "BBS year-3: Time Value of Money — comprehensive study material.",
+      "introduction": {
+        "overview": "Time Value of Money is a key chapter in the BBS Financial Management curriculum for year 3. This chapter provides students with the knowledge and skills needed for success in their university examinations and future professional careers.\n\nThe content is designed according to Tribhuvan University's approved syllabus and covers both theoretical frameworks and practical applications. Students are expected to demonstrate analytical thinking and the ability to apply concepts to business scenarios.\n\nRegular attendance in lectures, combined with self-study using recommended textbooks, is essential for mastering this chapter. Past examination papers from TU provide valuable insight into the types of questions that are typically asked.\n\nThis chapter forms an important foundation for advanced topics that students will encounter in subsequent years of their BBS program.",
+        "whyItMatters": "This chapter is essential for BBS year 3 examinations and provides practical knowledge applicable to business and commerce careers in Nepal.",
+        "prerequisites": [
+          "Previous year coursework"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Core Concepts: Time Value of Money",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental concepts of Time Value of Money. Students will learn the essential theories, definitions, and frameworks that form the basis of this chapter.\n\nA solid understanding of these fundamentals is necessary for tackling examination questions and for practical application in real-world business scenarios.",
+          "keyPoints": [
+            "Key theories and frameworks",
+            "Essential definitions",
+            "Foundational principles",
+            "TU examination relevance"
+          ],
+          "formula": null,
+          "examTip": "In TU exams, start long answers with a clear definition, followed by explanation and examples. This structure typically earns the highest marks."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Applied Time Value of Money",
+          "difficulty": "intermediate",
+          "explanation": "Building on the foundational concepts, this topic explores practical applications of Time Value of Money in business contexts. Case studies and examples relevant to Nepal's business environment are emphasized.",
+          "keyPoints": [
+            "Real-world business applications",
+            "Case study approach",
+            "Nepal-specific examples",
+            "Problem-solving framework"
+          ],
+          "formula": null,
+          "examTip": "TU often asks case-based questions. Practice applying theoretical concepts to practical scenarios."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Capital Budgeting",
+      "shortIntro": "BBS year-3: Capital Budgeting — comprehensive study material.",
+      "introduction": {
+        "overview": "Capital Budgeting is a key chapter in the BBS Financial Management curriculum for year 3. This chapter provides students with the knowledge and skills needed for success in their university examinations and future professional careers.\n\nThe content is designed according to Tribhuvan University's approved syllabus and covers both theoretical frameworks and practical applications. Students are expected to demonstrate analytical thinking and the ability to apply concepts to business scenarios.\n\nRegular attendance in lectures, combined with self-study using recommended textbooks, is essential for mastering this chapter. Past examination papers from TU provide valuable insight into the types of questions that are typically asked.\n\nThis chapter forms an important foundation for advanced topics that students will encounter in subsequent years of their BBS program.",
+        "whyItMatters": "This chapter is essential for BBS year 3 examinations and provides practical knowledge applicable to business and commerce careers in Nepal.",
+        "prerequisites": [
+          "Previous year coursework"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Core Concepts: Capital Budgeting",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental concepts of Capital Budgeting. Students will learn the essential theories, definitions, and frameworks that form the basis of this chapter.\n\nA solid understanding of these fundamentals is necessary for tackling examination questions and for practical application in real-world business scenarios.",
+          "keyPoints": [
+            "Key theories and frameworks",
+            "Essential definitions",
+            "Foundational principles",
+            "TU examination relevance"
+          ],
+          "formula": null,
+          "examTip": "In TU exams, start long answers with a clear definition, followed by explanation and examples. This structure typically earns the highest marks."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Applied Capital Budgeting",
+          "difficulty": "intermediate",
+          "explanation": "Building on the foundational concepts, this topic explores practical applications of Capital Budgeting in business contexts. Case studies and examples relevant to Nepal's business environment are emphasized.",
+          "keyPoints": [
+            "Real-world business applications",
+            "Case study approach",
+            "Nepal-specific examples",
+            "Problem-solving framework"
+          ],
+          "formula": null,
+          "examTip": "TU often asks case-based questions. Practice applying theoretical concepts to practical scenarios."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Working Capital Management",
+      "shortIntro": "BBS year-3: Working Capital Management — comprehensive study material.",
+      "introduction": {
+        "overview": "Working Capital Management is a key chapter in the BBS Financial Management curriculum for year 3. This chapter provides students with the knowledge and skills needed for success in their university examinations and future professional careers.\n\nThe content is designed according to Tribhuvan University's approved syllabus and covers both theoretical frameworks and practical applications. Students are expected to demonstrate analytical thinking and the ability to apply concepts to business scenarios.\n\nRegular attendance in lectures, combined with self-study using recommended textbooks, is essential for mastering this chapter. Past examination papers from TU provide valuable insight into the types of questions that are typically asked.\n\nThis chapter forms an important foundation for advanced topics that students will encounter in subsequent years of their BBS program.",
+        "whyItMatters": "This chapter is essential for BBS year 3 examinations and provides practical knowledge applicable to business and commerce careers in Nepal.",
+        "prerequisites": [
+          "Previous year coursework"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Core Concepts: Working Capital Management",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental concepts of Working Capital Management. Students will learn the essential theories, definitions, and frameworks that form the basis of this chapter.\n\nA solid understanding of these fundamentals is necessary for tackling examination questions and for practical application in real-world business scenarios.",
+          "keyPoints": [
+            "Key theories and frameworks",
+            "Essential definitions",
+            "Foundational principles",
+            "TU examination relevance"
+          ],
+          "formula": null,
+          "examTip": "In TU exams, start long answers with a clear definition, followed by explanation and examples. This structure typically earns the highest marks."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Applied Working Capital Management",
+          "difficulty": "intermediate",
+          "explanation": "Building on the foundational concepts, this topic explores practical applications of Working Capital Management in business contexts. Case studies and examples relevant to Nepal's business environment are emphasized.",
+          "keyPoints": [
+            "Real-world business applications",
+            "Case study approach",
+            "Nepal-specific examples",
+            "Problem-solving framework"
+          ],
+          "formula": null,
+          "examTip": "TU often asks case-based questions. Practice applying theoretical concepts to practical scenarios."
+        }
+      ]
+    }
+  ]
+}

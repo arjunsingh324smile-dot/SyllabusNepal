@@ -1,0 +1,207 @@
+{
+  "meta": {
+    "program": "PU Entrance",
+    "category": "entrance",
+    "subCategory": "pu-entrance",
+    "subExam": "bba",
+    "subject": "English",
+    "subjectId": "english",
+    "color": "#0369A1",
+    "lastUpdated": "2025",
+    "totalChapters": 4
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Grammar",
+      "shortIntro": "PU Entrance (BBA): Grammar.",
+      "introduction": {
+        "overview": "Grammar is tested in the Pokhara University BBA entrance examination. This guide covers the complete syllabus content and preparation strategies for this topic.\n\nPU entrance exams follow a specific pattern, and understanding this chapter thoroughly is essential for a competitive score. The examination tests both speed and accuracy.\n\nStudent should practice with PU-specific model papers and previous year questions. The difficulty level and pattern differ from other entrance exams, so exam-specific preparation is important.\n\nFocus on building strong conceptual foundations and then develop speed through timed practice sessions.",
+        "whyItMatters": "Important for PU BBA entrance. Regular practice with PU-specific question patterns is essential.",
+        "prerequisites": [
+          "NEB Grade 11-12 completion"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Grammar Essentials",
+          "difficulty": "intermediate",
+          "explanation": "Core concepts of Grammar as tested in the PU BBA entrance exam. Focus on understanding the fundamental principles and common question types.",
+          "keyPoints": [
+            "Essential concepts",
+            "Common question formats",
+            "Quick-solving techniques"
+          ],
+          "formula": null,
+          "examTip": "PU entrance papers have a specific style. Practice with PU model papers rather than generic guides."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Grammar Practice",
+          "difficulty": "advanced",
+          "explanation": "Practice-oriented content for Grammar with focus on the types of questions that appear in PU entrance examinations.",
+          "keyPoints": [
+            "Practice problem sets",
+            "Time management strategies",
+            "Error analysis"
+          ],
+          "formula": null,
+          "examTip": "Analyze your mistakes from practice tests. PU often repeats question patterns from previous years."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Vocabulary",
+      "shortIntro": "PU Entrance (BBA): Vocabulary.",
+      "introduction": {
+        "overview": "Vocabulary is tested in the Pokhara University BBA entrance examination. This guide covers the complete syllabus content and preparation strategies for this topic.\n\nPU entrance exams follow a specific pattern, and understanding this chapter thoroughly is essential for a competitive score. The examination tests both speed and accuracy.\n\nStudent should practice with PU-specific model papers and previous year questions. The difficulty level and pattern differ from other entrance exams, so exam-specific preparation is important.\n\nFocus on building strong conceptual foundations and then develop speed through timed practice sessions.",
+        "whyItMatters": "Important for PU BBA entrance. Regular practice with PU-specific question patterns is essential.",
+        "prerequisites": [
+          "NEB Grade 11-12 completion"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Vocabulary Essentials",
+          "difficulty": "intermediate",
+          "explanation": "Core concepts of Vocabulary as tested in the PU BBA entrance exam. Focus on understanding the fundamental principles and common question types.",
+          "keyPoints": [
+            "Essential concepts",
+            "Common question formats",
+            "Quick-solving techniques"
+          ],
+          "formula": null,
+          "examTip": "PU entrance papers have a specific style. Practice with PU model papers rather than generic guides."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Vocabulary Practice",
+          "difficulty": "advanced",
+          "explanation": "Practice-oriented content for Vocabulary with focus on the types of questions that appear in PU entrance examinations.",
+          "keyPoints": [
+            "Practice problem sets",
+            "Time management strategies",
+            "Error analysis"
+          ],
+          "formula": null,
+          "examTip": "Analyze your mistakes from practice tests. PU often repeats question patterns from previous years."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Reading Comprehension",
+      "shortIntro": "PU Entrance (BBA): Reading Comprehension.",
+      "introduction": {
+        "overview": "Reading Comprehension is tested in the Pokhara University BBA entrance examination. This guide covers the complete syllabus content and preparation strategies for this topic.\n\nPU entrance exams follow a specific pattern, and understanding this chapter thoroughly is essential for a competitive score. The examination tests both speed and accuracy.\n\nStudent should practice with PU-specific model papers and previous year questions. The difficulty level and pattern differ from other entrance exams, so exam-specific preparation is important.\n\nFocus on building strong conceptual foundations and then develop speed through timed practice sessions.",
+        "whyItMatters": "Important for PU BBA entrance. Regular practice with PU-specific question patterns is essential.",
+        "prerequisites": [
+          "NEB Grade 11-12 completion"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Reading Comprehension Essentials",
+          "difficulty": "intermediate",
+          "explanation": "Core concepts of Reading Comprehension as tested in the PU BBA entrance exam. Focus on understanding the fundamental principles and common question types.",
+          "keyPoints": [
+            "Essential concepts",
+            "Common question formats",
+            "Quick-solving techniques"
+          ],
+          "formula": null,
+          "examTip": "PU entrance papers have a specific style. Practice with PU model papers rather than generic guides."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Reading Comprehension Practice",
+          "difficulty": "advanced",
+          "explanation": "Practice-oriented content for Reading Comprehension with focus on the types of questions that appear in PU entrance examinations.",
+          "keyPoints": [
+            "Practice problem sets",
+            "Time management strategies",
+            "Error analysis"
+          ],
+          "formula": null,
+          "examTip": "Analyze your mistakes from practice tests. PU often repeats question patterns from previous years."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Writing",
+      "shortIntro": "PU Entrance (BBA): Writing.",
+      "introduction": {
+        "overview": "Writing is tested in the Pokhara University BBA entrance examination. This guide covers the complete syllabus content and preparation strategies for this topic.\n\nPU entrance exams follow a specific pattern, and understanding this chapter thoroughly is essential for a competitive score. The examination tests both speed and accuracy.\n\nStudent should practice with PU-specific model papers and previous year questions. The difficulty level and pattern differ from other entrance exams, so exam-specific preparation is important.\n\nFocus on building strong conceptual foundations and then develop speed through timed practice sessions.",
+        "whyItMatters": "Important for PU BBA entrance. Regular practice with PU-specific question patterns is essential.",
+        "prerequisites": [
+          "NEB Grade 11-12 completion"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Writing Essentials",
+          "difficulty": "intermediate",
+          "explanation": "Core concepts of Writing as tested in the PU BBA entrance exam. Focus on understanding the fundamental principles and common question types.",
+          "keyPoints": [
+            "Essential concepts",
+            "Common question formats",
+            "Quick-solving techniques"
+          ],
+          "formula": null,
+          "examTip": "PU entrance papers have a specific style. Practice with PU model papers rather than generic guides."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Writing Practice",
+          "difficulty": "advanced",
+          "explanation": "Practice-oriented content for Writing with focus on the types of questions that appear in PU entrance examinations.",
+          "keyPoints": [
+            "Practice problem sets",
+            "Time management strategies",
+            "Error analysis"
+          ],
+          "formula": null,
+          "examTip": "Analyze your mistakes from practice tests. PU often repeats question patterns from previous years."
+        }
+      ]
+    }
+  ]
+}

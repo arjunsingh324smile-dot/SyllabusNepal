@@ -1,0 +1,254 @@
+{
+  "meta": {
+    "program": "Loksewa",
+    "category": "competitive",
+    "subCategory": "loksewa",
+    "subject": "General Nepali",
+    "subjectId": "general-nepali",
+    "color": "#92400E",
+    "lastUpdated": "2025",
+    "totalChapters": 5
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "व्याकरण",
+      "shortIntro": "Loksewa: व्याकरण — competitive exam preparation.",
+      "introduction": {
+        "overview": "व्याकरण is an essential section in the Loksewa examination. Competitive exams in Nepal's public and banking sector require thorough preparation across multiple subjects, and व्याकरण is one of the key areas.\n\nThis chapter provides structured content covering all the topics that appear in Loksewa examinations. The material is organized to facilitate both systematic study and quick revision.\n\nPast papers analysis shows consistent patterns in the types of questions asked from व्याकरण. Understanding these patterns and practicing accordingly can significantly improve your performance.\n\nCombine this study material with daily current affairs reading (for relevant subjects) and regular mock tests to build the speed and accuracy needed for competitive success.",
+        "whyItMatters": "Regularly tested in Loksewa examinations. Consistent preparation of व्याकरण is essential for competitive success. Practice with past papers to understand the pattern.",
+        "prerequisites": [
+          "General education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "व्याकरण: Key Concepts",
+          "difficulty": "beginner",
+          "explanation": "Essential concepts and information for व्याकरण as tested in Loksewa. This topic provides the foundational knowledge needed to answer most examination questions.\n\nFocus on frequently tested areas and build a solid knowledge base through regular study.",
+          "keyPoints": [
+            "Essential facts and information",
+            "Frequently asked topics",
+            "Quick review points"
+          ],
+          "formula": null,
+          "examTip": "Make flashcards for quick revision of facts. Loksewa often tests factual recall with time pressure."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "व्याकरण: Advanced Practice",
+          "difficulty": "intermediate",
+          "explanation": "Advanced practice material for व्याकरण covering complex question types and analytical problems that appear in Loksewa examinations.",
+          "keyPoints": [
+            "Advanced question types",
+            "Analytical problem solving",
+            "Time-saving techniques"
+          ],
+          "formula": null,
+          "examTip": "In competitive exams, eliminate obviously wrong options first. This strategy saves valuable time."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "शब्द भण्डार",
+      "shortIntro": "Loksewa: शब्द भण्डार — competitive exam preparation.",
+      "introduction": {
+        "overview": "शब्द भण्डार is an essential section in the Loksewa examination. Competitive exams in Nepal's public and banking sector require thorough preparation across multiple subjects, and शब्द भण्डार is one of the key areas.\n\nThis chapter provides structured content covering all the topics that appear in Loksewa examinations. The material is organized to facilitate both systematic study and quick revision.\n\nPast papers analysis shows consistent patterns in the types of questions asked from शब्द भण्डार. Understanding these patterns and practicing accordingly can significantly improve your performance.\n\nCombine this study material with daily current affairs reading (for relevant subjects) and regular mock tests to build the speed and accuracy needed for competitive success.",
+        "whyItMatters": "Regularly tested in Loksewa examinations. Consistent preparation of शब्द भण्डार is essential for competitive success. Practice with past papers to understand the pattern.",
+        "prerequisites": [
+          "General education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "शब्द भण्डार: Key Concepts",
+          "difficulty": "beginner",
+          "explanation": "Essential concepts and information for शब्द भण्डार as tested in Loksewa. This topic provides the foundational knowledge needed to answer most examination questions.\n\nFocus on frequently tested areas and build a solid knowledge base through regular study.",
+          "keyPoints": [
+            "Essential facts and information",
+            "Frequently asked topics",
+            "Quick review points"
+          ],
+          "formula": null,
+          "examTip": "Make flashcards for quick revision of facts. Loksewa often tests factual recall with time pressure."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "शब्द भण्डार: Advanced Practice",
+          "difficulty": "intermediate",
+          "explanation": "Advanced practice material for शब्द भण्डार covering complex question types and analytical problems that appear in Loksewa examinations.",
+          "keyPoints": [
+            "Advanced question types",
+            "Analytical problem solving",
+            "Time-saving techniques"
+          ],
+          "formula": null,
+          "examTip": "In competitive exams, eliminate obviously wrong options first. This strategy saves valuable time."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "लेखन शीप",
+      "shortIntro": "Loksewa: लेखन शीप — competitive exam preparation.",
+      "introduction": {
+        "overview": "लेखन शीप is an essential section in the Loksewa examination. Competitive exams in Nepal's public and banking sector require thorough preparation across multiple subjects, and लेखन शीप is one of the key areas.\n\nThis chapter provides structured content covering all the topics that appear in Loksewa examinations. The material is organized to facilitate both systematic study and quick revision.\n\nPast papers analysis shows consistent patterns in the types of questions asked from लेखन शीप. Understanding these patterns and practicing accordingly can significantly improve your performance.\n\nCombine this study material with daily current affairs reading (for relevant subjects) and regular mock tests to build the speed and accuracy needed for competitive success.",
+        "whyItMatters": "Regularly tested in Loksewa examinations. Consistent preparation of लेखन शीप is essential for competitive success. Practice with past papers to understand the pattern.",
+        "prerequisites": [
+          "General education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "लेखन शीप: Key Concepts",
+          "difficulty": "beginner",
+          "explanation": "Essential concepts and information for लेखन शीप as tested in Loksewa. This topic provides the foundational knowledge needed to answer most examination questions.\n\nFocus on frequently tested areas and build a solid knowledge base through regular study.",
+          "keyPoints": [
+            "Essential facts and information",
+            "Frequently asked topics",
+            "Quick review points"
+          ],
+          "formula": null,
+          "examTip": "Make flashcards for quick revision of facts. Loksewa often tests factual recall with time pressure."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "लेखन शीप: Advanced Practice",
+          "difficulty": "intermediate",
+          "explanation": "Advanced practice material for लेखन शीप covering complex question types and analytical problems that appear in Loksewa examinations.",
+          "keyPoints": [
+            "Advanced question types",
+            "Analytical problem solving",
+            "Time-saving techniques"
+          ],
+          "formula": null,
+          "examTip": "In competitive exams, eliminate obviously wrong options first. This strategy saves valuable time."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "बोधगम्यता",
+      "shortIntro": "Loksewa: बोधगम्यता — competitive exam preparation.",
+      "introduction": {
+        "overview": "बोधगम्यता is an essential section in the Loksewa examination. Competitive exams in Nepal's public and banking sector require thorough preparation across multiple subjects, and बोधगम्यता is one of the key areas.\n\nThis chapter provides structured content covering all the topics that appear in Loksewa examinations. The material is organized to facilitate both systematic study and quick revision.\n\nPast papers analysis shows consistent patterns in the types of questions asked from बोधगम्यता. Understanding these patterns and practicing accordingly can significantly improve your performance.\n\nCombine this study material with daily current affairs reading (for relevant subjects) and regular mock tests to build the speed and accuracy needed for competitive success.",
+        "whyItMatters": "Regularly tested in Loksewa examinations. Consistent preparation of बोधगम्यता is essential for competitive success. Practice with past papers to understand the pattern.",
+        "prerequisites": [
+          "General education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "बोधगम्यता: Key Concepts",
+          "difficulty": "beginner",
+          "explanation": "Essential concepts and information for बोधगम्यता as tested in Loksewa. This topic provides the foundational knowledge needed to answer most examination questions.\n\nFocus on frequently tested areas and build a solid knowledge base through regular study.",
+          "keyPoints": [
+            "Essential facts and information",
+            "Frequently asked topics",
+            "Quick review points"
+          ],
+          "formula": null,
+          "examTip": "Make flashcards for quick revision of facts. Loksewa often tests factual recall with time pressure."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "बोधगम्यता: Advanced Practice",
+          "difficulty": "intermediate",
+          "explanation": "Advanced practice material for बोधगम्यता covering complex question types and analytical problems that appear in Loksewa examinations.",
+          "keyPoints": [
+            "Advanced question types",
+            "Analytical problem solving",
+            "Time-saving techniques"
+          ],
+          "formula": null,
+          "examTip": "In competitive exams, eliminate obviously wrong options first. This strategy saves valuable time."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "प्रशासनिक नेपाली",
+      "shortIntro": "Loksewa: प्रशासनिक नेपाली — competitive exam preparation.",
+      "introduction": {
+        "overview": "प्रशासनिक नेपाली is an essential section in the Loksewa examination. Competitive exams in Nepal's public and banking sector require thorough preparation across multiple subjects, and प्रशासनिक नेपाली is one of the key areas.\n\nThis chapter provides structured content covering all the topics that appear in Loksewa examinations. The material is organized to facilitate both systematic study and quick revision.\n\nPast papers analysis shows consistent patterns in the types of questions asked from प्रशासनिक नेपाली. Understanding these patterns and practicing accordingly can significantly improve your performance.\n\nCombine this study material with daily current affairs reading (for relevant subjects) and regular mock tests to build the speed and accuracy needed for competitive success.",
+        "whyItMatters": "Regularly tested in Loksewa examinations. Consistent preparation of प्रशासनिक नेपाली is essential for competitive success. Practice with past papers to understand the pattern.",
+        "prerequisites": [
+          "General education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "प्रशासनिक नेपाली: Key Concepts",
+          "difficulty": "beginner",
+          "explanation": "Essential concepts and information for प्रशासनिक नेपाली as tested in Loksewa. This topic provides the foundational knowledge needed to answer most examination questions.\n\nFocus on frequently tested areas and build a solid knowledge base through regular study.",
+          "keyPoints": [
+            "Essential facts and information",
+            "Frequently asked topics",
+            "Quick review points"
+          ],
+          "formula": null,
+          "examTip": "Make flashcards for quick revision of facts. Loksewa often tests factual recall with time pressure."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "प्रशासनिक नेपाली: Advanced Practice",
+          "difficulty": "intermediate",
+          "explanation": "Advanced practice material for प्रशासनिक नेपाली covering complex question types and analytical problems that appear in Loksewa examinations.",
+          "keyPoints": [
+            "Advanced question types",
+            "Analytical problem solving",
+            "Time-saving techniques"
+          ],
+          "formula": null,
+          "examTip": "In competitive exams, eliminate obviously wrong options first. This strategy saves valuable time."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "program": "Pokhara University",
+    "category": "engineering",
+    "subCategory": "pokhara-university",
+    "branch": "civil",
+    "subject": "Soil Mechanics",
+    "subjectId": "soil-mechanics",
+    "color": "#92400E",
+    "lastUpdated": "2025",
+    "totalChapters": 5
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Soil Properties",
+      "shortIntro": "Pokhara University civil engineering: Soil Properties.",
+      "introduction": {
+        "overview": "Soil Properties is a critical chapter in the Soil Mechanics course offered under the civil engineering program at Pokhara University. Engineering students must develop a deep understanding of this topic as it forms the basis for professional engineering practice.\n\nThe chapter combines theoretical analysis with practical problem-solving. Students should work through solved examples, practice unsolved problems, and relate theoretical concepts to real-world engineering applications.\n\nLaboratory sessions and tutorial classes complement the lecture content. Students are advised to maintain a problem-solving notebook and regularly review past examination papers for this subject.\n\nMastery of Soil Properties is essential not only for university examinations but also for a successful engineering career.",
+        "whyItMatters": "Critical for civil engineering students — Soil Properties is fundamental to professional practice and regularly tested in university examinations.",
+        "prerequisites": [
+          "Pre-requisite engineering courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Fundamentals of Soil Properties",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential theoretical foundations of Soil Properties as studied in civil engineering. Students learn key principles, derivations, and problem-solving methodologies.\n\nEngineering students should focus on understanding the underlying physics/mathematics rather than memorizing formulas.",
+          "keyPoints": [
+            "Key principles and derivations",
+            "Standard problem types",
+            "Engineering applications"
+          ],
+          "formula": null,
+          "examTip": "Show all derivation steps in exams. Partial marks are significant in engineering examinations."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Applications and Design",
+          "difficulty": "advanced",
+          "explanation": "Advanced applications of Soil Properties in engineering design and analysis. This topic covers practical calculations, design criteria, and real-world engineering challenges.",
+          "keyPoints": [
+            "Design calculations",
+            "Safety factors and standards",
+            "Practical case studies"
+          ],
+          "formula": null,
+          "examTip": "Relate theoretical concepts to Nepal's engineering context where possible — examiners appreciate practical awareness."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Soil Classification",
+      "shortIntro": "Pokhara University civil engineering: Soil Classification.",
+      "introduction": {
+        "overview": "Soil Classification is a critical chapter in the Soil Mechanics course offered under the civil engineering program at Pokhara University. Engineering students must develop a deep understanding of this topic as it forms the basis for professional engineering practice.\n\nThe chapter combines theoretical analysis with practical problem-solving. Students should work through solved examples, practice unsolved problems, and relate theoretical concepts to real-world engineering applications.\n\nLaboratory sessions and tutorial classes complement the lecture content. Students are advised to maintain a problem-solving notebook and regularly review past examination papers for this subject.\n\nMastery of Soil Classification is essential not only for university examinations but also for a successful engineering career.",
+        "whyItMatters": "Critical for civil engineering students — Soil Classification is fundamental to professional practice and regularly tested in university examinations.",
+        "prerequisites": [
+          "Pre-requisite engineering courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Fundamentals of Soil Classification",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential theoretical foundations of Soil Classification as studied in civil engineering. Students learn key principles, derivations, and problem-solving methodologies.\n\nEngineering students should focus on understanding the underlying physics/mathematics rather than memorizing formulas.",
+          "keyPoints": [
+            "Key principles and derivations",
+            "Standard problem types",
+            "Engineering applications"
+          ],
+          "formula": null,
+          "examTip": "Show all derivation steps in exams. Partial marks are significant in engineering examinations."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Applications and Design",
+          "difficulty": "advanced",
+          "explanation": "Advanced applications of Soil Classification in engineering design and analysis. This topic covers practical calculations, design criteria, and real-world engineering challenges.",
+          "keyPoints": [
+            "Design calculations",
+            "Safety factors and standards",
+            "Practical case studies"
+          ],
+          "formula": null,
+          "examTip": "Relate theoretical concepts to Nepal's engineering context where possible — examiners appreciate practical awareness."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Permeability",
+      "shortIntro": "Pokhara University civil engineering: Permeability.",
+      "introduction": {
+        "overview": "Permeability is a critical chapter in the Soil Mechanics course offered under the civil engineering program at Pokhara University. Engineering students must develop a deep understanding of this topic as it forms the basis for professional engineering practice.\n\nThe chapter combines theoretical analysis with practical problem-solving. Students should work through solved examples, practice unsolved problems, and relate theoretical concepts to real-world engineering applications.\n\nLaboratory sessions and tutorial classes complement the lecture content. Students are advised to maintain a problem-solving notebook and regularly review past examination papers for this subject.\n\nMastery of Permeability is essential not only for university examinations but also for a successful engineering career.",
+        "whyItMatters": "Critical for civil engineering students — Permeability is fundamental to professional practice and regularly tested in university examinations.",
+        "prerequisites": [
+          "Pre-requisite engineering courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Fundamentals of Permeability",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential theoretical foundations of Permeability as studied in civil engineering. Students learn key principles, derivations, and problem-solving methodologies.\n\nEngineering students should focus on understanding the underlying physics/mathematics rather than memorizing formulas.",
+          "keyPoints": [
+            "Key principles and derivations",
+            "Standard problem types",
+            "Engineering applications"
+          ],
+          "formula": null,
+          "examTip": "Show all derivation steps in exams. Partial marks are significant in engineering examinations."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Applications and Design",
+          "difficulty": "advanced",
+          "explanation": "Advanced applications of Permeability in engineering design and analysis. This topic covers practical calculations, design criteria, and real-world engineering challenges.",
+          "keyPoints": [
+            "Design calculations",
+            "Safety factors and standards",
+            "Practical case studies"
+          ],
+          "formula": null,
+          "examTip": "Relate theoretical concepts to Nepal's engineering context where possible — examiners appreciate practical awareness."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Compaction",
+      "shortIntro": "Pokhara University civil engineering: Compaction.",
+      "introduction": {
+        "overview": "Compaction is a critical chapter in the Soil Mechanics course offered under the civil engineering program at Pokhara University. Engineering students must develop a deep understanding of this topic as it forms the basis for professional engineering practice.\n\nThe chapter combines theoretical analysis with practical problem-solving. Students should work through solved examples, practice unsolved problems, and relate theoretical concepts to real-world engineering applications.\n\nLaboratory sessions and tutorial classes complement the lecture content. Students are advised to maintain a problem-solving notebook and regularly review past examination papers for this subject.\n\nMastery of Compaction is essential not only for university examinations but also for a successful engineering career.",
+        "whyItMatters": "Critical for civil engineering students — Compaction is fundamental to professional practice and regularly tested in university examinations.",
+        "prerequisites": [
+          "Pre-requisite engineering courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Fundamentals of Compaction",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential theoretical foundations of Compaction as studied in civil engineering. Students learn key principles, derivations, and problem-solving methodologies.\n\nEngineering students should focus on understanding the underlying physics/mathematics rather than memorizing formulas.",
+          "keyPoints": [
+            "Key principles and derivations",
+            "Standard problem types",
+            "Engineering applications"
+          ],
+          "formula": null,
+          "examTip": "Show all derivation steps in exams. Partial marks are significant in engineering examinations."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Applications and Design",
+          "difficulty": "advanced",
+          "explanation": "Advanced applications of Compaction in engineering design and analysis. This topic covers practical calculations, design criteria, and real-world engineering challenges.",
+          "keyPoints": [
+            "Design calculations",
+            "Safety factors and standards",
+            "Practical case studies"
+          ],
+          "formula": null,
+          "examTip": "Relate theoretical concepts to Nepal's engineering context where possible — examiners appreciate practical awareness."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Shear Strength",
+      "shortIntro": "Pokhara University civil engineering: Shear Strength.",
+      "introduction": {
+        "overview": "Shear Strength is a critical chapter in the Soil Mechanics course offered under the civil engineering program at Pokhara University. Engineering students must develop a deep understanding of this topic as it forms the basis for professional engineering practice.\n\nThe chapter combines theoretical analysis with practical problem-solving. Students should work through solved examples, practice unsolved problems, and relate theoretical concepts to real-world engineering applications.\n\nLaboratory sessions and tutorial classes complement the lecture content. Students are advised to maintain a problem-solving notebook and regularly review past examination papers for this subject.\n\nMastery of Shear Strength is essential not only for university examinations but also for a successful engineering career.",
+        "whyItMatters": "Critical for civil engineering students — Shear Strength is fundamental to professional practice and regularly tested in university examinations.",
+        "prerequisites": [
+          "Pre-requisite engineering courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Fundamentals of Shear Strength",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential theoretical foundations of Shear Strength as studied in civil engineering. Students learn key principles, derivations, and problem-solving methodologies.\n\nEngineering students should focus on understanding the underlying physics/mathematics rather than memorizing formulas.",
+          "keyPoints": [
+            "Key principles and derivations",
+            "Standard problem types",
+            "Engineering applications"
+          ],
+          "formula": null,
+          "examTip": "Show all derivation steps in exams. Partial marks are significant in engineering examinations."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Applications and Design",
+          "difficulty": "advanced",
+          "explanation": "Advanced applications of Shear Strength in engineering design and analysis. This topic covers practical calculations, design criteria, and real-world engineering challenges.",
+          "keyPoints": [
+            "Design calculations",
+            "Safety factors and standards",
+            "Practical case studies"
+          ],
+          "formula": null,
+          "examTip": "Relate theoretical concepts to Nepal's engineering context where possible — examiners appreciate practical awareness."
+        }
+      ]
+    }
+  ]
+}

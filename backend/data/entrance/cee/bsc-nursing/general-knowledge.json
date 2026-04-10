@@ -1,0 +1,207 @@
+{
+  "meta": {
+    "program": "CEE Medical Entrance",
+    "category": "entrance",
+    "subCategory": "cee",
+    "subExam": "bsc-nursing",
+    "subject": "General Knowledge",
+    "subjectId": "general-knowledge",
+    "color": "#7C3AED",
+    "lastUpdated": "2025",
+    "totalChapters": 4
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Current Affairs",
+      "shortIntro": "CEE BSC-NURSING: Current Affairs preparation material.",
+      "introduction": {
+        "overview": "Current Affairs is a crucial chapter for the CEE BSC-NURSING entrance examination. Medical and health science entrance exams in Nepal require deep understanding of this topic, and the CEE consistently tests both conceptual knowledge and application.\n\nStudents preparing for BSC-NURSING through CEE should focus on understanding the biological and chemical principles deeply, as MCQ options are often designed to test subtle differences in understanding.\n\nPast CEE papers show that Current Affairs is a high-weightage topic. Practice with official model questions and previous year papers to understand the difficulty level and question patterns.\n\nA combiniation of textbook study, model question practice, and group discussion will provide the best preparation for this chapter.",
+        "whyItMatters": "Critical for CEE BSC-NURSING — this topic carries high marks and appears every year. Focus on conceptual clarity and application-based questions.",
+        "prerequisites": [
+          "NEB Grade 11-12 Biology/Chemistry/Physics"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Core Concepts: Current Affairs",
+          "difficulty": "intermediate",
+          "explanation": "Essential concepts of Current Affairs for the CEE BSC-NURSING examination. Focus on understanding mechanisms, processes, and key definitions that are most frequently tested.",
+          "keyPoints": [
+            "Key definitions and processes",
+            "Critical mechanisms",
+            "Common MCQ patterns"
+          ],
+          "formula": null,
+          "examTip": "CEE MCQs often test exceptions and special cases. Pay attention to \"except\" and \"not true\" type questions."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Practice & Application: Current Affairs",
+          "difficulty": "advanced",
+          "explanation": "Application-based practice for Current Affairs. Focuses on clinical correlations, practical applications, and high-yield topics for the entrance examination.",
+          "keyPoints": [
+            "Clinical correlations",
+            "Application-based questions",
+            "High-yield facts"
+          ],
+          "formula": null,
+          "examTip": "Memorize key facts and figures for this chapter. CEE tests factual recall alongside conceptual understanding."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Health Awareness",
+      "shortIntro": "CEE BSC-NURSING: Health Awareness preparation material.",
+      "introduction": {
+        "overview": "Health Awareness is a crucial chapter for the CEE BSC-NURSING entrance examination. Medical and health science entrance exams in Nepal require deep understanding of this topic, and the CEE consistently tests both conceptual knowledge and application.\n\nStudents preparing for BSC-NURSING through CEE should focus on understanding the biological and chemical principles deeply, as MCQ options are often designed to test subtle differences in understanding.\n\nPast CEE papers show that Health Awareness is a high-weightage topic. Practice with official model questions and previous year papers to understand the difficulty level and question patterns.\n\nA combiniation of textbook study, model question practice, and group discussion will provide the best preparation for this chapter.",
+        "whyItMatters": "Critical for CEE BSC-NURSING — this topic carries high marks and appears every year. Focus on conceptual clarity and application-based questions.",
+        "prerequisites": [
+          "NEB Grade 11-12 Biology/Chemistry/Physics"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Core Concepts: Health Awareness",
+          "difficulty": "intermediate",
+          "explanation": "Essential concepts of Health Awareness for the CEE BSC-NURSING examination. Focus on understanding mechanisms, processes, and key definitions that are most frequently tested.",
+          "keyPoints": [
+            "Key definitions and processes",
+            "Critical mechanisms",
+            "Common MCQ patterns"
+          ],
+          "formula": null,
+          "examTip": "CEE MCQs often test exceptions and special cases. Pay attention to \"except\" and \"not true\" type questions."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Practice & Application: Health Awareness",
+          "difficulty": "advanced",
+          "explanation": "Application-based practice for Health Awareness. Focuses on clinical correlations, practical applications, and high-yield topics for the entrance examination.",
+          "keyPoints": [
+            "Clinical correlations",
+            "Application-based questions",
+            "High-yield facts"
+          ],
+          "formula": null,
+          "examTip": "Memorize key facts and figures for this chapter. CEE tests factual recall alongside conceptual understanding."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Nepal GK",
+      "shortIntro": "CEE BSC-NURSING: Nepal GK preparation material.",
+      "introduction": {
+        "overview": "Nepal GK is a crucial chapter for the CEE BSC-NURSING entrance examination. Medical and health science entrance exams in Nepal require deep understanding of this topic, and the CEE consistently tests both conceptual knowledge and application.\n\nStudents preparing for BSC-NURSING through CEE should focus on understanding the biological and chemical principles deeply, as MCQ options are often designed to test subtle differences in understanding.\n\nPast CEE papers show that Nepal GK is a high-weightage topic. Practice with official model questions and previous year papers to understand the difficulty level and question patterns.\n\nA combiniation of textbook study, model question practice, and group discussion will provide the best preparation for this chapter.",
+        "whyItMatters": "Critical for CEE BSC-NURSING — this topic carries high marks and appears every year. Focus on conceptual clarity and application-based questions.",
+        "prerequisites": [
+          "NEB Grade 11-12 Biology/Chemistry/Physics"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Core Concepts: Nepal GK",
+          "difficulty": "intermediate",
+          "explanation": "Essential concepts of Nepal GK for the CEE BSC-NURSING examination. Focus on understanding mechanisms, processes, and key definitions that are most frequently tested.",
+          "keyPoints": [
+            "Key definitions and processes",
+            "Critical mechanisms",
+            "Common MCQ patterns"
+          ],
+          "formula": null,
+          "examTip": "CEE MCQs often test exceptions and special cases. Pay attention to \"except\" and \"not true\" type questions."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Practice & Application: Nepal GK",
+          "difficulty": "advanced",
+          "explanation": "Application-based practice for Nepal GK. Focuses on clinical correlations, practical applications, and high-yield topics for the entrance examination.",
+          "keyPoints": [
+            "Clinical correlations",
+            "Application-based questions",
+            "High-yield facts"
+          ],
+          "formula": null,
+          "examTip": "Memorize key facts and figures for this chapter. CEE tests factual recall alongside conceptual understanding."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Science GK",
+      "shortIntro": "CEE BSC-NURSING: Science GK preparation material.",
+      "introduction": {
+        "overview": "Science GK is a crucial chapter for the CEE BSC-NURSING entrance examination. Medical and health science entrance exams in Nepal require deep understanding of this topic, and the CEE consistently tests both conceptual knowledge and application.\n\nStudents preparing for BSC-NURSING through CEE should focus on understanding the biological and chemical principles deeply, as MCQ options are often designed to test subtle differences in understanding.\n\nPast CEE papers show that Science GK is a high-weightage topic. Practice with official model questions and previous year papers to understand the difficulty level and question patterns.\n\nA combiniation of textbook study, model question practice, and group discussion will provide the best preparation for this chapter.",
+        "whyItMatters": "Critical for CEE BSC-NURSING — this topic carries high marks and appears every year. Focus on conceptual clarity and application-based questions.",
+        "prerequisites": [
+          "NEB Grade 11-12 Biology/Chemistry/Physics"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Core Concepts: Science GK",
+          "difficulty": "intermediate",
+          "explanation": "Essential concepts of Science GK for the CEE BSC-NURSING examination. Focus on understanding mechanisms, processes, and key definitions that are most frequently tested.",
+          "keyPoints": [
+            "Key definitions and processes",
+            "Critical mechanisms",
+            "Common MCQ patterns"
+          ],
+          "formula": null,
+          "examTip": "CEE MCQs often test exceptions and special cases. Pay attention to \"except\" and \"not true\" type questions."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Practice & Application: Science GK",
+          "difficulty": "advanced",
+          "explanation": "Application-based practice for Science GK. Focuses on clinical correlations, practical applications, and high-yield topics for the entrance examination.",
+          "keyPoints": [
+            "Clinical correlations",
+            "Application-based questions",
+            "High-yield facts"
+          ],
+          "formula": null,
+          "examTip": "Memorize key facts and figures for this chapter. CEE tests factual recall alongside conceptual understanding."
+        }
+      ]
+    }
+  ]
+}

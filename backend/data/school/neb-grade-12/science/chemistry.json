@@ -1,0 +1,315 @@
+{
+  "meta": {
+    "program": "NEB Grade 12",
+    "category": "school",
+    "subCategory": "neb-grade-12",
+    "subject": "Chemistry",
+    "subjectId": "chemistry",
+    "color": "#7C3AED",
+    "lastUpdated": "2025",
+    "stream": "science",
+    "totalChapters": 6
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "General and Physical Chemistry",
+      "shortIntro": "NEB Grade 12 science stream: General and Physical Chemistry.",
+      "introduction": {
+        "overview": "General and Physical Chemistry is a crucial chapter in the NEB Grade 12 Chemistry syllabus under the science stream. This chapter is designed according to the NEB curriculum framework and covers both theoretical and applied aspects of the topic.\n\nStudents studying in the science stream at Grade 12 level will find this chapter essential for their board examinations. The NEB has consistently included questions from this chapter, making it a priority for exam preparation.\n\nThe content builds on secondary-level knowledge and introduces concepts at a higher academic level. Students should regularly practice problems and review past NEB question papers to understand the examination pattern.\n\nBy mastering this chapter, students will develop a strong conceptual foundation that will serve them well in higher education, whether pursuing a bachelor's degree or preparing for entrance examinations.",
+        "whyItMatters": "This chapter is frequently tested in NEB Grade 12 examinations. A strong grasp of General and Physical Chemistry provides both examination success and practical knowledge for future studies.",
+        "prerequisites": [
+          "Grade 11 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Introduction to General and Physical Chemistry",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to General and Physical Chemistry as studied in Grade 12 science stream. The fundamental concepts, definitions, and principles are covered here.\n\nStudents should aim to understand the conceptual basis thoroughly, as NEB questions often test understanding rather than mere recall.",
+          "keyPoints": [
+            "Core principles of General and Physical Chemistry",
+            "Definitions and terminology",
+            "Historical context and development",
+            "Applications in daily life"
+          ],
+          "formula": null,
+          "examTip": "NEB Grade 12 often includes short-answer questions testing conceptual clarity. Be precise in your definitions."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Applications of General and Physical Chemistry",
+          "difficulty": "intermediate",
+          "explanation": "This topic explores how the concepts of General and Physical Chemistry are applied in practical scenarios and examination contexts. Problem-solving skills are developed through guided examples and practice.",
+          "keyPoints": [
+            "Analytical problem-solving techniques",
+            "Real-world application examples",
+            "Common NEB question formats",
+            "Tips for comprehensive answers"
+          ],
+          "formula": null,
+          "examTip": "For long-answer questions in NEB exams, structure your response with an introduction, main body with examples, and conclusion."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Atomic Structure",
+      "shortIntro": "NEB Grade 12 science stream: Atomic Structure.",
+      "introduction": {
+        "overview": "Atomic Structure is a crucial chapter in the NEB Grade 12 Chemistry syllabus under the science stream. This chapter is designed according to the NEB curriculum framework and covers both theoretical and applied aspects of the topic.\n\nStudents studying in the science stream at Grade 12 level will find this chapter essential for their board examinations. The NEB has consistently included questions from this chapter, making it a priority for exam preparation.\n\nThe content builds on secondary-level knowledge and introduces concepts at a higher academic level. Students should regularly practice problems and review past NEB question papers to understand the examination pattern.\n\nBy mastering this chapter, students will develop a strong conceptual foundation that will serve them well in higher education, whether pursuing a bachelor's degree or preparing for entrance examinations.",
+        "whyItMatters": "This chapter is frequently tested in NEB Grade 12 examinations. A strong grasp of Atomic Structure provides both examination success and practical knowledge for future studies.",
+        "prerequisites": [
+          "Grade 11 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Introduction to Atomic Structure",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Atomic Structure as studied in Grade 12 science stream. The fundamental concepts, definitions, and principles are covered here.\n\nStudents should aim to understand the conceptual basis thoroughly, as NEB questions often test understanding rather than mere recall.",
+          "keyPoints": [
+            "Core principles of Atomic Structure",
+            "Definitions and terminology",
+            "Historical context and development",
+            "Applications in daily life"
+          ],
+          "formula": null,
+          "examTip": "NEB Grade 12 often includes short-answer questions testing conceptual clarity. Be precise in your definitions."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Applications of Atomic Structure",
+          "difficulty": "intermediate",
+          "explanation": "This topic explores how the concepts of Atomic Structure are applied in practical scenarios and examination contexts. Problem-solving skills are developed through guided examples and practice.",
+          "keyPoints": [
+            "Analytical problem-solving techniques",
+            "Real-world application examples",
+            "Common NEB question formats",
+            "Tips for comprehensive answers"
+          ],
+          "formula": null,
+          "examTip": "For long-answer questions in NEB exams, structure your response with an introduction, main body with examples, and conclusion."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Chemical Bonding",
+      "shortIntro": "NEB Grade 12 science stream: Chemical Bonding.",
+      "introduction": {
+        "overview": "Chemical Bonding is a crucial chapter in the NEB Grade 12 Chemistry syllabus under the science stream. This chapter is designed according to the NEB curriculum framework and covers both theoretical and applied aspects of the topic.\n\nStudents studying in the science stream at Grade 12 level will find this chapter essential for their board examinations. The NEB has consistently included questions from this chapter, making it a priority for exam preparation.\n\nThe content builds on secondary-level knowledge and introduces concepts at a higher academic level. Students should regularly practice problems and review past NEB question papers to understand the examination pattern.\n\nBy mastering this chapter, students will develop a strong conceptual foundation that will serve them well in higher education, whether pursuing a bachelor's degree or preparing for entrance examinations.",
+        "whyItMatters": "This chapter is frequently tested in NEB Grade 12 examinations. A strong grasp of Chemical Bonding provides both examination success and practical knowledge for future studies.",
+        "prerequisites": [
+          "Grade 11 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Introduction to Chemical Bonding",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Chemical Bonding as studied in Grade 12 science stream. The fundamental concepts, definitions, and principles are covered here.\n\nStudents should aim to understand the conceptual basis thoroughly, as NEB questions often test understanding rather than mere recall.",
+          "keyPoints": [
+            "Core principles of Chemical Bonding",
+            "Definitions and terminology",
+            "Historical context and development",
+            "Applications in daily life"
+          ],
+          "formula": null,
+          "examTip": "NEB Grade 12 often includes short-answer questions testing conceptual clarity. Be precise in your definitions."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Applications of Chemical Bonding",
+          "difficulty": "intermediate",
+          "explanation": "This topic explores how the concepts of Chemical Bonding are applied in practical scenarios and examination contexts. Problem-solving skills are developed through guided examples and practice.",
+          "keyPoints": [
+            "Analytical problem-solving techniques",
+            "Real-world application examples",
+            "Common NEB question formats",
+            "Tips for comprehensive answers"
+          ],
+          "formula": null,
+          "examTip": "For long-answer questions in NEB exams, structure your response with an introduction, main body with examples, and conclusion."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "States of Matter",
+      "shortIntro": "NEB Grade 12 science stream: States of Matter.",
+      "introduction": {
+        "overview": "States of Matter is a crucial chapter in the NEB Grade 12 Chemistry syllabus under the science stream. This chapter is designed according to the NEB curriculum framework and covers both theoretical and applied aspects of the topic.\n\nStudents studying in the science stream at Grade 12 level will find this chapter essential for their board examinations. The NEB has consistently included questions from this chapter, making it a priority for exam preparation.\n\nThe content builds on secondary-level knowledge and introduces concepts at a higher academic level. Students should regularly practice problems and review past NEB question papers to understand the examination pattern.\n\nBy mastering this chapter, students will develop a strong conceptual foundation that will serve them well in higher education, whether pursuing a bachelor's degree or preparing for entrance examinations.",
+        "whyItMatters": "This chapter is frequently tested in NEB Grade 12 examinations. A strong grasp of States of Matter provides both examination success and practical knowledge for future studies.",
+        "prerequisites": [
+          "Grade 11 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Introduction to States of Matter",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to States of Matter as studied in Grade 12 science stream. The fundamental concepts, definitions, and principles are covered here.\n\nStudents should aim to understand the conceptual basis thoroughly, as NEB questions often test understanding rather than mere recall.",
+          "keyPoints": [
+            "Core principles of States of Matter",
+            "Definitions and terminology",
+            "Historical context and development",
+            "Applications in daily life"
+          ],
+          "formula": null,
+          "examTip": "NEB Grade 12 often includes short-answer questions testing conceptual clarity. Be precise in your definitions."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Applications of States of Matter",
+          "difficulty": "intermediate",
+          "explanation": "This topic explores how the concepts of States of Matter are applied in practical scenarios and examination contexts. Problem-solving skills are developed through guided examples and practice.",
+          "keyPoints": [
+            "Analytical problem-solving techniques",
+            "Real-world application examples",
+            "Common NEB question formats",
+            "Tips for comprehensive answers"
+          ],
+          "formula": null,
+          "examTip": "For long-answer questions in NEB exams, structure your response with an introduction, main body with examples, and conclusion."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Chemical Equilibrium",
+      "shortIntro": "NEB Grade 12 science stream: Chemical Equilibrium.",
+      "introduction": {
+        "overview": "Chemical Equilibrium is a crucial chapter in the NEB Grade 12 Chemistry syllabus under the science stream. This chapter is designed according to the NEB curriculum framework and covers both theoretical and applied aspects of the topic.\n\nStudents studying in the science stream at Grade 12 level will find this chapter essential for their board examinations. The NEB has consistently included questions from this chapter, making it a priority for exam preparation.\n\nThe content builds on secondary-level knowledge and introduces concepts at a higher academic level. Students should regularly practice problems and review past NEB question papers to understand the examination pattern.\n\nBy mastering this chapter, students will develop a strong conceptual foundation that will serve them well in higher education, whether pursuing a bachelor's degree or preparing for entrance examinations.",
+        "whyItMatters": "This chapter is frequently tested in NEB Grade 12 examinations. A strong grasp of Chemical Equilibrium provides both examination success and practical knowledge for future studies.",
+        "prerequisites": [
+          "Grade 11 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Introduction to Chemical Equilibrium",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Chemical Equilibrium as studied in Grade 12 science stream. The fundamental concepts, definitions, and principles are covered here.\n\nStudents should aim to understand the conceptual basis thoroughly, as NEB questions often test understanding rather than mere recall.",
+          "keyPoints": [
+            "Core principles of Chemical Equilibrium",
+            "Definitions and terminology",
+            "Historical context and development",
+            "Applications in daily life"
+          ],
+          "formula": null,
+          "examTip": "NEB Grade 12 often includes short-answer questions testing conceptual clarity. Be precise in your definitions."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Applications of Chemical Equilibrium",
+          "difficulty": "intermediate",
+          "explanation": "This topic explores how the concepts of Chemical Equilibrium are applied in practical scenarios and examination contexts. Problem-solving skills are developed through guided examples and practice.",
+          "keyPoints": [
+            "Analytical problem-solving techniques",
+            "Real-world application examples",
+            "Common NEB question formats",
+            "Tips for comprehensive answers"
+          ],
+          "formula": null,
+          "examTip": "For long-answer questions in NEB exams, structure your response with an introduction, main body with examples, and conclusion."
+        }
+      ]
+    },
+    {
+      "id": "ch-6",
+      "number": 6,
+      "title": "Organic Chemistry Basics",
+      "shortIntro": "NEB Grade 12 science stream: Organic Chemistry Basics.",
+      "introduction": {
+        "overview": "Organic Chemistry Basics is a crucial chapter in the NEB Grade 12 Chemistry syllabus under the science stream. This chapter is designed according to the NEB curriculum framework and covers both theoretical and applied aspects of the topic.\n\nStudents studying in the science stream at Grade 12 level will find this chapter essential for their board examinations. The NEB has consistently included questions from this chapter, making it a priority for exam preparation.\n\nThe content builds on secondary-level knowledge and introduces concepts at a higher academic level. Students should regularly practice problems and review past NEB question papers to understand the examination pattern.\n\nBy mastering this chapter, students will develop a strong conceptual foundation that will serve them well in higher education, whether pursuing a bachelor's degree or preparing for entrance examinations.",
+        "whyItMatters": "This chapter is frequently tested in NEB Grade 12 examinations. A strong grasp of Organic Chemistry Basics provides both examination success and practical knowledge for future studies.",
+        "prerequisites": [
+          "Grade 11 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-6-1",
+          "number": 1,
+          "name": "Introduction to Organic Chemistry Basics",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Organic Chemistry Basics as studied in Grade 12 science stream. The fundamental concepts, definitions, and principles are covered here.\n\nStudents should aim to understand the conceptual basis thoroughly, as NEB questions often test understanding rather than mere recall.",
+          "keyPoints": [
+            "Core principles of Organic Chemistry Basics",
+            "Definitions and terminology",
+            "Historical context and development",
+            "Applications in daily life"
+          ],
+          "formula": null,
+          "examTip": "NEB Grade 12 often includes short-answer questions testing conceptual clarity. Be precise in your definitions."
+        },
+        {
+          "id": "t-6-2",
+          "number": 2,
+          "name": "Applications of Organic Chemistry Basics",
+          "difficulty": "intermediate",
+          "explanation": "This topic explores how the concepts of Organic Chemistry Basics are applied in practical scenarios and examination contexts. Problem-solving skills are developed through guided examples and practice.",
+          "keyPoints": [
+            "Analytical problem-solving techniques",
+            "Real-world application examples",
+            "Common NEB question formats",
+            "Tips for comprehensive answers"
+          ],
+          "formula": null,
+          "examTip": "For long-answer questions in NEB exams, structure your response with an introduction, main body with examples, and conclusion."
+        }
+      ]
+    }
+  ]
+}

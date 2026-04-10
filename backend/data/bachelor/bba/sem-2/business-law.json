@@ -1,0 +1,207 @@
+{
+  "meta": {
+    "program": "BBA",
+    "category": "bachelor",
+    "subCategory": "bba",
+    "subject": "Business Law",
+    "subjectId": "business-law",
+    "color": "#374151",
+    "lastUpdated": "2025",
+    "semester": "sem-2",
+    "totalChapters": 4
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Contract Law",
+      "shortIntro": "BBA sem-2: Contract Law — key concepts and applications.",
+      "introduction": {
+        "overview": "Contract Law is an essential chapter in the BBA Business Law syllabus for sem 2. This chapter builds the managerial and analytical skills that are fundamental to a successful career in business administration.\n\nStudents will explore both classical and contemporary perspectives on Contract Law, with emphasis on case studies and practical applications relevant to the Nepali business environment.\n\nThe BBA program emphasizes a practical, application-oriented approach to learning. Students should supplement their textbook study with current business news, case analyses, and group discussions.\n\nMastering this chapter prepares students for more advanced topics in subsequent semesters and provides a competitive edge in the job market.",
+        "whyItMatters": "Mastering Contract Law is crucial for BBA students as it directly applies to professional practice and higher-semester coursework.",
+        "prerequisites": [
+          "Pre-requisite: Previous semester courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Fundamentals of Contract Law",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces core concepts of Contract Law. Students learn essential frameworks, terminology, and principles that underpin this chapter.\n\nThe focus is on building a strong conceptual foundation that can be applied to real business situations.",
+          "keyPoints": [
+            "Core frameworks and models",
+            "Essential business terminology",
+            "Foundational principles"
+          ],
+          "formula": null,
+          "examTip": "In BBA exams, demonstrate both theoretical knowledge and practical application for full marks."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Case Studies in Contract Law",
+          "difficulty": "intermediate",
+          "explanation": "This topic uses case studies to illustrate how Contract Law concepts apply in real business scenarios. Students develop analytical and problem-solving skills through guided case analysis.",
+          "keyPoints": [
+            "Case analysis methodology",
+            "Real-world application",
+            "Critical thinking development"
+          ],
+          "formula": null,
+          "examTip": "Practice analyzing mini-cases within time limits to prepare for exam scenarios."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Company Law",
+      "shortIntro": "BBA sem-2: Company Law — key concepts and applications.",
+      "introduction": {
+        "overview": "Company Law is an essential chapter in the BBA Business Law syllabus for sem 2. This chapter builds the managerial and analytical skills that are fundamental to a successful career in business administration.\n\nStudents will explore both classical and contemporary perspectives on Company Law, with emphasis on case studies and practical applications relevant to the Nepali business environment.\n\nThe BBA program emphasizes a practical, application-oriented approach to learning. Students should supplement their textbook study with current business news, case analyses, and group discussions.\n\nMastering this chapter prepares students for more advanced topics in subsequent semesters and provides a competitive edge in the job market.",
+        "whyItMatters": "Mastering Company Law is crucial for BBA students as it directly applies to professional practice and higher-semester coursework.",
+        "prerequisites": [
+          "Pre-requisite: Previous semester courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Fundamentals of Company Law",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces core concepts of Company Law. Students learn essential frameworks, terminology, and principles that underpin this chapter.\n\nThe focus is on building a strong conceptual foundation that can be applied to real business situations.",
+          "keyPoints": [
+            "Core frameworks and models",
+            "Essential business terminology",
+            "Foundational principles"
+          ],
+          "formula": null,
+          "examTip": "In BBA exams, demonstrate both theoretical knowledge and practical application for full marks."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Case Studies in Company Law",
+          "difficulty": "intermediate",
+          "explanation": "This topic uses case studies to illustrate how Company Law concepts apply in real business scenarios. Students develop analytical and problem-solving skills through guided case analysis.",
+          "keyPoints": [
+            "Case analysis methodology",
+            "Real-world application",
+            "Critical thinking development"
+          ],
+          "formula": null,
+          "examTip": "Practice analyzing mini-cases within time limits to prepare for exam scenarios."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Labor Law",
+      "shortIntro": "BBA sem-2: Labor Law — key concepts and applications.",
+      "introduction": {
+        "overview": "Labor Law is an essential chapter in the BBA Business Law syllabus for sem 2. This chapter builds the managerial and analytical skills that are fundamental to a successful career in business administration.\n\nStudents will explore both classical and contemporary perspectives on Labor Law, with emphasis on case studies and practical applications relevant to the Nepali business environment.\n\nThe BBA program emphasizes a practical, application-oriented approach to learning. Students should supplement their textbook study with current business news, case analyses, and group discussions.\n\nMastering this chapter prepares students for more advanced topics in subsequent semesters and provides a competitive edge in the job market.",
+        "whyItMatters": "Mastering Labor Law is crucial for BBA students as it directly applies to professional practice and higher-semester coursework.",
+        "prerequisites": [
+          "Pre-requisite: Previous semester courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Fundamentals of Labor Law",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces core concepts of Labor Law. Students learn essential frameworks, terminology, and principles that underpin this chapter.\n\nThe focus is on building a strong conceptual foundation that can be applied to real business situations.",
+          "keyPoints": [
+            "Core frameworks and models",
+            "Essential business terminology",
+            "Foundational principles"
+          ],
+          "formula": null,
+          "examTip": "In BBA exams, demonstrate both theoretical knowledge and practical application for full marks."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Case Studies in Labor Law",
+          "difficulty": "intermediate",
+          "explanation": "This topic uses case studies to illustrate how Labor Law concepts apply in real business scenarios. Students develop analytical and problem-solving skills through guided case analysis.",
+          "keyPoints": [
+            "Case analysis methodology",
+            "Real-world application",
+            "Critical thinking development"
+          ],
+          "formula": null,
+          "examTip": "Practice analyzing mini-cases within time limits to prepare for exam scenarios."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Consumer Protection",
+      "shortIntro": "BBA sem-2: Consumer Protection — key concepts and applications.",
+      "introduction": {
+        "overview": "Consumer Protection is an essential chapter in the BBA Business Law syllabus for sem 2. This chapter builds the managerial and analytical skills that are fundamental to a successful career in business administration.\n\nStudents will explore both classical and contemporary perspectives on Consumer Protection, with emphasis on case studies and practical applications relevant to the Nepali business environment.\n\nThe BBA program emphasizes a practical, application-oriented approach to learning. Students should supplement their textbook study with current business news, case analyses, and group discussions.\n\nMastering this chapter prepares students for more advanced topics in subsequent semesters and provides a competitive edge in the job market.",
+        "whyItMatters": "Mastering Consumer Protection is crucial for BBA students as it directly applies to professional practice and higher-semester coursework.",
+        "prerequisites": [
+          "Pre-requisite: Previous semester courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Fundamentals of Consumer Protection",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces core concepts of Consumer Protection. Students learn essential frameworks, terminology, and principles that underpin this chapter.\n\nThe focus is on building a strong conceptual foundation that can be applied to real business situations.",
+          "keyPoints": [
+            "Core frameworks and models",
+            "Essential business terminology",
+            "Foundational principles"
+          ],
+          "formula": null,
+          "examTip": "In BBA exams, demonstrate both theoretical knowledge and practical application for full marks."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Case Studies in Consumer Protection",
+          "difficulty": "intermediate",
+          "explanation": "This topic uses case studies to illustrate how Consumer Protection concepts apply in real business scenarios. Students develop analytical and problem-solving skills through guided case analysis.",
+          "keyPoints": [
+            "Case analysis methodology",
+            "Real-world application",
+            "Critical thinking development"
+          ],
+          "formula": null,
+          "examTip": "Practice analyzing mini-cases within time limits to prepare for exam scenarios."
+        }
+      ]
+    }
+  ]
+}

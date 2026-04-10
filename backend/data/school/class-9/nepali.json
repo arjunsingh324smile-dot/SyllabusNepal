@@ -1,0 +1,302 @@
+{
+  "meta": {
+    "program": "Class 9",
+    "category": "school",
+    "subCategory": "class-9",
+    "subject": "Nepali",
+    "subjectId": "nepali",
+    "color": "#DC2626",
+    "lastUpdated": "2025",
+    "totalChapters": 6
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "गद्यांश",
+      "shortIntro": "Class 9 Nepali: गद्यांश fundamentals and applications.",
+      "introduction": {
+        "overview": "गद्यांश is an important chapter in the Class 9 Nepali curriculum. Building on concepts from Grade 8, this chapter introduces more advanced ideas and prepares students for the SEE examination.\n\nThe chapter explores both theoretical understanding and practical applications. Students should aim to master the core concepts before attempting more complex problems.\n\nRegular practice with classwork exercises and reference materials will help solidify understanding. Teachers typically emphasize this topic due to its relevance in the SEE syllabus.\n\nBy the end of this chapter, students should be comfortable with key concepts and ready to tackle SEE-level questions on गद्यांश.",
+        "whyItMatters": "Understanding गद्यांश at the Class 9 level builds the foundation for SEE preparation. This topic appears in various forms across examinations.",
+        "prerequisites": [
+          "Grade 8 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Core Concepts of गद्यांश",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental principles of गद्यांश as taught in Class 9. Students will learn key definitions, theorems, and basic problem-solving approaches.\n\nA thorough understanding of these concepts is necessary before advancing to more complex material in Class 10.",
+          "keyPoints": [
+            "Key definitions and principles",
+            "Basic problem-solving techniques",
+            "Links to Grade 8 concepts"
+          ],
+          "formula": null,
+          "examTip": "Focus on understanding core principles rather than rote memorization."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Problem Solving in गद्यांश",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the core concepts and introduces various problem types that students will encounter in examinations.\n\nPractice is essential — work through as many examples as possible to build speed and confidence.",
+          "keyPoints": [
+            "Multiple problem types covered",
+            "Step-by-step solution approach",
+            "Time management in exams"
+          ],
+          "formula": null,
+          "examTip": "Practice past paper questions on गद्यांश to understand the exam pattern."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "पद्यांश",
+      "shortIntro": "Class 9 Nepali: पद्यांश fundamentals and applications.",
+      "introduction": {
+        "overview": "पद्यांश is an important chapter in the Class 9 Nepali curriculum. Building on concepts from Grade 8, this chapter introduces more advanced ideas and prepares students for the SEE examination.\n\nThe chapter explores both theoretical understanding and practical applications. Students should aim to master the core concepts before attempting more complex problems.\n\nRegular practice with classwork exercises and reference materials will help solidify understanding. Teachers typically emphasize this topic due to its relevance in the SEE syllabus.\n\nBy the end of this chapter, students should be comfortable with key concepts and ready to tackle SEE-level questions on पद्यांश.",
+        "whyItMatters": "Understanding पद्यांश at the Class 9 level builds the foundation for SEE preparation. This topic appears in various forms across examinations.",
+        "prerequisites": [
+          "Grade 8 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Core Concepts of पद्यांश",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental principles of पद्यांश as taught in Class 9. Students will learn key definitions, theorems, and basic problem-solving approaches.\n\nA thorough understanding of these concepts is necessary before advancing to more complex material in Class 10.",
+          "keyPoints": [
+            "Key definitions and principles",
+            "Basic problem-solving techniques",
+            "Links to Grade 8 concepts"
+          ],
+          "formula": null,
+          "examTip": "Focus on understanding core principles rather than rote memorization."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Problem Solving in पद्यांश",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the core concepts and introduces various problem types that students will encounter in examinations.\n\nPractice is essential — work through as many examples as possible to build speed and confidence.",
+          "keyPoints": [
+            "Multiple problem types covered",
+            "Step-by-step solution approach",
+            "Time management in exams"
+          ],
+          "formula": null,
+          "examTip": "Practice past paper questions on पद्यांश to understand the exam pattern."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "व्याकरण",
+      "shortIntro": "Class 9 Nepali: व्याकरण fundamentals and applications.",
+      "introduction": {
+        "overview": "व्याकरण is an important chapter in the Class 9 Nepali curriculum. Building on concepts from Grade 8, this chapter introduces more advanced ideas and prepares students for the SEE examination.\n\nThe chapter explores both theoretical understanding and practical applications. Students should aim to master the core concepts before attempting more complex problems.\n\nRegular practice with classwork exercises and reference materials will help solidify understanding. Teachers typically emphasize this topic due to its relevance in the SEE syllabus.\n\nBy the end of this chapter, students should be comfortable with key concepts and ready to tackle SEE-level questions on व्याकरण.",
+        "whyItMatters": "Understanding व्याकरण at the Class 9 level builds the foundation for SEE preparation. This topic appears in various forms across examinations.",
+        "prerequisites": [
+          "Grade 8 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Core Concepts of व्याकरण",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental principles of व्याकरण as taught in Class 9. Students will learn key definitions, theorems, and basic problem-solving approaches.\n\nA thorough understanding of these concepts is necessary before advancing to more complex material in Class 10.",
+          "keyPoints": [
+            "Key definitions and principles",
+            "Basic problem-solving techniques",
+            "Links to Grade 8 concepts"
+          ],
+          "formula": null,
+          "examTip": "Focus on understanding core principles rather than rote memorization."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Problem Solving in व्याकरण",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the core concepts and introduces various problem types that students will encounter in examinations.\n\nPractice is essential — work through as many examples as possible to build speed and confidence.",
+          "keyPoints": [
+            "Multiple problem types covered",
+            "Step-by-step solution approach",
+            "Time management in exams"
+          ],
+          "formula": null,
+          "examTip": "Practice past paper questions on व्याकरण to understand the exam pattern."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "निबन्ध लेखन",
+      "shortIntro": "Class 9 Nepali: निबन्ध लेखन fundamentals and applications.",
+      "introduction": {
+        "overview": "निबन्ध लेखन is an important chapter in the Class 9 Nepali curriculum. Building on concepts from Grade 8, this chapter introduces more advanced ideas and prepares students for the SEE examination.\n\nThe chapter explores both theoretical understanding and practical applications. Students should aim to master the core concepts before attempting more complex problems.\n\nRegular practice with classwork exercises and reference materials will help solidify understanding. Teachers typically emphasize this topic due to its relevance in the SEE syllabus.\n\nBy the end of this chapter, students should be comfortable with key concepts and ready to tackle SEE-level questions on निबन्ध लेखन.",
+        "whyItMatters": "Understanding निबन्ध लेखन at the Class 9 level builds the foundation for SEE preparation. This topic appears in various forms across examinations.",
+        "prerequisites": [
+          "Grade 8 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Core Concepts of निबन्ध लेखन",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental principles of निबन्ध लेखन as taught in Class 9. Students will learn key definitions, theorems, and basic problem-solving approaches.\n\nA thorough understanding of these concepts is necessary before advancing to more complex material in Class 10.",
+          "keyPoints": [
+            "Key definitions and principles",
+            "Basic problem-solving techniques",
+            "Links to Grade 8 concepts"
+          ],
+          "formula": null,
+          "examTip": "Focus on understanding core principles rather than rote memorization."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Problem Solving in निबन्ध लेखन",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the core concepts and introduces various problem types that students will encounter in examinations.\n\nPractice is essential — work through as many examples as possible to build speed and confidence.",
+          "keyPoints": [
+            "Multiple problem types covered",
+            "Step-by-step solution approach",
+            "Time management in exams"
+          ],
+          "formula": null,
+          "examTip": "Practice past paper questions on निबन्ध लेखन to understand the exam pattern."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "पत्र लेखन",
+      "shortIntro": "Class 9 Nepali: पत्र लेखन fundamentals and applications.",
+      "introduction": {
+        "overview": "पत्र लेखन is an important chapter in the Class 9 Nepali curriculum. Building on concepts from Grade 8, this chapter introduces more advanced ideas and prepares students for the SEE examination.\n\nThe chapter explores both theoretical understanding and practical applications. Students should aim to master the core concepts before attempting more complex problems.\n\nRegular practice with classwork exercises and reference materials will help solidify understanding. Teachers typically emphasize this topic due to its relevance in the SEE syllabus.\n\nBy the end of this chapter, students should be comfortable with key concepts and ready to tackle SEE-level questions on पत्र लेखन.",
+        "whyItMatters": "Understanding पत्र लेखन at the Class 9 level builds the foundation for SEE preparation. This topic appears in various forms across examinations.",
+        "prerequisites": [
+          "Grade 8 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Core Concepts of पत्र लेखन",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental principles of पत्र लेखन as taught in Class 9. Students will learn key definitions, theorems, and basic problem-solving approaches.\n\nA thorough understanding of these concepts is necessary before advancing to more complex material in Class 10.",
+          "keyPoints": [
+            "Key definitions and principles",
+            "Basic problem-solving techniques",
+            "Links to Grade 8 concepts"
+          ],
+          "formula": null,
+          "examTip": "Focus on understanding core principles rather than rote memorization."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Problem Solving in पत्र लेखन",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the core concepts and introduces various problem types that students will encounter in examinations.\n\nPractice is essential — work through as many examples as possible to build speed and confidence.",
+          "keyPoints": [
+            "Multiple problem types covered",
+            "Step-by-step solution approach",
+            "Time management in exams"
+          ],
+          "formula": null,
+          "examTip": "Practice past paper questions on पत्र लेखन to understand the exam pattern."
+        }
+      ]
+    },
+    {
+      "id": "ch-6",
+      "number": 6,
+      "title": "अनुच्छेद",
+      "shortIntro": "Class 9 Nepali: अनुच्छेद fundamentals and applications.",
+      "introduction": {
+        "overview": "अनुच्छेद is an important chapter in the Class 9 Nepali curriculum. Building on concepts from Grade 8, this chapter introduces more advanced ideas and prepares students for the SEE examination.\n\nThe chapter explores both theoretical understanding and practical applications. Students should aim to master the core concepts before attempting more complex problems.\n\nRegular practice with classwork exercises and reference materials will help solidify understanding. Teachers typically emphasize this topic due to its relevance in the SEE syllabus.\n\nBy the end of this chapter, students should be comfortable with key concepts and ready to tackle SEE-level questions on अनुच्छेद.",
+        "whyItMatters": "Understanding अनुच्छेद at the Class 9 level builds the foundation for SEE preparation. This topic appears in various forms across examinations.",
+        "prerequisites": [
+          "Grade 8 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-6-1",
+          "number": 1,
+          "name": "Core Concepts of अनुच्छेद",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental principles of अनुच्छेद as taught in Class 9. Students will learn key definitions, theorems, and basic problem-solving approaches.\n\nA thorough understanding of these concepts is necessary before advancing to more complex material in Class 10.",
+          "keyPoints": [
+            "Key definitions and principles",
+            "Basic problem-solving techniques",
+            "Links to Grade 8 concepts"
+          ],
+          "formula": null,
+          "examTip": "Focus on understanding core principles rather than rote memorization."
+        },
+        {
+          "id": "t-6-2",
+          "number": 2,
+          "name": "Problem Solving in अनुच्छेद",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the core concepts and introduces various problem types that students will encounter in examinations.\n\nPractice is essential — work through as many examples as possible to build speed and confidence.",
+          "keyPoints": [
+            "Multiple problem types covered",
+            "Step-by-step solution approach",
+            "Time management in exams"
+          ],
+          "formula": null,
+          "examTip": "Practice past paper questions on अनुच्छेद to understand the exam pattern."
+        }
+      ]
+    }
+  ]
+}

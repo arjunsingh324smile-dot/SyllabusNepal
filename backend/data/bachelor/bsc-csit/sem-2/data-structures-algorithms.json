@@ -1,0 +1,351 @@
+{
+  "meta": {
+    "program": "BSc CSIT",
+    "category": "bachelor",
+    "subCategory": "bsc-csit",
+    "subject": "Data Structures and Algorithms",
+    "subjectId": "data-structures-algorithms",
+    "color": "#059669",
+    "lastUpdated": "2025",
+    "semester": "sem-2",
+    "totalChapters": 7
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Introduction to DSA",
+      "shortIntro": "BSc CSIT sem-2: Introduction to DSA for computer science students.",
+      "introduction": {
+        "overview": "Introduction to DSA is a vital chapter in the BSc CSIT Data Structures and Algorithms syllabus for sem 2. The BSc CSIT program at TU is one of the most sought-after programs in Nepal for students interested in computer science and information technology.\n\nThis chapter covers fundamentals that are critical not only for university examinations but also for technical interviews, competitive programming, and advanced research in computer science.\n\nStudents should combine textbook study with practical programming exercises, online resources, and group study sessions. The BSc CSIT curriculum is rigorous, and consistent effort throughout the semester is necessary for success.\n\nMastering Introduction to DSA will provide students with skills that are directly applicable in Nepal's growing IT industry and in further academic pursuits.",
+        "whyItMatters": "Essential for BSc CSIT students — Introduction to DSA is heavily weighted in semester exams and forms the basis for advanced courses.",
+        "prerequisites": [
+          "Strong foundation in secondary mathematics and science"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Fundamentals of Introduction to DSA",
+          "difficulty": "beginner",
+          "explanation": "A thorough introduction to the concepts of Introduction to DSA. This topic establishes the foundational knowledge required for the rest of the chapter and for advanced study in later semesters.\n\nBSc CSIT students should particularly focus on the theoretical aspects that are frequently tested in TU examinations.",
+          "keyPoints": [
+            "Core theoretical concepts",
+            "Mathematical foundations",
+            "Practical implementation aspects"
+          ],
+          "formula": null,
+          "examTip": "TU BSc CSIT exams emphasize long-answer questions. Structure your answers clearly with definitions, explanations, and examples."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Advanced Topics in Introduction to DSA",
+          "difficulty": "intermediate",
+          "explanation": "Deeper exploration of Introduction to DSA covering complex concepts, optimization techniques, and advanced applications relevant to computer science.",
+          "keyPoints": [
+            "Complexity analysis",
+            "Optimization techniques",
+            "Real-world applications"
+          ],
+          "formula": null,
+          "examTip": "Focus on algorithm implementations and time complexity analysis — these are high-value topics in CSIT exams."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Stacks and Queues",
+      "shortIntro": "BSc CSIT sem-2: Stacks and Queues for computer science students.",
+      "introduction": {
+        "overview": "Stacks and Queues is a vital chapter in the BSc CSIT Data Structures and Algorithms syllabus for sem 2. The BSc CSIT program at TU is one of the most sought-after programs in Nepal for students interested in computer science and information technology.\n\nThis chapter covers fundamentals that are critical not only for university examinations but also for technical interviews, competitive programming, and advanced research in computer science.\n\nStudents should combine textbook study with practical programming exercises, online resources, and group study sessions. The BSc CSIT curriculum is rigorous, and consistent effort throughout the semester is necessary for success.\n\nMastering Stacks and Queues will provide students with skills that are directly applicable in Nepal's growing IT industry and in further academic pursuits.",
+        "whyItMatters": "Essential for BSc CSIT students — Stacks and Queues is heavily weighted in semester exams and forms the basis for advanced courses.",
+        "prerequisites": [
+          "Strong foundation in secondary mathematics and science"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Fundamentals of Stacks and Queues",
+          "difficulty": "beginner",
+          "explanation": "A thorough introduction to the concepts of Stacks and Queues. This topic establishes the foundational knowledge required for the rest of the chapter and for advanced study in later semesters.\n\nBSc CSIT students should particularly focus on the theoretical aspects that are frequently tested in TU examinations.",
+          "keyPoints": [
+            "Core theoretical concepts",
+            "Mathematical foundations",
+            "Practical implementation aspects"
+          ],
+          "formula": null,
+          "examTip": "TU BSc CSIT exams emphasize long-answer questions. Structure your answers clearly with definitions, explanations, and examples."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Advanced Topics in Stacks and Queues",
+          "difficulty": "intermediate",
+          "explanation": "Deeper exploration of Stacks and Queues covering complex concepts, optimization techniques, and advanced applications relevant to computer science.",
+          "keyPoints": [
+            "Complexity analysis",
+            "Optimization techniques",
+            "Real-world applications"
+          ],
+          "formula": null,
+          "examTip": "Focus on algorithm implementations and time complexity analysis — these are high-value topics in CSIT exams."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Linked Lists",
+      "shortIntro": "BSc CSIT sem-2: Linked Lists for computer science students.",
+      "introduction": {
+        "overview": "Linked Lists is a vital chapter in the BSc CSIT Data Structures and Algorithms syllabus for sem 2. The BSc CSIT program at TU is one of the most sought-after programs in Nepal for students interested in computer science and information technology.\n\nThis chapter covers fundamentals that are critical not only for university examinations but also for technical interviews, competitive programming, and advanced research in computer science.\n\nStudents should combine textbook study with practical programming exercises, online resources, and group study sessions. The BSc CSIT curriculum is rigorous, and consistent effort throughout the semester is necessary for success.\n\nMastering Linked Lists will provide students with skills that are directly applicable in Nepal's growing IT industry and in further academic pursuits.",
+        "whyItMatters": "Essential for BSc CSIT students — Linked Lists is heavily weighted in semester exams and forms the basis for advanced courses.",
+        "prerequisites": [
+          "Strong foundation in secondary mathematics and science"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Fundamentals of Linked Lists",
+          "difficulty": "beginner",
+          "explanation": "A thorough introduction to the concepts of Linked Lists. This topic establishes the foundational knowledge required for the rest of the chapter and for advanced study in later semesters.\n\nBSc CSIT students should particularly focus on the theoretical aspects that are frequently tested in TU examinations.",
+          "keyPoints": [
+            "Core theoretical concepts",
+            "Mathematical foundations",
+            "Practical implementation aspects"
+          ],
+          "formula": null,
+          "examTip": "TU BSc CSIT exams emphasize long-answer questions. Structure your answers clearly with definitions, explanations, and examples."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Advanced Topics in Linked Lists",
+          "difficulty": "intermediate",
+          "explanation": "Deeper exploration of Linked Lists covering complex concepts, optimization techniques, and advanced applications relevant to computer science.",
+          "keyPoints": [
+            "Complexity analysis",
+            "Optimization techniques",
+            "Real-world applications"
+          ],
+          "formula": null,
+          "examTip": "Focus on algorithm implementations and time complexity analysis — these are high-value topics in CSIT exams."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Trees",
+      "shortIntro": "BSc CSIT sem-2: Trees for computer science students.",
+      "introduction": {
+        "overview": "Trees is a vital chapter in the BSc CSIT Data Structures and Algorithms syllabus for sem 2. The BSc CSIT program at TU is one of the most sought-after programs in Nepal for students interested in computer science and information technology.\n\nThis chapter covers fundamentals that are critical not only for university examinations but also for technical interviews, competitive programming, and advanced research in computer science.\n\nStudents should combine textbook study with practical programming exercises, online resources, and group study sessions. The BSc CSIT curriculum is rigorous, and consistent effort throughout the semester is necessary for success.\n\nMastering Trees will provide students with skills that are directly applicable in Nepal's growing IT industry and in further academic pursuits.",
+        "whyItMatters": "Essential for BSc CSIT students — Trees is heavily weighted in semester exams and forms the basis for advanced courses.",
+        "prerequisites": [
+          "Strong foundation in secondary mathematics and science"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Fundamentals of Trees",
+          "difficulty": "beginner",
+          "explanation": "A thorough introduction to the concepts of Trees. This topic establishes the foundational knowledge required for the rest of the chapter and for advanced study in later semesters.\n\nBSc CSIT students should particularly focus on the theoretical aspects that are frequently tested in TU examinations.",
+          "keyPoints": [
+            "Core theoretical concepts",
+            "Mathematical foundations",
+            "Practical implementation aspects"
+          ],
+          "formula": null,
+          "examTip": "TU BSc CSIT exams emphasize long-answer questions. Structure your answers clearly with definitions, explanations, and examples."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Advanced Topics in Trees",
+          "difficulty": "intermediate",
+          "explanation": "Deeper exploration of Trees covering complex concepts, optimization techniques, and advanced applications relevant to computer science.",
+          "keyPoints": [
+            "Complexity analysis",
+            "Optimization techniques",
+            "Real-world applications"
+          ],
+          "formula": null,
+          "examTip": "Focus on algorithm implementations and time complexity analysis — these are high-value topics in CSIT exams."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Graphs",
+      "shortIntro": "BSc CSIT sem-2: Graphs for computer science students.",
+      "introduction": {
+        "overview": "Graphs is a vital chapter in the BSc CSIT Data Structures and Algorithms syllabus for sem 2. The BSc CSIT program at TU is one of the most sought-after programs in Nepal for students interested in computer science and information technology.\n\nThis chapter covers fundamentals that are critical not only for university examinations but also for technical interviews, competitive programming, and advanced research in computer science.\n\nStudents should combine textbook study with practical programming exercises, online resources, and group study sessions. The BSc CSIT curriculum is rigorous, and consistent effort throughout the semester is necessary for success.\n\nMastering Graphs will provide students with skills that are directly applicable in Nepal's growing IT industry and in further academic pursuits.",
+        "whyItMatters": "Essential for BSc CSIT students — Graphs is heavily weighted in semester exams and forms the basis for advanced courses.",
+        "prerequisites": [
+          "Strong foundation in secondary mathematics and science"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Fundamentals of Graphs",
+          "difficulty": "beginner",
+          "explanation": "A thorough introduction to the concepts of Graphs. This topic establishes the foundational knowledge required for the rest of the chapter and for advanced study in later semesters.\n\nBSc CSIT students should particularly focus on the theoretical aspects that are frequently tested in TU examinations.",
+          "keyPoints": [
+            "Core theoretical concepts",
+            "Mathematical foundations",
+            "Practical implementation aspects"
+          ],
+          "formula": null,
+          "examTip": "TU BSc CSIT exams emphasize long-answer questions. Structure your answers clearly with definitions, explanations, and examples."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Advanced Topics in Graphs",
+          "difficulty": "intermediate",
+          "explanation": "Deeper exploration of Graphs covering complex concepts, optimization techniques, and advanced applications relevant to computer science.",
+          "keyPoints": [
+            "Complexity analysis",
+            "Optimization techniques",
+            "Real-world applications"
+          ],
+          "formula": null,
+          "examTip": "Focus on algorithm implementations and time complexity analysis — these are high-value topics in CSIT exams."
+        }
+      ]
+    },
+    {
+      "id": "ch-6",
+      "number": 6,
+      "title": "Sorting Algorithms",
+      "shortIntro": "BSc CSIT sem-2: Sorting Algorithms for computer science students.",
+      "introduction": {
+        "overview": "Sorting Algorithms is a vital chapter in the BSc CSIT Data Structures and Algorithms syllabus for sem 2. The BSc CSIT program at TU is one of the most sought-after programs in Nepal for students interested in computer science and information technology.\n\nThis chapter covers fundamentals that are critical not only for university examinations but also for technical interviews, competitive programming, and advanced research in computer science.\n\nStudents should combine textbook study with practical programming exercises, online resources, and group study sessions. The BSc CSIT curriculum is rigorous, and consistent effort throughout the semester is necessary for success.\n\nMastering Sorting Algorithms will provide students with skills that are directly applicable in Nepal's growing IT industry and in further academic pursuits.",
+        "whyItMatters": "Essential for BSc CSIT students — Sorting Algorithms is heavily weighted in semester exams and forms the basis for advanced courses.",
+        "prerequisites": [
+          "Strong foundation in secondary mathematics and science"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-6-1",
+          "number": 1,
+          "name": "Fundamentals of Sorting Algorithms",
+          "difficulty": "beginner",
+          "explanation": "A thorough introduction to the concepts of Sorting Algorithms. This topic establishes the foundational knowledge required for the rest of the chapter and for advanced study in later semesters.\n\nBSc CSIT students should particularly focus on the theoretical aspects that are frequently tested in TU examinations.",
+          "keyPoints": [
+            "Core theoretical concepts",
+            "Mathematical foundations",
+            "Practical implementation aspects"
+          ],
+          "formula": null,
+          "examTip": "TU BSc CSIT exams emphasize long-answer questions. Structure your answers clearly with definitions, explanations, and examples."
+        },
+        {
+          "id": "t-6-2",
+          "number": 2,
+          "name": "Advanced Topics in Sorting Algorithms",
+          "difficulty": "intermediate",
+          "explanation": "Deeper exploration of Sorting Algorithms covering complex concepts, optimization techniques, and advanced applications relevant to computer science.",
+          "keyPoints": [
+            "Complexity analysis",
+            "Optimization techniques",
+            "Real-world applications"
+          ],
+          "formula": null,
+          "examTip": "Focus on algorithm implementations and time complexity analysis — these are high-value topics in CSIT exams."
+        }
+      ]
+    },
+    {
+      "id": "ch-7",
+      "number": 7,
+      "title": "Searching Algorithms",
+      "shortIntro": "BSc CSIT sem-2: Searching Algorithms for computer science students.",
+      "introduction": {
+        "overview": "Searching Algorithms is a vital chapter in the BSc CSIT Data Structures and Algorithms syllabus for sem 2. The BSc CSIT program at TU is one of the most sought-after programs in Nepal for students interested in computer science and information technology.\n\nThis chapter covers fundamentals that are critical not only for university examinations but also for technical interviews, competitive programming, and advanced research in computer science.\n\nStudents should combine textbook study with practical programming exercises, online resources, and group study sessions. The BSc CSIT curriculum is rigorous, and consistent effort throughout the semester is necessary for success.\n\nMastering Searching Algorithms will provide students with skills that are directly applicable in Nepal's growing IT industry and in further academic pursuits.",
+        "whyItMatters": "Essential for BSc CSIT students — Searching Algorithms is heavily weighted in semester exams and forms the basis for advanced courses.",
+        "prerequisites": [
+          "Strong foundation in secondary mathematics and science"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-7-1",
+          "number": 1,
+          "name": "Fundamentals of Searching Algorithms",
+          "difficulty": "beginner",
+          "explanation": "A thorough introduction to the concepts of Searching Algorithms. This topic establishes the foundational knowledge required for the rest of the chapter and for advanced study in later semesters.\n\nBSc CSIT students should particularly focus on the theoretical aspects that are frequently tested in TU examinations.",
+          "keyPoints": [
+            "Core theoretical concepts",
+            "Mathematical foundations",
+            "Practical implementation aspects"
+          ],
+          "formula": null,
+          "examTip": "TU BSc CSIT exams emphasize long-answer questions. Structure your answers clearly with definitions, explanations, and examples."
+        },
+        {
+          "id": "t-7-2",
+          "number": 2,
+          "name": "Advanced Topics in Searching Algorithms",
+          "difficulty": "intermediate",
+          "explanation": "Deeper exploration of Searching Algorithms covering complex concepts, optimization techniques, and advanced applications relevant to computer science.",
+          "keyPoints": [
+            "Complexity analysis",
+            "Optimization techniques",
+            "Real-world applications"
+          ],
+          "formula": null,
+          "examTip": "Focus on algorithm implementations and time complexity analysis — these are high-value topics in CSIT exams."
+        }
+      ]
+    }
+  ]
+}

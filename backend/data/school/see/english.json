@@ -1,0 +1,794 @@
+{
+  "meta": {
+    "program": "SEE",
+    "category": "school",
+    "subCategory": "see",
+    "subject": "English",
+    "subjectId": "english",
+    "color": "#2563EB",
+    "lastUpdated": "2025",
+    "totalChapters": 12
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Reading Comprehension",
+      "shortIntro": "SEE English: Comprehensive study of Reading Comprehension.",
+      "introduction": {
+        "overview": "Reading Comprehension is a critical chapter in the SEE English syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Reading Comprehension appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Fundamentals of Reading Comprehension",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Reading Comprehension as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Reading Comprehension",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Advanced Applications of Reading Comprehension",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-1-3",
+          "number": 3,
+          "name": "Practice and Revision for Reading Comprehension",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Reading Comprehension. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Seen Passages",
+      "shortIntro": "SEE English: Comprehensive study of Seen Passages.",
+      "introduction": {
+        "overview": "Seen Passages is a critical chapter in the SEE English syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Seen Passages appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Fundamentals of Seen Passages",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Seen Passages as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Seen Passages",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Advanced Applications of Seen Passages",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-2-3",
+          "number": 3,
+          "name": "Practice and Revision for Seen Passages",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Seen Passages. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Unseen Passages",
+      "shortIntro": "SEE English: Comprehensive study of Unseen Passages.",
+      "introduction": {
+        "overview": "Unseen Passages is a critical chapter in the SEE English syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Unseen Passages appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Fundamentals of Unseen Passages",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Unseen Passages as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Unseen Passages",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Advanced Applications of Unseen Passages",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-3-3",
+          "number": 3,
+          "name": "Practice and Revision for Unseen Passages",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Unseen Passages. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Grammar - Tenses",
+      "shortIntro": "SEE English: Comprehensive study of Grammar - Tenses.",
+      "introduction": {
+        "overview": "Grammar - Tenses is a critical chapter in the SEE English syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Grammar - Tenses appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Fundamentals of Grammar - Tenses",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Grammar - Tenses as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Grammar - Tenses",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Advanced Applications of Grammar - Tenses",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-4-3",
+          "number": 3,
+          "name": "Practice and Revision for Grammar - Tenses",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Grammar - Tenses. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Grammar - Prepositions and Conjunctions",
+      "shortIntro": "SEE English: Comprehensive study of Grammar - Prepositions and Conjunctions.",
+      "introduction": {
+        "overview": "Grammar - Prepositions and Conjunctions is a critical chapter in the SEE English syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Grammar - Prepositions and Conjunctions appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Fundamentals of Grammar - Prepositions and Conjunctions",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Grammar - Prepositions and Conjunctions as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Grammar - Prepositions and Conjunctions",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Advanced Applications of Grammar - Prepositions and Conjunctions",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-5-3",
+          "number": 3,
+          "name": "Practice and Revision for Grammar - Prepositions and Conjunctions",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Grammar - Prepositions and Conjunctions. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-6",
+      "number": 6,
+      "title": "Grammar - Voice and Narration",
+      "shortIntro": "SEE English: Comprehensive study of Grammar - Voice and Narration.",
+      "introduction": {
+        "overview": "Grammar - Voice and Narration is a critical chapter in the SEE English syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Grammar - Voice and Narration appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-6-1",
+          "number": 1,
+          "name": "Fundamentals of Grammar - Voice and Narration",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Grammar - Voice and Narration as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Grammar - Voice and Narration",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-6-2",
+          "number": 2,
+          "name": "Advanced Applications of Grammar - Voice and Narration",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-6-3",
+          "number": 3,
+          "name": "Practice and Revision for Grammar - Voice and Narration",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Grammar - Voice and Narration. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-7",
+      "number": 7,
+      "title": "Writing - Essays",
+      "shortIntro": "SEE English: Comprehensive study of Writing - Essays.",
+      "introduction": {
+        "overview": "Writing - Essays is a critical chapter in the SEE English syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Writing - Essays appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-7-1",
+          "number": 1,
+          "name": "Fundamentals of Writing - Essays",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Writing - Essays as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Writing - Essays",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-7-2",
+          "number": 2,
+          "name": "Advanced Applications of Writing - Essays",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-7-3",
+          "number": 3,
+          "name": "Practice and Revision for Writing - Essays",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Writing - Essays. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-8",
+      "number": 8,
+      "title": "Writing - Letters",
+      "shortIntro": "SEE English: Comprehensive study of Writing - Letters.",
+      "introduction": {
+        "overview": "Writing - Letters is a critical chapter in the SEE English syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Writing - Letters appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-8-1",
+          "number": 1,
+          "name": "Fundamentals of Writing - Letters",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Writing - Letters as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Writing - Letters",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-8-2",
+          "number": 2,
+          "name": "Advanced Applications of Writing - Letters",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-8-3",
+          "number": 3,
+          "name": "Practice and Revision for Writing - Letters",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Writing - Letters. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-9",
+      "number": 9,
+      "title": "Writing - Stories",
+      "shortIntro": "SEE English: Comprehensive study of Writing - Stories.",
+      "introduction": {
+        "overview": "Writing - Stories is a critical chapter in the SEE English syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Writing - Stories appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-9-1",
+          "number": 1,
+          "name": "Fundamentals of Writing - Stories",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Writing - Stories as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Writing - Stories",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-9-2",
+          "number": 2,
+          "name": "Advanced Applications of Writing - Stories",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-9-3",
+          "number": 3,
+          "name": "Practice and Revision for Writing - Stories",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Writing - Stories. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-10",
+      "number": 10,
+      "title": "Dialogue and Conversation",
+      "shortIntro": "SEE English: Comprehensive study of Dialogue and Conversation.",
+      "introduction": {
+        "overview": "Dialogue and Conversation is a critical chapter in the SEE English syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Dialogue and Conversation appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-10-1",
+          "number": 1,
+          "name": "Fundamentals of Dialogue and Conversation",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Dialogue and Conversation as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Dialogue and Conversation",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-10-2",
+          "number": 2,
+          "name": "Advanced Applications of Dialogue and Conversation",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-10-3",
+          "number": 3,
+          "name": "Practice and Revision for Dialogue and Conversation",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Dialogue and Conversation. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-11",
+      "number": 11,
+      "title": "Poetry Analysis",
+      "shortIntro": "SEE English: Comprehensive study of Poetry Analysis.",
+      "introduction": {
+        "overview": "Poetry Analysis is a critical chapter in the SEE English syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Poetry Analysis appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-11-1",
+          "number": 1,
+          "name": "Fundamentals of Poetry Analysis",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Poetry Analysis as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Poetry Analysis",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-11-2",
+          "number": 2,
+          "name": "Advanced Applications of Poetry Analysis",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-11-3",
+          "number": 3,
+          "name": "Practice and Revision for Poetry Analysis",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Poetry Analysis. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-12",
+      "number": 12,
+      "title": "Short Stories Literature",
+      "shortIntro": "SEE English: Comprehensive study of Short Stories Literature.",
+      "introduction": {
+        "overview": "Short Stories Literature is a critical chapter in the SEE English syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Short Stories Literature appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-12-1",
+          "number": 1,
+          "name": "Fundamentals of Short Stories Literature",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Short Stories Literature as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Short Stories Literature",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-12-2",
+          "number": 2,
+          "name": "Advanced Applications of Short Stories Literature",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-12-3",
+          "number": 3,
+          "name": "Practice and Revision for Short Stories Literature",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Short Stories Literature. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    }
+  ]
+}

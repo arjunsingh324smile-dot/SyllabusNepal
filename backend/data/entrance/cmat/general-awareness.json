@@ -1,0 +1,214 @@
+{
+  "meta": {
+    "program": "CMAT",
+    "category": "entrance",
+    "subCategory": "cmat",
+    "subject": "General Awareness",
+    "subjectId": "general-awareness",
+    "color": "#D97706",
+    "lastUpdated": "2025",
+    "totalChapters": 4
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Current Affairs Nepal",
+      "shortIntro": "CMAT: Current Affairs Nepal — exam preparation guide.",
+      "introduction": {
+        "overview": "Current Affairs Nepal is a critical topic for the CMAT examination. This chapter covers the complete syllabus content as specified by the conducting body, with focus on the types of questions that appear in the entrance test.\n\nThe CMAT is one of the most competitive entrance examinations in Nepal, and thorough preparation of Current Affairs Nepal is essential for achieving a high rank. Past papers analysis shows that this topic consistently carries significant marks.\n\nStudents should combine systematic study with timed practice tests. Focus on accuracy first, then work on speed. Understanding concepts deeply is more effective than memorizing formulas, as the examination tests analytical ability.\n\nA structured preparation plan covering this chapter, combined with regular revision and mock tests, will maximize your chances of success in the CMAT.",
+        "whyItMatters": "High-frequency topic in CMAT. Thorough preparation of Current Affairs Nepal can significantly improve your entrance rank. Multiple questions appear from this chapter every year.",
+        "prerequisites": [
+          "NEB Grade 11-12 syllabus knowledge"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Core Concepts: Current Affairs Nepal",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential concepts of Current Affairs Nepal that are tested in the CMAT examination. Focus is on building a solid understanding that enables quick and accurate problem-solving under exam conditions.\n\nStudents should practice with past entrance papers and model questions to familiarize themselves with the question patterns.",
+          "keyPoints": [
+            "Key formulas and principles",
+            "Common question patterns",
+            "Quick-solving techniques",
+            "High-frequency topics"
+          ],
+          "formula": null,
+          "examTip": "In CMAT, time management is crucial. Practice solving MCQs within 60-90 seconds per question."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Problem Solving: Current Affairs Nepal",
+          "difficulty": "advanced",
+          "explanation": "Advanced problem-solving techniques for Current Affairs Nepal in the context of competitive entrance examination. This topic covers shortcuts, elimination strategies, and advanced methods.\n\nFocus on the most frequently tested areas and develop systematic approaches to solve problems efficiently.",
+          "keyPoints": [
+            "Shortcut methods",
+            "Elimination techniques",
+            "Common traps to avoid",
+            "Previous year patterns"
+          ],
+          "formula": null,
+          "examTip": "Review the last 5 years of CMAT papers for Current Affairs Nepal. Identify the most repeated question types."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "General Knowledge",
+      "shortIntro": "CMAT: General Knowledge — exam preparation guide.",
+      "introduction": {
+        "overview": "General Knowledge is a critical topic for the CMAT examination. This chapter covers the complete syllabus content as specified by the conducting body, with focus on the types of questions that appear in the entrance test.\n\nThe CMAT is one of the most competitive entrance examinations in Nepal, and thorough preparation of General Knowledge is essential for achieving a high rank. Past papers analysis shows that this topic consistently carries significant marks.\n\nStudents should combine systematic study with timed practice tests. Focus on accuracy first, then work on speed. Understanding concepts deeply is more effective than memorizing formulas, as the examination tests analytical ability.\n\nA structured preparation plan covering this chapter, combined with regular revision and mock tests, will maximize your chances of success in the CMAT.",
+        "whyItMatters": "High-frequency topic in CMAT. Thorough preparation of General Knowledge can significantly improve your entrance rank. Multiple questions appear from this chapter every year.",
+        "prerequisites": [
+          "NEB Grade 11-12 syllabus knowledge"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Core Concepts: General Knowledge",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential concepts of General Knowledge that are tested in the CMAT examination. Focus is on building a solid understanding that enables quick and accurate problem-solving under exam conditions.\n\nStudents should practice with past entrance papers and model questions to familiarize themselves with the question patterns.",
+          "keyPoints": [
+            "Key formulas and principles",
+            "Common question patterns",
+            "Quick-solving techniques",
+            "High-frequency topics"
+          ],
+          "formula": null,
+          "examTip": "In CMAT, time management is crucial. Practice solving MCQs within 60-90 seconds per question."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Problem Solving: General Knowledge",
+          "difficulty": "advanced",
+          "explanation": "Advanced problem-solving techniques for General Knowledge in the context of competitive entrance examination. This topic covers shortcuts, elimination strategies, and advanced methods.\n\nFocus on the most frequently tested areas and develop systematic approaches to solve problems efficiently.",
+          "keyPoints": [
+            "Shortcut methods",
+            "Elimination techniques",
+            "Common traps to avoid",
+            "Previous year patterns"
+          ],
+          "formula": null,
+          "examTip": "Review the last 5 years of CMAT papers for General Knowledge. Identify the most repeated question types."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Business Awareness",
+      "shortIntro": "CMAT: Business Awareness — exam preparation guide.",
+      "introduction": {
+        "overview": "Business Awareness is a critical topic for the CMAT examination. This chapter covers the complete syllabus content as specified by the conducting body, with focus on the types of questions that appear in the entrance test.\n\nThe CMAT is one of the most competitive entrance examinations in Nepal, and thorough preparation of Business Awareness is essential for achieving a high rank. Past papers analysis shows that this topic consistently carries significant marks.\n\nStudents should combine systematic study with timed practice tests. Focus on accuracy first, then work on speed. Understanding concepts deeply is more effective than memorizing formulas, as the examination tests analytical ability.\n\nA structured preparation plan covering this chapter, combined with regular revision and mock tests, will maximize your chances of success in the CMAT.",
+        "whyItMatters": "High-frequency topic in CMAT. Thorough preparation of Business Awareness can significantly improve your entrance rank. Multiple questions appear from this chapter every year.",
+        "prerequisites": [
+          "NEB Grade 11-12 syllabus knowledge"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Core Concepts: Business Awareness",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential concepts of Business Awareness that are tested in the CMAT examination. Focus is on building a solid understanding that enables quick and accurate problem-solving under exam conditions.\n\nStudents should practice with past entrance papers and model questions to familiarize themselves with the question patterns.",
+          "keyPoints": [
+            "Key formulas and principles",
+            "Common question patterns",
+            "Quick-solving techniques",
+            "High-frequency topics"
+          ],
+          "formula": null,
+          "examTip": "In CMAT, time management is crucial. Practice solving MCQs within 60-90 seconds per question."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Problem Solving: Business Awareness",
+          "difficulty": "advanced",
+          "explanation": "Advanced problem-solving techniques for Business Awareness in the context of competitive entrance examination. This topic covers shortcuts, elimination strategies, and advanced methods.\n\nFocus on the most frequently tested areas and develop systematic approaches to solve problems efficiently.",
+          "keyPoints": [
+            "Shortcut methods",
+            "Elimination techniques",
+            "Common traps to avoid",
+            "Previous year patterns"
+          ],
+          "formula": null,
+          "examTip": "Review the last 5 years of CMAT papers for Business Awareness. Identify the most repeated question types."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Computer Basics",
+      "shortIntro": "CMAT: Computer Basics — exam preparation guide.",
+      "introduction": {
+        "overview": "Computer Basics is a critical topic for the CMAT examination. This chapter covers the complete syllabus content as specified by the conducting body, with focus on the types of questions that appear in the entrance test.\n\nThe CMAT is one of the most competitive entrance examinations in Nepal, and thorough preparation of Computer Basics is essential for achieving a high rank. Past papers analysis shows that this topic consistently carries significant marks.\n\nStudents should combine systematic study with timed practice tests. Focus on accuracy first, then work on speed. Understanding concepts deeply is more effective than memorizing formulas, as the examination tests analytical ability.\n\nA structured preparation plan covering this chapter, combined with regular revision and mock tests, will maximize your chances of success in the CMAT.",
+        "whyItMatters": "High-frequency topic in CMAT. Thorough preparation of Computer Basics can significantly improve your entrance rank. Multiple questions appear from this chapter every year.",
+        "prerequisites": [
+          "NEB Grade 11-12 syllabus knowledge"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Core Concepts: Computer Basics",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential concepts of Computer Basics that are tested in the CMAT examination. Focus is on building a solid understanding that enables quick and accurate problem-solving under exam conditions.\n\nStudents should practice with past entrance papers and model questions to familiarize themselves with the question patterns.",
+          "keyPoints": [
+            "Key formulas and principles",
+            "Common question patterns",
+            "Quick-solving techniques",
+            "High-frequency topics"
+          ],
+          "formula": null,
+          "examTip": "In CMAT, time management is crucial. Practice solving MCQs within 60-90 seconds per question."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Problem Solving: Computer Basics",
+          "difficulty": "advanced",
+          "explanation": "Advanced problem-solving techniques for Computer Basics in the context of competitive entrance examination. This topic covers shortcuts, elimination strategies, and advanced methods.\n\nFocus on the most frequently tested areas and develop systematic approaches to solve problems efficiently.",
+          "keyPoints": [
+            "Shortcut methods",
+            "Elimination techniques",
+            "Common traps to avoid",
+            "Previous year patterns"
+          ],
+          "formula": null,
+          "examTip": "Review the last 5 years of CMAT papers for Computer Basics. Identify the most repeated question types."
+        }
+      ]
+    }
+  ]
+}

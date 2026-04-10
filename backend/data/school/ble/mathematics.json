@@ -1,0 +1,302 @@
+{
+  "meta": {
+    "program": "BLE (Grade 8)",
+    "category": "school",
+    "subCategory": "ble",
+    "subject": "Mathematics",
+    "subjectId": "mathematics",
+    "color": "#059669",
+    "lastUpdated": "2025",
+    "totalChapters": 6
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Number System",
+      "shortIntro": "Introduction to Number System for BLE students.",
+      "introduction": {
+        "overview": "Number System is a fundamental topic in Mathematics for Grade 8 students preparing for the Basic Level Examination (BLE). This chapter builds on concepts learned in earlier grades and prepares students for the more advanced work they will encounter in secondary school.\n\nThe chapter covers core principles and applications that students need to master. Understanding these concepts thoroughly will help in both the BLE examination and in building a strong foundation for future studies.\n\nStudents should practice regularly with textbook exercises and past BLE papers to gain confidence in solving problems related to Number System. Pay attention to the marking scheme and allocate time accordingly during the exam.\n\nThis chapter typically carries moderate weightage in the BLE examination, making it important for achieving a good overall score.",
+        "whyItMatters": "This chapter is regularly tested in BLE examinations. Mastering Number System ensures a solid foundation for SEE-level studies.",
+        "prerequisites": [
+          "Basic concepts from Grade 7"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Introduction to Number System",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the fundamental concepts of Number System. Students will learn the basic definitions, terminology, and foundational principles that form the basis of this chapter.\n\nUnderstanding these basics is essential before moving on to more complex problems and applications.",
+          "keyPoints": [
+            "Core concept of Number System",
+            "Used in BLE examination",
+            "Foundation for higher-level study"
+          ],
+          "formula": null,
+          "examTip": "Focus on definitions and basic applications. BLE often asks direct concept questions."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Applications of Number System",
+          "difficulty": "intermediate",
+          "explanation": "Once students understand the basic concepts, they can apply them to solve practical problems. This topic focuses on real-world applications and problem-solving strategies.\n\nPractice with textbook examples and past papers to develop speed and accuracy.",
+          "keyPoints": [
+            "Apply concepts to word problems",
+            "Show clear working in solutions",
+            "Check answers by substitution"
+          ],
+          "formula": null,
+          "examTip": "In BLE, show all working steps clearly. Partial marks are awarded for correct methodology."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Arithmetic",
+      "shortIntro": "Introduction to Arithmetic for BLE students.",
+      "introduction": {
+        "overview": "Arithmetic is a fundamental topic in Mathematics for Grade 8 students preparing for the Basic Level Examination (BLE). This chapter builds on concepts learned in earlier grades and prepares students for the more advanced work they will encounter in secondary school.\n\nThe chapter covers core principles and applications that students need to master. Understanding these concepts thoroughly will help in both the BLE examination and in building a strong foundation for future studies.\n\nStudents should practice regularly with textbook exercises and past BLE papers to gain confidence in solving problems related to Arithmetic. Pay attention to the marking scheme and allocate time accordingly during the exam.\n\nThis chapter typically carries moderate weightage in the BLE examination, making it important for achieving a good overall score.",
+        "whyItMatters": "This chapter is regularly tested in BLE examinations. Mastering Arithmetic ensures a solid foundation for SEE-level studies.",
+        "prerequisites": [
+          "Basic concepts from Grade 7"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Introduction to Arithmetic",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the fundamental concepts of Arithmetic. Students will learn the basic definitions, terminology, and foundational principles that form the basis of this chapter.\n\nUnderstanding these basics is essential before moving on to more complex problems and applications.",
+          "keyPoints": [
+            "Core concept of Arithmetic",
+            "Used in BLE examination",
+            "Foundation for higher-level study"
+          ],
+          "formula": null,
+          "examTip": "Focus on definitions and basic applications. BLE often asks direct concept questions."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Applications of Arithmetic",
+          "difficulty": "intermediate",
+          "explanation": "Once students understand the basic concepts, they can apply them to solve practical problems. This topic focuses on real-world applications and problem-solving strategies.\n\nPractice with textbook examples and past papers to develop speed and accuracy.",
+          "keyPoints": [
+            "Apply concepts to word problems",
+            "Show clear working in solutions",
+            "Check answers by substitution"
+          ],
+          "formula": null,
+          "examTip": "In BLE, show all working steps clearly. Partial marks are awarded for correct methodology."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Algebra",
+      "shortIntro": "Introduction to Algebra for BLE students.",
+      "introduction": {
+        "overview": "Algebra is a fundamental topic in Mathematics for Grade 8 students preparing for the Basic Level Examination (BLE). This chapter builds on concepts learned in earlier grades and prepares students for the more advanced work they will encounter in secondary school.\n\nThe chapter covers core principles and applications that students need to master. Understanding these concepts thoroughly will help in both the BLE examination and in building a strong foundation for future studies.\n\nStudents should practice regularly with textbook exercises and past BLE papers to gain confidence in solving problems related to Algebra. Pay attention to the marking scheme and allocate time accordingly during the exam.\n\nThis chapter typically carries moderate weightage in the BLE examination, making it important for achieving a good overall score.",
+        "whyItMatters": "This chapter is regularly tested in BLE examinations. Mastering Algebra ensures a solid foundation for SEE-level studies.",
+        "prerequisites": [
+          "Basic concepts from Grade 7"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Introduction to Algebra",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the fundamental concepts of Algebra. Students will learn the basic definitions, terminology, and foundational principles that form the basis of this chapter.\n\nUnderstanding these basics is essential before moving on to more complex problems and applications.",
+          "keyPoints": [
+            "Core concept of Algebra",
+            "Used in BLE examination",
+            "Foundation for higher-level study"
+          ],
+          "formula": null,
+          "examTip": "Focus on definitions and basic applications. BLE often asks direct concept questions."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Applications of Algebra",
+          "difficulty": "intermediate",
+          "explanation": "Once students understand the basic concepts, they can apply them to solve practical problems. This topic focuses on real-world applications and problem-solving strategies.\n\nPractice with textbook examples and past papers to develop speed and accuracy.",
+          "keyPoints": [
+            "Apply concepts to word problems",
+            "Show clear working in solutions",
+            "Check answers by substitution"
+          ],
+          "formula": null,
+          "examTip": "In BLE, show all working steps clearly. Partial marks are awarded for correct methodology."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Geometry",
+      "shortIntro": "Introduction to Geometry for BLE students.",
+      "introduction": {
+        "overview": "Geometry is a fundamental topic in Mathematics for Grade 8 students preparing for the Basic Level Examination (BLE). This chapter builds on concepts learned in earlier grades and prepares students for the more advanced work they will encounter in secondary school.\n\nThe chapter covers core principles and applications that students need to master. Understanding these concepts thoroughly will help in both the BLE examination and in building a strong foundation for future studies.\n\nStudents should practice regularly with textbook exercises and past BLE papers to gain confidence in solving problems related to Geometry. Pay attention to the marking scheme and allocate time accordingly during the exam.\n\nThis chapter typically carries moderate weightage in the BLE examination, making it important for achieving a good overall score.",
+        "whyItMatters": "This chapter is regularly tested in BLE examinations. Mastering Geometry ensures a solid foundation for SEE-level studies.",
+        "prerequisites": [
+          "Basic concepts from Grade 7"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Introduction to Geometry",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the fundamental concepts of Geometry. Students will learn the basic definitions, terminology, and foundational principles that form the basis of this chapter.\n\nUnderstanding these basics is essential before moving on to more complex problems and applications.",
+          "keyPoints": [
+            "Core concept of Geometry",
+            "Used in BLE examination",
+            "Foundation for higher-level study"
+          ],
+          "formula": null,
+          "examTip": "Focus on definitions and basic applications. BLE often asks direct concept questions."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Applications of Geometry",
+          "difficulty": "intermediate",
+          "explanation": "Once students understand the basic concepts, they can apply them to solve practical problems. This topic focuses on real-world applications and problem-solving strategies.\n\nPractice with textbook examples and past papers to develop speed and accuracy.",
+          "keyPoints": [
+            "Apply concepts to word problems",
+            "Show clear working in solutions",
+            "Check answers by substitution"
+          ],
+          "formula": null,
+          "examTip": "In BLE, show all working steps clearly. Partial marks are awarded for correct methodology."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Statistics",
+      "shortIntro": "Introduction to Statistics for BLE students.",
+      "introduction": {
+        "overview": "Statistics is a fundamental topic in Mathematics for Grade 8 students preparing for the Basic Level Examination (BLE). This chapter builds on concepts learned in earlier grades and prepares students for the more advanced work they will encounter in secondary school.\n\nThe chapter covers core principles and applications that students need to master. Understanding these concepts thoroughly will help in both the BLE examination and in building a strong foundation for future studies.\n\nStudents should practice regularly with textbook exercises and past BLE papers to gain confidence in solving problems related to Statistics. Pay attention to the marking scheme and allocate time accordingly during the exam.\n\nThis chapter typically carries moderate weightage in the BLE examination, making it important for achieving a good overall score.",
+        "whyItMatters": "This chapter is regularly tested in BLE examinations. Mastering Statistics ensures a solid foundation for SEE-level studies.",
+        "prerequisites": [
+          "Basic concepts from Grade 7"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Introduction to Statistics",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the fundamental concepts of Statistics. Students will learn the basic definitions, terminology, and foundational principles that form the basis of this chapter.\n\nUnderstanding these basics is essential before moving on to more complex problems and applications.",
+          "keyPoints": [
+            "Core concept of Statistics",
+            "Used in BLE examination",
+            "Foundation for higher-level study"
+          ],
+          "formula": null,
+          "examTip": "Focus on definitions and basic applications. BLE often asks direct concept questions."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Applications of Statistics",
+          "difficulty": "intermediate",
+          "explanation": "Once students understand the basic concepts, they can apply them to solve practical problems. This topic focuses on real-world applications and problem-solving strategies.\n\nPractice with textbook examples and past papers to develop speed and accuracy.",
+          "keyPoints": [
+            "Apply concepts to word problems",
+            "Show clear working in solutions",
+            "Check answers by substitution"
+          ],
+          "formula": null,
+          "examTip": "In BLE, show all working steps clearly. Partial marks are awarded for correct methodology."
+        }
+      ]
+    },
+    {
+      "id": "ch-6",
+      "number": 6,
+      "title": "Set Theory",
+      "shortIntro": "Introduction to Set Theory for BLE students.",
+      "introduction": {
+        "overview": "Set Theory is a fundamental topic in Mathematics for Grade 8 students preparing for the Basic Level Examination (BLE). This chapter builds on concepts learned in earlier grades and prepares students for the more advanced work they will encounter in secondary school.\n\nThe chapter covers core principles and applications that students need to master. Understanding these concepts thoroughly will help in both the BLE examination and in building a strong foundation for future studies.\n\nStudents should practice regularly with textbook exercises and past BLE papers to gain confidence in solving problems related to Set Theory. Pay attention to the marking scheme and allocate time accordingly during the exam.\n\nThis chapter typically carries moderate weightage in the BLE examination, making it important for achieving a good overall score.",
+        "whyItMatters": "This chapter is regularly tested in BLE examinations. Mastering Set Theory ensures a solid foundation for SEE-level studies.",
+        "prerequisites": [
+          "Basic concepts from Grade 7"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-6-1",
+          "number": 1,
+          "name": "Introduction to Set Theory",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the fundamental concepts of Set Theory. Students will learn the basic definitions, terminology, and foundational principles that form the basis of this chapter.\n\nUnderstanding these basics is essential before moving on to more complex problems and applications.",
+          "keyPoints": [
+            "Core concept of Set Theory",
+            "Used in BLE examination",
+            "Foundation for higher-level study"
+          ],
+          "formula": null,
+          "examTip": "Focus on definitions and basic applications. BLE often asks direct concept questions."
+        },
+        {
+          "id": "t-6-2",
+          "number": 2,
+          "name": "Applications of Set Theory",
+          "difficulty": "intermediate",
+          "explanation": "Once students understand the basic concepts, they can apply them to solve practical problems. This topic focuses on real-world applications and problem-solving strategies.\n\nPractice with textbook examples and past papers to develop speed and accuracy.",
+          "keyPoints": [
+            "Apply concepts to word problems",
+            "Show clear working in solutions",
+            "Check answers by substitution"
+          ],
+          "formula": null,
+          "examTip": "In BLE, show all working steps clearly. Partial marks are awarded for correct methodology."
+        }
+      ]
+    }
+  ]
+}

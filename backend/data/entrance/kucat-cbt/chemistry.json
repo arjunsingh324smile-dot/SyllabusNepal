@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "program": "KUCAT-CBT",
+    "category": "entrance",
+    "subCategory": "kucat-cbt",
+    "subject": "Chemistry",
+    "subjectId": "chemistry",
+    "color": "#0E7490",
+    "lastUpdated": "2025",
+    "totalChapters": 3
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Physical Chemistry",
+      "shortIntro": "KUCAT-CBT: Physical Chemistry — exam preparation guide.",
+      "introduction": {
+        "overview": "Physical Chemistry is a critical topic for the KUCAT-CBT examination. This chapter covers the complete syllabus content as specified by the conducting body, with focus on the types of questions that appear in the entrance test.\n\nThe KUCAT-CBT is one of the most competitive entrance examinations in Nepal, and thorough preparation of Physical Chemistry is essential for achieving a high rank. Past papers analysis shows that this topic consistently carries significant marks.\n\nStudents should combine systematic study with timed practice tests. Focus on accuracy first, then work on speed. Understanding concepts deeply is more effective than memorizing formulas, as the examination tests analytical ability.\n\nA structured preparation plan covering this chapter, combined with regular revision and mock tests, will maximize your chances of success in the KUCAT-CBT.",
+        "whyItMatters": "High-frequency topic in KUCAT-CBT. Thorough preparation of Physical Chemistry can significantly improve your entrance rank. Multiple questions appear from this chapter every year.",
+        "prerequisites": [
+          "NEB Grade 11-12 syllabus knowledge"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Core Concepts: Physical Chemistry",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential concepts of Physical Chemistry that are tested in the KUCAT-CBT examination. Focus is on building a solid understanding that enables quick and accurate problem-solving under exam conditions.\n\nStudents should practice with past entrance papers and model questions to familiarize themselves with the question patterns.",
+          "keyPoints": [
+            "Key formulas and principles",
+            "Common question patterns",
+            "Quick-solving techniques",
+            "High-frequency topics"
+          ],
+          "formula": null,
+          "examTip": "In KUCAT-CBT, time management is crucial. Practice solving MCQs within 60-90 seconds per question."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Problem Solving: Physical Chemistry",
+          "difficulty": "advanced",
+          "explanation": "Advanced problem-solving techniques for Physical Chemistry in the context of competitive entrance examination. This topic covers shortcuts, elimination strategies, and advanced methods.\n\nFocus on the most frequently tested areas and develop systematic approaches to solve problems efficiently.",
+          "keyPoints": [
+            "Shortcut methods",
+            "Elimination techniques",
+            "Common traps to avoid",
+            "Previous year patterns"
+          ],
+          "formula": null,
+          "examTip": "Review the last 5 years of KUCAT-CBT papers for Physical Chemistry. Identify the most repeated question types."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Organic Chemistry",
+      "shortIntro": "KUCAT-CBT: Organic Chemistry — exam preparation guide.",
+      "introduction": {
+        "overview": "Organic Chemistry is a critical topic for the KUCAT-CBT examination. This chapter covers the complete syllabus content as specified by the conducting body, with focus on the types of questions that appear in the entrance test.\n\nThe KUCAT-CBT is one of the most competitive entrance examinations in Nepal, and thorough preparation of Organic Chemistry is essential for achieving a high rank. Past papers analysis shows that this topic consistently carries significant marks.\n\nStudents should combine systematic study with timed practice tests. Focus on accuracy first, then work on speed. Understanding concepts deeply is more effective than memorizing formulas, as the examination tests analytical ability.\n\nA structured preparation plan covering this chapter, combined with regular revision and mock tests, will maximize your chances of success in the KUCAT-CBT.",
+        "whyItMatters": "High-frequency topic in KUCAT-CBT. Thorough preparation of Organic Chemistry can significantly improve your entrance rank. Multiple questions appear from this chapter every year.",
+        "prerequisites": [
+          "NEB Grade 11-12 syllabus knowledge"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Core Concepts: Organic Chemistry",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential concepts of Organic Chemistry that are tested in the KUCAT-CBT examination. Focus is on building a solid understanding that enables quick and accurate problem-solving under exam conditions.\n\nStudents should practice with past entrance papers and model questions to familiarize themselves with the question patterns.",
+          "keyPoints": [
+            "Key formulas and principles",
+            "Common question patterns",
+            "Quick-solving techniques",
+            "High-frequency topics"
+          ],
+          "formula": null,
+          "examTip": "In KUCAT-CBT, time management is crucial. Practice solving MCQs within 60-90 seconds per question."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Problem Solving: Organic Chemistry",
+          "difficulty": "advanced",
+          "explanation": "Advanced problem-solving techniques for Organic Chemistry in the context of competitive entrance examination. This topic covers shortcuts, elimination strategies, and advanced methods.\n\nFocus on the most frequently tested areas and develop systematic approaches to solve problems efficiently.",
+          "keyPoints": [
+            "Shortcut methods",
+            "Elimination techniques",
+            "Common traps to avoid",
+            "Previous year patterns"
+          ],
+          "formula": null,
+          "examTip": "Review the last 5 years of KUCAT-CBT papers for Organic Chemistry. Identify the most repeated question types."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Inorganic Chemistry",
+      "shortIntro": "KUCAT-CBT: Inorganic Chemistry — exam preparation guide.",
+      "introduction": {
+        "overview": "Inorganic Chemistry is a critical topic for the KUCAT-CBT examination. This chapter covers the complete syllabus content as specified by the conducting body, with focus on the types of questions that appear in the entrance test.\n\nThe KUCAT-CBT is one of the most competitive entrance examinations in Nepal, and thorough preparation of Inorganic Chemistry is essential for achieving a high rank. Past papers analysis shows that this topic consistently carries significant marks.\n\nStudents should combine systematic study with timed practice tests. Focus on accuracy first, then work on speed. Understanding concepts deeply is more effective than memorizing formulas, as the examination tests analytical ability.\n\nA structured preparation plan covering this chapter, combined with regular revision and mock tests, will maximize your chances of success in the KUCAT-CBT.",
+        "whyItMatters": "High-frequency topic in KUCAT-CBT. Thorough preparation of Inorganic Chemistry can significantly improve your entrance rank. Multiple questions appear from this chapter every year.",
+        "prerequisites": [
+          "NEB Grade 11-12 syllabus knowledge"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Core Concepts: Inorganic Chemistry",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential concepts of Inorganic Chemistry that are tested in the KUCAT-CBT examination. Focus is on building a solid understanding that enables quick and accurate problem-solving under exam conditions.\n\nStudents should practice with past entrance papers and model questions to familiarize themselves with the question patterns.",
+          "keyPoints": [
+            "Key formulas and principles",
+            "Common question patterns",
+            "Quick-solving techniques",
+            "High-frequency topics"
+          ],
+          "formula": null,
+          "examTip": "In KUCAT-CBT, time management is crucial. Practice solving MCQs within 60-90 seconds per question."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Problem Solving: Inorganic Chemistry",
+          "difficulty": "advanced",
+          "explanation": "Advanced problem-solving techniques for Inorganic Chemistry in the context of competitive entrance examination. This topic covers shortcuts, elimination strategies, and advanced methods.\n\nFocus on the most frequently tested areas and develop systematic approaches to solve problems efficiently.",
+          "keyPoints": [
+            "Shortcut methods",
+            "Elimination techniques",
+            "Common traps to avoid",
+            "Previous year patterns"
+          ],
+          "formula": null,
+          "examTip": "Review the last 5 years of KUCAT-CBT papers for Inorganic Chemistry. Identify the most repeated question types."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "program": "TU / IOE Engineering",
+    "category": "engineering",
+    "subCategory": "tu-ioe",
+    "branch": "civil",
+    "subject": "Engineering Drawing",
+    "subjectId": "engineering-drawing",
+    "color": "#059669",
+    "lastUpdated": "2025",
+    "totalChapters": 5
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Projection Systems",
+      "shortIntro": "TU / IOE Engineering civil engineering: Projection Systems.",
+      "introduction": {
+        "overview": "Projection Systems is a critical chapter in the Engineering Drawing course offered under the civil engineering program at TU / IOE Engineering. Engineering students must develop a deep understanding of this topic as it forms the basis for professional engineering practice.\n\nThe chapter combines theoretical analysis with practical problem-solving. Students should work through solved examples, practice unsolved problems, and relate theoretical concepts to real-world engineering applications.\n\nLaboratory sessions and tutorial classes complement the lecture content. Students are advised to maintain a problem-solving notebook and regularly review past examination papers for this subject.\n\nMastery of Projection Systems is essential not only for university examinations but also for a successful engineering career.",
+        "whyItMatters": "Critical for civil engineering students — Projection Systems is fundamental to professional practice and regularly tested in university examinations.",
+        "prerequisites": [
+          "Pre-requisite engineering courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Fundamentals of Projection Systems",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential theoretical foundations of Projection Systems as studied in civil engineering. Students learn key principles, derivations, and problem-solving methodologies.\n\nEngineering students should focus on understanding the underlying physics/mathematics rather than memorizing formulas.",
+          "keyPoints": [
+            "Key principles and derivations",
+            "Standard problem types",
+            "Engineering applications"
+          ],
+          "formula": null,
+          "examTip": "Show all derivation steps in exams. Partial marks are significant in engineering examinations."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Applications and Design",
+          "difficulty": "advanced",
+          "explanation": "Advanced applications of Projection Systems in engineering design and analysis. This topic covers practical calculations, design criteria, and real-world engineering challenges.",
+          "keyPoints": [
+            "Design calculations",
+            "Safety factors and standards",
+            "Practical case studies"
+          ],
+          "formula": null,
+          "examTip": "Relate theoretical concepts to Nepal's engineering context where possible — examiners appreciate practical awareness."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Orthographic Projections",
+      "shortIntro": "TU / IOE Engineering civil engineering: Orthographic Projections.",
+      "introduction": {
+        "overview": "Orthographic Projections is a critical chapter in the Engineering Drawing course offered under the civil engineering program at TU / IOE Engineering. Engineering students must develop a deep understanding of this topic as it forms the basis for professional engineering practice.\n\nThe chapter combines theoretical analysis with practical problem-solving. Students should work through solved examples, practice unsolved problems, and relate theoretical concepts to real-world engineering applications.\n\nLaboratory sessions and tutorial classes complement the lecture content. Students are advised to maintain a problem-solving notebook and regularly review past examination papers for this subject.\n\nMastery of Orthographic Projections is essential not only for university examinations but also for a successful engineering career.",
+        "whyItMatters": "Critical for civil engineering students — Orthographic Projections is fundamental to professional practice and regularly tested in university examinations.",
+        "prerequisites": [
+          "Pre-requisite engineering courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Fundamentals of Orthographic Projections",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential theoretical foundations of Orthographic Projections as studied in civil engineering. Students learn key principles, derivations, and problem-solving methodologies.\n\nEngineering students should focus on understanding the underlying physics/mathematics rather than memorizing formulas.",
+          "keyPoints": [
+            "Key principles and derivations",
+            "Standard problem types",
+            "Engineering applications"
+          ],
+          "formula": null,
+          "examTip": "Show all derivation steps in exams. Partial marks are significant in engineering examinations."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Applications and Design",
+          "difficulty": "advanced",
+          "explanation": "Advanced applications of Orthographic Projections in engineering design and analysis. This topic covers practical calculations, design criteria, and real-world engineering challenges.",
+          "keyPoints": [
+            "Design calculations",
+            "Safety factors and standards",
+            "Practical case studies"
+          ],
+          "formula": null,
+          "examTip": "Relate theoretical concepts to Nepal's engineering context where possible — examiners appreciate practical awareness."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Isometric Drawing",
+      "shortIntro": "TU / IOE Engineering civil engineering: Isometric Drawing.",
+      "introduction": {
+        "overview": "Isometric Drawing is a critical chapter in the Engineering Drawing course offered under the civil engineering program at TU / IOE Engineering. Engineering students must develop a deep understanding of this topic as it forms the basis for professional engineering practice.\n\nThe chapter combines theoretical analysis with practical problem-solving. Students should work through solved examples, practice unsolved problems, and relate theoretical concepts to real-world engineering applications.\n\nLaboratory sessions and tutorial classes complement the lecture content. Students are advised to maintain a problem-solving notebook and regularly review past examination papers for this subject.\n\nMastery of Isometric Drawing is essential not only for university examinations but also for a successful engineering career.",
+        "whyItMatters": "Critical for civil engineering students — Isometric Drawing is fundamental to professional practice and regularly tested in university examinations.",
+        "prerequisites": [
+          "Pre-requisite engineering courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Fundamentals of Isometric Drawing",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential theoretical foundations of Isometric Drawing as studied in civil engineering. Students learn key principles, derivations, and problem-solving methodologies.\n\nEngineering students should focus on understanding the underlying physics/mathematics rather than memorizing formulas.",
+          "keyPoints": [
+            "Key principles and derivations",
+            "Standard problem types",
+            "Engineering applications"
+          ],
+          "formula": null,
+          "examTip": "Show all derivation steps in exams. Partial marks are significant in engineering examinations."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Applications and Design",
+          "difficulty": "advanced",
+          "explanation": "Advanced applications of Isometric Drawing in engineering design and analysis. This topic covers practical calculations, design criteria, and real-world engineering challenges.",
+          "keyPoints": [
+            "Design calculations",
+            "Safety factors and standards",
+            "Practical case studies"
+          ],
+          "formula": null,
+          "examTip": "Relate theoretical concepts to Nepal's engineering context where possible — examiners appreciate practical awareness."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Section Drawing",
+      "shortIntro": "TU / IOE Engineering civil engineering: Section Drawing.",
+      "introduction": {
+        "overview": "Section Drawing is a critical chapter in the Engineering Drawing course offered under the civil engineering program at TU / IOE Engineering. Engineering students must develop a deep understanding of this topic as it forms the basis for professional engineering practice.\n\nThe chapter combines theoretical analysis with practical problem-solving. Students should work through solved examples, practice unsolved problems, and relate theoretical concepts to real-world engineering applications.\n\nLaboratory sessions and tutorial classes complement the lecture content. Students are advised to maintain a problem-solving notebook and regularly review past examination papers for this subject.\n\nMastery of Section Drawing is essential not only for university examinations but also for a successful engineering career.",
+        "whyItMatters": "Critical for civil engineering students — Section Drawing is fundamental to professional practice and regularly tested in university examinations.",
+        "prerequisites": [
+          "Pre-requisite engineering courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Fundamentals of Section Drawing",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential theoretical foundations of Section Drawing as studied in civil engineering. Students learn key principles, derivations, and problem-solving methodologies.\n\nEngineering students should focus on understanding the underlying physics/mathematics rather than memorizing formulas.",
+          "keyPoints": [
+            "Key principles and derivations",
+            "Standard problem types",
+            "Engineering applications"
+          ],
+          "formula": null,
+          "examTip": "Show all derivation steps in exams. Partial marks are significant in engineering examinations."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Applications and Design",
+          "difficulty": "advanced",
+          "explanation": "Advanced applications of Section Drawing in engineering design and analysis. This topic covers practical calculations, design criteria, and real-world engineering challenges.",
+          "keyPoints": [
+            "Design calculations",
+            "Safety factors and standards",
+            "Practical case studies"
+          ],
+          "formula": null,
+          "examTip": "Relate theoretical concepts to Nepal's engineering context where possible — examiners appreciate practical awareness."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Development of Surfaces",
+      "shortIntro": "TU / IOE Engineering civil engineering: Development of Surfaces.",
+      "introduction": {
+        "overview": "Development of Surfaces is a critical chapter in the Engineering Drawing course offered under the civil engineering program at TU / IOE Engineering. Engineering students must develop a deep understanding of this topic as it forms the basis for professional engineering practice.\n\nThe chapter combines theoretical analysis with practical problem-solving. Students should work through solved examples, practice unsolved problems, and relate theoretical concepts to real-world engineering applications.\n\nLaboratory sessions and tutorial classes complement the lecture content. Students are advised to maintain a problem-solving notebook and regularly review past examination papers for this subject.\n\nMastery of Development of Surfaces is essential not only for university examinations but also for a successful engineering career.",
+        "whyItMatters": "Critical for civil engineering students — Development of Surfaces is fundamental to professional practice and regularly tested in university examinations.",
+        "prerequisites": [
+          "Pre-requisite engineering courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Fundamentals of Development of Surfaces",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential theoretical foundations of Development of Surfaces as studied in civil engineering. Students learn key principles, derivations, and problem-solving methodologies.\n\nEngineering students should focus on understanding the underlying physics/mathematics rather than memorizing formulas.",
+          "keyPoints": [
+            "Key principles and derivations",
+            "Standard problem types",
+            "Engineering applications"
+          ],
+          "formula": null,
+          "examTip": "Show all derivation steps in exams. Partial marks are significant in engineering examinations."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Applications and Design",
+          "difficulty": "advanced",
+          "explanation": "Advanced applications of Development of Surfaces in engineering design and analysis. This topic covers practical calculations, design criteria, and real-world engineering challenges.",
+          "keyPoints": [
+            "Design calculations",
+            "Safety factors and standards",
+            "Practical case studies"
+          ],
+          "formula": null,
+          "examTip": "Relate theoretical concepts to Nepal's engineering context where possible — examiners appreciate practical awareness."
+        }
+      ]
+    }
+  ]
+}

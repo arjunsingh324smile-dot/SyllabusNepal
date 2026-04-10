@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "program": "BCA",
+    "category": "bachelor",
+    "subCategory": "bca",
+    "subject": "Digital Logic",
+    "subjectId": "digital-logic",
+    "color": "#DC2626",
+    "lastUpdated": "2025",
+    "semester": "sem-1",
+    "totalChapters": 5
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Number Systems",
+      "shortIntro": "BCA sem-1: Number Systems — theory and practical application.",
+      "introduction": {
+        "overview": "Number Systems is a core chapter in the BCA Digital Logic course for sem 1. This chapter provides the technical knowledge and practical skills essential for a career in computer applications and IT.\n\nThe BCA curriculum emphasizes hands-on learning alongside theoretical understanding. Students should practice coding, work through lab exercises, and build small projects to reinforce the concepts covered in this chapter.\n\nThe content follows the TU-affiliated BCA syllabus and is designed to prepare students for both university examinations and practical industry requirements.\n\nStudents who master this chapter will have a strong foundation for advanced topics in later semesters, including software engineering, database management, and web development.",
+        "whyItMatters": "This chapter is fundamental to the BCA curriculum. Understanding Number Systems thoroughly will help in examinations and in practical computing work.",
+        "prerequisites": [
+          "Basic computer literacy"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Introduction to Number Systems",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Number Systems. Students learn the core concepts, terminology, and basic techniques that form the foundation of this chapter.\n\nComputer application students should focus on both understanding the theory and practicing with hands-on exercises.",
+          "keyPoints": [
+            "Core concepts and definitions",
+            "Practical examples and demonstrations",
+            "Common patterns and techniques"
+          ],
+          "formula": null,
+          "examTip": "BCA exams test both theoretical knowledge and practical application. Include code examples or diagrams where relevant."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Advanced Number Systems",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the basics and explores more advanced aspects of Number Systems. Emphasis is placed on problem-solving and practical application.",
+          "keyPoints": [
+            "Advanced techniques",
+            "Problem-solving strategies",
+            "Industry best practices"
+          ],
+          "formula": null,
+          "examTip": "Practice writing code or solutions by hand, as BCA exams often require handwritten programs."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Logic Gates",
+      "shortIntro": "BCA sem-1: Logic Gates — theory and practical application.",
+      "introduction": {
+        "overview": "Logic Gates is a core chapter in the BCA Digital Logic course for sem 1. This chapter provides the technical knowledge and practical skills essential for a career in computer applications and IT.\n\nThe BCA curriculum emphasizes hands-on learning alongside theoretical understanding. Students should practice coding, work through lab exercises, and build small projects to reinforce the concepts covered in this chapter.\n\nThe content follows the TU-affiliated BCA syllabus and is designed to prepare students for both university examinations and practical industry requirements.\n\nStudents who master this chapter will have a strong foundation for advanced topics in later semesters, including software engineering, database management, and web development.",
+        "whyItMatters": "This chapter is fundamental to the BCA curriculum. Understanding Logic Gates thoroughly will help in examinations and in practical computing work.",
+        "prerequisites": [
+          "Basic computer literacy"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Introduction to Logic Gates",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Logic Gates. Students learn the core concepts, terminology, and basic techniques that form the foundation of this chapter.\n\nComputer application students should focus on both understanding the theory and practicing with hands-on exercises.",
+          "keyPoints": [
+            "Core concepts and definitions",
+            "Practical examples and demonstrations",
+            "Common patterns and techniques"
+          ],
+          "formula": null,
+          "examTip": "BCA exams test both theoretical knowledge and practical application. Include code examples or diagrams where relevant."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Advanced Logic Gates",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the basics and explores more advanced aspects of Logic Gates. Emphasis is placed on problem-solving and practical application.",
+          "keyPoints": [
+            "Advanced techniques",
+            "Problem-solving strategies",
+            "Industry best practices"
+          ],
+          "formula": null,
+          "examTip": "Practice writing code or solutions by hand, as BCA exams often require handwritten programs."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Boolean Algebra",
+      "shortIntro": "BCA sem-1: Boolean Algebra — theory and practical application.",
+      "introduction": {
+        "overview": "Boolean Algebra is a core chapter in the BCA Digital Logic course for sem 1. This chapter provides the technical knowledge and practical skills essential for a career in computer applications and IT.\n\nThe BCA curriculum emphasizes hands-on learning alongside theoretical understanding. Students should practice coding, work through lab exercises, and build small projects to reinforce the concepts covered in this chapter.\n\nThe content follows the TU-affiliated BCA syllabus and is designed to prepare students for both university examinations and practical industry requirements.\n\nStudents who master this chapter will have a strong foundation for advanced topics in later semesters, including software engineering, database management, and web development.",
+        "whyItMatters": "This chapter is fundamental to the BCA curriculum. Understanding Boolean Algebra thoroughly will help in examinations and in practical computing work.",
+        "prerequisites": [
+          "Basic computer literacy"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Introduction to Boolean Algebra",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Boolean Algebra. Students learn the core concepts, terminology, and basic techniques that form the foundation of this chapter.\n\nComputer application students should focus on both understanding the theory and practicing with hands-on exercises.",
+          "keyPoints": [
+            "Core concepts and definitions",
+            "Practical examples and demonstrations",
+            "Common patterns and techniques"
+          ],
+          "formula": null,
+          "examTip": "BCA exams test both theoretical knowledge and practical application. Include code examples or diagrams where relevant."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Advanced Boolean Algebra",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the basics and explores more advanced aspects of Boolean Algebra. Emphasis is placed on problem-solving and practical application.",
+          "keyPoints": [
+            "Advanced techniques",
+            "Problem-solving strategies",
+            "Industry best practices"
+          ],
+          "formula": null,
+          "examTip": "Practice writing code or solutions by hand, as BCA exams often require handwritten programs."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Combinational Circuits",
+      "shortIntro": "BCA sem-1: Combinational Circuits — theory and practical application.",
+      "introduction": {
+        "overview": "Combinational Circuits is a core chapter in the BCA Digital Logic course for sem 1. This chapter provides the technical knowledge and practical skills essential for a career in computer applications and IT.\n\nThe BCA curriculum emphasizes hands-on learning alongside theoretical understanding. Students should practice coding, work through lab exercises, and build small projects to reinforce the concepts covered in this chapter.\n\nThe content follows the TU-affiliated BCA syllabus and is designed to prepare students for both university examinations and practical industry requirements.\n\nStudents who master this chapter will have a strong foundation for advanced topics in later semesters, including software engineering, database management, and web development.",
+        "whyItMatters": "This chapter is fundamental to the BCA curriculum. Understanding Combinational Circuits thoroughly will help in examinations and in practical computing work.",
+        "prerequisites": [
+          "Basic computer literacy"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Introduction to Combinational Circuits",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Combinational Circuits. Students learn the core concepts, terminology, and basic techniques that form the foundation of this chapter.\n\nComputer application students should focus on both understanding the theory and practicing with hands-on exercises.",
+          "keyPoints": [
+            "Core concepts and definitions",
+            "Practical examples and demonstrations",
+            "Common patterns and techniques"
+          ],
+          "formula": null,
+          "examTip": "BCA exams test both theoretical knowledge and practical application. Include code examples or diagrams where relevant."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Advanced Combinational Circuits",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the basics and explores more advanced aspects of Combinational Circuits. Emphasis is placed on problem-solving and practical application.",
+          "keyPoints": [
+            "Advanced techniques",
+            "Problem-solving strategies",
+            "Industry best practices"
+          ],
+          "formula": null,
+          "examTip": "Practice writing code or solutions by hand, as BCA exams often require handwritten programs."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Sequential Circuits",
+      "shortIntro": "BCA sem-1: Sequential Circuits — theory and practical application.",
+      "introduction": {
+        "overview": "Sequential Circuits is a core chapter in the BCA Digital Logic course for sem 1. This chapter provides the technical knowledge and practical skills essential for a career in computer applications and IT.\n\nThe BCA curriculum emphasizes hands-on learning alongside theoretical understanding. Students should practice coding, work through lab exercises, and build small projects to reinforce the concepts covered in this chapter.\n\nThe content follows the TU-affiliated BCA syllabus and is designed to prepare students for both university examinations and practical industry requirements.\n\nStudents who master this chapter will have a strong foundation for advanced topics in later semesters, including software engineering, database management, and web development.",
+        "whyItMatters": "This chapter is fundamental to the BCA curriculum. Understanding Sequential Circuits thoroughly will help in examinations and in practical computing work.",
+        "prerequisites": [
+          "Basic computer literacy"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Introduction to Sequential Circuits",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Sequential Circuits. Students learn the core concepts, terminology, and basic techniques that form the foundation of this chapter.\n\nComputer application students should focus on both understanding the theory and practicing with hands-on exercises.",
+          "keyPoints": [
+            "Core concepts and definitions",
+            "Practical examples and demonstrations",
+            "Common patterns and techniques"
+          ],
+          "formula": null,
+          "examTip": "BCA exams test both theoretical knowledge and practical application. Include code examples or diagrams where relevant."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Advanced Sequential Circuits",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the basics and explores more advanced aspects of Sequential Circuits. Emphasis is placed on problem-solving and practical application.",
+          "keyPoints": [
+            "Advanced techniques",
+            "Problem-solving strategies",
+            "Industry best practices"
+          ],
+          "formula": null,
+          "examTip": "Practice writing code or solutions by hand, as BCA exams often require handwritten programs."
+        }
+      ]
+    }
+  ]
+}

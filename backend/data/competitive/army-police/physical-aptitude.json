@@ -1,0 +1,206 @@
+{
+  "meta": {
+    "program": "Army / Police",
+    "category": "competitive",
+    "subCategory": "army-police",
+    "subject": "Physical Aptitude",
+    "subjectId": "physical-aptitude",
+    "color": "#374151",
+    "lastUpdated": "2025",
+    "totalChapters": 4
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Physical Fitness Standards",
+      "shortIntro": "Army/Police recruitment: Physical Fitness Standards.",
+      "introduction": {
+        "overview": "Physical Fitness Standards is important for Nepal Army and Nepal Police recruitment examinations. These competitive exams test candidates on general knowledge, physical fitness, and aptitude.\n\nThis chapter provides comprehensive preparation material for the written examination component. Candidates should combine this study with physical training as per the recruitment requirements.\n\nThe recruitment process in Nepal's security forces is highly competitive, and thorough preparation across all tested areas is essential for success.\n\nStay updated with current affairs and practice with model questions regularly to build the knowledge base and speed required for the examination.",
+        "whyItMatters": "Army/Police recruitment exams test Physical Fitness Standards regularly. Thorough preparation is key to clearing the written component.",
+        "prerequisites": [
+          "General education"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Physical Fitness Standards: Overview",
+          "difficulty": "beginner",
+          "explanation": "Comprehensive overview of Physical Fitness Standards for Army/Police recruitment preparation. Covers the key information and concepts that candidates must know.",
+          "keyPoints": [
+            "Essential facts and knowledge",
+            "Recruitment-specific focus areas",
+            "Common question patterns"
+          ],
+          "formula": null,
+          "examTip": "Stay updated with current affairs — Army/Police exams heavily test recent events and developments."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Physical Fitness Standards: Practice",
+          "difficulty": "intermediate",
+          "explanation": "Practice-oriented content with focus on the specific types of questions that appear in security forces recruitment examinations.",
+          "keyPoints": [
+            "Practice questions",
+            "Mock test strategies",
+            "Time management"
+          ],
+          "formula": null,
+          "examTip": "Practice with official model papers. The pattern of questions is usually consistent across years."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Medical Requirements",
+      "shortIntro": "Army/Police recruitment: Medical Requirements.",
+      "introduction": {
+        "overview": "Medical Requirements is important for Nepal Army and Nepal Police recruitment examinations. These competitive exams test candidates on general knowledge, physical fitness, and aptitude.\n\nThis chapter provides comprehensive preparation material for the written examination component. Candidates should combine this study with physical training as per the recruitment requirements.\n\nThe recruitment process in Nepal's security forces is highly competitive, and thorough preparation across all tested areas is essential for success.\n\nStay updated with current affairs and practice with model questions regularly to build the knowledge base and speed required for the examination.",
+        "whyItMatters": "Army/Police recruitment exams test Medical Requirements regularly. Thorough preparation is key to clearing the written component.",
+        "prerequisites": [
+          "General education"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Medical Requirements: Overview",
+          "difficulty": "beginner",
+          "explanation": "Comprehensive overview of Medical Requirements for Army/Police recruitment preparation. Covers the key information and concepts that candidates must know.",
+          "keyPoints": [
+            "Essential facts and knowledge",
+            "Recruitment-specific focus areas",
+            "Common question patterns"
+          ],
+          "formula": null,
+          "examTip": "Stay updated with current affairs — Army/Police exams heavily test recent events and developments."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Medical Requirements: Practice",
+          "difficulty": "intermediate",
+          "explanation": "Practice-oriented content with focus on the specific types of questions that appear in security forces recruitment examinations.",
+          "keyPoints": [
+            "Practice questions",
+            "Mock test strategies",
+            "Time management"
+          ],
+          "formula": null,
+          "examTip": "Practice with official model papers. The pattern of questions is usually consistent across years."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Written Test Pattern",
+      "shortIntro": "Army/Police recruitment: Written Test Pattern.",
+      "introduction": {
+        "overview": "Written Test Pattern is important for Nepal Army and Nepal Police recruitment examinations. These competitive exams test candidates on general knowledge, physical fitness, and aptitude.\n\nThis chapter provides comprehensive preparation material for the written examination component. Candidates should combine this study with physical training as per the recruitment requirements.\n\nThe recruitment process in Nepal's security forces is highly competitive, and thorough preparation across all tested areas is essential for success.\n\nStay updated with current affairs and practice with model questions regularly to build the knowledge base and speed required for the examination.",
+        "whyItMatters": "Army/Police recruitment exams test Written Test Pattern regularly. Thorough preparation is key to clearing the written component.",
+        "prerequisites": [
+          "General education"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Written Test Pattern: Overview",
+          "difficulty": "beginner",
+          "explanation": "Comprehensive overview of Written Test Pattern for Army/Police recruitment preparation. Covers the key information and concepts that candidates must know.",
+          "keyPoints": [
+            "Essential facts and knowledge",
+            "Recruitment-specific focus areas",
+            "Common question patterns"
+          ],
+          "formula": null,
+          "examTip": "Stay updated with current affairs — Army/Police exams heavily test recent events and developments."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Written Test Pattern: Practice",
+          "difficulty": "intermediate",
+          "explanation": "Practice-oriented content with focus on the specific types of questions that appear in security forces recruitment examinations.",
+          "keyPoints": [
+            "Practice questions",
+            "Mock test strategies",
+            "Time management"
+          ],
+          "formula": null,
+          "examTip": "Practice with official model papers. The pattern of questions is usually consistent across years."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Interview Preparation",
+      "shortIntro": "Army/Police recruitment: Interview Preparation.",
+      "introduction": {
+        "overview": "Interview Preparation is important for Nepal Army and Nepal Police recruitment examinations. These competitive exams test candidates on general knowledge, physical fitness, and aptitude.\n\nThis chapter provides comprehensive preparation material for the written examination component. Candidates should combine this study with physical training as per the recruitment requirements.\n\nThe recruitment process in Nepal's security forces is highly competitive, and thorough preparation across all tested areas is essential for success.\n\nStay updated with current affairs and practice with model questions regularly to build the knowledge base and speed required for the examination.",
+        "whyItMatters": "Army/Police recruitment exams test Interview Preparation regularly. Thorough preparation is key to clearing the written component.",
+        "prerequisites": [
+          "General education"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Interview Preparation: Overview",
+          "difficulty": "beginner",
+          "explanation": "Comprehensive overview of Interview Preparation for Army/Police recruitment preparation. Covers the key information and concepts that candidates must know.",
+          "keyPoints": [
+            "Essential facts and knowledge",
+            "Recruitment-specific focus areas",
+            "Common question patterns"
+          ],
+          "formula": null,
+          "examTip": "Stay updated with current affairs — Army/Police exams heavily test recent events and developments."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Interview Preparation: Practice",
+          "difficulty": "intermediate",
+          "explanation": "Practice-oriented content with focus on the specific types of questions that appear in security forces recruitment examinations.",
+          "keyPoints": [
+            "Practice questions",
+            "Mock test strategies",
+            "Time management"
+          ],
+          "formula": null,
+          "examTip": "Practice with official model papers. The pattern of questions is usually consistent across years."
+        }
+      ]
+    }
+  ]
+}

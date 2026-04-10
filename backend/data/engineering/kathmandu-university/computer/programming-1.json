@@ -1,0 +1,303 @@
+{
+  "meta": {
+    "program": "Kathmandu University",
+    "category": "engineering",
+    "subCategory": "kathmandu-university",
+    "branch": "computer",
+    "subject": "Programming I",
+    "subjectId": "programming-1",
+    "color": "#059669",
+    "lastUpdated": "2025",
+    "totalChapters": 6
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Introduction to Programming",
+      "shortIntro": "Kathmandu University computer engineering: Introduction to Programming.",
+      "introduction": {
+        "overview": "Introduction to Programming is a critical chapter in the Programming I course offered under the computer engineering program at Kathmandu University. Engineering students must develop a deep understanding of this topic as it forms the basis for professional engineering practice.\n\nThe chapter combines theoretical analysis with practical problem-solving. Students should work through solved examples, practice unsolved problems, and relate theoretical concepts to real-world engineering applications.\n\nLaboratory sessions and tutorial classes complement the lecture content. Students are advised to maintain a problem-solving notebook and regularly review past examination papers for this subject.\n\nMastery of Introduction to Programming is essential not only for university examinations but also for a successful engineering career.",
+        "whyItMatters": "Critical for computer engineering students — Introduction to Programming is fundamental to professional practice and regularly tested in university examinations.",
+        "prerequisites": [
+          "Pre-requisite engineering courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Fundamentals of Introduction to Programming",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential theoretical foundations of Introduction to Programming as studied in computer engineering. Students learn key principles, derivations, and problem-solving methodologies.\n\nEngineering students should focus on understanding the underlying physics/mathematics rather than memorizing formulas.",
+          "keyPoints": [
+            "Key principles and derivations",
+            "Standard problem types",
+            "Engineering applications"
+          ],
+          "formula": null,
+          "examTip": "Show all derivation steps in exams. Partial marks are significant in engineering examinations."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Applications and Design",
+          "difficulty": "advanced",
+          "explanation": "Advanced applications of Introduction to Programming in engineering design and analysis. This topic covers practical calculations, design criteria, and real-world engineering challenges.",
+          "keyPoints": [
+            "Design calculations",
+            "Safety factors and standards",
+            "Practical case studies"
+          ],
+          "formula": null,
+          "examTip": "Relate theoretical concepts to Nepal's engineering context where possible — examiners appreciate practical awareness."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Variables and Data Types",
+      "shortIntro": "Kathmandu University computer engineering: Variables and Data Types.",
+      "introduction": {
+        "overview": "Variables and Data Types is a critical chapter in the Programming I course offered under the computer engineering program at Kathmandu University. Engineering students must develop a deep understanding of this topic as it forms the basis for professional engineering practice.\n\nThe chapter combines theoretical analysis with practical problem-solving. Students should work through solved examples, practice unsolved problems, and relate theoretical concepts to real-world engineering applications.\n\nLaboratory sessions and tutorial classes complement the lecture content. Students are advised to maintain a problem-solving notebook and regularly review past examination papers for this subject.\n\nMastery of Variables and Data Types is essential not only for university examinations but also for a successful engineering career.",
+        "whyItMatters": "Critical for computer engineering students — Variables and Data Types is fundamental to professional practice and regularly tested in university examinations.",
+        "prerequisites": [
+          "Pre-requisite engineering courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Fundamentals of Variables and Data Types",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential theoretical foundations of Variables and Data Types as studied in computer engineering. Students learn key principles, derivations, and problem-solving methodologies.\n\nEngineering students should focus on understanding the underlying physics/mathematics rather than memorizing formulas.",
+          "keyPoints": [
+            "Key principles and derivations",
+            "Standard problem types",
+            "Engineering applications"
+          ],
+          "formula": null,
+          "examTip": "Show all derivation steps in exams. Partial marks are significant in engineering examinations."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Applications and Design",
+          "difficulty": "advanced",
+          "explanation": "Advanced applications of Variables and Data Types in engineering design and analysis. This topic covers practical calculations, design criteria, and real-world engineering challenges.",
+          "keyPoints": [
+            "Design calculations",
+            "Safety factors and standards",
+            "Practical case studies"
+          ],
+          "formula": null,
+          "examTip": "Relate theoretical concepts to Nepal's engineering context where possible — examiners appreciate practical awareness."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Control Structures",
+      "shortIntro": "Kathmandu University computer engineering: Control Structures.",
+      "introduction": {
+        "overview": "Control Structures is a critical chapter in the Programming I course offered under the computer engineering program at Kathmandu University. Engineering students must develop a deep understanding of this topic as it forms the basis for professional engineering practice.\n\nThe chapter combines theoretical analysis with practical problem-solving. Students should work through solved examples, practice unsolved problems, and relate theoretical concepts to real-world engineering applications.\n\nLaboratory sessions and tutorial classes complement the lecture content. Students are advised to maintain a problem-solving notebook and regularly review past examination papers for this subject.\n\nMastery of Control Structures is essential not only for university examinations but also for a successful engineering career.",
+        "whyItMatters": "Critical for computer engineering students — Control Structures is fundamental to professional practice and regularly tested in university examinations.",
+        "prerequisites": [
+          "Pre-requisite engineering courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Fundamentals of Control Structures",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential theoretical foundations of Control Structures as studied in computer engineering. Students learn key principles, derivations, and problem-solving methodologies.\n\nEngineering students should focus on understanding the underlying physics/mathematics rather than memorizing formulas.",
+          "keyPoints": [
+            "Key principles and derivations",
+            "Standard problem types",
+            "Engineering applications"
+          ],
+          "formula": null,
+          "examTip": "Show all derivation steps in exams. Partial marks are significant in engineering examinations."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Applications and Design",
+          "difficulty": "advanced",
+          "explanation": "Advanced applications of Control Structures in engineering design and analysis. This topic covers practical calculations, design criteria, and real-world engineering challenges.",
+          "keyPoints": [
+            "Design calculations",
+            "Safety factors and standards",
+            "Practical case studies"
+          ],
+          "formula": null,
+          "examTip": "Relate theoretical concepts to Nepal's engineering context where possible — examiners appreciate practical awareness."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Functions",
+      "shortIntro": "Kathmandu University computer engineering: Functions.",
+      "introduction": {
+        "overview": "Functions is a critical chapter in the Programming I course offered under the computer engineering program at Kathmandu University. Engineering students must develop a deep understanding of this topic as it forms the basis for professional engineering practice.\n\nThe chapter combines theoretical analysis with practical problem-solving. Students should work through solved examples, practice unsolved problems, and relate theoretical concepts to real-world engineering applications.\n\nLaboratory sessions and tutorial classes complement the lecture content. Students are advised to maintain a problem-solving notebook and regularly review past examination papers for this subject.\n\nMastery of Functions is essential not only for university examinations but also for a successful engineering career.",
+        "whyItMatters": "Critical for computer engineering students — Functions is fundamental to professional practice and regularly tested in university examinations.",
+        "prerequisites": [
+          "Pre-requisite engineering courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Fundamentals of Functions",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential theoretical foundations of Functions as studied in computer engineering. Students learn key principles, derivations, and problem-solving methodologies.\n\nEngineering students should focus on understanding the underlying physics/mathematics rather than memorizing formulas.",
+          "keyPoints": [
+            "Key principles and derivations",
+            "Standard problem types",
+            "Engineering applications"
+          ],
+          "formula": null,
+          "examTip": "Show all derivation steps in exams. Partial marks are significant in engineering examinations."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Applications and Design",
+          "difficulty": "advanced",
+          "explanation": "Advanced applications of Functions in engineering design and analysis. This topic covers practical calculations, design criteria, and real-world engineering challenges.",
+          "keyPoints": [
+            "Design calculations",
+            "Safety factors and standards",
+            "Practical case studies"
+          ],
+          "formula": null,
+          "examTip": "Relate theoretical concepts to Nepal's engineering context where possible — examiners appreciate practical awareness."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Arrays",
+      "shortIntro": "Kathmandu University computer engineering: Arrays.",
+      "introduction": {
+        "overview": "Arrays is a critical chapter in the Programming I course offered under the computer engineering program at Kathmandu University. Engineering students must develop a deep understanding of this topic as it forms the basis for professional engineering practice.\n\nThe chapter combines theoretical analysis with practical problem-solving. Students should work through solved examples, practice unsolved problems, and relate theoretical concepts to real-world engineering applications.\n\nLaboratory sessions and tutorial classes complement the lecture content. Students are advised to maintain a problem-solving notebook and regularly review past examination papers for this subject.\n\nMastery of Arrays is essential not only for university examinations but also for a successful engineering career.",
+        "whyItMatters": "Critical for computer engineering students — Arrays is fundamental to professional practice and regularly tested in university examinations.",
+        "prerequisites": [
+          "Pre-requisite engineering courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Fundamentals of Arrays",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential theoretical foundations of Arrays as studied in computer engineering. Students learn key principles, derivations, and problem-solving methodologies.\n\nEngineering students should focus on understanding the underlying physics/mathematics rather than memorizing formulas.",
+          "keyPoints": [
+            "Key principles and derivations",
+            "Standard problem types",
+            "Engineering applications"
+          ],
+          "formula": null,
+          "examTip": "Show all derivation steps in exams. Partial marks are significant in engineering examinations."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Applications and Design",
+          "difficulty": "advanced",
+          "explanation": "Advanced applications of Arrays in engineering design and analysis. This topic covers practical calculations, design criteria, and real-world engineering challenges.",
+          "keyPoints": [
+            "Design calculations",
+            "Safety factors and standards",
+            "Practical case studies"
+          ],
+          "formula": null,
+          "examTip": "Relate theoretical concepts to Nepal's engineering context where possible — examiners appreciate practical awareness."
+        }
+      ]
+    },
+    {
+      "id": "ch-6",
+      "number": 6,
+      "title": "Pointers",
+      "shortIntro": "Kathmandu University computer engineering: Pointers.",
+      "introduction": {
+        "overview": "Pointers is a critical chapter in the Programming I course offered under the computer engineering program at Kathmandu University. Engineering students must develop a deep understanding of this topic as it forms the basis for professional engineering practice.\n\nThe chapter combines theoretical analysis with practical problem-solving. Students should work through solved examples, practice unsolved problems, and relate theoretical concepts to real-world engineering applications.\n\nLaboratory sessions and tutorial classes complement the lecture content. Students are advised to maintain a problem-solving notebook and regularly review past examination papers for this subject.\n\nMastery of Pointers is essential not only for university examinations but also for a successful engineering career.",
+        "whyItMatters": "Critical for computer engineering students — Pointers is fundamental to professional practice and regularly tested in university examinations.",
+        "prerequisites": [
+          "Pre-requisite engineering courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-6-1",
+          "number": 1,
+          "name": "Fundamentals of Pointers",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential theoretical foundations of Pointers as studied in computer engineering. Students learn key principles, derivations, and problem-solving methodologies.\n\nEngineering students should focus on understanding the underlying physics/mathematics rather than memorizing formulas.",
+          "keyPoints": [
+            "Key principles and derivations",
+            "Standard problem types",
+            "Engineering applications"
+          ],
+          "formula": null,
+          "examTip": "Show all derivation steps in exams. Partial marks are significant in engineering examinations."
+        },
+        {
+          "id": "t-6-2",
+          "number": 2,
+          "name": "Applications and Design",
+          "difficulty": "advanced",
+          "explanation": "Advanced applications of Pointers in engineering design and analysis. This topic covers practical calculations, design criteria, and real-world engineering challenges.",
+          "keyPoints": [
+            "Design calculations",
+            "Safety factors and standards",
+            "Practical case studies"
+          ],
+          "formula": null,
+          "examTip": "Relate theoretical concepts to Nepal's engineering context where possible — examiners appreciate practical awareness."
+        }
+      ]
+    }
+  ]
+}

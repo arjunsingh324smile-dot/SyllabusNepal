@@ -1,0 +1,534 @@
+{
+  "meta": {
+    "program": "SEE",
+    "category": "school",
+    "subCategory": "see",
+    "subject": "Computer Science",
+    "subjectId": "computer-science",
+    "color": "#0891B2",
+    "lastUpdated": "2025",
+    "totalChapters": 8
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Computer Fundamentals",
+      "shortIntro": "SEE Computer Science: Comprehensive study of Computer Fundamentals.",
+      "introduction": {
+        "overview": "Computer Fundamentals is a critical chapter in the SEE Computer Science syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Computer Fundamentals appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Fundamentals of Computer Fundamentals",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Computer Fundamentals as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Computer Fundamentals",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Advanced Applications of Computer Fundamentals",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-1-3",
+          "number": 3,
+          "name": "Practice and Revision for Computer Fundamentals",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Computer Fundamentals. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Number System",
+      "shortIntro": "SEE Computer Science: Comprehensive study of Number System.",
+      "introduction": {
+        "overview": "Number System is a critical chapter in the SEE Computer Science syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Number System appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Fundamentals of Number System",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Number System as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Number System",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Advanced Applications of Number System",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-2-3",
+          "number": 3,
+          "name": "Practice and Revision for Number System",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Number System. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Programming Concepts",
+      "shortIntro": "SEE Computer Science: Comprehensive study of Programming Concepts.",
+      "introduction": {
+        "overview": "Programming Concepts is a critical chapter in the SEE Computer Science syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Programming Concepts appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Fundamentals of Programming Concepts",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Programming Concepts as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Programming Concepts",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Advanced Applications of Programming Concepts",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-3-3",
+          "number": 3,
+          "name": "Practice and Revision for Programming Concepts",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Programming Concepts. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "C Programming Basics",
+      "shortIntro": "SEE Computer Science: Comprehensive study of C Programming Basics.",
+      "introduction": {
+        "overview": "C Programming Basics is a critical chapter in the SEE Computer Science syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from C Programming Basics appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Fundamentals of C Programming Basics",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of C Programming Basics as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to C Programming Basics",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Advanced Applications of C Programming Basics",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-4-3",
+          "number": 3,
+          "name": "Practice and Revision for C Programming Basics",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to C Programming Basics. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Web Technology HTML",
+      "shortIntro": "SEE Computer Science: Comprehensive study of Web Technology HTML.",
+      "introduction": {
+        "overview": "Web Technology HTML is a critical chapter in the SEE Computer Science syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Web Technology HTML appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Fundamentals of Web Technology HTML",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Web Technology HTML as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Web Technology HTML",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Advanced Applications of Web Technology HTML",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-5-3",
+          "number": 3,
+          "name": "Practice and Revision for Web Technology HTML",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Web Technology HTML. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-6",
+      "number": 6,
+      "title": "Multimedia",
+      "shortIntro": "SEE Computer Science: Comprehensive study of Multimedia.",
+      "introduction": {
+        "overview": "Multimedia is a critical chapter in the SEE Computer Science syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Multimedia appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-6-1",
+          "number": 1,
+          "name": "Fundamentals of Multimedia",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Multimedia as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Multimedia",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-6-2",
+          "number": 2,
+          "name": "Advanced Applications of Multimedia",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-6-3",
+          "number": 3,
+          "name": "Practice and Revision for Multimedia",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Multimedia. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-7",
+      "number": 7,
+      "title": "Information Security",
+      "shortIntro": "SEE Computer Science: Comprehensive study of Information Security.",
+      "introduction": {
+        "overview": "Information Security is a critical chapter in the SEE Computer Science syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Information Security appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-7-1",
+          "number": 1,
+          "name": "Fundamentals of Information Security",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Information Security as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Information Security",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-7-2",
+          "number": 2,
+          "name": "Advanced Applications of Information Security",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-7-3",
+          "number": 3,
+          "name": "Practice and Revision for Information Security",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Information Security. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-8",
+      "number": 8,
+      "title": "Recent Trends in ICT",
+      "shortIntro": "SEE Computer Science: Comprehensive study of Recent Trends in ICT.",
+      "introduction": {
+        "overview": "Recent Trends in ICT is a critical chapter in the SEE Computer Science syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Recent Trends in ICT appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-8-1",
+          "number": 1,
+          "name": "Fundamentals of Recent Trends in ICT",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Recent Trends in ICT as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Recent Trends in ICT",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-8-2",
+          "number": 2,
+          "name": "Advanced Applications of Recent Trends in ICT",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-8-3",
+          "number": 3,
+          "name": "Practice and Revision for Recent Trends in ICT",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Recent Trends in ICT. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    }
+  ]
+}

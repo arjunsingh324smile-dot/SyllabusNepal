@@ -1,0 +1,264 @@
+{
+  "meta": {
+    "program": "KUCAT-CBT",
+    "category": "entrance",
+    "subCategory": "kucat-cbt",
+    "subject": "Physics",
+    "subjectId": "physics",
+    "color": "#0E7490",
+    "lastUpdated": "2025",
+    "totalChapters": 5
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Mechanics",
+      "shortIntro": "KUCAT-CBT: Mechanics — exam preparation guide.",
+      "introduction": {
+        "overview": "Mechanics is a critical topic for the KUCAT-CBT examination. This chapter covers the complete syllabus content as specified by the conducting body, with focus on the types of questions that appear in the entrance test.\n\nThe KUCAT-CBT is one of the most competitive entrance examinations in Nepal, and thorough preparation of Mechanics is essential for achieving a high rank. Past papers analysis shows that this topic consistently carries significant marks.\n\nStudents should combine systematic study with timed practice tests. Focus on accuracy first, then work on speed. Understanding concepts deeply is more effective than memorizing formulas, as the examination tests analytical ability.\n\nA structured preparation plan covering this chapter, combined with regular revision and mock tests, will maximize your chances of success in the KUCAT-CBT.",
+        "whyItMatters": "High-frequency topic in KUCAT-CBT. Thorough preparation of Mechanics can significantly improve your entrance rank. Multiple questions appear from this chapter every year.",
+        "prerequisites": [
+          "NEB Grade 11-12 syllabus knowledge"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Core Concepts: Mechanics",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential concepts of Mechanics that are tested in the KUCAT-CBT examination. Focus is on building a solid understanding that enables quick and accurate problem-solving under exam conditions.\n\nStudents should practice with past entrance papers and model questions to familiarize themselves with the question patterns.",
+          "keyPoints": [
+            "Key formulas and principles",
+            "Common question patterns",
+            "Quick-solving techniques",
+            "High-frequency topics"
+          ],
+          "formula": null,
+          "examTip": "In KUCAT-CBT, time management is crucial. Practice solving MCQs within 60-90 seconds per question."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Problem Solving: Mechanics",
+          "difficulty": "advanced",
+          "explanation": "Advanced problem-solving techniques for Mechanics in the context of competitive entrance examination. This topic covers shortcuts, elimination strategies, and advanced methods.\n\nFocus on the most frequently tested areas and develop systematic approaches to solve problems efficiently.",
+          "keyPoints": [
+            "Shortcut methods",
+            "Elimination techniques",
+            "Common traps to avoid",
+            "Previous year patterns"
+          ],
+          "formula": null,
+          "examTip": "Review the last 5 years of KUCAT-CBT papers for Mechanics. Identify the most repeated question types."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Thermodynamics",
+      "shortIntro": "KUCAT-CBT: Thermodynamics — exam preparation guide.",
+      "introduction": {
+        "overview": "Thermodynamics is a critical topic for the KUCAT-CBT examination. This chapter covers the complete syllabus content as specified by the conducting body, with focus on the types of questions that appear in the entrance test.\n\nThe KUCAT-CBT is one of the most competitive entrance examinations in Nepal, and thorough preparation of Thermodynamics is essential for achieving a high rank. Past papers analysis shows that this topic consistently carries significant marks.\n\nStudents should combine systematic study with timed practice tests. Focus on accuracy first, then work on speed. Understanding concepts deeply is more effective than memorizing formulas, as the examination tests analytical ability.\n\nA structured preparation plan covering this chapter, combined with regular revision and mock tests, will maximize your chances of success in the KUCAT-CBT.",
+        "whyItMatters": "High-frequency topic in KUCAT-CBT. Thorough preparation of Thermodynamics can significantly improve your entrance rank. Multiple questions appear from this chapter every year.",
+        "prerequisites": [
+          "NEB Grade 11-12 syllabus knowledge"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Core Concepts: Thermodynamics",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential concepts of Thermodynamics that are tested in the KUCAT-CBT examination. Focus is on building a solid understanding that enables quick and accurate problem-solving under exam conditions.\n\nStudents should practice with past entrance papers and model questions to familiarize themselves with the question patterns.",
+          "keyPoints": [
+            "Key formulas and principles",
+            "Common question patterns",
+            "Quick-solving techniques",
+            "High-frequency topics"
+          ],
+          "formula": null,
+          "examTip": "In KUCAT-CBT, time management is crucial. Practice solving MCQs within 60-90 seconds per question."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Problem Solving: Thermodynamics",
+          "difficulty": "advanced",
+          "explanation": "Advanced problem-solving techniques for Thermodynamics in the context of competitive entrance examination. This topic covers shortcuts, elimination strategies, and advanced methods.\n\nFocus on the most frequently tested areas and develop systematic approaches to solve problems efficiently.",
+          "keyPoints": [
+            "Shortcut methods",
+            "Elimination techniques",
+            "Common traps to avoid",
+            "Previous year patterns"
+          ],
+          "formula": null,
+          "examTip": "Review the last 5 years of KUCAT-CBT papers for Thermodynamics. Identify the most repeated question types."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Waves",
+      "shortIntro": "KUCAT-CBT: Waves — exam preparation guide.",
+      "introduction": {
+        "overview": "Waves is a critical topic for the KUCAT-CBT examination. This chapter covers the complete syllabus content as specified by the conducting body, with focus on the types of questions that appear in the entrance test.\n\nThe KUCAT-CBT is one of the most competitive entrance examinations in Nepal, and thorough preparation of Waves is essential for achieving a high rank. Past papers analysis shows that this topic consistently carries significant marks.\n\nStudents should combine systematic study with timed practice tests. Focus on accuracy first, then work on speed. Understanding concepts deeply is more effective than memorizing formulas, as the examination tests analytical ability.\n\nA structured preparation plan covering this chapter, combined with regular revision and mock tests, will maximize your chances of success in the KUCAT-CBT.",
+        "whyItMatters": "High-frequency topic in KUCAT-CBT. Thorough preparation of Waves can significantly improve your entrance rank. Multiple questions appear from this chapter every year.",
+        "prerequisites": [
+          "NEB Grade 11-12 syllabus knowledge"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Core Concepts: Waves",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential concepts of Waves that are tested in the KUCAT-CBT examination. Focus is on building a solid understanding that enables quick and accurate problem-solving under exam conditions.\n\nStudents should practice with past entrance papers and model questions to familiarize themselves with the question patterns.",
+          "keyPoints": [
+            "Key formulas and principles",
+            "Common question patterns",
+            "Quick-solving techniques",
+            "High-frequency topics"
+          ],
+          "formula": null,
+          "examTip": "In KUCAT-CBT, time management is crucial. Practice solving MCQs within 60-90 seconds per question."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Problem Solving: Waves",
+          "difficulty": "advanced",
+          "explanation": "Advanced problem-solving techniques for Waves in the context of competitive entrance examination. This topic covers shortcuts, elimination strategies, and advanced methods.\n\nFocus on the most frequently tested areas and develop systematic approaches to solve problems efficiently.",
+          "keyPoints": [
+            "Shortcut methods",
+            "Elimination techniques",
+            "Common traps to avoid",
+            "Previous year patterns"
+          ],
+          "formula": null,
+          "examTip": "Review the last 5 years of KUCAT-CBT papers for Waves. Identify the most repeated question types."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Electricity",
+      "shortIntro": "KUCAT-CBT: Electricity — exam preparation guide.",
+      "introduction": {
+        "overview": "Electricity is a critical topic for the KUCAT-CBT examination. This chapter covers the complete syllabus content as specified by the conducting body, with focus on the types of questions that appear in the entrance test.\n\nThe KUCAT-CBT is one of the most competitive entrance examinations in Nepal, and thorough preparation of Electricity is essential for achieving a high rank. Past papers analysis shows that this topic consistently carries significant marks.\n\nStudents should combine systematic study with timed practice tests. Focus on accuracy first, then work on speed. Understanding concepts deeply is more effective than memorizing formulas, as the examination tests analytical ability.\n\nA structured preparation plan covering this chapter, combined with regular revision and mock tests, will maximize your chances of success in the KUCAT-CBT.",
+        "whyItMatters": "High-frequency topic in KUCAT-CBT. Thorough preparation of Electricity can significantly improve your entrance rank. Multiple questions appear from this chapter every year.",
+        "prerequisites": [
+          "NEB Grade 11-12 syllabus knowledge"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Core Concepts: Electricity",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential concepts of Electricity that are tested in the KUCAT-CBT examination. Focus is on building a solid understanding that enables quick and accurate problem-solving under exam conditions.\n\nStudents should practice with past entrance papers and model questions to familiarize themselves with the question patterns.",
+          "keyPoints": [
+            "Key formulas and principles",
+            "Common question patterns",
+            "Quick-solving techniques",
+            "High-frequency topics"
+          ],
+          "formula": null,
+          "examTip": "In KUCAT-CBT, time management is crucial. Practice solving MCQs within 60-90 seconds per question."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Problem Solving: Electricity",
+          "difficulty": "advanced",
+          "explanation": "Advanced problem-solving techniques for Electricity in the context of competitive entrance examination. This topic covers shortcuts, elimination strategies, and advanced methods.\n\nFocus on the most frequently tested areas and develop systematic approaches to solve problems efficiently.",
+          "keyPoints": [
+            "Shortcut methods",
+            "Elimination techniques",
+            "Common traps to avoid",
+            "Previous year patterns"
+          ],
+          "formula": null,
+          "examTip": "Review the last 5 years of KUCAT-CBT papers for Electricity. Identify the most repeated question types."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Modern Physics",
+      "shortIntro": "KUCAT-CBT: Modern Physics — exam preparation guide.",
+      "introduction": {
+        "overview": "Modern Physics is a critical topic for the KUCAT-CBT examination. This chapter covers the complete syllabus content as specified by the conducting body, with focus on the types of questions that appear in the entrance test.\n\nThe KUCAT-CBT is one of the most competitive entrance examinations in Nepal, and thorough preparation of Modern Physics is essential for achieving a high rank. Past papers analysis shows that this topic consistently carries significant marks.\n\nStudents should combine systematic study with timed practice tests. Focus on accuracy first, then work on speed. Understanding concepts deeply is more effective than memorizing formulas, as the examination tests analytical ability.\n\nA structured preparation plan covering this chapter, combined with regular revision and mock tests, will maximize your chances of success in the KUCAT-CBT.",
+        "whyItMatters": "High-frequency topic in KUCAT-CBT. Thorough preparation of Modern Physics can significantly improve your entrance rank. Multiple questions appear from this chapter every year.",
+        "prerequisites": [
+          "NEB Grade 11-12 syllabus knowledge"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Core Concepts: Modern Physics",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential concepts of Modern Physics that are tested in the KUCAT-CBT examination. Focus is on building a solid understanding that enables quick and accurate problem-solving under exam conditions.\n\nStudents should practice with past entrance papers and model questions to familiarize themselves with the question patterns.",
+          "keyPoints": [
+            "Key formulas and principles",
+            "Common question patterns",
+            "Quick-solving techniques",
+            "High-frequency topics"
+          ],
+          "formula": null,
+          "examTip": "In KUCAT-CBT, time management is crucial. Practice solving MCQs within 60-90 seconds per question."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Problem Solving: Modern Physics",
+          "difficulty": "advanced",
+          "explanation": "Advanced problem-solving techniques for Modern Physics in the context of competitive entrance examination. This topic covers shortcuts, elimination strategies, and advanced methods.\n\nFocus on the most frequently tested areas and develop systematic approaches to solve problems efficiently.",
+          "keyPoints": [
+            "Shortcut methods",
+            "Elimination techniques",
+            "Common traps to avoid",
+            "Previous year patterns"
+          ],
+          "formula": null,
+          "examTip": "Review the last 5 years of KUCAT-CBT papers for Modern Physics. Identify the most repeated question types."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "meta": {
+    "program": "BBA",
+    "category": "bachelor",
+    "subCategory": "bba",
+    "subject": "Principles of Management",
+    "subjectId": "principles-of-management",
+    "color": "#D97706",
+    "lastUpdated": "2025",
+    "semester": "sem-1",
+    "totalChapters": 4
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Introduction to Management",
+      "shortIntro": "BBA sem-1: Introduction to Management — key concepts and applications.",
+      "introduction": {
+        "overview": "Introduction to Management is an essential chapter in the BBA Principles of Management syllabus for sem 1. This chapter builds the managerial and analytical skills that are fundamental to a successful career in business administration.\n\nStudents will explore both classical and contemporary perspectives on Introduction to Management, with emphasis on case studies and practical applications relevant to the Nepali business environment.\n\nThe BBA program emphasizes a practical, application-oriented approach to learning. Students should supplement their textbook study with current business news, case analyses, and group discussions.\n\nMastering this chapter prepares students for more advanced topics in subsequent semesters and provides a competitive edge in the job market.",
+        "whyItMatters": "Mastering Introduction to Management is crucial for BBA students as it directly applies to professional practice and higher-semester coursework.",
+        "prerequisites": [
+          "Pre-requisite: Previous semester courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Fundamentals of Introduction to Management",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces core concepts of Introduction to Management. Students learn essential frameworks, terminology, and principles that underpin this chapter.\n\nThe focus is on building a strong conceptual foundation that can be applied to real business situations.",
+          "keyPoints": [
+            "Core frameworks and models",
+            "Essential business terminology",
+            "Foundational principles"
+          ],
+          "formula": null,
+          "examTip": "In BBA exams, demonstrate both theoretical knowledge and practical application for full marks."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Case Studies in Introduction to Management",
+          "difficulty": "intermediate",
+          "explanation": "This topic uses case studies to illustrate how Introduction to Management concepts apply in real business scenarios. Students develop analytical and problem-solving skills through guided case analysis.",
+          "keyPoints": [
+            "Case analysis methodology",
+            "Real-world application",
+            "Critical thinking development"
+          ],
+          "formula": null,
+          "examTip": "Practice analyzing mini-cases within time limits to prepare for exam scenarios."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Evolution of Management Thought",
+      "shortIntro": "BBA sem-1: Evolution of Management Thought — key concepts and applications.",
+      "introduction": {
+        "overview": "Evolution of Management Thought is an essential chapter in the BBA Principles of Management syllabus for sem 1. This chapter builds the managerial and analytical skills that are fundamental to a successful career in business administration.\n\nStudents will explore both classical and contemporary perspectives on Evolution of Management Thought, with emphasis on case studies and practical applications relevant to the Nepali business environment.\n\nThe BBA program emphasizes a practical, application-oriented approach to learning. Students should supplement their textbook study with current business news, case analyses, and group discussions.\n\nMastering this chapter prepares students for more advanced topics in subsequent semesters and provides a competitive edge in the job market.",
+        "whyItMatters": "Mastering Evolution of Management Thought is crucial for BBA students as it directly applies to professional practice and higher-semester coursework.",
+        "prerequisites": [
+          "Pre-requisite: Previous semester courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Fundamentals of Evolution of Management Thought",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces core concepts of Evolution of Management Thought. Students learn essential frameworks, terminology, and principles that underpin this chapter.\n\nThe focus is on building a strong conceptual foundation that can be applied to real business situations.",
+          "keyPoints": [
+            "Core frameworks and models",
+            "Essential business terminology",
+            "Foundational principles"
+          ],
+          "formula": null,
+          "examTip": "In BBA exams, demonstrate both theoretical knowledge and practical application for full marks."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Case Studies in Evolution of Management Thought",
+          "difficulty": "intermediate",
+          "explanation": "This topic uses case studies to illustrate how Evolution of Management Thought concepts apply in real business scenarios. Students develop analytical and problem-solving skills through guided case analysis.",
+          "keyPoints": [
+            "Case analysis methodology",
+            "Real-world application",
+            "Critical thinking development"
+          ],
+          "formula": null,
+          "examTip": "Practice analyzing mini-cases within time limits to prepare for exam scenarios."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Planning and Decision Making",
+      "shortIntro": "BBA sem-1: Planning and Decision Making — key concepts and applications.",
+      "introduction": {
+        "overview": "Planning and Decision Making is an essential chapter in the BBA Principles of Management syllabus for sem 1. This chapter builds the managerial and analytical skills that are fundamental to a successful career in business administration.\n\nStudents will explore both classical and contemporary perspectives on Planning and Decision Making, with emphasis on case studies and practical applications relevant to the Nepali business environment.\n\nThe BBA program emphasizes a practical, application-oriented approach to learning. Students should supplement their textbook study with current business news, case analyses, and group discussions.\n\nMastering this chapter prepares students for more advanced topics in subsequent semesters and provides a competitive edge in the job market.",
+        "whyItMatters": "Mastering Planning and Decision Making is crucial for BBA students as it directly applies to professional practice and higher-semester coursework.",
+        "prerequisites": [
+          "Pre-requisite: Previous semester courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Fundamentals of Planning and Decision Making",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces core concepts of Planning and Decision Making. Students learn essential frameworks, terminology, and principles that underpin this chapter.\n\nThe focus is on building a strong conceptual foundation that can be applied to real business situations.",
+          "keyPoints": [
+            "Core frameworks and models",
+            "Essential business terminology",
+            "Foundational principles"
+          ],
+          "formula": null,
+          "examTip": "In BBA exams, demonstrate both theoretical knowledge and practical application for full marks."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Case Studies in Planning and Decision Making",
+          "difficulty": "intermediate",
+          "explanation": "This topic uses case studies to illustrate how Planning and Decision Making concepts apply in real business scenarios. Students develop analytical and problem-solving skills through guided case analysis.",
+          "keyPoints": [
+            "Case analysis methodology",
+            "Real-world application",
+            "Critical thinking development"
+          ],
+          "formula": null,
+          "examTip": "Practice analyzing mini-cases within time limits to prepare for exam scenarios."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Organizing",
+      "shortIntro": "BBA sem-1: Organizing — key concepts and applications.",
+      "introduction": {
+        "overview": "Organizing is an essential chapter in the BBA Principles of Management syllabus for sem 1. This chapter builds the managerial and analytical skills that are fundamental to a successful career in business administration.\n\nStudents will explore both classical and contemporary perspectives on Organizing, with emphasis on case studies and practical applications relevant to the Nepali business environment.\n\nThe BBA program emphasizes a practical, application-oriented approach to learning. Students should supplement their textbook study with current business news, case analyses, and group discussions.\n\nMastering this chapter prepares students for more advanced topics in subsequent semesters and provides a competitive edge in the job market.",
+        "whyItMatters": "Mastering Organizing is crucial for BBA students as it directly applies to professional practice and higher-semester coursework.",
+        "prerequisites": [
+          "Pre-requisite: Previous semester courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Fundamentals of Organizing",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces core concepts of Organizing. Students learn essential frameworks, terminology, and principles that underpin this chapter.\n\nThe focus is on building a strong conceptual foundation that can be applied to real business situations.",
+          "keyPoints": [
+            "Core frameworks and models",
+            "Essential business terminology",
+            "Foundational principles"
+          ],
+          "formula": null,
+          "examTip": "In BBA exams, demonstrate both theoretical knowledge and practical application for full marks."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Case Studies in Organizing",
+          "difficulty": "intermediate",
+          "explanation": "This topic uses case studies to illustrate how Organizing concepts apply in real business scenarios. Students develop analytical and problem-solving skills through guided case analysis.",
+          "keyPoints": [
+            "Case analysis methodology",
+            "Real-world application",
+            "Critical thinking development"
+          ],
+          "formula": null,
+          "examTip": "Practice analyzing mini-cases within time limits to prepare for exam scenarios."
+        }
+      ]
+    }
+  ]
+}

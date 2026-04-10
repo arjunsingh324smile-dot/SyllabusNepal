@@ -1,0 +1,207 @@
+{
+  "meta": {
+    "program": "BBA",
+    "category": "bachelor",
+    "subCategory": "bba",
+    "subject": "Business Mathematics",
+    "subjectId": "business-mathematics",
+    "color": "#7C3AED",
+    "lastUpdated": "2025",
+    "semester": "sem-1",
+    "totalChapters": 4
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Algebra and Functions",
+      "shortIntro": "BBA sem-1: Algebra and Functions — key concepts and applications.",
+      "introduction": {
+        "overview": "Algebra and Functions is an essential chapter in the BBA Business Mathematics syllabus for sem 1. This chapter builds the managerial and analytical skills that are fundamental to a successful career in business administration.\n\nStudents will explore both classical and contemporary perspectives on Algebra and Functions, with emphasis on case studies and practical applications relevant to the Nepali business environment.\n\nThe BBA program emphasizes a practical, application-oriented approach to learning. Students should supplement their textbook study with current business news, case analyses, and group discussions.\n\nMastering this chapter prepares students for more advanced topics in subsequent semesters and provides a competitive edge in the job market.",
+        "whyItMatters": "Mastering Algebra and Functions is crucial for BBA students as it directly applies to professional practice and higher-semester coursework.",
+        "prerequisites": [
+          "Pre-requisite: Previous semester courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Fundamentals of Algebra and Functions",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces core concepts of Algebra and Functions. Students learn essential frameworks, terminology, and principles that underpin this chapter.\n\nThe focus is on building a strong conceptual foundation that can be applied to real business situations.",
+          "keyPoints": [
+            "Core frameworks and models",
+            "Essential business terminology",
+            "Foundational principles"
+          ],
+          "formula": null,
+          "examTip": "In BBA exams, demonstrate both theoretical knowledge and practical application for full marks."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Case Studies in Algebra and Functions",
+          "difficulty": "intermediate",
+          "explanation": "This topic uses case studies to illustrate how Algebra and Functions concepts apply in real business scenarios. Students develop analytical and problem-solving skills through guided case analysis.",
+          "keyPoints": [
+            "Case analysis methodology",
+            "Real-world application",
+            "Critical thinking development"
+          ],
+          "formula": null,
+          "examTip": "Practice analyzing mini-cases within time limits to prepare for exam scenarios."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Matrix Operations",
+      "shortIntro": "BBA sem-1: Matrix Operations — key concepts and applications.",
+      "introduction": {
+        "overview": "Matrix Operations is an essential chapter in the BBA Business Mathematics syllabus for sem 1. This chapter builds the managerial and analytical skills that are fundamental to a successful career in business administration.\n\nStudents will explore both classical and contemporary perspectives on Matrix Operations, with emphasis on case studies and practical applications relevant to the Nepali business environment.\n\nThe BBA program emphasizes a practical, application-oriented approach to learning. Students should supplement their textbook study with current business news, case analyses, and group discussions.\n\nMastering this chapter prepares students for more advanced topics in subsequent semesters and provides a competitive edge in the job market.",
+        "whyItMatters": "Mastering Matrix Operations is crucial for BBA students as it directly applies to professional practice and higher-semester coursework.",
+        "prerequisites": [
+          "Pre-requisite: Previous semester courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Fundamentals of Matrix Operations",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces core concepts of Matrix Operations. Students learn essential frameworks, terminology, and principles that underpin this chapter.\n\nThe focus is on building a strong conceptual foundation that can be applied to real business situations.",
+          "keyPoints": [
+            "Core frameworks and models",
+            "Essential business terminology",
+            "Foundational principles"
+          ],
+          "formula": null,
+          "examTip": "In BBA exams, demonstrate both theoretical knowledge and practical application for full marks."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Case Studies in Matrix Operations",
+          "difficulty": "intermediate",
+          "explanation": "This topic uses case studies to illustrate how Matrix Operations concepts apply in real business scenarios. Students develop analytical and problem-solving skills through guided case analysis.",
+          "keyPoints": [
+            "Case analysis methodology",
+            "Real-world application",
+            "Critical thinking development"
+          ],
+          "formula": null,
+          "examTip": "Practice analyzing mini-cases within time limits to prepare for exam scenarios."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Calculus Basics",
+      "shortIntro": "BBA sem-1: Calculus Basics — key concepts and applications.",
+      "introduction": {
+        "overview": "Calculus Basics is an essential chapter in the BBA Business Mathematics syllabus for sem 1. This chapter builds the managerial and analytical skills that are fundamental to a successful career in business administration.\n\nStudents will explore both classical and contemporary perspectives on Calculus Basics, with emphasis on case studies and practical applications relevant to the Nepali business environment.\n\nThe BBA program emphasizes a practical, application-oriented approach to learning. Students should supplement their textbook study with current business news, case analyses, and group discussions.\n\nMastering this chapter prepares students for more advanced topics in subsequent semesters and provides a competitive edge in the job market.",
+        "whyItMatters": "Mastering Calculus Basics is crucial for BBA students as it directly applies to professional practice and higher-semester coursework.",
+        "prerequisites": [
+          "Pre-requisite: Previous semester courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Fundamentals of Calculus Basics",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces core concepts of Calculus Basics. Students learn essential frameworks, terminology, and principles that underpin this chapter.\n\nThe focus is on building a strong conceptual foundation that can be applied to real business situations.",
+          "keyPoints": [
+            "Core frameworks and models",
+            "Essential business terminology",
+            "Foundational principles"
+          ],
+          "formula": null,
+          "examTip": "In BBA exams, demonstrate both theoretical knowledge and practical application for full marks."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Case Studies in Calculus Basics",
+          "difficulty": "intermediate",
+          "explanation": "This topic uses case studies to illustrate how Calculus Basics concepts apply in real business scenarios. Students develop analytical and problem-solving skills through guided case analysis.",
+          "keyPoints": [
+            "Case analysis methodology",
+            "Real-world application",
+            "Critical thinking development"
+          ],
+          "formula": null,
+          "examTip": "Practice analyzing mini-cases within time limits to prepare for exam scenarios."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Linear Programming",
+      "shortIntro": "BBA sem-1: Linear Programming — key concepts and applications.",
+      "introduction": {
+        "overview": "Linear Programming is an essential chapter in the BBA Business Mathematics syllabus for sem 1. This chapter builds the managerial and analytical skills that are fundamental to a successful career in business administration.\n\nStudents will explore both classical and contemporary perspectives on Linear Programming, with emphasis on case studies and practical applications relevant to the Nepali business environment.\n\nThe BBA program emphasizes a practical, application-oriented approach to learning. Students should supplement their textbook study with current business news, case analyses, and group discussions.\n\nMastering this chapter prepares students for more advanced topics in subsequent semesters and provides a competitive edge in the job market.",
+        "whyItMatters": "Mastering Linear Programming is crucial for BBA students as it directly applies to professional practice and higher-semester coursework.",
+        "prerequisites": [
+          "Pre-requisite: Previous semester courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Fundamentals of Linear Programming",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces core concepts of Linear Programming. Students learn essential frameworks, terminology, and principles that underpin this chapter.\n\nThe focus is on building a strong conceptual foundation that can be applied to real business situations.",
+          "keyPoints": [
+            "Core frameworks and models",
+            "Essential business terminology",
+            "Foundational principles"
+          ],
+          "formula": null,
+          "examTip": "In BBA exams, demonstrate both theoretical knowledge and practical application for full marks."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Case Studies in Linear Programming",
+          "difficulty": "intermediate",
+          "explanation": "This topic uses case studies to illustrate how Linear Programming concepts apply in real business scenarios. Students develop analytical and problem-solving skills through guided case analysis.",
+          "keyPoints": [
+            "Case analysis methodology",
+            "Real-world application",
+            "Critical thinking development"
+          ],
+          "formula": null,
+          "examTip": "Practice analyzing mini-cases within time limits to prepare for exam scenarios."
+        }
+      ]
+    }
+  ]
+}

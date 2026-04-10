@@ -1,0 +1,254 @@
+{
+  "meta": {
+    "program": "BSc",
+    "category": "bachelor",
+    "subCategory": "bsc",
+    "subject": "Microbiology",
+    "subjectId": "microbiology",
+    "color": "#0891B2",
+    "lastUpdated": "2025",
+    "totalChapters": 5
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Introduction to Microbiology",
+      "shortIntro": "BSc Microbiology: Introduction to Microbiology — university level study.",
+      "introduction": {
+        "overview": "Introduction to Microbiology is a fundamental chapter in the BSc Microbiology curriculum. This chapter provides a university-level understanding of the topic, building on concepts from the +2 level.\n\nBSc students should approach this chapter with a focus on both conceptual depth and experimental understanding. Laboratory work complements the theoretical study and is essential for a complete grasp of the material.\n\nThe curriculum follows TU's approved syllabus and prepares students for higher studies (MSc) as well as professional careers in science and technology.\n\nStudents are encouraged to consult multiple reference books and research papers to develop a comprehensive understanding of Introduction to Microbiology.",
+        "whyItMatters": "This chapter is central to the BSc Microbiology program and provides essential knowledge for both examinations and research careers.",
+        "prerequisites": [
+          "+2 Science background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Theoretical Foundations of Introduction to Microbiology",
+          "difficulty": "intermediate",
+          "explanation": "A comprehensive coverage of the theoretical foundations of Introduction to Microbiology at the university level. This topic introduces advanced concepts that build upon secondary-level knowledge.",
+          "keyPoints": [
+            "Advanced theoretical concepts",
+            "Mathematical derivations",
+            "Key laws and principles"
+          ],
+          "formula": null,
+          "examTip": "BSc exams require detailed derivations. Practice writing proofs and derivations step by step."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Experimental and Applied Introduction to Microbiology",
+          "difficulty": "advanced",
+          "explanation": "This topic covers the experimental and applied aspects of Introduction to Microbiology. Laboratory exercises, calculations, and practical applications are emphasized.",
+          "keyPoints": [
+            "Laboratory techniques",
+            "Data analysis",
+            "Practical applications"
+          ],
+          "formula": null,
+          "examTip": "Always link theoretical knowledge to practical experiments in your exam answers."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Bacteriology",
+      "shortIntro": "BSc Microbiology: Bacteriology — university level study.",
+      "introduction": {
+        "overview": "Bacteriology is a fundamental chapter in the BSc Microbiology curriculum. This chapter provides a university-level understanding of the topic, building on concepts from the +2 level.\n\nBSc students should approach this chapter with a focus on both conceptual depth and experimental understanding. Laboratory work complements the theoretical study and is essential for a complete grasp of the material.\n\nThe curriculum follows TU's approved syllabus and prepares students for higher studies (MSc) as well as professional careers in science and technology.\n\nStudents are encouraged to consult multiple reference books and research papers to develop a comprehensive understanding of Bacteriology.",
+        "whyItMatters": "This chapter is central to the BSc Microbiology program and provides essential knowledge for both examinations and research careers.",
+        "prerequisites": [
+          "+2 Science background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Theoretical Foundations of Bacteriology",
+          "difficulty": "intermediate",
+          "explanation": "A comprehensive coverage of the theoretical foundations of Bacteriology at the university level. This topic introduces advanced concepts that build upon secondary-level knowledge.",
+          "keyPoints": [
+            "Advanced theoretical concepts",
+            "Mathematical derivations",
+            "Key laws and principles"
+          ],
+          "formula": null,
+          "examTip": "BSc exams require detailed derivations. Practice writing proofs and derivations step by step."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Experimental and Applied Bacteriology",
+          "difficulty": "advanced",
+          "explanation": "This topic covers the experimental and applied aspects of Bacteriology. Laboratory exercises, calculations, and practical applications are emphasized.",
+          "keyPoints": [
+            "Laboratory techniques",
+            "Data analysis",
+            "Practical applications"
+          ],
+          "formula": null,
+          "examTip": "Always link theoretical knowledge to practical experiments in your exam answers."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Virology",
+      "shortIntro": "BSc Microbiology: Virology — university level study.",
+      "introduction": {
+        "overview": "Virology is a fundamental chapter in the BSc Microbiology curriculum. This chapter provides a university-level understanding of the topic, building on concepts from the +2 level.\n\nBSc students should approach this chapter with a focus on both conceptual depth and experimental understanding. Laboratory work complements the theoretical study and is essential for a complete grasp of the material.\n\nThe curriculum follows TU's approved syllabus and prepares students for higher studies (MSc) as well as professional careers in science and technology.\n\nStudents are encouraged to consult multiple reference books and research papers to develop a comprehensive understanding of Virology.",
+        "whyItMatters": "This chapter is central to the BSc Microbiology program and provides essential knowledge for both examinations and research careers.",
+        "prerequisites": [
+          "+2 Science background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Theoretical Foundations of Virology",
+          "difficulty": "intermediate",
+          "explanation": "A comprehensive coverage of the theoretical foundations of Virology at the university level. This topic introduces advanced concepts that build upon secondary-level knowledge.",
+          "keyPoints": [
+            "Advanced theoretical concepts",
+            "Mathematical derivations",
+            "Key laws and principles"
+          ],
+          "formula": null,
+          "examTip": "BSc exams require detailed derivations. Practice writing proofs and derivations step by step."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Experimental and Applied Virology",
+          "difficulty": "advanced",
+          "explanation": "This topic covers the experimental and applied aspects of Virology. Laboratory exercises, calculations, and practical applications are emphasized.",
+          "keyPoints": [
+            "Laboratory techniques",
+            "Data analysis",
+            "Practical applications"
+          ],
+          "formula": null,
+          "examTip": "Always link theoretical knowledge to practical experiments in your exam answers."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Mycology",
+      "shortIntro": "BSc Microbiology: Mycology — university level study.",
+      "introduction": {
+        "overview": "Mycology is a fundamental chapter in the BSc Microbiology curriculum. This chapter provides a university-level understanding of the topic, building on concepts from the +2 level.\n\nBSc students should approach this chapter with a focus on both conceptual depth and experimental understanding. Laboratory work complements the theoretical study and is essential for a complete grasp of the material.\n\nThe curriculum follows TU's approved syllabus and prepares students for higher studies (MSc) as well as professional careers in science and technology.\n\nStudents are encouraged to consult multiple reference books and research papers to develop a comprehensive understanding of Mycology.",
+        "whyItMatters": "This chapter is central to the BSc Microbiology program and provides essential knowledge for both examinations and research careers.",
+        "prerequisites": [
+          "+2 Science background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Theoretical Foundations of Mycology",
+          "difficulty": "intermediate",
+          "explanation": "A comprehensive coverage of the theoretical foundations of Mycology at the university level. This topic introduces advanced concepts that build upon secondary-level knowledge.",
+          "keyPoints": [
+            "Advanced theoretical concepts",
+            "Mathematical derivations",
+            "Key laws and principles"
+          ],
+          "formula": null,
+          "examTip": "BSc exams require detailed derivations. Practice writing proofs and derivations step by step."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Experimental and Applied Mycology",
+          "difficulty": "advanced",
+          "explanation": "This topic covers the experimental and applied aspects of Mycology. Laboratory exercises, calculations, and practical applications are emphasized.",
+          "keyPoints": [
+            "Laboratory techniques",
+            "Data analysis",
+            "Practical applications"
+          ],
+          "formula": null,
+          "examTip": "Always link theoretical knowledge to practical experiments in your exam answers."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Applied Microbiology",
+      "shortIntro": "BSc Microbiology: Applied Microbiology — university level study.",
+      "introduction": {
+        "overview": "Applied Microbiology is a fundamental chapter in the BSc Microbiology curriculum. This chapter provides a university-level understanding of the topic, building on concepts from the +2 level.\n\nBSc students should approach this chapter with a focus on both conceptual depth and experimental understanding. Laboratory work complements the theoretical study and is essential for a complete grasp of the material.\n\nThe curriculum follows TU's approved syllabus and prepares students for higher studies (MSc) as well as professional careers in science and technology.\n\nStudents are encouraged to consult multiple reference books and research papers to develop a comprehensive understanding of Applied Microbiology.",
+        "whyItMatters": "This chapter is central to the BSc Microbiology program and provides essential knowledge for both examinations and research careers.",
+        "prerequisites": [
+          "+2 Science background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Theoretical Foundations of Applied Microbiology",
+          "difficulty": "intermediate",
+          "explanation": "A comprehensive coverage of the theoretical foundations of Applied Microbiology at the university level. This topic introduces advanced concepts that build upon secondary-level knowledge.",
+          "keyPoints": [
+            "Advanced theoretical concepts",
+            "Mathematical derivations",
+            "Key laws and principles"
+          ],
+          "formula": null,
+          "examTip": "BSc exams require detailed derivations. Practice writing proofs and derivations step by step."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Experimental and Applied Applied Microbiology",
+          "difficulty": "advanced",
+          "explanation": "This topic covers the experimental and applied aspects of Applied Microbiology. Laboratory exercises, calculations, and practical applications are emphasized.",
+          "keyPoints": [
+            "Laboratory techniques",
+            "Data analysis",
+            "Practical applications"
+          ],
+          "formula": null,
+          "examTip": "Always link theoretical knowledge to practical experiments in your exam answers."
+        }
+      ]
+    }
+  ]
+}

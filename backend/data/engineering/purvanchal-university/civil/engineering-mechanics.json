@@ -1,0 +1,303 @@
+{
+  "meta": {
+    "program": "Purvanchal University",
+    "category": "engineering",
+    "subCategory": "purvanchal-university",
+    "branch": "civil",
+    "subject": "Engineering Mechanics",
+    "subjectId": "engineering-mechanics",
+    "color": "#DC2626",
+    "lastUpdated": "2025",
+    "totalChapters": 6
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Force Systems",
+      "shortIntro": "Purvanchal University civil engineering: Force Systems.",
+      "introduction": {
+        "overview": "Force Systems is a critical chapter in the Engineering Mechanics course offered under the civil engineering program at Purvanchal University. Engineering students must develop a deep understanding of this topic as it forms the basis for professional engineering practice.\n\nThe chapter combines theoretical analysis with practical problem-solving. Students should work through solved examples, practice unsolved problems, and relate theoretical concepts to real-world engineering applications.\n\nLaboratory sessions and tutorial classes complement the lecture content. Students are advised to maintain a problem-solving notebook and regularly review past examination papers for this subject.\n\nMastery of Force Systems is essential not only for university examinations but also for a successful engineering career.",
+        "whyItMatters": "Critical for civil engineering students — Force Systems is fundamental to professional practice and regularly tested in university examinations.",
+        "prerequisites": [
+          "Pre-requisite engineering courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Fundamentals of Force Systems",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential theoretical foundations of Force Systems as studied in civil engineering. Students learn key principles, derivations, and problem-solving methodologies.\n\nEngineering students should focus on understanding the underlying physics/mathematics rather than memorizing formulas.",
+          "keyPoints": [
+            "Key principles and derivations",
+            "Standard problem types",
+            "Engineering applications"
+          ],
+          "formula": null,
+          "examTip": "Show all derivation steps in exams. Partial marks are significant in engineering examinations."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Applications and Design",
+          "difficulty": "advanced",
+          "explanation": "Advanced applications of Force Systems in engineering design and analysis. This topic covers practical calculations, design criteria, and real-world engineering challenges.",
+          "keyPoints": [
+            "Design calculations",
+            "Safety factors and standards",
+            "Practical case studies"
+          ],
+          "formula": null,
+          "examTip": "Relate theoretical concepts to Nepal's engineering context where possible — examiners appreciate practical awareness."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Equilibrium",
+      "shortIntro": "Purvanchal University civil engineering: Equilibrium.",
+      "introduction": {
+        "overview": "Equilibrium is a critical chapter in the Engineering Mechanics course offered under the civil engineering program at Purvanchal University. Engineering students must develop a deep understanding of this topic as it forms the basis for professional engineering practice.\n\nThe chapter combines theoretical analysis with practical problem-solving. Students should work through solved examples, practice unsolved problems, and relate theoretical concepts to real-world engineering applications.\n\nLaboratory sessions and tutorial classes complement the lecture content. Students are advised to maintain a problem-solving notebook and regularly review past examination papers for this subject.\n\nMastery of Equilibrium is essential not only for university examinations but also for a successful engineering career.",
+        "whyItMatters": "Critical for civil engineering students — Equilibrium is fundamental to professional practice and regularly tested in university examinations.",
+        "prerequisites": [
+          "Pre-requisite engineering courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Fundamentals of Equilibrium",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential theoretical foundations of Equilibrium as studied in civil engineering. Students learn key principles, derivations, and problem-solving methodologies.\n\nEngineering students should focus on understanding the underlying physics/mathematics rather than memorizing formulas.",
+          "keyPoints": [
+            "Key principles and derivations",
+            "Standard problem types",
+            "Engineering applications"
+          ],
+          "formula": null,
+          "examTip": "Show all derivation steps in exams. Partial marks are significant in engineering examinations."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Applications and Design",
+          "difficulty": "advanced",
+          "explanation": "Advanced applications of Equilibrium in engineering design and analysis. This topic covers practical calculations, design criteria, and real-world engineering challenges.",
+          "keyPoints": [
+            "Design calculations",
+            "Safety factors and standards",
+            "Practical case studies"
+          ],
+          "formula": null,
+          "examTip": "Relate theoretical concepts to Nepal's engineering context where possible — examiners appreciate practical awareness."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Friction",
+      "shortIntro": "Purvanchal University civil engineering: Friction.",
+      "introduction": {
+        "overview": "Friction is a critical chapter in the Engineering Mechanics course offered under the civil engineering program at Purvanchal University. Engineering students must develop a deep understanding of this topic as it forms the basis for professional engineering practice.\n\nThe chapter combines theoretical analysis with practical problem-solving. Students should work through solved examples, practice unsolved problems, and relate theoretical concepts to real-world engineering applications.\n\nLaboratory sessions and tutorial classes complement the lecture content. Students are advised to maintain a problem-solving notebook and regularly review past examination papers for this subject.\n\nMastery of Friction is essential not only for university examinations but also for a successful engineering career.",
+        "whyItMatters": "Critical for civil engineering students — Friction is fundamental to professional practice and regularly tested in university examinations.",
+        "prerequisites": [
+          "Pre-requisite engineering courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Fundamentals of Friction",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential theoretical foundations of Friction as studied in civil engineering. Students learn key principles, derivations, and problem-solving methodologies.\n\nEngineering students should focus on understanding the underlying physics/mathematics rather than memorizing formulas.",
+          "keyPoints": [
+            "Key principles and derivations",
+            "Standard problem types",
+            "Engineering applications"
+          ],
+          "formula": null,
+          "examTip": "Show all derivation steps in exams. Partial marks are significant in engineering examinations."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Applications and Design",
+          "difficulty": "advanced",
+          "explanation": "Advanced applications of Friction in engineering design and analysis. This topic covers practical calculations, design criteria, and real-world engineering challenges.",
+          "keyPoints": [
+            "Design calculations",
+            "Safety factors and standards",
+            "Practical case studies"
+          ],
+          "formula": null,
+          "examTip": "Relate theoretical concepts to Nepal's engineering context where possible — examiners appreciate practical awareness."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Centroids",
+      "shortIntro": "Purvanchal University civil engineering: Centroids.",
+      "introduction": {
+        "overview": "Centroids is a critical chapter in the Engineering Mechanics course offered under the civil engineering program at Purvanchal University. Engineering students must develop a deep understanding of this topic as it forms the basis for professional engineering practice.\n\nThe chapter combines theoretical analysis with practical problem-solving. Students should work through solved examples, practice unsolved problems, and relate theoretical concepts to real-world engineering applications.\n\nLaboratory sessions and tutorial classes complement the lecture content. Students are advised to maintain a problem-solving notebook and regularly review past examination papers for this subject.\n\nMastery of Centroids is essential not only for university examinations but also for a successful engineering career.",
+        "whyItMatters": "Critical for civil engineering students — Centroids is fundamental to professional practice and regularly tested in university examinations.",
+        "prerequisites": [
+          "Pre-requisite engineering courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Fundamentals of Centroids",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential theoretical foundations of Centroids as studied in civil engineering. Students learn key principles, derivations, and problem-solving methodologies.\n\nEngineering students should focus on understanding the underlying physics/mathematics rather than memorizing formulas.",
+          "keyPoints": [
+            "Key principles and derivations",
+            "Standard problem types",
+            "Engineering applications"
+          ],
+          "formula": null,
+          "examTip": "Show all derivation steps in exams. Partial marks are significant in engineering examinations."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Applications and Design",
+          "difficulty": "advanced",
+          "explanation": "Advanced applications of Centroids in engineering design and analysis. This topic covers practical calculations, design criteria, and real-world engineering challenges.",
+          "keyPoints": [
+            "Design calculations",
+            "Safety factors and standards",
+            "Practical case studies"
+          ],
+          "formula": null,
+          "examTip": "Relate theoretical concepts to Nepal's engineering context where possible — examiners appreciate practical awareness."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Moment of Inertia",
+      "shortIntro": "Purvanchal University civil engineering: Moment of Inertia.",
+      "introduction": {
+        "overview": "Moment of Inertia is a critical chapter in the Engineering Mechanics course offered under the civil engineering program at Purvanchal University. Engineering students must develop a deep understanding of this topic as it forms the basis for professional engineering practice.\n\nThe chapter combines theoretical analysis with practical problem-solving. Students should work through solved examples, practice unsolved problems, and relate theoretical concepts to real-world engineering applications.\n\nLaboratory sessions and tutorial classes complement the lecture content. Students are advised to maintain a problem-solving notebook and regularly review past examination papers for this subject.\n\nMastery of Moment of Inertia is essential not only for university examinations but also for a successful engineering career.",
+        "whyItMatters": "Critical for civil engineering students — Moment of Inertia is fundamental to professional practice and regularly tested in university examinations.",
+        "prerequisites": [
+          "Pre-requisite engineering courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Fundamentals of Moment of Inertia",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential theoretical foundations of Moment of Inertia as studied in civil engineering. Students learn key principles, derivations, and problem-solving methodologies.\n\nEngineering students should focus on understanding the underlying physics/mathematics rather than memorizing formulas.",
+          "keyPoints": [
+            "Key principles and derivations",
+            "Standard problem types",
+            "Engineering applications"
+          ],
+          "formula": null,
+          "examTip": "Show all derivation steps in exams. Partial marks are significant in engineering examinations."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Applications and Design",
+          "difficulty": "advanced",
+          "explanation": "Advanced applications of Moment of Inertia in engineering design and analysis. This topic covers practical calculations, design criteria, and real-world engineering challenges.",
+          "keyPoints": [
+            "Design calculations",
+            "Safety factors and standards",
+            "Practical case studies"
+          ],
+          "formula": null,
+          "examTip": "Relate theoretical concepts to Nepal's engineering context where possible — examiners appreciate practical awareness."
+        }
+      ]
+    },
+    {
+      "id": "ch-6",
+      "number": 6,
+      "title": "Dynamics",
+      "shortIntro": "Purvanchal University civil engineering: Dynamics.",
+      "introduction": {
+        "overview": "Dynamics is a critical chapter in the Engineering Mechanics course offered under the civil engineering program at Purvanchal University. Engineering students must develop a deep understanding of this topic as it forms the basis for professional engineering practice.\n\nThe chapter combines theoretical analysis with practical problem-solving. Students should work through solved examples, practice unsolved problems, and relate theoretical concepts to real-world engineering applications.\n\nLaboratory sessions and tutorial classes complement the lecture content. Students are advised to maintain a problem-solving notebook and regularly review past examination papers for this subject.\n\nMastery of Dynamics is essential not only for university examinations but also for a successful engineering career.",
+        "whyItMatters": "Critical for civil engineering students — Dynamics is fundamental to professional practice and regularly tested in university examinations.",
+        "prerequisites": [
+          "Pre-requisite engineering courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-6-1",
+          "number": 1,
+          "name": "Fundamentals of Dynamics",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential theoretical foundations of Dynamics as studied in civil engineering. Students learn key principles, derivations, and problem-solving methodologies.\n\nEngineering students should focus on understanding the underlying physics/mathematics rather than memorizing formulas.",
+          "keyPoints": [
+            "Key principles and derivations",
+            "Standard problem types",
+            "Engineering applications"
+          ],
+          "formula": null,
+          "examTip": "Show all derivation steps in exams. Partial marks are significant in engineering examinations."
+        },
+        {
+          "id": "t-6-2",
+          "number": 2,
+          "name": "Applications and Design",
+          "difficulty": "advanced",
+          "explanation": "Advanced applications of Dynamics in engineering design and analysis. This topic covers practical calculations, design criteria, and real-world engineering challenges.",
+          "keyPoints": [
+            "Design calculations",
+            "Safety factors and standards",
+            "Practical case studies"
+          ],
+          "formula": null,
+          "examTip": "Relate theoretical concepts to Nepal's engineering context where possible — examiners appreciate practical awareness."
+        }
+      ]
+    }
+  ]
+}

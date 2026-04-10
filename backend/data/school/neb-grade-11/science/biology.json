@@ -1,0 +1,315 @@
+{
+  "meta": {
+    "program": "NEB Grade 11",
+    "category": "school",
+    "subCategory": "neb-grade-11",
+    "subject": "Biology",
+    "subjectId": "biology",
+    "color": "#059669",
+    "lastUpdated": "2025",
+    "stream": "science",
+    "totalChapters": 6
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Cell Biology",
+      "shortIntro": "NEB Grade 11 science stream: Cell Biology.",
+      "introduction": {
+        "overview": "Cell Biology is a crucial chapter in the NEB Grade 11 Biology syllabus under the science stream. This chapter is designed according to the NEB curriculum framework and covers both theoretical and applied aspects of the topic.\n\nStudents studying in the science stream at Grade 11 level will find this chapter essential for their board examinations. The NEB has consistently included questions from this chapter, making it a priority for exam preparation.\n\nThe content builds on secondary-level knowledge and introduces concepts at a higher academic level. Students should regularly practice problems and review past NEB question papers to understand the examination pattern.\n\nBy mastering this chapter, students will develop a strong conceptual foundation that will serve them well in higher education, whether pursuing a bachelor's degree or preparing for entrance examinations.",
+        "whyItMatters": "This chapter is frequently tested in NEB Grade 11 examinations. A strong grasp of Cell Biology provides both examination success and practical knowledge for future studies.",
+        "prerequisites": [
+          "Grade 10 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Introduction to Cell Biology",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Cell Biology as studied in Grade 11 science stream. The fundamental concepts, definitions, and principles are covered here.\n\nStudents should aim to understand the conceptual basis thoroughly, as NEB questions often test understanding rather than mere recall.",
+          "keyPoints": [
+            "Core principles of Cell Biology",
+            "Definitions and terminology",
+            "Historical context and development",
+            "Applications in daily life"
+          ],
+          "formula": null,
+          "examTip": "NEB Grade 11 often includes short-answer questions testing conceptual clarity. Be precise in your definitions."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Applications of Cell Biology",
+          "difficulty": "intermediate",
+          "explanation": "This topic explores how the concepts of Cell Biology are applied in practical scenarios and examination contexts. Problem-solving skills are developed through guided examples and practice.",
+          "keyPoints": [
+            "Analytical problem-solving techniques",
+            "Real-world application examples",
+            "Common NEB question formats",
+            "Tips for comprehensive answers"
+          ],
+          "formula": null,
+          "examTip": "For long-answer questions in NEB exams, structure your response with an introduction, main body with examples, and conclusion."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Genetics",
+      "shortIntro": "NEB Grade 11 science stream: Genetics.",
+      "introduction": {
+        "overview": "Genetics is a crucial chapter in the NEB Grade 11 Biology syllabus under the science stream. This chapter is designed according to the NEB curriculum framework and covers both theoretical and applied aspects of the topic.\n\nStudents studying in the science stream at Grade 11 level will find this chapter essential for their board examinations. The NEB has consistently included questions from this chapter, making it a priority for exam preparation.\n\nThe content builds on secondary-level knowledge and introduces concepts at a higher academic level. Students should regularly practice problems and review past NEB question papers to understand the examination pattern.\n\nBy mastering this chapter, students will develop a strong conceptual foundation that will serve them well in higher education, whether pursuing a bachelor's degree or preparing for entrance examinations.",
+        "whyItMatters": "This chapter is frequently tested in NEB Grade 11 examinations. A strong grasp of Genetics provides both examination success and practical knowledge for future studies.",
+        "prerequisites": [
+          "Grade 10 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Introduction to Genetics",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Genetics as studied in Grade 11 science stream. The fundamental concepts, definitions, and principles are covered here.\n\nStudents should aim to understand the conceptual basis thoroughly, as NEB questions often test understanding rather than mere recall.",
+          "keyPoints": [
+            "Core principles of Genetics",
+            "Definitions and terminology",
+            "Historical context and development",
+            "Applications in daily life"
+          ],
+          "formula": null,
+          "examTip": "NEB Grade 11 often includes short-answer questions testing conceptual clarity. Be precise in your definitions."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Applications of Genetics",
+          "difficulty": "intermediate",
+          "explanation": "This topic explores how the concepts of Genetics are applied in practical scenarios and examination contexts. Problem-solving skills are developed through guided examples and practice.",
+          "keyPoints": [
+            "Analytical problem-solving techniques",
+            "Real-world application examples",
+            "Common NEB question formats",
+            "Tips for comprehensive answers"
+          ],
+          "formula": null,
+          "examTip": "For long-answer questions in NEB exams, structure your response with an introduction, main body with examples, and conclusion."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Ecology",
+      "shortIntro": "NEB Grade 11 science stream: Ecology.",
+      "introduction": {
+        "overview": "Ecology is a crucial chapter in the NEB Grade 11 Biology syllabus under the science stream. This chapter is designed according to the NEB curriculum framework and covers both theoretical and applied aspects of the topic.\n\nStudents studying in the science stream at Grade 11 level will find this chapter essential for their board examinations. The NEB has consistently included questions from this chapter, making it a priority for exam preparation.\n\nThe content builds on secondary-level knowledge and introduces concepts at a higher academic level. Students should regularly practice problems and review past NEB question papers to understand the examination pattern.\n\nBy mastering this chapter, students will develop a strong conceptual foundation that will serve them well in higher education, whether pursuing a bachelor's degree or preparing for entrance examinations.",
+        "whyItMatters": "This chapter is frequently tested in NEB Grade 11 examinations. A strong grasp of Ecology provides both examination success and practical knowledge for future studies.",
+        "prerequisites": [
+          "Grade 10 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Introduction to Ecology",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Ecology as studied in Grade 11 science stream. The fundamental concepts, definitions, and principles are covered here.\n\nStudents should aim to understand the conceptual basis thoroughly, as NEB questions often test understanding rather than mere recall.",
+          "keyPoints": [
+            "Core principles of Ecology",
+            "Definitions and terminology",
+            "Historical context and development",
+            "Applications in daily life"
+          ],
+          "formula": null,
+          "examTip": "NEB Grade 11 often includes short-answer questions testing conceptual clarity. Be precise in your definitions."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Applications of Ecology",
+          "difficulty": "intermediate",
+          "explanation": "This topic explores how the concepts of Ecology are applied in practical scenarios and examination contexts. Problem-solving skills are developed through guided examples and practice.",
+          "keyPoints": [
+            "Analytical problem-solving techniques",
+            "Real-world application examples",
+            "Common NEB question formats",
+            "Tips for comprehensive answers"
+          ],
+          "formula": null,
+          "examTip": "For long-answer questions in NEB exams, structure your response with an introduction, main body with examples, and conclusion."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Plant Biology",
+      "shortIntro": "NEB Grade 11 science stream: Plant Biology.",
+      "introduction": {
+        "overview": "Plant Biology is a crucial chapter in the NEB Grade 11 Biology syllabus under the science stream. This chapter is designed according to the NEB curriculum framework and covers both theoretical and applied aspects of the topic.\n\nStudents studying in the science stream at Grade 11 level will find this chapter essential for their board examinations. The NEB has consistently included questions from this chapter, making it a priority for exam preparation.\n\nThe content builds on secondary-level knowledge and introduces concepts at a higher academic level. Students should regularly practice problems and review past NEB question papers to understand the examination pattern.\n\nBy mastering this chapter, students will develop a strong conceptual foundation that will serve them well in higher education, whether pursuing a bachelor's degree or preparing for entrance examinations.",
+        "whyItMatters": "This chapter is frequently tested in NEB Grade 11 examinations. A strong grasp of Plant Biology provides both examination success and practical knowledge for future studies.",
+        "prerequisites": [
+          "Grade 10 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Introduction to Plant Biology",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Plant Biology as studied in Grade 11 science stream. The fundamental concepts, definitions, and principles are covered here.\n\nStudents should aim to understand the conceptual basis thoroughly, as NEB questions often test understanding rather than mere recall.",
+          "keyPoints": [
+            "Core principles of Plant Biology",
+            "Definitions and terminology",
+            "Historical context and development",
+            "Applications in daily life"
+          ],
+          "formula": null,
+          "examTip": "NEB Grade 11 often includes short-answer questions testing conceptual clarity. Be precise in your definitions."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Applications of Plant Biology",
+          "difficulty": "intermediate",
+          "explanation": "This topic explores how the concepts of Plant Biology are applied in practical scenarios and examination contexts. Problem-solving skills are developed through guided examples and practice.",
+          "keyPoints": [
+            "Analytical problem-solving techniques",
+            "Real-world application examples",
+            "Common NEB question formats",
+            "Tips for comprehensive answers"
+          ],
+          "formula": null,
+          "examTip": "For long-answer questions in NEB exams, structure your response with an introduction, main body with examples, and conclusion."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Human Biology",
+      "shortIntro": "NEB Grade 11 science stream: Human Biology.",
+      "introduction": {
+        "overview": "Human Biology is a crucial chapter in the NEB Grade 11 Biology syllabus under the science stream. This chapter is designed according to the NEB curriculum framework and covers both theoretical and applied aspects of the topic.\n\nStudents studying in the science stream at Grade 11 level will find this chapter essential for their board examinations. The NEB has consistently included questions from this chapter, making it a priority for exam preparation.\n\nThe content builds on secondary-level knowledge and introduces concepts at a higher academic level. Students should regularly practice problems and review past NEB question papers to understand the examination pattern.\n\nBy mastering this chapter, students will develop a strong conceptual foundation that will serve them well in higher education, whether pursuing a bachelor's degree or preparing for entrance examinations.",
+        "whyItMatters": "This chapter is frequently tested in NEB Grade 11 examinations. A strong grasp of Human Biology provides both examination success and practical knowledge for future studies.",
+        "prerequisites": [
+          "Grade 10 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Introduction to Human Biology",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Human Biology as studied in Grade 11 science stream. The fundamental concepts, definitions, and principles are covered here.\n\nStudents should aim to understand the conceptual basis thoroughly, as NEB questions often test understanding rather than mere recall.",
+          "keyPoints": [
+            "Core principles of Human Biology",
+            "Definitions and terminology",
+            "Historical context and development",
+            "Applications in daily life"
+          ],
+          "formula": null,
+          "examTip": "NEB Grade 11 often includes short-answer questions testing conceptual clarity. Be precise in your definitions."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Applications of Human Biology",
+          "difficulty": "intermediate",
+          "explanation": "This topic explores how the concepts of Human Biology are applied in practical scenarios and examination contexts. Problem-solving skills are developed through guided examples and practice.",
+          "keyPoints": [
+            "Analytical problem-solving techniques",
+            "Real-world application examples",
+            "Common NEB question formats",
+            "Tips for comprehensive answers"
+          ],
+          "formula": null,
+          "examTip": "For long-answer questions in NEB exams, structure your response with an introduction, main body with examples, and conclusion."
+        }
+      ]
+    },
+    {
+      "id": "ch-6",
+      "number": 6,
+      "title": "Biodiversity",
+      "shortIntro": "NEB Grade 11 science stream: Biodiversity.",
+      "introduction": {
+        "overview": "Biodiversity is a crucial chapter in the NEB Grade 11 Biology syllabus under the science stream. This chapter is designed according to the NEB curriculum framework and covers both theoretical and applied aspects of the topic.\n\nStudents studying in the science stream at Grade 11 level will find this chapter essential for their board examinations. The NEB has consistently included questions from this chapter, making it a priority for exam preparation.\n\nThe content builds on secondary-level knowledge and introduces concepts at a higher academic level. Students should regularly practice problems and review past NEB question papers to understand the examination pattern.\n\nBy mastering this chapter, students will develop a strong conceptual foundation that will serve them well in higher education, whether pursuing a bachelor's degree or preparing for entrance examinations.",
+        "whyItMatters": "This chapter is frequently tested in NEB Grade 11 examinations. A strong grasp of Biodiversity provides both examination success and practical knowledge for future studies.",
+        "prerequisites": [
+          "Grade 10 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-6-1",
+          "number": 1,
+          "name": "Introduction to Biodiversity",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Biodiversity as studied in Grade 11 science stream. The fundamental concepts, definitions, and principles are covered here.\n\nStudents should aim to understand the conceptual basis thoroughly, as NEB questions often test understanding rather than mere recall.",
+          "keyPoints": [
+            "Core principles of Biodiversity",
+            "Definitions and terminology",
+            "Historical context and development",
+            "Applications in daily life"
+          ],
+          "formula": null,
+          "examTip": "NEB Grade 11 often includes short-answer questions testing conceptual clarity. Be precise in your definitions."
+        },
+        {
+          "id": "t-6-2",
+          "number": 2,
+          "name": "Applications of Biodiversity",
+          "difficulty": "intermediate",
+          "explanation": "This topic explores how the concepts of Biodiversity are applied in practical scenarios and examination contexts. Problem-solving skills are developed through guided examples and practice.",
+          "keyPoints": [
+            "Analytical problem-solving techniques",
+            "Real-world application examples",
+            "Common NEB question formats",
+            "Tips for comprehensive answers"
+          ],
+          "formula": null,
+          "examTip": "For long-answer questions in NEB exams, structure your response with an introduction, main body with examples, and conclusion."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,924 @@
+{
+  "meta": {
+    "program": "SEE",
+    "category": "school",
+    "subCategory": "see",
+    "subject": "Mathematics",
+    "subjectId": "mathematics",
+    "color": "#059669",
+    "lastUpdated": "2025",
+    "totalChapters": 14
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Taxation",
+      "shortIntro": "SEE Mathematics: Comprehensive study of Taxation.",
+      "introduction": {
+        "overview": "Taxation is a critical chapter in the SEE Mathematics syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Taxation appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Fundamentals of Taxation",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Taxation as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Taxation",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Advanced Applications of Taxation",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-1-3",
+          "number": 3,
+          "name": "Practice and Revision for Taxation",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Taxation. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Commission and Dividend",
+      "shortIntro": "SEE Mathematics: Comprehensive study of Commission and Dividend.",
+      "introduction": {
+        "overview": "Commission and Dividend is a critical chapter in the SEE Mathematics syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Commission and Dividend appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Fundamentals of Commission and Dividend",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Commission and Dividend as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Commission and Dividend",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Advanced Applications of Commission and Dividend",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-2-3",
+          "number": 3,
+          "name": "Practice and Revision for Commission and Dividend",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Commission and Dividend. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Household Arithmetic",
+      "shortIntro": "SEE Mathematics: Comprehensive study of Household Arithmetic.",
+      "introduction": {
+        "overview": "Household Arithmetic is a critical chapter in the SEE Mathematics syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Household Arithmetic appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Fundamentals of Household Arithmetic",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Household Arithmetic as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Household Arithmetic",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Advanced Applications of Household Arithmetic",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-3-3",
+          "number": 3,
+          "name": "Practice and Revision for Household Arithmetic",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Household Arithmetic. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Mensuration",
+      "shortIntro": "SEE Mathematics: Comprehensive study of Mensuration.",
+      "introduction": {
+        "overview": "Mensuration is a critical chapter in the SEE Mathematics syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Mensuration appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Fundamentals of Mensuration",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Mensuration as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Mensuration",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Advanced Applications of Mensuration",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-4-3",
+          "number": 3,
+          "name": "Practice and Revision for Mensuration",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Mensuration. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Algebra",
+      "shortIntro": "SEE Mathematics: Comprehensive study of Algebra.",
+      "introduction": {
+        "overview": "Algebra is a critical chapter in the SEE Mathematics syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Algebra appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Fundamentals of Algebra",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Algebra as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Algebra",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Advanced Applications of Algebra",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-5-3",
+          "number": 3,
+          "name": "Practice and Revision for Algebra",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Algebra. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-6",
+      "number": 6,
+      "title": "Linear Equations",
+      "shortIntro": "SEE Mathematics: Comprehensive study of Linear Equations.",
+      "introduction": {
+        "overview": "Linear Equations is a critical chapter in the SEE Mathematics syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Linear Equations appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-6-1",
+          "number": 1,
+          "name": "Fundamentals of Linear Equations",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Linear Equations as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Linear Equations",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-6-2",
+          "number": 2,
+          "name": "Advanced Applications of Linear Equations",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-6-3",
+          "number": 3,
+          "name": "Practice and Revision for Linear Equations",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Linear Equations. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-7",
+      "number": 7,
+      "title": "Quadratic Equations",
+      "shortIntro": "SEE Mathematics: Comprehensive study of Quadratic Equations.",
+      "introduction": {
+        "overview": "Quadratic Equations is a critical chapter in the SEE Mathematics syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Quadratic Equations appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-7-1",
+          "number": 1,
+          "name": "Fundamentals of Quadratic Equations",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Quadratic Equations as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Quadratic Equations",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-7-2",
+          "number": 2,
+          "name": "Advanced Applications of Quadratic Equations",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-7-3",
+          "number": 3,
+          "name": "Practice and Revision for Quadratic Equations",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Quadratic Equations. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-8",
+      "number": 8,
+      "title": "Ratio and Proportion",
+      "shortIntro": "SEE Mathematics: Comprehensive study of Ratio and Proportion.",
+      "introduction": {
+        "overview": "Ratio and Proportion is a critical chapter in the SEE Mathematics syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Ratio and Proportion appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-8-1",
+          "number": 1,
+          "name": "Fundamentals of Ratio and Proportion",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Ratio and Proportion as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Ratio and Proportion",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-8-2",
+          "number": 2,
+          "name": "Advanced Applications of Ratio and Proportion",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-8-3",
+          "number": 3,
+          "name": "Practice and Revision for Ratio and Proportion",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Ratio and Proportion. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-9",
+      "number": 9,
+      "title": "Profit and Loss",
+      "shortIntro": "SEE Mathematics: Comprehensive study of Profit and Loss.",
+      "introduction": {
+        "overview": "Profit and Loss is a critical chapter in the SEE Mathematics syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Profit and Loss appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-9-1",
+          "number": 1,
+          "name": "Fundamentals of Profit and Loss",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Profit and Loss as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Profit and Loss",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-9-2",
+          "number": 2,
+          "name": "Advanced Applications of Profit and Loss",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-9-3",
+          "number": 3,
+          "name": "Practice and Revision for Profit and Loss",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Profit and Loss. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-10",
+      "number": 10,
+      "title": "Sets",
+      "shortIntro": "SEE Mathematics: Comprehensive study of Sets.",
+      "introduction": {
+        "overview": "Sets is a critical chapter in the SEE Mathematics syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Sets appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-10-1",
+          "number": 1,
+          "name": "Fundamentals of Sets",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Sets as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Sets",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-10-2",
+          "number": 2,
+          "name": "Advanced Applications of Sets",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-10-3",
+          "number": 3,
+          "name": "Practice and Revision for Sets",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Sets. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-11",
+      "number": 11,
+      "title": "Functions",
+      "shortIntro": "SEE Mathematics: Comprehensive study of Functions.",
+      "introduction": {
+        "overview": "Functions is a critical chapter in the SEE Mathematics syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Functions appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-11-1",
+          "number": 1,
+          "name": "Fundamentals of Functions",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Functions as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Functions",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-11-2",
+          "number": 2,
+          "name": "Advanced Applications of Functions",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-11-3",
+          "number": 3,
+          "name": "Practice and Revision for Functions",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Functions. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-12",
+      "number": 12,
+      "title": "Coordinate Geometry",
+      "shortIntro": "SEE Mathematics: Comprehensive study of Coordinate Geometry.",
+      "introduction": {
+        "overview": "Coordinate Geometry is a critical chapter in the SEE Mathematics syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Coordinate Geometry appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-12-1",
+          "number": 1,
+          "name": "Fundamentals of Coordinate Geometry",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Coordinate Geometry as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Coordinate Geometry",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-12-2",
+          "number": 2,
+          "name": "Advanced Applications of Coordinate Geometry",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-12-3",
+          "number": 3,
+          "name": "Practice and Revision for Coordinate Geometry",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Coordinate Geometry. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-13",
+      "number": 13,
+      "title": "Trigonometry",
+      "shortIntro": "SEE Mathematics: Comprehensive study of Trigonometry.",
+      "introduction": {
+        "overview": "Trigonometry is a critical chapter in the SEE Mathematics syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Trigonometry appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-13-1",
+          "number": 1,
+          "name": "Fundamentals of Trigonometry",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Trigonometry as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Trigonometry",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-13-2",
+          "number": 2,
+          "name": "Advanced Applications of Trigonometry",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-13-3",
+          "number": 3,
+          "name": "Practice and Revision for Trigonometry",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Trigonometry. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-14",
+      "number": 14,
+      "title": "Statistics and Probability",
+      "shortIntro": "SEE Mathematics: Comprehensive study of Statistics and Probability.",
+      "introduction": {
+        "overview": "Statistics and Probability is a critical chapter in the SEE Mathematics syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Statistics and Probability appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-14-1",
+          "number": 1,
+          "name": "Fundamentals of Statistics and Probability",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Statistics and Probability as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Statistics and Probability",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-14-2",
+          "number": 2,
+          "name": "Advanced Applications of Statistics and Probability",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-14-3",
+          "number": 3,
+          "name": "Practice and Revision for Statistics and Probability",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Statistics and Probability. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    }
+  ]
+}

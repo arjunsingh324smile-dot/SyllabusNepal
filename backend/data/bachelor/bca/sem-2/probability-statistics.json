@@ -1,0 +1,207 @@
+{
+  "meta": {
+    "program": "BCA",
+    "category": "bachelor",
+    "subCategory": "bca",
+    "subject": "Probability & Statistics",
+    "subjectId": "probability-statistics",
+    "color": "#D97706",
+    "lastUpdated": "2025",
+    "semester": "sem-2",
+    "totalChapters": 4
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Probability Basics",
+      "shortIntro": "BCA sem-2: Probability Basics — theory and practical application.",
+      "introduction": {
+        "overview": "Probability Basics is a core chapter in the BCA Probability & Statistics course for sem 2. This chapter provides the technical knowledge and practical skills essential for a career in computer applications and IT.\n\nThe BCA curriculum emphasizes hands-on learning alongside theoretical understanding. Students should practice coding, work through lab exercises, and build small projects to reinforce the concepts covered in this chapter.\n\nThe content follows the TU-affiliated BCA syllabus and is designed to prepare students for both university examinations and practical industry requirements.\n\nStudents who master this chapter will have a strong foundation for advanced topics in later semesters, including software engineering, database management, and web development.",
+        "whyItMatters": "This chapter is fundamental to the BCA curriculum. Understanding Probability Basics thoroughly will help in examinations and in practical computing work.",
+        "prerequisites": [
+          "Basic computer literacy"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Introduction to Probability Basics",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Probability Basics. Students learn the core concepts, terminology, and basic techniques that form the foundation of this chapter.\n\nComputer application students should focus on both understanding the theory and practicing with hands-on exercises.",
+          "keyPoints": [
+            "Core concepts and definitions",
+            "Practical examples and demonstrations",
+            "Common patterns and techniques"
+          ],
+          "formula": null,
+          "examTip": "BCA exams test both theoretical knowledge and practical application. Include code examples or diagrams where relevant."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Advanced Probability Basics",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the basics and explores more advanced aspects of Probability Basics. Emphasis is placed on problem-solving and practical application.",
+          "keyPoints": [
+            "Advanced techniques",
+            "Problem-solving strategies",
+            "Industry best practices"
+          ],
+          "formula": null,
+          "examTip": "Practice writing code or solutions by hand, as BCA exams often require handwritten programs."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Random Variables",
+      "shortIntro": "BCA sem-2: Random Variables — theory and practical application.",
+      "introduction": {
+        "overview": "Random Variables is a core chapter in the BCA Probability & Statistics course for sem 2. This chapter provides the technical knowledge and practical skills essential for a career in computer applications and IT.\n\nThe BCA curriculum emphasizes hands-on learning alongside theoretical understanding. Students should practice coding, work through lab exercises, and build small projects to reinforce the concepts covered in this chapter.\n\nThe content follows the TU-affiliated BCA syllabus and is designed to prepare students for both university examinations and practical industry requirements.\n\nStudents who master this chapter will have a strong foundation for advanced topics in later semesters, including software engineering, database management, and web development.",
+        "whyItMatters": "This chapter is fundamental to the BCA curriculum. Understanding Random Variables thoroughly will help in examinations and in practical computing work.",
+        "prerequisites": [
+          "Basic computer literacy"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Introduction to Random Variables",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Random Variables. Students learn the core concepts, terminology, and basic techniques that form the foundation of this chapter.\n\nComputer application students should focus on both understanding the theory and practicing with hands-on exercises.",
+          "keyPoints": [
+            "Core concepts and definitions",
+            "Practical examples and demonstrations",
+            "Common patterns and techniques"
+          ],
+          "formula": null,
+          "examTip": "BCA exams test both theoretical knowledge and practical application. Include code examples or diagrams where relevant."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Advanced Random Variables",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the basics and explores more advanced aspects of Random Variables. Emphasis is placed on problem-solving and practical application.",
+          "keyPoints": [
+            "Advanced techniques",
+            "Problem-solving strategies",
+            "Industry best practices"
+          ],
+          "formula": null,
+          "examTip": "Practice writing code or solutions by hand, as BCA exams often require handwritten programs."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Probability Distributions",
+      "shortIntro": "BCA sem-2: Probability Distributions — theory and practical application.",
+      "introduction": {
+        "overview": "Probability Distributions is a core chapter in the BCA Probability & Statistics course for sem 2. This chapter provides the technical knowledge and practical skills essential for a career in computer applications and IT.\n\nThe BCA curriculum emphasizes hands-on learning alongside theoretical understanding. Students should practice coding, work through lab exercises, and build small projects to reinforce the concepts covered in this chapter.\n\nThe content follows the TU-affiliated BCA syllabus and is designed to prepare students for both university examinations and practical industry requirements.\n\nStudents who master this chapter will have a strong foundation for advanced topics in later semesters, including software engineering, database management, and web development.",
+        "whyItMatters": "This chapter is fundamental to the BCA curriculum. Understanding Probability Distributions thoroughly will help in examinations and in practical computing work.",
+        "prerequisites": [
+          "Basic computer literacy"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Introduction to Probability Distributions",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Probability Distributions. Students learn the core concepts, terminology, and basic techniques that form the foundation of this chapter.\n\nComputer application students should focus on both understanding the theory and practicing with hands-on exercises.",
+          "keyPoints": [
+            "Core concepts and definitions",
+            "Practical examples and demonstrations",
+            "Common patterns and techniques"
+          ],
+          "formula": null,
+          "examTip": "BCA exams test both theoretical knowledge and practical application. Include code examples or diagrams where relevant."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Advanced Probability Distributions",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the basics and explores more advanced aspects of Probability Distributions. Emphasis is placed on problem-solving and practical application.",
+          "keyPoints": [
+            "Advanced techniques",
+            "Problem-solving strategies",
+            "Industry best practices"
+          ],
+          "formula": null,
+          "examTip": "Practice writing code or solutions by hand, as BCA exams often require handwritten programs."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Statistical Inference",
+      "shortIntro": "BCA sem-2: Statistical Inference — theory and practical application.",
+      "introduction": {
+        "overview": "Statistical Inference is a core chapter in the BCA Probability & Statistics course for sem 2. This chapter provides the technical knowledge and practical skills essential for a career in computer applications and IT.\n\nThe BCA curriculum emphasizes hands-on learning alongside theoretical understanding. Students should practice coding, work through lab exercises, and build small projects to reinforce the concepts covered in this chapter.\n\nThe content follows the TU-affiliated BCA syllabus and is designed to prepare students for both university examinations and practical industry requirements.\n\nStudents who master this chapter will have a strong foundation for advanced topics in later semesters, including software engineering, database management, and web development.",
+        "whyItMatters": "This chapter is fundamental to the BCA curriculum. Understanding Statistical Inference thoroughly will help in examinations and in practical computing work.",
+        "prerequisites": [
+          "Basic computer literacy"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Introduction to Statistical Inference",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Statistical Inference. Students learn the core concepts, terminology, and basic techniques that form the foundation of this chapter.\n\nComputer application students should focus on both understanding the theory and practicing with hands-on exercises.",
+          "keyPoints": [
+            "Core concepts and definitions",
+            "Practical examples and demonstrations",
+            "Common patterns and techniques"
+          ],
+          "formula": null,
+          "examTip": "BCA exams test both theoretical knowledge and practical application. Include code examples or diagrams where relevant."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Advanced Statistical Inference",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the basics and explores more advanced aspects of Statistical Inference. Emphasis is placed on problem-solving and practical application.",
+          "keyPoints": [
+            "Advanced techniques",
+            "Problem-solving strategies",
+            "Industry best practices"
+          ],
+          "formula": null,
+          "examTip": "Practice writing code or solutions by hand, as BCA exams often require handwritten programs."
+        }
+      ]
+    }
+  ]
+}

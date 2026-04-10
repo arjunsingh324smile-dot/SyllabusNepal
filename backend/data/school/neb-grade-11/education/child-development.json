@@ -1,0 +1,215 @@
+{
+  "meta": {
+    "program": "NEB Grade 11",
+    "category": "school",
+    "subCategory": "neb-grade-11",
+    "subject": "Child Development",
+    "subjectId": "child-development",
+    "color": "#D97706",
+    "lastUpdated": "2025",
+    "stream": "education",
+    "totalChapters": 4
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Growth and Development",
+      "shortIntro": "NEB Grade 11 education stream: Growth and Development.",
+      "introduction": {
+        "overview": "Growth and Development is a crucial chapter in the NEB Grade 11 Child Development syllabus under the education stream. This chapter is designed according to the NEB curriculum framework and covers both theoretical and applied aspects of the topic.\n\nStudents studying in the education stream at Grade 11 level will find this chapter essential for their board examinations. The NEB has consistently included questions from this chapter, making it a priority for exam preparation.\n\nThe content builds on secondary-level knowledge and introduces concepts at a higher academic level. Students should regularly practice problems and review past NEB question papers to understand the examination pattern.\n\nBy mastering this chapter, students will develop a strong conceptual foundation that will serve them well in higher education, whether pursuing a bachelor's degree or preparing for entrance examinations.",
+        "whyItMatters": "This chapter is frequently tested in NEB Grade 11 examinations. A strong grasp of Growth and Development provides both examination success and practical knowledge for future studies.",
+        "prerequisites": [
+          "Grade 10 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Introduction to Growth and Development",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Growth and Development as studied in Grade 11 education stream. The fundamental concepts, definitions, and principles are covered here.\n\nStudents should aim to understand the conceptual basis thoroughly, as NEB questions often test understanding rather than mere recall.",
+          "keyPoints": [
+            "Core principles of Growth and Development",
+            "Definitions and terminology",
+            "Historical context and development",
+            "Applications in daily life"
+          ],
+          "formula": null,
+          "examTip": "NEB Grade 11 often includes short-answer questions testing conceptual clarity. Be precise in your definitions."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Applications of Growth and Development",
+          "difficulty": "intermediate",
+          "explanation": "This topic explores how the concepts of Growth and Development are applied in practical scenarios and examination contexts. Problem-solving skills are developed through guided examples and practice.",
+          "keyPoints": [
+            "Analytical problem-solving techniques",
+            "Real-world application examples",
+            "Common NEB question formats",
+            "Tips for comprehensive answers"
+          ],
+          "formula": null,
+          "examTip": "For long-answer questions in NEB exams, structure your response with an introduction, main body with examples, and conclusion."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Stages of Development",
+      "shortIntro": "NEB Grade 11 education stream: Stages of Development.",
+      "introduction": {
+        "overview": "Stages of Development is a crucial chapter in the NEB Grade 11 Child Development syllabus under the education stream. This chapter is designed according to the NEB curriculum framework and covers both theoretical and applied aspects of the topic.\n\nStudents studying in the education stream at Grade 11 level will find this chapter essential for their board examinations. The NEB has consistently included questions from this chapter, making it a priority for exam preparation.\n\nThe content builds on secondary-level knowledge and introduces concepts at a higher academic level. Students should regularly practice problems and review past NEB question papers to understand the examination pattern.\n\nBy mastering this chapter, students will develop a strong conceptual foundation that will serve them well in higher education, whether pursuing a bachelor's degree or preparing for entrance examinations.",
+        "whyItMatters": "This chapter is frequently tested in NEB Grade 11 examinations. A strong grasp of Stages of Development provides both examination success and practical knowledge for future studies.",
+        "prerequisites": [
+          "Grade 10 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Introduction to Stages of Development",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Stages of Development as studied in Grade 11 education stream. The fundamental concepts, definitions, and principles are covered here.\n\nStudents should aim to understand the conceptual basis thoroughly, as NEB questions often test understanding rather than mere recall.",
+          "keyPoints": [
+            "Core principles of Stages of Development",
+            "Definitions and terminology",
+            "Historical context and development",
+            "Applications in daily life"
+          ],
+          "formula": null,
+          "examTip": "NEB Grade 11 often includes short-answer questions testing conceptual clarity. Be precise in your definitions."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Applications of Stages of Development",
+          "difficulty": "intermediate",
+          "explanation": "This topic explores how the concepts of Stages of Development are applied in practical scenarios and examination contexts. Problem-solving skills are developed through guided examples and practice.",
+          "keyPoints": [
+            "Analytical problem-solving techniques",
+            "Real-world application examples",
+            "Common NEB question formats",
+            "Tips for comprehensive answers"
+          ],
+          "formula": null,
+          "examTip": "For long-answer questions in NEB exams, structure your response with an introduction, main body with examples, and conclusion."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Learning Theories",
+      "shortIntro": "NEB Grade 11 education stream: Learning Theories.",
+      "introduction": {
+        "overview": "Learning Theories is a crucial chapter in the NEB Grade 11 Child Development syllabus under the education stream. This chapter is designed according to the NEB curriculum framework and covers both theoretical and applied aspects of the topic.\n\nStudents studying in the education stream at Grade 11 level will find this chapter essential for their board examinations. The NEB has consistently included questions from this chapter, making it a priority for exam preparation.\n\nThe content builds on secondary-level knowledge and introduces concepts at a higher academic level. Students should regularly practice problems and review past NEB question papers to understand the examination pattern.\n\nBy mastering this chapter, students will develop a strong conceptual foundation that will serve them well in higher education, whether pursuing a bachelor's degree or preparing for entrance examinations.",
+        "whyItMatters": "This chapter is frequently tested in NEB Grade 11 examinations. A strong grasp of Learning Theories provides both examination success and practical knowledge for future studies.",
+        "prerequisites": [
+          "Grade 10 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Introduction to Learning Theories",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Learning Theories as studied in Grade 11 education stream. The fundamental concepts, definitions, and principles are covered here.\n\nStudents should aim to understand the conceptual basis thoroughly, as NEB questions often test understanding rather than mere recall.",
+          "keyPoints": [
+            "Core principles of Learning Theories",
+            "Definitions and terminology",
+            "Historical context and development",
+            "Applications in daily life"
+          ],
+          "formula": null,
+          "examTip": "NEB Grade 11 often includes short-answer questions testing conceptual clarity. Be precise in your definitions."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Applications of Learning Theories",
+          "difficulty": "intermediate",
+          "explanation": "This topic explores how the concepts of Learning Theories are applied in practical scenarios and examination contexts. Problem-solving skills are developed through guided examples and practice.",
+          "keyPoints": [
+            "Analytical problem-solving techniques",
+            "Real-world application examples",
+            "Common NEB question formats",
+            "Tips for comprehensive answers"
+          ],
+          "formula": null,
+          "examTip": "For long-answer questions in NEB exams, structure your response with an introduction, main body with examples, and conclusion."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Child Psychology",
+      "shortIntro": "NEB Grade 11 education stream: Child Psychology.",
+      "introduction": {
+        "overview": "Child Psychology is a crucial chapter in the NEB Grade 11 Child Development syllabus under the education stream. This chapter is designed according to the NEB curriculum framework and covers both theoretical and applied aspects of the topic.\n\nStudents studying in the education stream at Grade 11 level will find this chapter essential for their board examinations. The NEB has consistently included questions from this chapter, making it a priority for exam preparation.\n\nThe content builds on secondary-level knowledge and introduces concepts at a higher academic level. Students should regularly practice problems and review past NEB question papers to understand the examination pattern.\n\nBy mastering this chapter, students will develop a strong conceptual foundation that will serve them well in higher education, whether pursuing a bachelor's degree or preparing for entrance examinations.",
+        "whyItMatters": "This chapter is frequently tested in NEB Grade 11 examinations. A strong grasp of Child Psychology provides both examination success and practical knowledge for future studies.",
+        "prerequisites": [
+          "Grade 10 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Introduction to Child Psychology",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Child Psychology as studied in Grade 11 education stream. The fundamental concepts, definitions, and principles are covered here.\n\nStudents should aim to understand the conceptual basis thoroughly, as NEB questions often test understanding rather than mere recall.",
+          "keyPoints": [
+            "Core principles of Child Psychology",
+            "Definitions and terminology",
+            "Historical context and development",
+            "Applications in daily life"
+          ],
+          "formula": null,
+          "examTip": "NEB Grade 11 often includes short-answer questions testing conceptual clarity. Be precise in your definitions."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Applications of Child Psychology",
+          "difficulty": "intermediate",
+          "explanation": "This topic explores how the concepts of Child Psychology are applied in practical scenarios and examination contexts. Problem-solving skills are developed through guided examples and practice.",
+          "keyPoints": [
+            "Analytical problem-solving techniques",
+            "Real-world application examples",
+            "Common NEB question formats",
+            "Tips for comprehensive answers"
+          ],
+          "formula": null,
+          "examTip": "For long-answer questions in NEB exams, structure your response with an introduction, main body with examples, and conclusion."
+        }
+      ]
+    }
+  ]
+}

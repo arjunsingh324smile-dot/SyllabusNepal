@@ -1,0 +1,207 @@
+{
+  "meta": {
+    "program": "BBA",
+    "category": "bachelor",
+    "subCategory": "bba",
+    "subject": "Microeconomics",
+    "subjectId": "microeconomics",
+    "color": "#DC2626",
+    "lastUpdated": "2025",
+    "semester": "sem-2",
+    "totalChapters": 4
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Consumer Theory",
+      "shortIntro": "BBA sem-2: Consumer Theory — key concepts and applications.",
+      "introduction": {
+        "overview": "Consumer Theory is an essential chapter in the BBA Microeconomics syllabus for sem 2. This chapter builds the managerial and analytical skills that are fundamental to a successful career in business administration.\n\nStudents will explore both classical and contemporary perspectives on Consumer Theory, with emphasis on case studies and practical applications relevant to the Nepali business environment.\n\nThe BBA program emphasizes a practical, application-oriented approach to learning. Students should supplement their textbook study with current business news, case analyses, and group discussions.\n\nMastering this chapter prepares students for more advanced topics in subsequent semesters and provides a competitive edge in the job market.",
+        "whyItMatters": "Mastering Consumer Theory is crucial for BBA students as it directly applies to professional practice and higher-semester coursework.",
+        "prerequisites": [
+          "Pre-requisite: Previous semester courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Fundamentals of Consumer Theory",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces core concepts of Consumer Theory. Students learn essential frameworks, terminology, and principles that underpin this chapter.\n\nThe focus is on building a strong conceptual foundation that can be applied to real business situations.",
+          "keyPoints": [
+            "Core frameworks and models",
+            "Essential business terminology",
+            "Foundational principles"
+          ],
+          "formula": null,
+          "examTip": "In BBA exams, demonstrate both theoretical knowledge and practical application for full marks."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Case Studies in Consumer Theory",
+          "difficulty": "intermediate",
+          "explanation": "This topic uses case studies to illustrate how Consumer Theory concepts apply in real business scenarios. Students develop analytical and problem-solving skills through guided case analysis.",
+          "keyPoints": [
+            "Case analysis methodology",
+            "Real-world application",
+            "Critical thinking development"
+          ],
+          "formula": null,
+          "examTip": "Practice analyzing mini-cases within time limits to prepare for exam scenarios."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Production and Cost",
+      "shortIntro": "BBA sem-2: Production and Cost — key concepts and applications.",
+      "introduction": {
+        "overview": "Production and Cost is an essential chapter in the BBA Microeconomics syllabus for sem 2. This chapter builds the managerial and analytical skills that are fundamental to a successful career in business administration.\n\nStudents will explore both classical and contemporary perspectives on Production and Cost, with emphasis on case studies and practical applications relevant to the Nepali business environment.\n\nThe BBA program emphasizes a practical, application-oriented approach to learning. Students should supplement their textbook study with current business news, case analyses, and group discussions.\n\nMastering this chapter prepares students for more advanced topics in subsequent semesters and provides a competitive edge in the job market.",
+        "whyItMatters": "Mastering Production and Cost is crucial for BBA students as it directly applies to professional practice and higher-semester coursework.",
+        "prerequisites": [
+          "Pre-requisite: Previous semester courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Fundamentals of Production and Cost",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces core concepts of Production and Cost. Students learn essential frameworks, terminology, and principles that underpin this chapter.\n\nThe focus is on building a strong conceptual foundation that can be applied to real business situations.",
+          "keyPoints": [
+            "Core frameworks and models",
+            "Essential business terminology",
+            "Foundational principles"
+          ],
+          "formula": null,
+          "examTip": "In BBA exams, demonstrate both theoretical knowledge and practical application for full marks."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Case Studies in Production and Cost",
+          "difficulty": "intermediate",
+          "explanation": "This topic uses case studies to illustrate how Production and Cost concepts apply in real business scenarios. Students develop analytical and problem-solving skills through guided case analysis.",
+          "keyPoints": [
+            "Case analysis methodology",
+            "Real-world application",
+            "Critical thinking development"
+          ],
+          "formula": null,
+          "examTip": "Practice analyzing mini-cases within time limits to prepare for exam scenarios."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Market Structures",
+      "shortIntro": "BBA sem-2: Market Structures — key concepts and applications.",
+      "introduction": {
+        "overview": "Market Structures is an essential chapter in the BBA Microeconomics syllabus for sem 2. This chapter builds the managerial and analytical skills that are fundamental to a successful career in business administration.\n\nStudents will explore both classical and contemporary perspectives on Market Structures, with emphasis on case studies and practical applications relevant to the Nepali business environment.\n\nThe BBA program emphasizes a practical, application-oriented approach to learning. Students should supplement their textbook study with current business news, case analyses, and group discussions.\n\nMastering this chapter prepares students for more advanced topics in subsequent semesters and provides a competitive edge in the job market.",
+        "whyItMatters": "Mastering Market Structures is crucial for BBA students as it directly applies to professional practice and higher-semester coursework.",
+        "prerequisites": [
+          "Pre-requisite: Previous semester courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Fundamentals of Market Structures",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces core concepts of Market Structures. Students learn essential frameworks, terminology, and principles that underpin this chapter.\n\nThe focus is on building a strong conceptual foundation that can be applied to real business situations.",
+          "keyPoints": [
+            "Core frameworks and models",
+            "Essential business terminology",
+            "Foundational principles"
+          ],
+          "formula": null,
+          "examTip": "In BBA exams, demonstrate both theoretical knowledge and practical application for full marks."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Case Studies in Market Structures",
+          "difficulty": "intermediate",
+          "explanation": "This topic uses case studies to illustrate how Market Structures concepts apply in real business scenarios. Students develop analytical and problem-solving skills through guided case analysis.",
+          "keyPoints": [
+            "Case analysis methodology",
+            "Real-world application",
+            "Critical thinking development"
+          ],
+          "formula": null,
+          "examTip": "Practice analyzing mini-cases within time limits to prepare for exam scenarios."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Welfare Economics",
+      "shortIntro": "BBA sem-2: Welfare Economics — key concepts and applications.",
+      "introduction": {
+        "overview": "Welfare Economics is an essential chapter in the BBA Microeconomics syllabus for sem 2. This chapter builds the managerial and analytical skills that are fundamental to a successful career in business administration.\n\nStudents will explore both classical and contemporary perspectives on Welfare Economics, with emphasis on case studies and practical applications relevant to the Nepali business environment.\n\nThe BBA program emphasizes a practical, application-oriented approach to learning. Students should supplement their textbook study with current business news, case analyses, and group discussions.\n\nMastering this chapter prepares students for more advanced topics in subsequent semesters and provides a competitive edge in the job market.",
+        "whyItMatters": "Mastering Welfare Economics is crucial for BBA students as it directly applies to professional practice and higher-semester coursework.",
+        "prerequisites": [
+          "Pre-requisite: Previous semester courses"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Fundamentals of Welfare Economics",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces core concepts of Welfare Economics. Students learn essential frameworks, terminology, and principles that underpin this chapter.\n\nThe focus is on building a strong conceptual foundation that can be applied to real business situations.",
+          "keyPoints": [
+            "Core frameworks and models",
+            "Essential business terminology",
+            "Foundational principles"
+          ],
+          "formula": null,
+          "examTip": "In BBA exams, demonstrate both theoretical knowledge and practical application for full marks."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Case Studies in Welfare Economics",
+          "difficulty": "intermediate",
+          "explanation": "This topic uses case studies to illustrate how Welfare Economics concepts apply in real business scenarios. Students develop analytical and problem-solving skills through guided case analysis.",
+          "keyPoints": [
+            "Case analysis methodology",
+            "Real-world application",
+            "Critical thinking development"
+          ],
+          "formula": null,
+          "examTip": "Practice analyzing mini-cases within time limits to prepare for exam scenarios."
+        }
+      ]
+    }
+  ]
+}

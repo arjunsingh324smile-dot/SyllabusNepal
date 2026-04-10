@@ -1,0 +1,315 @@
+{
+  "meta": {
+    "program": "NEB Grade 12",
+    "category": "school",
+    "subCategory": "neb-grade-12",
+    "subject": "Physics",
+    "subjectId": "physics",
+    "color": "#DC2626",
+    "lastUpdated": "2025",
+    "stream": "science",
+    "totalChapters": 6
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Mechanics",
+      "shortIntro": "NEB Grade 12 science stream: Mechanics.",
+      "introduction": {
+        "overview": "Mechanics is a crucial chapter in the NEB Grade 12 Physics syllabus under the science stream. This chapter is designed according to the NEB curriculum framework and covers both theoretical and applied aspects of the topic.\n\nStudents studying in the science stream at Grade 12 level will find this chapter essential for their board examinations. The NEB has consistently included questions from this chapter, making it a priority for exam preparation.\n\nThe content builds on secondary-level knowledge and introduces concepts at a higher academic level. Students should regularly practice problems and review past NEB question papers to understand the examination pattern.\n\nBy mastering this chapter, students will develop a strong conceptual foundation that will serve them well in higher education, whether pursuing a bachelor's degree or preparing for entrance examinations.",
+        "whyItMatters": "This chapter is frequently tested in NEB Grade 12 examinations. A strong grasp of Mechanics provides both examination success and practical knowledge for future studies.",
+        "prerequisites": [
+          "Grade 11 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Introduction to Mechanics",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Mechanics as studied in Grade 12 science stream. The fundamental concepts, definitions, and principles are covered here.\n\nStudents should aim to understand the conceptual basis thoroughly, as NEB questions often test understanding rather than mere recall.",
+          "keyPoints": [
+            "Core principles of Mechanics",
+            "Definitions and terminology",
+            "Historical context and development",
+            "Applications in daily life"
+          ],
+          "formula": null,
+          "examTip": "NEB Grade 12 often includes short-answer questions testing conceptual clarity. Be precise in your definitions."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Applications of Mechanics",
+          "difficulty": "intermediate",
+          "explanation": "This topic explores how the concepts of Mechanics are applied in practical scenarios and examination contexts. Problem-solving skills are developed through guided examples and practice.",
+          "keyPoints": [
+            "Analytical problem-solving techniques",
+            "Real-world application examples",
+            "Common NEB question formats",
+            "Tips for comprehensive answers"
+          ],
+          "formula": null,
+          "examTip": "For long-answer questions in NEB exams, structure your response with an introduction, main body with examples, and conclusion."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Heat and Thermodynamics",
+      "shortIntro": "NEB Grade 12 science stream: Heat and Thermodynamics.",
+      "introduction": {
+        "overview": "Heat and Thermodynamics is a crucial chapter in the NEB Grade 12 Physics syllabus under the science stream. This chapter is designed according to the NEB curriculum framework and covers both theoretical and applied aspects of the topic.\n\nStudents studying in the science stream at Grade 12 level will find this chapter essential for their board examinations. The NEB has consistently included questions from this chapter, making it a priority for exam preparation.\n\nThe content builds on secondary-level knowledge and introduces concepts at a higher academic level. Students should regularly practice problems and review past NEB question papers to understand the examination pattern.\n\nBy mastering this chapter, students will develop a strong conceptual foundation that will serve them well in higher education, whether pursuing a bachelor's degree or preparing for entrance examinations.",
+        "whyItMatters": "This chapter is frequently tested in NEB Grade 12 examinations. A strong grasp of Heat and Thermodynamics provides both examination success and practical knowledge for future studies.",
+        "prerequisites": [
+          "Grade 11 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Introduction to Heat and Thermodynamics",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Heat and Thermodynamics as studied in Grade 12 science stream. The fundamental concepts, definitions, and principles are covered here.\n\nStudents should aim to understand the conceptual basis thoroughly, as NEB questions often test understanding rather than mere recall.",
+          "keyPoints": [
+            "Core principles of Heat and Thermodynamics",
+            "Definitions and terminology",
+            "Historical context and development",
+            "Applications in daily life"
+          ],
+          "formula": null,
+          "examTip": "NEB Grade 12 often includes short-answer questions testing conceptual clarity. Be precise in your definitions."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Applications of Heat and Thermodynamics",
+          "difficulty": "intermediate",
+          "explanation": "This topic explores how the concepts of Heat and Thermodynamics are applied in practical scenarios and examination contexts. Problem-solving skills are developed through guided examples and practice.",
+          "keyPoints": [
+            "Analytical problem-solving techniques",
+            "Real-world application examples",
+            "Common NEB question formats",
+            "Tips for comprehensive answers"
+          ],
+          "formula": null,
+          "examTip": "For long-answer questions in NEB exams, structure your response with an introduction, main body with examples, and conclusion."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Waves and Optics",
+      "shortIntro": "NEB Grade 12 science stream: Waves and Optics.",
+      "introduction": {
+        "overview": "Waves and Optics is a crucial chapter in the NEB Grade 12 Physics syllabus under the science stream. This chapter is designed according to the NEB curriculum framework and covers both theoretical and applied aspects of the topic.\n\nStudents studying in the science stream at Grade 12 level will find this chapter essential for their board examinations. The NEB has consistently included questions from this chapter, making it a priority for exam preparation.\n\nThe content builds on secondary-level knowledge and introduces concepts at a higher academic level. Students should regularly practice problems and review past NEB question papers to understand the examination pattern.\n\nBy mastering this chapter, students will develop a strong conceptual foundation that will serve them well in higher education, whether pursuing a bachelor's degree or preparing for entrance examinations.",
+        "whyItMatters": "This chapter is frequently tested in NEB Grade 12 examinations. A strong grasp of Waves and Optics provides both examination success and practical knowledge for future studies.",
+        "prerequisites": [
+          "Grade 11 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Introduction to Waves and Optics",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Waves and Optics as studied in Grade 12 science stream. The fundamental concepts, definitions, and principles are covered here.\n\nStudents should aim to understand the conceptual basis thoroughly, as NEB questions often test understanding rather than mere recall.",
+          "keyPoints": [
+            "Core principles of Waves and Optics",
+            "Definitions and terminology",
+            "Historical context and development",
+            "Applications in daily life"
+          ],
+          "formula": null,
+          "examTip": "NEB Grade 12 often includes short-answer questions testing conceptual clarity. Be precise in your definitions."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Applications of Waves and Optics",
+          "difficulty": "intermediate",
+          "explanation": "This topic explores how the concepts of Waves and Optics are applied in practical scenarios and examination contexts. Problem-solving skills are developed through guided examples and practice.",
+          "keyPoints": [
+            "Analytical problem-solving techniques",
+            "Real-world application examples",
+            "Common NEB question formats",
+            "Tips for comprehensive answers"
+          ],
+          "formula": null,
+          "examTip": "For long-answer questions in NEB exams, structure your response with an introduction, main body with examples, and conclusion."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Electricity",
+      "shortIntro": "NEB Grade 12 science stream: Electricity.",
+      "introduction": {
+        "overview": "Electricity is a crucial chapter in the NEB Grade 12 Physics syllabus under the science stream. This chapter is designed according to the NEB curriculum framework and covers both theoretical and applied aspects of the topic.\n\nStudents studying in the science stream at Grade 12 level will find this chapter essential for their board examinations. The NEB has consistently included questions from this chapter, making it a priority for exam preparation.\n\nThe content builds on secondary-level knowledge and introduces concepts at a higher academic level. Students should regularly practice problems and review past NEB question papers to understand the examination pattern.\n\nBy mastering this chapter, students will develop a strong conceptual foundation that will serve them well in higher education, whether pursuing a bachelor's degree or preparing for entrance examinations.",
+        "whyItMatters": "This chapter is frequently tested in NEB Grade 12 examinations. A strong grasp of Electricity provides both examination success and practical knowledge for future studies.",
+        "prerequisites": [
+          "Grade 11 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Introduction to Electricity",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Electricity as studied in Grade 12 science stream. The fundamental concepts, definitions, and principles are covered here.\n\nStudents should aim to understand the conceptual basis thoroughly, as NEB questions often test understanding rather than mere recall.",
+          "keyPoints": [
+            "Core principles of Electricity",
+            "Definitions and terminology",
+            "Historical context and development",
+            "Applications in daily life"
+          ],
+          "formula": null,
+          "examTip": "NEB Grade 12 often includes short-answer questions testing conceptual clarity. Be precise in your definitions."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Applications of Electricity",
+          "difficulty": "intermediate",
+          "explanation": "This topic explores how the concepts of Electricity are applied in practical scenarios and examination contexts. Problem-solving skills are developed through guided examples and practice.",
+          "keyPoints": [
+            "Analytical problem-solving techniques",
+            "Real-world application examples",
+            "Common NEB question formats",
+            "Tips for comprehensive answers"
+          ],
+          "formula": null,
+          "examTip": "For long-answer questions in NEB exams, structure your response with an introduction, main body with examples, and conclusion."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Magnetism",
+      "shortIntro": "NEB Grade 12 science stream: Magnetism.",
+      "introduction": {
+        "overview": "Magnetism is a crucial chapter in the NEB Grade 12 Physics syllabus under the science stream. This chapter is designed according to the NEB curriculum framework and covers both theoretical and applied aspects of the topic.\n\nStudents studying in the science stream at Grade 12 level will find this chapter essential for their board examinations. The NEB has consistently included questions from this chapter, making it a priority for exam preparation.\n\nThe content builds on secondary-level knowledge and introduces concepts at a higher academic level. Students should regularly practice problems and review past NEB question papers to understand the examination pattern.\n\nBy mastering this chapter, students will develop a strong conceptual foundation that will serve them well in higher education, whether pursuing a bachelor's degree or preparing for entrance examinations.",
+        "whyItMatters": "This chapter is frequently tested in NEB Grade 12 examinations. A strong grasp of Magnetism provides both examination success and practical knowledge for future studies.",
+        "prerequisites": [
+          "Grade 11 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Introduction to Magnetism",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Magnetism as studied in Grade 12 science stream. The fundamental concepts, definitions, and principles are covered here.\n\nStudents should aim to understand the conceptual basis thoroughly, as NEB questions often test understanding rather than mere recall.",
+          "keyPoints": [
+            "Core principles of Magnetism",
+            "Definitions and terminology",
+            "Historical context and development",
+            "Applications in daily life"
+          ],
+          "formula": null,
+          "examTip": "NEB Grade 12 often includes short-answer questions testing conceptual clarity. Be precise in your definitions."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Applications of Magnetism",
+          "difficulty": "intermediate",
+          "explanation": "This topic explores how the concepts of Magnetism are applied in practical scenarios and examination contexts. Problem-solving skills are developed through guided examples and practice.",
+          "keyPoints": [
+            "Analytical problem-solving techniques",
+            "Real-world application examples",
+            "Common NEB question formats",
+            "Tips for comprehensive answers"
+          ],
+          "formula": null,
+          "examTip": "For long-answer questions in NEB exams, structure your response with an introduction, main body with examples, and conclusion."
+        }
+      ]
+    },
+    {
+      "id": "ch-6",
+      "number": 6,
+      "title": "Modern Physics",
+      "shortIntro": "NEB Grade 12 science stream: Modern Physics.",
+      "introduction": {
+        "overview": "Modern Physics is a crucial chapter in the NEB Grade 12 Physics syllabus under the science stream. This chapter is designed according to the NEB curriculum framework and covers both theoretical and applied aspects of the topic.\n\nStudents studying in the science stream at Grade 12 level will find this chapter essential for their board examinations. The NEB has consistently included questions from this chapter, making it a priority for exam preparation.\n\nThe content builds on secondary-level knowledge and introduces concepts at a higher academic level. Students should regularly practice problems and review past NEB question papers to understand the examination pattern.\n\nBy mastering this chapter, students will develop a strong conceptual foundation that will serve them well in higher education, whether pursuing a bachelor's degree or preparing for entrance examinations.",
+        "whyItMatters": "This chapter is frequently tested in NEB Grade 12 examinations. A strong grasp of Modern Physics provides both examination success and practical knowledge for future studies.",
+        "prerequisites": [
+          "Grade 11 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-6-1",
+          "number": 1,
+          "name": "Introduction to Modern Physics",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Modern Physics as studied in Grade 12 science stream. The fundamental concepts, definitions, and principles are covered here.\n\nStudents should aim to understand the conceptual basis thoroughly, as NEB questions often test understanding rather than mere recall.",
+          "keyPoints": [
+            "Core principles of Modern Physics",
+            "Definitions and terminology",
+            "Historical context and development",
+            "Applications in daily life"
+          ],
+          "formula": null,
+          "examTip": "NEB Grade 12 often includes short-answer questions testing conceptual clarity. Be precise in your definitions."
+        },
+        {
+          "id": "t-6-2",
+          "number": 2,
+          "name": "Applications of Modern Physics",
+          "difficulty": "intermediate",
+          "explanation": "This topic explores how the concepts of Modern Physics are applied in practical scenarios and examination contexts. Problem-solving skills are developed through guided examples and practice.",
+          "keyPoints": [
+            "Analytical problem-solving techniques",
+            "Real-world application examples",
+            "Common NEB question formats",
+            "Tips for comprehensive answers"
+          ],
+          "formula": null,
+          "examTip": "For long-answer questions in NEB exams, structure your response with an introduction, main body with examples, and conclusion."
+        }
+      ]
+    }
+  ]
+}

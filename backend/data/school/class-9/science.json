@@ -1,0 +1,398 @@
+{
+  "meta": {
+    "program": "Class 9",
+    "category": "school",
+    "subCategory": "class-9",
+    "subject": "Science",
+    "subjectId": "science",
+    "color": "#7C3AED",
+    "lastUpdated": "2025",
+    "totalChapters": 8
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Classification of Living Things",
+      "shortIntro": "Class 9 Science: Classification of Living Things fundamentals and applications.",
+      "introduction": {
+        "overview": "Classification of Living Things is an important chapter in the Class 9 Science curriculum. Building on concepts from Grade 8, this chapter introduces more advanced ideas and prepares students for the SEE examination.\n\nThe chapter explores both theoretical understanding and practical applications. Students should aim to master the core concepts before attempting more complex problems.\n\nRegular practice with classwork exercises and reference materials will help solidify understanding. Teachers typically emphasize this topic due to its relevance in the SEE syllabus.\n\nBy the end of this chapter, students should be comfortable with key concepts and ready to tackle SEE-level questions on Classification of Living Things.",
+        "whyItMatters": "Understanding Classification of Living Things at the Class 9 level builds the foundation for SEE preparation. This topic appears in various forms across examinations.",
+        "prerequisites": [
+          "Grade 8 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Core Concepts of Classification of Living Things",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental principles of Classification of Living Things as taught in Class 9. Students will learn key definitions, theorems, and basic problem-solving approaches.\n\nA thorough understanding of these concepts is necessary before advancing to more complex material in Class 10.",
+          "keyPoints": [
+            "Key definitions and principles",
+            "Basic problem-solving techniques",
+            "Links to Grade 8 concepts"
+          ],
+          "formula": null,
+          "examTip": "Focus on understanding core principles rather than rote memorization."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Problem Solving in Classification of Living Things",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the core concepts and introduces various problem types that students will encounter in examinations.\n\nPractice is essential — work through as many examples as possible to build speed and confidence.",
+          "keyPoints": [
+            "Multiple problem types covered",
+            "Step-by-step solution approach",
+            "Time management in exams"
+          ],
+          "formula": null,
+          "examTip": "Practice past paper questions on Classification of Living Things to understand the exam pattern."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Cell Biology",
+      "shortIntro": "Class 9 Science: Cell Biology fundamentals and applications.",
+      "introduction": {
+        "overview": "Cell Biology is an important chapter in the Class 9 Science curriculum. Building on concepts from Grade 8, this chapter introduces more advanced ideas and prepares students for the SEE examination.\n\nThe chapter explores both theoretical understanding and practical applications. Students should aim to master the core concepts before attempting more complex problems.\n\nRegular practice with classwork exercises and reference materials will help solidify understanding. Teachers typically emphasize this topic due to its relevance in the SEE syllabus.\n\nBy the end of this chapter, students should be comfortable with key concepts and ready to tackle SEE-level questions on Cell Biology.",
+        "whyItMatters": "Understanding Cell Biology at the Class 9 level builds the foundation for SEE preparation. This topic appears in various forms across examinations.",
+        "prerequisites": [
+          "Grade 8 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Core Concepts of Cell Biology",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental principles of Cell Biology as taught in Class 9. Students will learn key definitions, theorems, and basic problem-solving approaches.\n\nA thorough understanding of these concepts is necessary before advancing to more complex material in Class 10.",
+          "keyPoints": [
+            "Key definitions and principles",
+            "Basic problem-solving techniques",
+            "Links to Grade 8 concepts"
+          ],
+          "formula": null,
+          "examTip": "Focus on understanding core principles rather than rote memorization."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Problem Solving in Cell Biology",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the core concepts and introduces various problem types that students will encounter in examinations.\n\nPractice is essential — work through as many examples as possible to build speed and confidence.",
+          "keyPoints": [
+            "Multiple problem types covered",
+            "Step-by-step solution approach",
+            "Time management in exams"
+          ],
+          "formula": null,
+          "examTip": "Practice past paper questions on Cell Biology to understand the exam pattern."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Chemical Reactions",
+      "shortIntro": "Class 9 Science: Chemical Reactions fundamentals and applications.",
+      "introduction": {
+        "overview": "Chemical Reactions is an important chapter in the Class 9 Science curriculum. Building on concepts from Grade 8, this chapter introduces more advanced ideas and prepares students for the SEE examination.\n\nThe chapter explores both theoretical understanding and practical applications. Students should aim to master the core concepts before attempting more complex problems.\n\nRegular practice with classwork exercises and reference materials will help solidify understanding. Teachers typically emphasize this topic due to its relevance in the SEE syllabus.\n\nBy the end of this chapter, students should be comfortable with key concepts and ready to tackle SEE-level questions on Chemical Reactions.",
+        "whyItMatters": "Understanding Chemical Reactions at the Class 9 level builds the foundation for SEE preparation. This topic appears in various forms across examinations.",
+        "prerequisites": [
+          "Grade 8 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Core Concepts of Chemical Reactions",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental principles of Chemical Reactions as taught in Class 9. Students will learn key definitions, theorems, and basic problem-solving approaches.\n\nA thorough understanding of these concepts is necessary before advancing to more complex material in Class 10.",
+          "keyPoints": [
+            "Key definitions and principles",
+            "Basic problem-solving techniques",
+            "Links to Grade 8 concepts"
+          ],
+          "formula": null,
+          "examTip": "Focus on understanding core principles rather than rote memorization."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Problem Solving in Chemical Reactions",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the core concepts and introduces various problem types that students will encounter in examinations.\n\nPractice is essential — work through as many examples as possible to build speed and confidence.",
+          "keyPoints": [
+            "Multiple problem types covered",
+            "Step-by-step solution approach",
+            "Time management in exams"
+          ],
+          "formula": null,
+          "examTip": "Practice past paper questions on Chemical Reactions to understand the exam pattern."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Force and Motion",
+      "shortIntro": "Class 9 Science: Force and Motion fundamentals and applications.",
+      "introduction": {
+        "overview": "Force and Motion is an important chapter in the Class 9 Science curriculum. Building on concepts from Grade 8, this chapter introduces more advanced ideas and prepares students for the SEE examination.\n\nThe chapter explores both theoretical understanding and practical applications. Students should aim to master the core concepts before attempting more complex problems.\n\nRegular practice with classwork exercises and reference materials will help solidify understanding. Teachers typically emphasize this topic due to its relevance in the SEE syllabus.\n\nBy the end of this chapter, students should be comfortable with key concepts and ready to tackle SEE-level questions on Force and Motion.",
+        "whyItMatters": "Understanding Force and Motion at the Class 9 level builds the foundation for SEE preparation. This topic appears in various forms across examinations.",
+        "prerequisites": [
+          "Grade 8 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Core Concepts of Force and Motion",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental principles of Force and Motion as taught in Class 9. Students will learn key definitions, theorems, and basic problem-solving approaches.\n\nA thorough understanding of these concepts is necessary before advancing to more complex material in Class 10.",
+          "keyPoints": [
+            "Key definitions and principles",
+            "Basic problem-solving techniques",
+            "Links to Grade 8 concepts"
+          ],
+          "formula": null,
+          "examTip": "Focus on understanding core principles rather than rote memorization."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Problem Solving in Force and Motion",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the core concepts and introduces various problem types that students will encounter in examinations.\n\nPractice is essential — work through as many examples as possible to build speed and confidence.",
+          "keyPoints": [
+            "Multiple problem types covered",
+            "Step-by-step solution approach",
+            "Time management in exams"
+          ],
+          "formula": null,
+          "examTip": "Practice past paper questions on Force and Motion to understand the exam pattern."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Pressure",
+      "shortIntro": "Class 9 Science: Pressure fundamentals and applications.",
+      "introduction": {
+        "overview": "Pressure is an important chapter in the Class 9 Science curriculum. Building on concepts from Grade 8, this chapter introduces more advanced ideas and prepares students for the SEE examination.\n\nThe chapter explores both theoretical understanding and practical applications. Students should aim to master the core concepts before attempting more complex problems.\n\nRegular practice with classwork exercises and reference materials will help solidify understanding. Teachers typically emphasize this topic due to its relevance in the SEE syllabus.\n\nBy the end of this chapter, students should be comfortable with key concepts and ready to tackle SEE-level questions on Pressure.",
+        "whyItMatters": "Understanding Pressure at the Class 9 level builds the foundation for SEE preparation. This topic appears in various forms across examinations.",
+        "prerequisites": [
+          "Grade 8 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Core Concepts of Pressure",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental principles of Pressure as taught in Class 9. Students will learn key definitions, theorems, and basic problem-solving approaches.\n\nA thorough understanding of these concepts is necessary before advancing to more complex material in Class 10.",
+          "keyPoints": [
+            "Key definitions and principles",
+            "Basic problem-solving techniques",
+            "Links to Grade 8 concepts"
+          ],
+          "formula": null,
+          "examTip": "Focus on understanding core principles rather than rote memorization."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Problem Solving in Pressure",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the core concepts and introduces various problem types that students will encounter in examinations.\n\nPractice is essential — work through as many examples as possible to build speed and confidence.",
+          "keyPoints": [
+            "Multiple problem types covered",
+            "Step-by-step solution approach",
+            "Time management in exams"
+          ],
+          "formula": null,
+          "examTip": "Practice past paper questions on Pressure to understand the exam pattern."
+        }
+      ]
+    },
+    {
+      "id": "ch-6",
+      "number": 6,
+      "title": "Energy",
+      "shortIntro": "Class 9 Science: Energy fundamentals and applications.",
+      "introduction": {
+        "overview": "Energy is an important chapter in the Class 9 Science curriculum. Building on concepts from Grade 8, this chapter introduces more advanced ideas and prepares students for the SEE examination.\n\nThe chapter explores both theoretical understanding and practical applications. Students should aim to master the core concepts before attempting more complex problems.\n\nRegular practice with classwork exercises and reference materials will help solidify understanding. Teachers typically emphasize this topic due to its relevance in the SEE syllabus.\n\nBy the end of this chapter, students should be comfortable with key concepts and ready to tackle SEE-level questions on Energy.",
+        "whyItMatters": "Understanding Energy at the Class 9 level builds the foundation for SEE preparation. This topic appears in various forms across examinations.",
+        "prerequisites": [
+          "Grade 8 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-6-1",
+          "number": 1,
+          "name": "Core Concepts of Energy",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental principles of Energy as taught in Class 9. Students will learn key definitions, theorems, and basic problem-solving approaches.\n\nA thorough understanding of these concepts is necessary before advancing to more complex material in Class 10.",
+          "keyPoints": [
+            "Key definitions and principles",
+            "Basic problem-solving techniques",
+            "Links to Grade 8 concepts"
+          ],
+          "formula": null,
+          "examTip": "Focus on understanding core principles rather than rote memorization."
+        },
+        {
+          "id": "t-6-2",
+          "number": 2,
+          "name": "Problem Solving in Energy",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the core concepts and introduces various problem types that students will encounter in examinations.\n\nPractice is essential — work through as many examples as possible to build speed and confidence.",
+          "keyPoints": [
+            "Multiple problem types covered",
+            "Step-by-step solution approach",
+            "Time management in exams"
+          ],
+          "formula": null,
+          "examTip": "Practice past paper questions on Energy to understand the exam pattern."
+        }
+      ]
+    },
+    {
+      "id": "ch-7",
+      "number": 7,
+      "title": "Earth and Space",
+      "shortIntro": "Class 9 Science: Earth and Space fundamentals and applications.",
+      "introduction": {
+        "overview": "Earth and Space is an important chapter in the Class 9 Science curriculum. Building on concepts from Grade 8, this chapter introduces more advanced ideas and prepares students for the SEE examination.\n\nThe chapter explores both theoretical understanding and practical applications. Students should aim to master the core concepts before attempting more complex problems.\n\nRegular practice with classwork exercises and reference materials will help solidify understanding. Teachers typically emphasize this topic due to its relevance in the SEE syllabus.\n\nBy the end of this chapter, students should be comfortable with key concepts and ready to tackle SEE-level questions on Earth and Space.",
+        "whyItMatters": "Understanding Earth and Space at the Class 9 level builds the foundation for SEE preparation. This topic appears in various forms across examinations.",
+        "prerequisites": [
+          "Grade 8 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-7-1",
+          "number": 1,
+          "name": "Core Concepts of Earth and Space",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental principles of Earth and Space as taught in Class 9. Students will learn key definitions, theorems, and basic problem-solving approaches.\n\nA thorough understanding of these concepts is necessary before advancing to more complex material in Class 10.",
+          "keyPoints": [
+            "Key definitions and principles",
+            "Basic problem-solving techniques",
+            "Links to Grade 8 concepts"
+          ],
+          "formula": null,
+          "examTip": "Focus on understanding core principles rather than rote memorization."
+        },
+        {
+          "id": "t-7-2",
+          "number": 2,
+          "name": "Problem Solving in Earth and Space",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the core concepts and introduces various problem types that students will encounter in examinations.\n\nPractice is essential — work through as many examples as possible to build speed and confidence.",
+          "keyPoints": [
+            "Multiple problem types covered",
+            "Step-by-step solution approach",
+            "Time management in exams"
+          ],
+          "formula": null,
+          "examTip": "Practice past paper questions on Earth and Space to understand the exam pattern."
+        }
+      ]
+    },
+    {
+      "id": "ch-8",
+      "number": 8,
+      "title": "Environment",
+      "shortIntro": "Class 9 Science: Environment fundamentals and applications.",
+      "introduction": {
+        "overview": "Environment is an important chapter in the Class 9 Science curriculum. Building on concepts from Grade 8, this chapter introduces more advanced ideas and prepares students for the SEE examination.\n\nThe chapter explores both theoretical understanding and practical applications. Students should aim to master the core concepts before attempting more complex problems.\n\nRegular practice with classwork exercises and reference materials will help solidify understanding. Teachers typically emphasize this topic due to its relevance in the SEE syllabus.\n\nBy the end of this chapter, students should be comfortable with key concepts and ready to tackle SEE-level questions on Environment.",
+        "whyItMatters": "Understanding Environment at the Class 9 level builds the foundation for SEE preparation. This topic appears in various forms across examinations.",
+        "prerequisites": [
+          "Grade 8 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-8-1",
+          "number": 1,
+          "name": "Core Concepts of Environment",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental principles of Environment as taught in Class 9. Students will learn key definitions, theorems, and basic problem-solving approaches.\n\nA thorough understanding of these concepts is necessary before advancing to more complex material in Class 10.",
+          "keyPoints": [
+            "Key definitions and principles",
+            "Basic problem-solving techniques",
+            "Links to Grade 8 concepts"
+          ],
+          "formula": null,
+          "examTip": "Focus on understanding core principles rather than rote memorization."
+        },
+        {
+          "id": "t-8-2",
+          "number": 2,
+          "name": "Problem Solving in Environment",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the core concepts and introduces various problem types that students will encounter in examinations.\n\nPractice is essential — work through as many examples as possible to build speed and confidence.",
+          "keyPoints": [
+            "Multiple problem types covered",
+            "Step-by-step solution approach",
+            "Time management in exams"
+          ],
+          "formula": null,
+          "examTip": "Practice past paper questions on Environment to understand the exam pattern."
+        }
+      ]
+    }
+  ]
+}

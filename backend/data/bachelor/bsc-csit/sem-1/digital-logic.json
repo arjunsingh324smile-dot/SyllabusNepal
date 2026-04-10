@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "program": "BSc CSIT",
+    "category": "bachelor",
+    "subCategory": "bsc-csit",
+    "subject": "Digital Logic",
+    "subjectId": "digital-logic",
+    "color": "#DC2626",
+    "lastUpdated": "2025",
+    "semester": "sem-1",
+    "totalChapters": 5
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Number Systems and Codes",
+      "shortIntro": "BSc CSIT sem-1: Number Systems and Codes for computer science students.",
+      "introduction": {
+        "overview": "Number Systems and Codes is a vital chapter in the BSc CSIT Digital Logic syllabus for sem 1. The BSc CSIT program at TU is one of the most sought-after programs in Nepal for students interested in computer science and information technology.\n\nThis chapter covers fundamentals that are critical not only for university examinations but also for technical interviews, competitive programming, and advanced research in computer science.\n\nStudents should combine textbook study with practical programming exercises, online resources, and group study sessions. The BSc CSIT curriculum is rigorous, and consistent effort throughout the semester is necessary for success.\n\nMastering Number Systems and Codes will provide students with skills that are directly applicable in Nepal's growing IT industry and in further academic pursuits.",
+        "whyItMatters": "Essential for BSc CSIT students — Number Systems and Codes is heavily weighted in semester exams and forms the basis for advanced courses.",
+        "prerequisites": [
+          "Strong foundation in secondary mathematics and science"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Fundamentals of Number Systems and Codes",
+          "difficulty": "beginner",
+          "explanation": "A thorough introduction to the concepts of Number Systems and Codes. This topic establishes the foundational knowledge required for the rest of the chapter and for advanced study in later semesters.\n\nBSc CSIT students should particularly focus on the theoretical aspects that are frequently tested in TU examinations.",
+          "keyPoints": [
+            "Core theoretical concepts",
+            "Mathematical foundations",
+            "Practical implementation aspects"
+          ],
+          "formula": null,
+          "examTip": "TU BSc CSIT exams emphasize long-answer questions. Structure your answers clearly with definitions, explanations, and examples."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Advanced Topics in Number Systems and Codes",
+          "difficulty": "intermediate",
+          "explanation": "Deeper exploration of Number Systems and Codes covering complex concepts, optimization techniques, and advanced applications relevant to computer science.",
+          "keyPoints": [
+            "Complexity analysis",
+            "Optimization techniques",
+            "Real-world applications"
+          ],
+          "formula": null,
+          "examTip": "Focus on algorithm implementations and time complexity analysis — these are high-value topics in CSIT exams."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Boolean Algebra",
+      "shortIntro": "BSc CSIT sem-1: Boolean Algebra for computer science students.",
+      "introduction": {
+        "overview": "Boolean Algebra is a vital chapter in the BSc CSIT Digital Logic syllabus for sem 1. The BSc CSIT program at TU is one of the most sought-after programs in Nepal for students interested in computer science and information technology.\n\nThis chapter covers fundamentals that are critical not only for university examinations but also for technical interviews, competitive programming, and advanced research in computer science.\n\nStudents should combine textbook study with practical programming exercises, online resources, and group study sessions. The BSc CSIT curriculum is rigorous, and consistent effort throughout the semester is necessary for success.\n\nMastering Boolean Algebra will provide students with skills that are directly applicable in Nepal's growing IT industry and in further academic pursuits.",
+        "whyItMatters": "Essential for BSc CSIT students — Boolean Algebra is heavily weighted in semester exams and forms the basis for advanced courses.",
+        "prerequisites": [
+          "Strong foundation in secondary mathematics and science"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Fundamentals of Boolean Algebra",
+          "difficulty": "beginner",
+          "explanation": "A thorough introduction to the concepts of Boolean Algebra. This topic establishes the foundational knowledge required for the rest of the chapter and for advanced study in later semesters.\n\nBSc CSIT students should particularly focus on the theoretical aspects that are frequently tested in TU examinations.",
+          "keyPoints": [
+            "Core theoretical concepts",
+            "Mathematical foundations",
+            "Practical implementation aspects"
+          ],
+          "formula": null,
+          "examTip": "TU BSc CSIT exams emphasize long-answer questions. Structure your answers clearly with definitions, explanations, and examples."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Advanced Topics in Boolean Algebra",
+          "difficulty": "intermediate",
+          "explanation": "Deeper exploration of Boolean Algebra covering complex concepts, optimization techniques, and advanced applications relevant to computer science.",
+          "keyPoints": [
+            "Complexity analysis",
+            "Optimization techniques",
+            "Real-world applications"
+          ],
+          "formula": null,
+          "examTip": "Focus on algorithm implementations and time complexity analysis — these are high-value topics in CSIT exams."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Logic Gates",
+      "shortIntro": "BSc CSIT sem-1: Logic Gates for computer science students.",
+      "introduction": {
+        "overview": "Logic Gates is a vital chapter in the BSc CSIT Digital Logic syllabus for sem 1. The BSc CSIT program at TU is one of the most sought-after programs in Nepal for students interested in computer science and information technology.\n\nThis chapter covers fundamentals that are critical not only for university examinations but also for technical interviews, competitive programming, and advanced research in computer science.\n\nStudents should combine textbook study with practical programming exercises, online resources, and group study sessions. The BSc CSIT curriculum is rigorous, and consistent effort throughout the semester is necessary for success.\n\nMastering Logic Gates will provide students with skills that are directly applicable in Nepal's growing IT industry and in further academic pursuits.",
+        "whyItMatters": "Essential for BSc CSIT students — Logic Gates is heavily weighted in semester exams and forms the basis for advanced courses.",
+        "prerequisites": [
+          "Strong foundation in secondary mathematics and science"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Fundamentals of Logic Gates",
+          "difficulty": "beginner",
+          "explanation": "A thorough introduction to the concepts of Logic Gates. This topic establishes the foundational knowledge required for the rest of the chapter and for advanced study in later semesters.\n\nBSc CSIT students should particularly focus on the theoretical aspects that are frequently tested in TU examinations.",
+          "keyPoints": [
+            "Core theoretical concepts",
+            "Mathematical foundations",
+            "Practical implementation aspects"
+          ],
+          "formula": null,
+          "examTip": "TU BSc CSIT exams emphasize long-answer questions. Structure your answers clearly with definitions, explanations, and examples."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Advanced Topics in Logic Gates",
+          "difficulty": "intermediate",
+          "explanation": "Deeper exploration of Logic Gates covering complex concepts, optimization techniques, and advanced applications relevant to computer science.",
+          "keyPoints": [
+            "Complexity analysis",
+            "Optimization techniques",
+            "Real-world applications"
+          ],
+          "formula": null,
+          "examTip": "Focus on algorithm implementations and time complexity analysis — these are high-value topics in CSIT exams."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Combinational Logic",
+      "shortIntro": "BSc CSIT sem-1: Combinational Logic for computer science students.",
+      "introduction": {
+        "overview": "Combinational Logic is a vital chapter in the BSc CSIT Digital Logic syllabus for sem 1. The BSc CSIT program at TU is one of the most sought-after programs in Nepal for students interested in computer science and information technology.\n\nThis chapter covers fundamentals that are critical not only for university examinations but also for technical interviews, competitive programming, and advanced research in computer science.\n\nStudents should combine textbook study with practical programming exercises, online resources, and group study sessions. The BSc CSIT curriculum is rigorous, and consistent effort throughout the semester is necessary for success.\n\nMastering Combinational Logic will provide students with skills that are directly applicable in Nepal's growing IT industry and in further academic pursuits.",
+        "whyItMatters": "Essential for BSc CSIT students — Combinational Logic is heavily weighted in semester exams and forms the basis for advanced courses.",
+        "prerequisites": [
+          "Strong foundation in secondary mathematics and science"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Fundamentals of Combinational Logic",
+          "difficulty": "beginner",
+          "explanation": "A thorough introduction to the concepts of Combinational Logic. This topic establishes the foundational knowledge required for the rest of the chapter and for advanced study in later semesters.\n\nBSc CSIT students should particularly focus on the theoretical aspects that are frequently tested in TU examinations.",
+          "keyPoints": [
+            "Core theoretical concepts",
+            "Mathematical foundations",
+            "Practical implementation aspects"
+          ],
+          "formula": null,
+          "examTip": "TU BSc CSIT exams emphasize long-answer questions. Structure your answers clearly with definitions, explanations, and examples."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Advanced Topics in Combinational Logic",
+          "difficulty": "intermediate",
+          "explanation": "Deeper exploration of Combinational Logic covering complex concepts, optimization techniques, and advanced applications relevant to computer science.",
+          "keyPoints": [
+            "Complexity analysis",
+            "Optimization techniques",
+            "Real-world applications"
+          ],
+          "formula": null,
+          "examTip": "Focus on algorithm implementations and time complexity analysis — these are high-value topics in CSIT exams."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Sequential Logic",
+      "shortIntro": "BSc CSIT sem-1: Sequential Logic for computer science students.",
+      "introduction": {
+        "overview": "Sequential Logic is a vital chapter in the BSc CSIT Digital Logic syllabus for sem 1. The BSc CSIT program at TU is one of the most sought-after programs in Nepal for students interested in computer science and information technology.\n\nThis chapter covers fundamentals that are critical not only for university examinations but also for technical interviews, competitive programming, and advanced research in computer science.\n\nStudents should combine textbook study with practical programming exercises, online resources, and group study sessions. The BSc CSIT curriculum is rigorous, and consistent effort throughout the semester is necessary for success.\n\nMastering Sequential Logic will provide students with skills that are directly applicable in Nepal's growing IT industry and in further academic pursuits.",
+        "whyItMatters": "Essential for BSc CSIT students — Sequential Logic is heavily weighted in semester exams and forms the basis for advanced courses.",
+        "prerequisites": [
+          "Strong foundation in secondary mathematics and science"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Fundamentals of Sequential Logic",
+          "difficulty": "beginner",
+          "explanation": "A thorough introduction to the concepts of Sequential Logic. This topic establishes the foundational knowledge required for the rest of the chapter and for advanced study in later semesters.\n\nBSc CSIT students should particularly focus on the theoretical aspects that are frequently tested in TU examinations.",
+          "keyPoints": [
+            "Core theoretical concepts",
+            "Mathematical foundations",
+            "Practical implementation aspects"
+          ],
+          "formula": null,
+          "examTip": "TU BSc CSIT exams emphasize long-answer questions. Structure your answers clearly with definitions, explanations, and examples."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Advanced Topics in Sequential Logic",
+          "difficulty": "intermediate",
+          "explanation": "Deeper exploration of Sequential Logic covering complex concepts, optimization techniques, and advanced applications relevant to computer science.",
+          "keyPoints": [
+            "Complexity analysis",
+            "Optimization techniques",
+            "Real-world applications"
+          ],
+          "formula": null,
+          "examTip": "Focus on algorithm implementations and time complexity analysis — these are high-value topics in CSIT exams."
+        }
+      ]
+    }
+  ]
+}

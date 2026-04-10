@@ -1,0 +1,254 @@
+{
+  "meta": {
+    "program": "Banking Exam",
+    "category": "competitive",
+    "subCategory": "banking",
+    "subject": "English",
+    "subjectId": "english",
+    "color": "#1E40AF",
+    "lastUpdated": "2025",
+    "totalChapters": 5
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Grammar",
+      "shortIntro": "Banking Exam: Grammar — competitive exam preparation.",
+      "introduction": {
+        "overview": "Grammar is an essential section in the Banking Exam examination. Competitive exams in Nepal's public and banking sector require thorough preparation across multiple subjects, and Grammar is one of the key areas.\n\nThis chapter provides structured content covering all the topics that appear in Banking Exam examinations. The material is organized to facilitate both systematic study and quick revision.\n\nPast papers analysis shows consistent patterns in the types of questions asked from Grammar. Understanding these patterns and practicing accordingly can significantly improve your performance.\n\nCombine this study material with daily current affairs reading (for relevant subjects) and regular mock tests to build the speed and accuracy needed for competitive success.",
+        "whyItMatters": "Regularly tested in Banking Exam examinations. Consistent preparation of Grammar is essential for competitive success. Practice with past papers to understand the pattern.",
+        "prerequisites": [
+          "General education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Grammar: Key Concepts",
+          "difficulty": "beginner",
+          "explanation": "Essential concepts and information for Grammar as tested in Banking Exam. This topic provides the foundational knowledge needed to answer most examination questions.\n\nFocus on frequently tested areas and build a solid knowledge base through regular study.",
+          "keyPoints": [
+            "Essential facts and information",
+            "Frequently asked topics",
+            "Quick review points"
+          ],
+          "formula": null,
+          "examTip": "Make flashcards for quick revision of facts. Banking Exam often tests factual recall with time pressure."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Grammar: Advanced Practice",
+          "difficulty": "intermediate",
+          "explanation": "Advanced practice material for Grammar covering complex question types and analytical problems that appear in Banking Exam examinations.",
+          "keyPoints": [
+            "Advanced question types",
+            "Analytical problem solving",
+            "Time-saving techniques"
+          ],
+          "formula": null,
+          "examTip": "In competitive exams, eliminate obviously wrong options first. This strategy saves valuable time."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Vocabulary",
+      "shortIntro": "Banking Exam: Vocabulary — competitive exam preparation.",
+      "introduction": {
+        "overview": "Vocabulary is an essential section in the Banking Exam examination. Competitive exams in Nepal's public and banking sector require thorough preparation across multiple subjects, and Vocabulary is one of the key areas.\n\nThis chapter provides structured content covering all the topics that appear in Banking Exam examinations. The material is organized to facilitate both systematic study and quick revision.\n\nPast papers analysis shows consistent patterns in the types of questions asked from Vocabulary. Understanding these patterns and practicing accordingly can significantly improve your performance.\n\nCombine this study material with daily current affairs reading (for relevant subjects) and regular mock tests to build the speed and accuracy needed for competitive success.",
+        "whyItMatters": "Regularly tested in Banking Exam examinations. Consistent preparation of Vocabulary is essential for competitive success. Practice with past papers to understand the pattern.",
+        "prerequisites": [
+          "General education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Vocabulary: Key Concepts",
+          "difficulty": "beginner",
+          "explanation": "Essential concepts and information for Vocabulary as tested in Banking Exam. This topic provides the foundational knowledge needed to answer most examination questions.\n\nFocus on frequently tested areas and build a solid knowledge base through regular study.",
+          "keyPoints": [
+            "Essential facts and information",
+            "Frequently asked topics",
+            "Quick review points"
+          ],
+          "formula": null,
+          "examTip": "Make flashcards for quick revision of facts. Banking Exam often tests factual recall with time pressure."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Vocabulary: Advanced Practice",
+          "difficulty": "intermediate",
+          "explanation": "Advanced practice material for Vocabulary covering complex question types and analytical problems that appear in Banking Exam examinations.",
+          "keyPoints": [
+            "Advanced question types",
+            "Analytical problem solving",
+            "Time-saving techniques"
+          ],
+          "formula": null,
+          "examTip": "In competitive exams, eliminate obviously wrong options first. This strategy saves valuable time."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Reading Comprehension",
+      "shortIntro": "Banking Exam: Reading Comprehension — competitive exam preparation.",
+      "introduction": {
+        "overview": "Reading Comprehension is an essential section in the Banking Exam examination. Competitive exams in Nepal's public and banking sector require thorough preparation across multiple subjects, and Reading Comprehension is one of the key areas.\n\nThis chapter provides structured content covering all the topics that appear in Banking Exam examinations. The material is organized to facilitate both systematic study and quick revision.\n\nPast papers analysis shows consistent patterns in the types of questions asked from Reading Comprehension. Understanding these patterns and practicing accordingly can significantly improve your performance.\n\nCombine this study material with daily current affairs reading (for relevant subjects) and regular mock tests to build the speed and accuracy needed for competitive success.",
+        "whyItMatters": "Regularly tested in Banking Exam examinations. Consistent preparation of Reading Comprehension is essential for competitive success. Practice with past papers to understand the pattern.",
+        "prerequisites": [
+          "General education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Reading Comprehension: Key Concepts",
+          "difficulty": "beginner",
+          "explanation": "Essential concepts and information for Reading Comprehension as tested in Banking Exam. This topic provides the foundational knowledge needed to answer most examination questions.\n\nFocus on frequently tested areas and build a solid knowledge base through regular study.",
+          "keyPoints": [
+            "Essential facts and information",
+            "Frequently asked topics",
+            "Quick review points"
+          ],
+          "formula": null,
+          "examTip": "Make flashcards for quick revision of facts. Banking Exam often tests factual recall with time pressure."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Reading Comprehension: Advanced Practice",
+          "difficulty": "intermediate",
+          "explanation": "Advanced practice material for Reading Comprehension covering complex question types and analytical problems that appear in Banking Exam examinations.",
+          "keyPoints": [
+            "Advanced question types",
+            "Analytical problem solving",
+            "Time-saving techniques"
+          ],
+          "formula": null,
+          "examTip": "In competitive exams, eliminate obviously wrong options first. This strategy saves valuable time."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Error Detection",
+      "shortIntro": "Banking Exam: Error Detection — competitive exam preparation.",
+      "introduction": {
+        "overview": "Error Detection is an essential section in the Banking Exam examination. Competitive exams in Nepal's public and banking sector require thorough preparation across multiple subjects, and Error Detection is one of the key areas.\n\nThis chapter provides structured content covering all the topics that appear in Banking Exam examinations. The material is organized to facilitate both systematic study and quick revision.\n\nPast papers analysis shows consistent patterns in the types of questions asked from Error Detection. Understanding these patterns and practicing accordingly can significantly improve your performance.\n\nCombine this study material with daily current affairs reading (for relevant subjects) and regular mock tests to build the speed and accuracy needed for competitive success.",
+        "whyItMatters": "Regularly tested in Banking Exam examinations. Consistent preparation of Error Detection is essential for competitive success. Practice with past papers to understand the pattern.",
+        "prerequisites": [
+          "General education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Error Detection: Key Concepts",
+          "difficulty": "beginner",
+          "explanation": "Essential concepts and information for Error Detection as tested in Banking Exam. This topic provides the foundational knowledge needed to answer most examination questions.\n\nFocus on frequently tested areas and build a solid knowledge base through regular study.",
+          "keyPoints": [
+            "Essential facts and information",
+            "Frequently asked topics",
+            "Quick review points"
+          ],
+          "formula": null,
+          "examTip": "Make flashcards for quick revision of facts. Banking Exam often tests factual recall with time pressure."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Error Detection: Advanced Practice",
+          "difficulty": "intermediate",
+          "explanation": "Advanced practice material for Error Detection covering complex question types and analytical problems that appear in Banking Exam examinations.",
+          "keyPoints": [
+            "Advanced question types",
+            "Analytical problem solving",
+            "Time-saving techniques"
+          ],
+          "formula": null,
+          "examTip": "In competitive exams, eliminate obviously wrong options first. This strategy saves valuable time."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Cloze Test",
+      "shortIntro": "Banking Exam: Cloze Test — competitive exam preparation.",
+      "introduction": {
+        "overview": "Cloze Test is an essential section in the Banking Exam examination. Competitive exams in Nepal's public and banking sector require thorough preparation across multiple subjects, and Cloze Test is one of the key areas.\n\nThis chapter provides structured content covering all the topics that appear in Banking Exam examinations. The material is organized to facilitate both systematic study and quick revision.\n\nPast papers analysis shows consistent patterns in the types of questions asked from Cloze Test. Understanding these patterns and practicing accordingly can significantly improve your performance.\n\nCombine this study material with daily current affairs reading (for relevant subjects) and regular mock tests to build the speed and accuracy needed for competitive success.",
+        "whyItMatters": "Regularly tested in Banking Exam examinations. Consistent preparation of Cloze Test is essential for competitive success. Practice with past papers to understand the pattern.",
+        "prerequisites": [
+          "General education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Cloze Test: Key Concepts",
+          "difficulty": "beginner",
+          "explanation": "Essential concepts and information for Cloze Test as tested in Banking Exam. This topic provides the foundational knowledge needed to answer most examination questions.\n\nFocus on frequently tested areas and build a solid knowledge base through regular study.",
+          "keyPoints": [
+            "Essential facts and information",
+            "Frequently asked topics",
+            "Quick review points"
+          ],
+          "formula": null,
+          "examTip": "Make flashcards for quick revision of facts. Banking Exam often tests factual recall with time pressure."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Cloze Test: Advanced Practice",
+          "difficulty": "intermediate",
+          "explanation": "Advanced practice material for Cloze Test covering complex question types and analytical problems that appear in Banking Exam examinations.",
+          "keyPoints": [
+            "Advanced question types",
+            "Analytical problem solving",
+            "Time-saving techniques"
+          ],
+          "formula": null,
+          "examTip": "In competitive exams, eliminate obviously wrong options first. This strategy saves valuable time."
+        }
+      ]
+    }
+  ]
+}

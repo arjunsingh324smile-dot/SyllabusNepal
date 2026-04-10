@@ -1,0 +1,207 @@
+{
+  "meta": {
+    "program": "BSc CSIT",
+    "category": "bachelor",
+    "subCategory": "bsc-csit",
+    "subject": "Microprocessor",
+    "subjectId": "microprocessor",
+    "color": "#DC2626",
+    "lastUpdated": "2025",
+    "semester": "sem-2",
+    "totalChapters": 4
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Introduction to Microprocessor",
+      "shortIntro": "BSc CSIT sem-2: Introduction to Microprocessor for computer science students.",
+      "introduction": {
+        "overview": "Introduction to Microprocessor is a vital chapter in the BSc CSIT Microprocessor syllabus for sem 2. The BSc CSIT program at TU is one of the most sought-after programs in Nepal for students interested in computer science and information technology.\n\nThis chapter covers fundamentals that are critical not only for university examinations but also for technical interviews, competitive programming, and advanced research in computer science.\n\nStudents should combine textbook study with practical programming exercises, online resources, and group study sessions. The BSc CSIT curriculum is rigorous, and consistent effort throughout the semester is necessary for success.\n\nMastering Introduction to Microprocessor will provide students with skills that are directly applicable in Nepal's growing IT industry and in further academic pursuits.",
+        "whyItMatters": "Essential for BSc CSIT students — Introduction to Microprocessor is heavily weighted in semester exams and forms the basis for advanced courses.",
+        "prerequisites": [
+          "Strong foundation in secondary mathematics and science"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Fundamentals of Introduction to Microprocessor",
+          "difficulty": "beginner",
+          "explanation": "A thorough introduction to the concepts of Introduction to Microprocessor. This topic establishes the foundational knowledge required for the rest of the chapter and for advanced study in later semesters.\n\nBSc CSIT students should particularly focus on the theoretical aspects that are frequently tested in TU examinations.",
+          "keyPoints": [
+            "Core theoretical concepts",
+            "Mathematical foundations",
+            "Practical implementation aspects"
+          ],
+          "formula": null,
+          "examTip": "TU BSc CSIT exams emphasize long-answer questions. Structure your answers clearly with definitions, explanations, and examples."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Advanced Topics in Introduction to Microprocessor",
+          "difficulty": "intermediate",
+          "explanation": "Deeper exploration of Introduction to Microprocessor covering complex concepts, optimization techniques, and advanced applications relevant to computer science.",
+          "keyPoints": [
+            "Complexity analysis",
+            "Optimization techniques",
+            "Real-world applications"
+          ],
+          "formula": null,
+          "examTip": "Focus on algorithm implementations and time complexity analysis — these are high-value topics in CSIT exams."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "8085 Architecture",
+      "shortIntro": "BSc CSIT sem-2: 8085 Architecture for computer science students.",
+      "introduction": {
+        "overview": "8085 Architecture is a vital chapter in the BSc CSIT Microprocessor syllabus for sem 2. The BSc CSIT program at TU is one of the most sought-after programs in Nepal for students interested in computer science and information technology.\n\nThis chapter covers fundamentals that are critical not only for university examinations but also for technical interviews, competitive programming, and advanced research in computer science.\n\nStudents should combine textbook study with practical programming exercises, online resources, and group study sessions. The BSc CSIT curriculum is rigorous, and consistent effort throughout the semester is necessary for success.\n\nMastering 8085 Architecture will provide students with skills that are directly applicable in Nepal's growing IT industry and in further academic pursuits.",
+        "whyItMatters": "Essential for BSc CSIT students — 8085 Architecture is heavily weighted in semester exams and forms the basis for advanced courses.",
+        "prerequisites": [
+          "Strong foundation in secondary mathematics and science"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Fundamentals of 8085 Architecture",
+          "difficulty": "beginner",
+          "explanation": "A thorough introduction to the concepts of 8085 Architecture. This topic establishes the foundational knowledge required for the rest of the chapter and for advanced study in later semesters.\n\nBSc CSIT students should particularly focus on the theoretical aspects that are frequently tested in TU examinations.",
+          "keyPoints": [
+            "Core theoretical concepts",
+            "Mathematical foundations",
+            "Practical implementation aspects"
+          ],
+          "formula": null,
+          "examTip": "TU BSc CSIT exams emphasize long-answer questions. Structure your answers clearly with definitions, explanations, and examples."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Advanced Topics in 8085 Architecture",
+          "difficulty": "intermediate",
+          "explanation": "Deeper exploration of 8085 Architecture covering complex concepts, optimization techniques, and advanced applications relevant to computer science.",
+          "keyPoints": [
+            "Complexity analysis",
+            "Optimization techniques",
+            "Real-world applications"
+          ],
+          "formula": null,
+          "examTip": "Focus on algorithm implementations and time complexity analysis — these are high-value topics in CSIT exams."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Assembly Language",
+      "shortIntro": "BSc CSIT sem-2: Assembly Language for computer science students.",
+      "introduction": {
+        "overview": "Assembly Language is a vital chapter in the BSc CSIT Microprocessor syllabus for sem 2. The BSc CSIT program at TU is one of the most sought-after programs in Nepal for students interested in computer science and information technology.\n\nThis chapter covers fundamentals that are critical not only for university examinations but also for technical interviews, competitive programming, and advanced research in computer science.\n\nStudents should combine textbook study with practical programming exercises, online resources, and group study sessions. The BSc CSIT curriculum is rigorous, and consistent effort throughout the semester is necessary for success.\n\nMastering Assembly Language will provide students with skills that are directly applicable in Nepal's growing IT industry and in further academic pursuits.",
+        "whyItMatters": "Essential for BSc CSIT students — Assembly Language is heavily weighted in semester exams and forms the basis for advanced courses.",
+        "prerequisites": [
+          "Strong foundation in secondary mathematics and science"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Fundamentals of Assembly Language",
+          "difficulty": "beginner",
+          "explanation": "A thorough introduction to the concepts of Assembly Language. This topic establishes the foundational knowledge required for the rest of the chapter and for advanced study in later semesters.\n\nBSc CSIT students should particularly focus on the theoretical aspects that are frequently tested in TU examinations.",
+          "keyPoints": [
+            "Core theoretical concepts",
+            "Mathematical foundations",
+            "Practical implementation aspects"
+          ],
+          "formula": null,
+          "examTip": "TU BSc CSIT exams emphasize long-answer questions. Structure your answers clearly with definitions, explanations, and examples."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Advanced Topics in Assembly Language",
+          "difficulty": "intermediate",
+          "explanation": "Deeper exploration of Assembly Language covering complex concepts, optimization techniques, and advanced applications relevant to computer science.",
+          "keyPoints": [
+            "Complexity analysis",
+            "Optimization techniques",
+            "Real-world applications"
+          ],
+          "formula": null,
+          "examTip": "Focus on algorithm implementations and time complexity analysis — these are high-value topics in CSIT exams."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Interfacing",
+      "shortIntro": "BSc CSIT sem-2: Interfacing for computer science students.",
+      "introduction": {
+        "overview": "Interfacing is a vital chapter in the BSc CSIT Microprocessor syllabus for sem 2. The BSc CSIT program at TU is one of the most sought-after programs in Nepal for students interested in computer science and information technology.\n\nThis chapter covers fundamentals that are critical not only for university examinations but also for technical interviews, competitive programming, and advanced research in computer science.\n\nStudents should combine textbook study with practical programming exercises, online resources, and group study sessions. The BSc CSIT curriculum is rigorous, and consistent effort throughout the semester is necessary for success.\n\nMastering Interfacing will provide students with skills that are directly applicable in Nepal's growing IT industry and in further academic pursuits.",
+        "whyItMatters": "Essential for BSc CSIT students — Interfacing is heavily weighted in semester exams and forms the basis for advanced courses.",
+        "prerequisites": [
+          "Strong foundation in secondary mathematics and science"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Fundamentals of Interfacing",
+          "difficulty": "beginner",
+          "explanation": "A thorough introduction to the concepts of Interfacing. This topic establishes the foundational knowledge required for the rest of the chapter and for advanced study in later semesters.\n\nBSc CSIT students should particularly focus on the theoretical aspects that are frequently tested in TU examinations.",
+          "keyPoints": [
+            "Core theoretical concepts",
+            "Mathematical foundations",
+            "Practical implementation aspects"
+          ],
+          "formula": null,
+          "examTip": "TU BSc CSIT exams emphasize long-answer questions. Structure your answers clearly with definitions, explanations, and examples."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Advanced Topics in Interfacing",
+          "difficulty": "intermediate",
+          "explanation": "Deeper exploration of Interfacing covering complex concepts, optimization techniques, and advanced applications relevant to computer science.",
+          "keyPoints": [
+            "Complexity analysis",
+            "Optimization techniques",
+            "Real-world applications"
+          ],
+          "formula": null,
+          "examTip": "Focus on algorithm implementations and time complexity analysis — these are high-value topics in CSIT exams."
+        }
+      ]
+    }
+  ]
+}

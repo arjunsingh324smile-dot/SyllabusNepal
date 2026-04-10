@@ -1,0 +1,264 @@
+{
+  "meta": {
+    "program": "CSIT Entrance",
+    "category": "entrance",
+    "subCategory": "csit",
+    "subject": "Basic Computer",
+    "subjectId": "basic-computer",
+    "color": "#0891B2",
+    "lastUpdated": "2025",
+    "totalChapters": 5
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Computer Fundamentals",
+      "shortIntro": "CSIT Entrance: Computer Fundamentals — exam preparation guide.",
+      "introduction": {
+        "overview": "Computer Fundamentals is a critical topic for the CSIT Entrance examination. This chapter covers the complete syllabus content as specified by the conducting body, with focus on the types of questions that appear in the entrance test.\n\nThe CSIT Entrance is one of the most competitive entrance examinations in Nepal, and thorough preparation of Computer Fundamentals is essential for achieving a high rank. Past papers analysis shows that this topic consistently carries significant marks.\n\nStudents should combine systematic study with timed practice tests. Focus on accuracy first, then work on speed. Understanding concepts deeply is more effective than memorizing formulas, as the examination tests analytical ability.\n\nA structured preparation plan covering this chapter, combined with regular revision and mock tests, will maximize your chances of success in the CSIT Entrance.",
+        "whyItMatters": "High-frequency topic in CSIT Entrance. Thorough preparation of Computer Fundamentals can significantly improve your entrance rank. Multiple questions appear from this chapter every year.",
+        "prerequisites": [
+          "NEB Grade 11-12 syllabus knowledge"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Core Concepts: Computer Fundamentals",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential concepts of Computer Fundamentals that are tested in the CSIT Entrance examination. Focus is on building a solid understanding that enables quick and accurate problem-solving under exam conditions.\n\nStudents should practice with past entrance papers and model questions to familiarize themselves with the question patterns.",
+          "keyPoints": [
+            "Key formulas and principles",
+            "Common question patterns",
+            "Quick-solving techniques",
+            "High-frequency topics"
+          ],
+          "formula": null,
+          "examTip": "In CSIT Entrance, time management is crucial. Practice solving MCQs within 60-90 seconds per question."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Problem Solving: Computer Fundamentals",
+          "difficulty": "advanced",
+          "explanation": "Advanced problem-solving techniques for Computer Fundamentals in the context of competitive entrance examination. This topic covers shortcuts, elimination strategies, and advanced methods.\n\nFocus on the most frequently tested areas and develop systematic approaches to solve problems efficiently.",
+          "keyPoints": [
+            "Shortcut methods",
+            "Elimination techniques",
+            "Common traps to avoid",
+            "Previous year patterns"
+          ],
+          "formula": null,
+          "examTip": "Review the last 5 years of CSIT Entrance papers for Computer Fundamentals. Identify the most repeated question types."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Number System",
+      "shortIntro": "CSIT Entrance: Number System — exam preparation guide.",
+      "introduction": {
+        "overview": "Number System is a critical topic for the CSIT Entrance examination. This chapter covers the complete syllabus content as specified by the conducting body, with focus on the types of questions that appear in the entrance test.\n\nThe CSIT Entrance is one of the most competitive entrance examinations in Nepal, and thorough preparation of Number System is essential for achieving a high rank. Past papers analysis shows that this topic consistently carries significant marks.\n\nStudents should combine systematic study with timed practice tests. Focus on accuracy first, then work on speed. Understanding concepts deeply is more effective than memorizing formulas, as the examination tests analytical ability.\n\nA structured preparation plan covering this chapter, combined with regular revision and mock tests, will maximize your chances of success in the CSIT Entrance.",
+        "whyItMatters": "High-frequency topic in CSIT Entrance. Thorough preparation of Number System can significantly improve your entrance rank. Multiple questions appear from this chapter every year.",
+        "prerequisites": [
+          "NEB Grade 11-12 syllabus knowledge"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Core Concepts: Number System",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential concepts of Number System that are tested in the CSIT Entrance examination. Focus is on building a solid understanding that enables quick and accurate problem-solving under exam conditions.\n\nStudents should practice with past entrance papers and model questions to familiarize themselves with the question patterns.",
+          "keyPoints": [
+            "Key formulas and principles",
+            "Common question patterns",
+            "Quick-solving techniques",
+            "High-frequency topics"
+          ],
+          "formula": null,
+          "examTip": "In CSIT Entrance, time management is crucial. Practice solving MCQs within 60-90 seconds per question."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Problem Solving: Number System",
+          "difficulty": "advanced",
+          "explanation": "Advanced problem-solving techniques for Number System in the context of competitive entrance examination. This topic covers shortcuts, elimination strategies, and advanced methods.\n\nFocus on the most frequently tested areas and develop systematic approaches to solve problems efficiently.",
+          "keyPoints": [
+            "Shortcut methods",
+            "Elimination techniques",
+            "Common traps to avoid",
+            "Previous year patterns"
+          ],
+          "formula": null,
+          "examTip": "Review the last 5 years of CSIT Entrance papers for Number System. Identify the most repeated question types."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Programming Concepts",
+      "shortIntro": "CSIT Entrance: Programming Concepts — exam preparation guide.",
+      "introduction": {
+        "overview": "Programming Concepts is a critical topic for the CSIT Entrance examination. This chapter covers the complete syllabus content as specified by the conducting body, with focus on the types of questions that appear in the entrance test.\n\nThe CSIT Entrance is one of the most competitive entrance examinations in Nepal, and thorough preparation of Programming Concepts is essential for achieving a high rank. Past papers analysis shows that this topic consistently carries significant marks.\n\nStudents should combine systematic study with timed practice tests. Focus on accuracy first, then work on speed. Understanding concepts deeply is more effective than memorizing formulas, as the examination tests analytical ability.\n\nA structured preparation plan covering this chapter, combined with regular revision and mock tests, will maximize your chances of success in the CSIT Entrance.",
+        "whyItMatters": "High-frequency topic in CSIT Entrance. Thorough preparation of Programming Concepts can significantly improve your entrance rank. Multiple questions appear from this chapter every year.",
+        "prerequisites": [
+          "NEB Grade 11-12 syllabus knowledge"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Core Concepts: Programming Concepts",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential concepts of Programming Concepts that are tested in the CSIT Entrance examination. Focus is on building a solid understanding that enables quick and accurate problem-solving under exam conditions.\n\nStudents should practice with past entrance papers and model questions to familiarize themselves with the question patterns.",
+          "keyPoints": [
+            "Key formulas and principles",
+            "Common question patterns",
+            "Quick-solving techniques",
+            "High-frequency topics"
+          ],
+          "formula": null,
+          "examTip": "In CSIT Entrance, time management is crucial. Practice solving MCQs within 60-90 seconds per question."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Problem Solving: Programming Concepts",
+          "difficulty": "advanced",
+          "explanation": "Advanced problem-solving techniques for Programming Concepts in the context of competitive entrance examination. This topic covers shortcuts, elimination strategies, and advanced methods.\n\nFocus on the most frequently tested areas and develop systematic approaches to solve problems efficiently.",
+          "keyPoints": [
+            "Shortcut methods",
+            "Elimination techniques",
+            "Common traps to avoid",
+            "Previous year patterns"
+          ],
+          "formula": null,
+          "examTip": "Review the last 5 years of CSIT Entrance papers for Programming Concepts. Identify the most repeated question types."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Networking Basics",
+      "shortIntro": "CSIT Entrance: Networking Basics — exam preparation guide.",
+      "introduction": {
+        "overview": "Networking Basics is a critical topic for the CSIT Entrance examination. This chapter covers the complete syllabus content as specified by the conducting body, with focus on the types of questions that appear in the entrance test.\n\nThe CSIT Entrance is one of the most competitive entrance examinations in Nepal, and thorough preparation of Networking Basics is essential for achieving a high rank. Past papers analysis shows that this topic consistently carries significant marks.\n\nStudents should combine systematic study with timed practice tests. Focus on accuracy first, then work on speed. Understanding concepts deeply is more effective than memorizing formulas, as the examination tests analytical ability.\n\nA structured preparation plan covering this chapter, combined with regular revision and mock tests, will maximize your chances of success in the CSIT Entrance.",
+        "whyItMatters": "High-frequency topic in CSIT Entrance. Thorough preparation of Networking Basics can significantly improve your entrance rank. Multiple questions appear from this chapter every year.",
+        "prerequisites": [
+          "NEB Grade 11-12 syllabus knowledge"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Core Concepts: Networking Basics",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential concepts of Networking Basics that are tested in the CSIT Entrance examination. Focus is on building a solid understanding that enables quick and accurate problem-solving under exam conditions.\n\nStudents should practice with past entrance papers and model questions to familiarize themselves with the question patterns.",
+          "keyPoints": [
+            "Key formulas and principles",
+            "Common question patterns",
+            "Quick-solving techniques",
+            "High-frequency topics"
+          ],
+          "formula": null,
+          "examTip": "In CSIT Entrance, time management is crucial. Practice solving MCQs within 60-90 seconds per question."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Problem Solving: Networking Basics",
+          "difficulty": "advanced",
+          "explanation": "Advanced problem-solving techniques for Networking Basics in the context of competitive entrance examination. This topic covers shortcuts, elimination strategies, and advanced methods.\n\nFocus on the most frequently tested areas and develop systematic approaches to solve problems efficiently.",
+          "keyPoints": [
+            "Shortcut methods",
+            "Elimination techniques",
+            "Common traps to avoid",
+            "Previous year patterns"
+          ],
+          "formula": null,
+          "examTip": "Review the last 5 years of CSIT Entrance papers for Networking Basics. Identify the most repeated question types."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Internet and Multimedia",
+      "shortIntro": "CSIT Entrance: Internet and Multimedia — exam preparation guide.",
+      "introduction": {
+        "overview": "Internet and Multimedia is a critical topic for the CSIT Entrance examination. This chapter covers the complete syllabus content as specified by the conducting body, with focus on the types of questions that appear in the entrance test.\n\nThe CSIT Entrance is one of the most competitive entrance examinations in Nepal, and thorough preparation of Internet and Multimedia is essential for achieving a high rank. Past papers analysis shows that this topic consistently carries significant marks.\n\nStudents should combine systematic study with timed practice tests. Focus on accuracy first, then work on speed. Understanding concepts deeply is more effective than memorizing formulas, as the examination tests analytical ability.\n\nA structured preparation plan covering this chapter, combined with regular revision and mock tests, will maximize your chances of success in the CSIT Entrance.",
+        "whyItMatters": "High-frequency topic in CSIT Entrance. Thorough preparation of Internet and Multimedia can significantly improve your entrance rank. Multiple questions appear from this chapter every year.",
+        "prerequisites": [
+          "NEB Grade 11-12 syllabus knowledge"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Core Concepts: Internet and Multimedia",
+          "difficulty": "intermediate",
+          "explanation": "This topic covers the essential concepts of Internet and Multimedia that are tested in the CSIT Entrance examination. Focus is on building a solid understanding that enables quick and accurate problem-solving under exam conditions.\n\nStudents should practice with past entrance papers and model questions to familiarize themselves with the question patterns.",
+          "keyPoints": [
+            "Key formulas and principles",
+            "Common question patterns",
+            "Quick-solving techniques",
+            "High-frequency topics"
+          ],
+          "formula": null,
+          "examTip": "In CSIT Entrance, time management is crucial. Practice solving MCQs within 60-90 seconds per question."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Problem Solving: Internet and Multimedia",
+          "difficulty": "advanced",
+          "explanation": "Advanced problem-solving techniques for Internet and Multimedia in the context of competitive entrance examination. This topic covers shortcuts, elimination strategies, and advanced methods.\n\nFocus on the most frequently tested areas and develop systematic approaches to solve problems efficiently.",
+          "keyPoints": [
+            "Shortcut methods",
+            "Elimination techniques",
+            "Common traps to avoid",
+            "Previous year patterns"
+          ],
+          "formula": null,
+          "examTip": "Review the last 5 years of CSIT Entrance papers for Internet and Multimedia. Identify the most repeated question types."
+        }
+      ]
+    }
+  ]
+}

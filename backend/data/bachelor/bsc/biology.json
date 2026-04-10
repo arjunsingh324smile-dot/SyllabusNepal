@@ -1,0 +1,254 @@
+{
+  "meta": {
+    "program": "BSc",
+    "category": "bachelor",
+    "subCategory": "bsc",
+    "subject": "Biology",
+    "subjectId": "biology",
+    "color": "#059669",
+    "lastUpdated": "2025",
+    "totalChapters": 5
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Cell Biology",
+      "shortIntro": "BSc Biology: Cell Biology — university level study.",
+      "introduction": {
+        "overview": "Cell Biology is a fundamental chapter in the BSc Biology curriculum. This chapter provides a university-level understanding of the topic, building on concepts from the +2 level.\n\nBSc students should approach this chapter with a focus on both conceptual depth and experimental understanding. Laboratory work complements the theoretical study and is essential for a complete grasp of the material.\n\nThe curriculum follows TU's approved syllabus and prepares students for higher studies (MSc) as well as professional careers in science and technology.\n\nStudents are encouraged to consult multiple reference books and research papers to develop a comprehensive understanding of Cell Biology.",
+        "whyItMatters": "This chapter is central to the BSc Biology program and provides essential knowledge for both examinations and research careers.",
+        "prerequisites": [
+          "+2 Science background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Theoretical Foundations of Cell Biology",
+          "difficulty": "intermediate",
+          "explanation": "A comprehensive coverage of the theoretical foundations of Cell Biology at the university level. This topic introduces advanced concepts that build upon secondary-level knowledge.",
+          "keyPoints": [
+            "Advanced theoretical concepts",
+            "Mathematical derivations",
+            "Key laws and principles"
+          ],
+          "formula": null,
+          "examTip": "BSc exams require detailed derivations. Practice writing proofs and derivations step by step."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Experimental and Applied Cell Biology",
+          "difficulty": "advanced",
+          "explanation": "This topic covers the experimental and applied aspects of Cell Biology. Laboratory exercises, calculations, and practical applications are emphasized.",
+          "keyPoints": [
+            "Laboratory techniques",
+            "Data analysis",
+            "Practical applications"
+          ],
+          "formula": null,
+          "examTip": "Always link theoretical knowledge to practical experiments in your exam answers."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Genetics",
+      "shortIntro": "BSc Biology: Genetics — university level study.",
+      "introduction": {
+        "overview": "Genetics is a fundamental chapter in the BSc Biology curriculum. This chapter provides a university-level understanding of the topic, building on concepts from the +2 level.\n\nBSc students should approach this chapter with a focus on both conceptual depth and experimental understanding. Laboratory work complements the theoretical study and is essential for a complete grasp of the material.\n\nThe curriculum follows TU's approved syllabus and prepares students for higher studies (MSc) as well as professional careers in science and technology.\n\nStudents are encouraged to consult multiple reference books and research papers to develop a comprehensive understanding of Genetics.",
+        "whyItMatters": "This chapter is central to the BSc Biology program and provides essential knowledge for both examinations and research careers.",
+        "prerequisites": [
+          "+2 Science background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Theoretical Foundations of Genetics",
+          "difficulty": "intermediate",
+          "explanation": "A comprehensive coverage of the theoretical foundations of Genetics at the university level. This topic introduces advanced concepts that build upon secondary-level knowledge.",
+          "keyPoints": [
+            "Advanced theoretical concepts",
+            "Mathematical derivations",
+            "Key laws and principles"
+          ],
+          "formula": null,
+          "examTip": "BSc exams require detailed derivations. Practice writing proofs and derivations step by step."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Experimental and Applied Genetics",
+          "difficulty": "advanced",
+          "explanation": "This topic covers the experimental and applied aspects of Genetics. Laboratory exercises, calculations, and practical applications are emphasized.",
+          "keyPoints": [
+            "Laboratory techniques",
+            "Data analysis",
+            "Practical applications"
+          ],
+          "formula": null,
+          "examTip": "Always link theoretical knowledge to practical experiments in your exam answers."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Ecology",
+      "shortIntro": "BSc Biology: Ecology — university level study.",
+      "introduction": {
+        "overview": "Ecology is a fundamental chapter in the BSc Biology curriculum. This chapter provides a university-level understanding of the topic, building on concepts from the +2 level.\n\nBSc students should approach this chapter with a focus on both conceptual depth and experimental understanding. Laboratory work complements the theoretical study and is essential for a complete grasp of the material.\n\nThe curriculum follows TU's approved syllabus and prepares students for higher studies (MSc) as well as professional careers in science and technology.\n\nStudents are encouraged to consult multiple reference books and research papers to develop a comprehensive understanding of Ecology.",
+        "whyItMatters": "This chapter is central to the BSc Biology program and provides essential knowledge for both examinations and research careers.",
+        "prerequisites": [
+          "+2 Science background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Theoretical Foundations of Ecology",
+          "difficulty": "intermediate",
+          "explanation": "A comprehensive coverage of the theoretical foundations of Ecology at the university level. This topic introduces advanced concepts that build upon secondary-level knowledge.",
+          "keyPoints": [
+            "Advanced theoretical concepts",
+            "Mathematical derivations",
+            "Key laws and principles"
+          ],
+          "formula": null,
+          "examTip": "BSc exams require detailed derivations. Practice writing proofs and derivations step by step."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Experimental and Applied Ecology",
+          "difficulty": "advanced",
+          "explanation": "This topic covers the experimental and applied aspects of Ecology. Laboratory exercises, calculations, and practical applications are emphasized.",
+          "keyPoints": [
+            "Laboratory techniques",
+            "Data analysis",
+            "Practical applications"
+          ],
+          "formula": null,
+          "examTip": "Always link theoretical knowledge to practical experiments in your exam answers."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Microbiology",
+      "shortIntro": "BSc Biology: Microbiology — university level study.",
+      "introduction": {
+        "overview": "Microbiology is a fundamental chapter in the BSc Biology curriculum. This chapter provides a university-level understanding of the topic, building on concepts from the +2 level.\n\nBSc students should approach this chapter with a focus on both conceptual depth and experimental understanding. Laboratory work complements the theoretical study and is essential for a complete grasp of the material.\n\nThe curriculum follows TU's approved syllabus and prepares students for higher studies (MSc) as well as professional careers in science and technology.\n\nStudents are encouraged to consult multiple reference books and research papers to develop a comprehensive understanding of Microbiology.",
+        "whyItMatters": "This chapter is central to the BSc Biology program and provides essential knowledge for both examinations and research careers.",
+        "prerequisites": [
+          "+2 Science background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Theoretical Foundations of Microbiology",
+          "difficulty": "intermediate",
+          "explanation": "A comprehensive coverage of the theoretical foundations of Microbiology at the university level. This topic introduces advanced concepts that build upon secondary-level knowledge.",
+          "keyPoints": [
+            "Advanced theoretical concepts",
+            "Mathematical derivations",
+            "Key laws and principles"
+          ],
+          "formula": null,
+          "examTip": "BSc exams require detailed derivations. Practice writing proofs and derivations step by step."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Experimental and Applied Microbiology",
+          "difficulty": "advanced",
+          "explanation": "This topic covers the experimental and applied aspects of Microbiology. Laboratory exercises, calculations, and practical applications are emphasized.",
+          "keyPoints": [
+            "Laboratory techniques",
+            "Data analysis",
+            "Practical applications"
+          ],
+          "formula": null,
+          "examTip": "Always link theoretical knowledge to practical experiments in your exam answers."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Biochemistry",
+      "shortIntro": "BSc Biology: Biochemistry — university level study.",
+      "introduction": {
+        "overview": "Biochemistry is a fundamental chapter in the BSc Biology curriculum. This chapter provides a university-level understanding of the topic, building on concepts from the +2 level.\n\nBSc students should approach this chapter with a focus on both conceptual depth and experimental understanding. Laboratory work complements the theoretical study and is essential for a complete grasp of the material.\n\nThe curriculum follows TU's approved syllabus and prepares students for higher studies (MSc) as well as professional careers in science and technology.\n\nStudents are encouraged to consult multiple reference books and research papers to develop a comprehensive understanding of Biochemistry.",
+        "whyItMatters": "This chapter is central to the BSc Biology program and provides essential knowledge for both examinations and research careers.",
+        "prerequisites": [
+          "+2 Science background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Theoretical Foundations of Biochemistry",
+          "difficulty": "intermediate",
+          "explanation": "A comprehensive coverage of the theoretical foundations of Biochemistry at the university level. This topic introduces advanced concepts that build upon secondary-level knowledge.",
+          "keyPoints": [
+            "Advanced theoretical concepts",
+            "Mathematical derivations",
+            "Key laws and principles"
+          ],
+          "formula": null,
+          "examTip": "BSc exams require detailed derivations. Practice writing proofs and derivations step by step."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Experimental and Applied Biochemistry",
+          "difficulty": "advanced",
+          "explanation": "This topic covers the experimental and applied aspects of Biochemistry. Laboratory exercises, calculations, and practical applications are emphasized.",
+          "keyPoints": [
+            "Laboratory techniques",
+            "Data analysis",
+            "Practical applications"
+          ],
+          "formula": null,
+          "examTip": "Always link theoretical knowledge to practical experiments in your exam answers."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,924 @@
+{
+  "meta": {
+    "program": "SEE",
+    "category": "school",
+    "subCategory": "see",
+    "subject": "Science",
+    "subjectId": "science",
+    "color": "#7C3AED",
+    "lastUpdated": "2025",
+    "totalChapters": 14
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Force and Laws of Motion",
+      "shortIntro": "SEE Science: Comprehensive study of Force and Laws of Motion.",
+      "introduction": {
+        "overview": "Force and Laws of Motion is a critical chapter in the SEE Science syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Force and Laws of Motion appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Fundamentals of Force and Laws of Motion",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Force and Laws of Motion as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Force and Laws of Motion",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Advanced Applications of Force and Laws of Motion",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-1-3",
+          "number": 3,
+          "name": "Practice and Revision for Force and Laws of Motion",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Force and Laws of Motion. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Pressure",
+      "shortIntro": "SEE Science: Comprehensive study of Pressure.",
+      "introduction": {
+        "overview": "Pressure is a critical chapter in the SEE Science syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Pressure appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Fundamentals of Pressure",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Pressure as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Pressure",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Advanced Applications of Pressure",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-2-3",
+          "number": 3,
+          "name": "Practice and Revision for Pressure",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Pressure. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Energy",
+      "shortIntro": "SEE Science: Comprehensive study of Energy.",
+      "introduction": {
+        "overview": "Energy is a critical chapter in the SEE Science syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Energy appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Fundamentals of Energy",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Energy as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Energy",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Advanced Applications of Energy",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-3-3",
+          "number": 3,
+          "name": "Practice and Revision for Energy",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Energy. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Heat",
+      "shortIntro": "SEE Science: Comprehensive study of Heat.",
+      "introduction": {
+        "overview": "Heat is a critical chapter in the SEE Science syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Heat appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Fundamentals of Heat",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Heat as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Heat",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Advanced Applications of Heat",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-4-3",
+          "number": 3,
+          "name": "Practice and Revision for Heat",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Heat. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Light",
+      "shortIntro": "SEE Science: Comprehensive study of Light.",
+      "introduction": {
+        "overview": "Light is a critical chapter in the SEE Science syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Light appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Fundamentals of Light",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Light as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Light",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Advanced Applications of Light",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-5-3",
+          "number": 3,
+          "name": "Practice and Revision for Light",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Light. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-6",
+      "number": 6,
+      "title": "Sound",
+      "shortIntro": "SEE Science: Comprehensive study of Sound.",
+      "introduction": {
+        "overview": "Sound is a critical chapter in the SEE Science syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Sound appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-6-1",
+          "number": 1,
+          "name": "Fundamentals of Sound",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Sound as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Sound",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-6-2",
+          "number": 2,
+          "name": "Advanced Applications of Sound",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-6-3",
+          "number": 3,
+          "name": "Practice and Revision for Sound",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Sound. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-7",
+      "number": 7,
+      "title": "Electricity and Magnetism",
+      "shortIntro": "SEE Science: Comprehensive study of Electricity and Magnetism.",
+      "introduction": {
+        "overview": "Electricity and Magnetism is a critical chapter in the SEE Science syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Electricity and Magnetism appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-7-1",
+          "number": 1,
+          "name": "Fundamentals of Electricity and Magnetism",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Electricity and Magnetism as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Electricity and Magnetism",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-7-2",
+          "number": 2,
+          "name": "Advanced Applications of Electricity and Magnetism",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-7-3",
+          "number": 3,
+          "name": "Practice and Revision for Electricity and Magnetism",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Electricity and Magnetism. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-8",
+      "number": 8,
+      "title": "Classification of Elements",
+      "shortIntro": "SEE Science: Comprehensive study of Classification of Elements.",
+      "introduction": {
+        "overview": "Classification of Elements is a critical chapter in the SEE Science syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Classification of Elements appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-8-1",
+          "number": 1,
+          "name": "Fundamentals of Classification of Elements",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Classification of Elements as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Classification of Elements",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-8-2",
+          "number": 2,
+          "name": "Advanced Applications of Classification of Elements",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-8-3",
+          "number": 3,
+          "name": "Practice and Revision for Classification of Elements",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Classification of Elements. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-9",
+      "number": 9,
+      "title": "Chemical Reactions",
+      "shortIntro": "SEE Science: Comprehensive study of Chemical Reactions.",
+      "introduction": {
+        "overview": "Chemical Reactions is a critical chapter in the SEE Science syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Chemical Reactions appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-9-1",
+          "number": 1,
+          "name": "Fundamentals of Chemical Reactions",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Chemical Reactions as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Chemical Reactions",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-9-2",
+          "number": 2,
+          "name": "Advanced Applications of Chemical Reactions",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-9-3",
+          "number": 3,
+          "name": "Practice and Revision for Chemical Reactions",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Chemical Reactions. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-10",
+      "number": 10,
+      "title": "Metals and Non-metals",
+      "shortIntro": "SEE Science: Comprehensive study of Metals and Non-metals.",
+      "introduction": {
+        "overview": "Metals and Non-metals is a critical chapter in the SEE Science syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Metals and Non-metals appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-10-1",
+          "number": 1,
+          "name": "Fundamentals of Metals and Non-metals",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Metals and Non-metals as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Metals and Non-metals",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-10-2",
+          "number": 2,
+          "name": "Advanced Applications of Metals and Non-metals",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-10-3",
+          "number": 3,
+          "name": "Practice and Revision for Metals and Non-metals",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Metals and Non-metals. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-11",
+      "number": 11,
+      "title": "Carbon Compounds",
+      "shortIntro": "SEE Science: Comprehensive study of Carbon Compounds.",
+      "introduction": {
+        "overview": "Carbon Compounds is a critical chapter in the SEE Science syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Carbon Compounds appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-11-1",
+          "number": 1,
+          "name": "Fundamentals of Carbon Compounds",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Carbon Compounds as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Carbon Compounds",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-11-2",
+          "number": 2,
+          "name": "Advanced Applications of Carbon Compounds",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-11-3",
+          "number": 3,
+          "name": "Practice and Revision for Carbon Compounds",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Carbon Compounds. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-12",
+      "number": 12,
+      "title": "Cell Biology and Genetics",
+      "shortIntro": "SEE Science: Comprehensive study of Cell Biology and Genetics.",
+      "introduction": {
+        "overview": "Cell Biology and Genetics is a critical chapter in the SEE Science syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Cell Biology and Genetics appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-12-1",
+          "number": 1,
+          "name": "Fundamentals of Cell Biology and Genetics",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Cell Biology and Genetics as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Cell Biology and Genetics",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-12-2",
+          "number": 2,
+          "name": "Advanced Applications of Cell Biology and Genetics",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-12-3",
+          "number": 3,
+          "name": "Practice and Revision for Cell Biology and Genetics",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Cell Biology and Genetics. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-13",
+      "number": 13,
+      "title": "Human Body Systems",
+      "shortIntro": "SEE Science: Comprehensive study of Human Body Systems.",
+      "introduction": {
+        "overview": "Human Body Systems is a critical chapter in the SEE Science syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Human Body Systems appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-13-1",
+          "number": 1,
+          "name": "Fundamentals of Human Body Systems",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Human Body Systems as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Human Body Systems",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-13-2",
+          "number": 2,
+          "name": "Advanced Applications of Human Body Systems",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-13-3",
+          "number": 3,
+          "name": "Practice and Revision for Human Body Systems",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Human Body Systems. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-14",
+      "number": 14,
+      "title": "Environment and Ecosystem",
+      "shortIntro": "SEE Science: Comprehensive study of Environment and Ecosystem.",
+      "introduction": {
+        "overview": "Environment and Ecosystem is a critical chapter in the SEE Science syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Environment and Ecosystem appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-14-1",
+          "number": 1,
+          "name": "Fundamentals of Environment and Ecosystem",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Environment and Ecosystem as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Environment and Ecosystem",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-14-2",
+          "number": 2,
+          "name": "Advanced Applications of Environment and Ecosystem",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-14-3",
+          "number": 3,
+          "name": "Practice and Revision for Environment and Ecosystem",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Environment and Ecosystem. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    }
+  ]
+}

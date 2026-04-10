@@ -1,0 +1,664 @@
+{
+  "meta": {
+    "program": "SEE",
+    "category": "school",
+    "subCategory": "see",
+    "subject": "Social Studies",
+    "subjectId": "social-studies",
+    "color": "#D97706",
+    "lastUpdated": "2025",
+    "totalChapters": 10
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Development and Infrastructure",
+      "shortIntro": "SEE Social Studies: Comprehensive study of Development and Infrastructure.",
+      "introduction": {
+        "overview": "Development and Infrastructure is a critical chapter in the SEE Social Studies syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Development and Infrastructure appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Fundamentals of Development and Infrastructure",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Development and Infrastructure as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Development and Infrastructure",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Advanced Applications of Development and Infrastructure",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-1-3",
+          "number": 3,
+          "name": "Practice and Revision for Development and Infrastructure",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Development and Infrastructure. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Our Earth",
+      "shortIntro": "SEE Social Studies: Comprehensive study of Our Earth.",
+      "introduction": {
+        "overview": "Our Earth is a critical chapter in the SEE Social Studies syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Our Earth appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Fundamentals of Our Earth",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Our Earth as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Our Earth",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Advanced Applications of Our Earth",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-2-3",
+          "number": 3,
+          "name": "Practice and Revision for Our Earth",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Our Earth. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Social Life and Problems",
+      "shortIntro": "SEE Social Studies: Comprehensive study of Social Life and Problems.",
+      "introduction": {
+        "overview": "Social Life and Problems is a critical chapter in the SEE Social Studies syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Social Life and Problems appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Fundamentals of Social Life and Problems",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Social Life and Problems as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Social Life and Problems",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Advanced Applications of Social Life and Problems",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-3-3",
+          "number": 3,
+          "name": "Practice and Revision for Social Life and Problems",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Social Life and Problems. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Civic Awareness",
+      "shortIntro": "SEE Social Studies: Comprehensive study of Civic Awareness.",
+      "introduction": {
+        "overview": "Civic Awareness is a critical chapter in the SEE Social Studies syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Civic Awareness appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Fundamentals of Civic Awareness",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Civic Awareness as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Civic Awareness",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Advanced Applications of Civic Awareness",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-4-3",
+          "number": 3,
+          "name": "Practice and Revision for Civic Awareness",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Civic Awareness. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "History of Nepal",
+      "shortIntro": "SEE Social Studies: Comprehensive study of History of Nepal.",
+      "introduction": {
+        "overview": "History of Nepal is a critical chapter in the SEE Social Studies syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from History of Nepal appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Fundamentals of History of Nepal",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of History of Nepal as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to History of Nepal",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Advanced Applications of History of Nepal",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-5-3",
+          "number": 3,
+          "name": "Practice and Revision for History of Nepal",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to History of Nepal. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-6",
+      "number": 6,
+      "title": "World History",
+      "shortIntro": "SEE Social Studies: Comprehensive study of World History.",
+      "introduction": {
+        "overview": "World History is a critical chapter in the SEE Social Studies syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from World History appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-6-1",
+          "number": 1,
+          "name": "Fundamentals of World History",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of World History as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to World History",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-6-2",
+          "number": 2,
+          "name": "Advanced Applications of World History",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-6-3",
+          "number": 3,
+          "name": "Practice and Revision for World History",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to World History. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-7",
+      "number": 7,
+      "title": "Geography of Nepal",
+      "shortIntro": "SEE Social Studies: Comprehensive study of Geography of Nepal.",
+      "introduction": {
+        "overview": "Geography of Nepal is a critical chapter in the SEE Social Studies syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Geography of Nepal appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-7-1",
+          "number": 1,
+          "name": "Fundamentals of Geography of Nepal",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Geography of Nepal as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Geography of Nepal",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-7-2",
+          "number": 2,
+          "name": "Advanced Applications of Geography of Nepal",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-7-3",
+          "number": 3,
+          "name": "Practice and Revision for Geography of Nepal",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Geography of Nepal. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-8",
+      "number": 8,
+      "title": "International Relations",
+      "shortIntro": "SEE Social Studies: Comprehensive study of International Relations.",
+      "introduction": {
+        "overview": "International Relations is a critical chapter in the SEE Social Studies syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from International Relations appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-8-1",
+          "number": 1,
+          "name": "Fundamentals of International Relations",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of International Relations as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to International Relations",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-8-2",
+          "number": 2,
+          "name": "Advanced Applications of International Relations",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-8-3",
+          "number": 3,
+          "name": "Practice and Revision for International Relations",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to International Relations. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-9",
+      "number": 9,
+      "title": "Population and Migration",
+      "shortIntro": "SEE Social Studies: Comprehensive study of Population and Migration.",
+      "introduction": {
+        "overview": "Population and Migration is a critical chapter in the SEE Social Studies syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Population and Migration appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-9-1",
+          "number": 1,
+          "name": "Fundamentals of Population and Migration",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Population and Migration as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Population and Migration",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-9-2",
+          "number": 2,
+          "name": "Advanced Applications of Population and Migration",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-9-3",
+          "number": 3,
+          "name": "Practice and Revision for Population and Migration",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Population and Migration. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    },
+    {
+      "id": "ch-10",
+      "number": 10,
+      "title": "Economic Activities",
+      "shortIntro": "SEE Social Studies: Comprehensive study of Economic Activities.",
+      "introduction": {
+        "overview": "Economic Activities is a critical chapter in the SEE Social Studies syllabus. This chapter has consistently appeared in SEE examinations and carries significant marks. A thorough understanding of this topic is essential for achieving high grades.\n\nThe chapter covers both theoretical concepts and practical applications. Students preparing for SEE should pay special attention to the types of questions that appear from this chapter, as the pattern tends to be consistent across years.\n\nStudents are advised to study from the approved NEB textbook and supplement with practice from past SEE question papers. Understanding the marking scheme helps in structuring answers properly for maximum marks.\n\nKey formulas and concepts from this chapter should be memorized and practiced regularly. Many students find it helpful to create summary notes and formula sheets for quick revision before the examination.",
+        "whyItMatters": "This chapter carries significant weightage in SEE. Questions from Economic Activities appear almost every year and mastering it can significantly boost your overall score.",
+        "prerequisites": [
+          "Class 9 foundation in this subject"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-10-1",
+          "number": 1,
+          "name": "Fundamentals of Economic Activities",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the core concepts of Economic Activities as required for the SEE examination. Students will learn the essential definitions, principles, and basic problem-solving methods.\n\nA solid grasp of these fundamentals is crucial as they form the basis for more advanced questions that appear in the SEE paper.",
+          "keyPoints": [
+            "Key definitions related to Economic Activities",
+            "Basic formulas and their applications",
+            "Common SEE question patterns",
+            "Step-by-step problem solving approach"
+          ],
+          "formula": null,
+          "examTip": "SEE frequently tests basic understanding through short-answer questions. Make sure definitions are precise and clear."
+        },
+        {
+          "id": "t-10-2",
+          "number": 2,
+          "name": "Advanced Applications of Economic Activities",
+          "difficulty": "intermediate",
+          "explanation": "Building on the fundamentals, this topic covers more complex applications and problem types. These are the questions that differentiate between average and high-scoring students in SEE.\n\nPractice is key — work through past SEE papers dating back 5 years to identify recurring question types and develop efficient solution strategies.",
+          "keyPoints": [
+            "Multi-step problem solving",
+            "Application to real-world scenarios",
+            "Common tricks and shortcuts",
+            "Error-prone areas to watch for"
+          ],
+          "formula": null,
+          "examTip": "For higher marks, show complete working and use proper notation. Examiners award partial marks for correct methodology."
+        },
+        {
+          "id": "t-10-3",
+          "number": 3,
+          "name": "Practice and Revision for Economic Activities",
+          "difficulty": "intermediate",
+          "explanation": "This topic is about exam preparation strategies specific to Economic Activities. It covers time management, question selection, and revision techniques that have helped past SEE toppers.\n\nCreate a revision schedule that allocates time proportional to the marks weightage of each section within this chapter.",
+          "keyPoints": [
+            "Review all formulas before exam",
+            "Practice time-bound question sets",
+            "Focus on high-weightage areas",
+            "Verify answers using alternative methods"
+          ],
+          "formula": null,
+          "examTip": "In the SEE exam, attempt all questions from this chapter first if you're confident. It builds momentum for the rest of the paper."
+        }
+      ]
+    }
+  ]
+}

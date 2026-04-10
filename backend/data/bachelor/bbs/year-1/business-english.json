@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "program": "BBS",
+    "category": "bachelor",
+    "subCategory": "bbs",
+    "subject": "Business English",
+    "subjectId": "business-english",
+    "color": "#2563EB",
+    "lastUpdated": "2025",
+    "semester": "year-1",
+    "totalChapters": 5
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Business Communication Basics",
+      "shortIntro": "BBS year-1: Business Communication Basics — comprehensive study material.",
+      "introduction": {
+        "overview": "Business Communication Basics is a key chapter in the BBS Business English curriculum for year 1. This chapter provides students with the knowledge and skills needed for success in their university examinations and future professional careers.\n\nThe content is designed according to Tribhuvan University's approved syllabus and covers both theoretical frameworks and practical applications. Students are expected to demonstrate analytical thinking and the ability to apply concepts to business scenarios.\n\nRegular attendance in lectures, combined with self-study using recommended textbooks, is essential for mastering this chapter. Past examination papers from TU provide valuable insight into the types of questions that are typically asked.\n\nThis chapter forms an important foundation for advanced topics that students will encounter in subsequent years of their BBS program.",
+        "whyItMatters": "This chapter is essential for BBS year 1 examinations and provides practical knowledge applicable to business and commerce careers in Nepal.",
+        "prerequisites": [
+          "Previous year coursework"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Core Concepts: Business Communication Basics",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental concepts of Business Communication Basics. Students will learn the essential theories, definitions, and frameworks that form the basis of this chapter.\n\nA solid understanding of these fundamentals is necessary for tackling examination questions and for practical application in real-world business scenarios.",
+          "keyPoints": [
+            "Key theories and frameworks",
+            "Essential definitions",
+            "Foundational principles",
+            "TU examination relevance"
+          ],
+          "formula": null,
+          "examTip": "In TU exams, start long answers with a clear definition, followed by explanation and examples. This structure typically earns the highest marks."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Applied Business Communication Basics",
+          "difficulty": "intermediate",
+          "explanation": "Building on the foundational concepts, this topic explores practical applications of Business Communication Basics in business contexts. Case studies and examples relevant to Nepal's business environment are emphasized.",
+          "keyPoints": [
+            "Real-world business applications",
+            "Case study approach",
+            "Nepal-specific examples",
+            "Problem-solving framework"
+          ],
+          "formula": null,
+          "examTip": "TU often asks case-based questions. Practice applying theoretical concepts to practical scenarios."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Business Letters",
+      "shortIntro": "BBS year-1: Business Letters — comprehensive study material.",
+      "introduction": {
+        "overview": "Business Letters is a key chapter in the BBS Business English curriculum for year 1. This chapter provides students with the knowledge and skills needed for success in their university examinations and future professional careers.\n\nThe content is designed according to Tribhuvan University's approved syllabus and covers both theoretical frameworks and practical applications. Students are expected to demonstrate analytical thinking and the ability to apply concepts to business scenarios.\n\nRegular attendance in lectures, combined with self-study using recommended textbooks, is essential for mastering this chapter. Past examination papers from TU provide valuable insight into the types of questions that are typically asked.\n\nThis chapter forms an important foundation for advanced topics that students will encounter in subsequent years of their BBS program.",
+        "whyItMatters": "This chapter is essential for BBS year 1 examinations and provides practical knowledge applicable to business and commerce careers in Nepal.",
+        "prerequisites": [
+          "Previous year coursework"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Core Concepts: Business Letters",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental concepts of Business Letters. Students will learn the essential theories, definitions, and frameworks that form the basis of this chapter.\n\nA solid understanding of these fundamentals is necessary for tackling examination questions and for practical application in real-world business scenarios.",
+          "keyPoints": [
+            "Key theories and frameworks",
+            "Essential definitions",
+            "Foundational principles",
+            "TU examination relevance"
+          ],
+          "formula": null,
+          "examTip": "In TU exams, start long answers with a clear definition, followed by explanation and examples. This structure typically earns the highest marks."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Applied Business Letters",
+          "difficulty": "intermediate",
+          "explanation": "Building on the foundational concepts, this topic explores practical applications of Business Letters in business contexts. Case studies and examples relevant to Nepal's business environment are emphasized.",
+          "keyPoints": [
+            "Real-world business applications",
+            "Case study approach",
+            "Nepal-specific examples",
+            "Problem-solving framework"
+          ],
+          "formula": null,
+          "examTip": "TU often asks case-based questions. Practice applying theoretical concepts to practical scenarios."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Report Writing",
+      "shortIntro": "BBS year-1: Report Writing — comprehensive study material.",
+      "introduction": {
+        "overview": "Report Writing is a key chapter in the BBS Business English curriculum for year 1. This chapter provides students with the knowledge and skills needed for success in their university examinations and future professional careers.\n\nThe content is designed according to Tribhuvan University's approved syllabus and covers both theoretical frameworks and practical applications. Students are expected to demonstrate analytical thinking and the ability to apply concepts to business scenarios.\n\nRegular attendance in lectures, combined with self-study using recommended textbooks, is essential for mastering this chapter. Past examination papers from TU provide valuable insight into the types of questions that are typically asked.\n\nThis chapter forms an important foundation for advanced topics that students will encounter in subsequent years of their BBS program.",
+        "whyItMatters": "This chapter is essential for BBS year 1 examinations and provides practical knowledge applicable to business and commerce careers in Nepal.",
+        "prerequisites": [
+          "Previous year coursework"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Core Concepts: Report Writing",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental concepts of Report Writing. Students will learn the essential theories, definitions, and frameworks that form the basis of this chapter.\n\nA solid understanding of these fundamentals is necessary for tackling examination questions and for practical application in real-world business scenarios.",
+          "keyPoints": [
+            "Key theories and frameworks",
+            "Essential definitions",
+            "Foundational principles",
+            "TU examination relevance"
+          ],
+          "formula": null,
+          "examTip": "In TU exams, start long answers with a clear definition, followed by explanation and examples. This structure typically earns the highest marks."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Applied Report Writing",
+          "difficulty": "intermediate",
+          "explanation": "Building on the foundational concepts, this topic explores practical applications of Report Writing in business contexts. Case studies and examples relevant to Nepal's business environment are emphasized.",
+          "keyPoints": [
+            "Real-world business applications",
+            "Case study approach",
+            "Nepal-specific examples",
+            "Problem-solving framework"
+          ],
+          "formula": null,
+          "examTip": "TU often asks case-based questions. Practice applying theoretical concepts to practical scenarios."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Presentation Skills",
+      "shortIntro": "BBS year-1: Presentation Skills — comprehensive study material.",
+      "introduction": {
+        "overview": "Presentation Skills is a key chapter in the BBS Business English curriculum for year 1. This chapter provides students with the knowledge and skills needed for success in their university examinations and future professional careers.\n\nThe content is designed according to Tribhuvan University's approved syllabus and covers both theoretical frameworks and practical applications. Students are expected to demonstrate analytical thinking and the ability to apply concepts to business scenarios.\n\nRegular attendance in lectures, combined with self-study using recommended textbooks, is essential for mastering this chapter. Past examination papers from TU provide valuable insight into the types of questions that are typically asked.\n\nThis chapter forms an important foundation for advanced topics that students will encounter in subsequent years of their BBS program.",
+        "whyItMatters": "This chapter is essential for BBS year 1 examinations and provides practical knowledge applicable to business and commerce careers in Nepal.",
+        "prerequisites": [
+          "Previous year coursework"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Core Concepts: Presentation Skills",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental concepts of Presentation Skills. Students will learn the essential theories, definitions, and frameworks that form the basis of this chapter.\n\nA solid understanding of these fundamentals is necessary for tackling examination questions and for practical application in real-world business scenarios.",
+          "keyPoints": [
+            "Key theories and frameworks",
+            "Essential definitions",
+            "Foundational principles",
+            "TU examination relevance"
+          ],
+          "formula": null,
+          "examTip": "In TU exams, start long answers with a clear definition, followed by explanation and examples. This structure typically earns the highest marks."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Applied Presentation Skills",
+          "difficulty": "intermediate",
+          "explanation": "Building on the foundational concepts, this topic explores practical applications of Presentation Skills in business contexts. Case studies and examples relevant to Nepal's business environment are emphasized.",
+          "keyPoints": [
+            "Real-world business applications",
+            "Case study approach",
+            "Nepal-specific examples",
+            "Problem-solving framework"
+          ],
+          "formula": null,
+          "examTip": "TU often asks case-based questions. Practice applying theoretical concepts to practical scenarios."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Business Vocabulary",
+      "shortIntro": "BBS year-1: Business Vocabulary — comprehensive study material.",
+      "introduction": {
+        "overview": "Business Vocabulary is a key chapter in the BBS Business English curriculum for year 1. This chapter provides students with the knowledge and skills needed for success in their university examinations and future professional careers.\n\nThe content is designed according to Tribhuvan University's approved syllabus and covers both theoretical frameworks and practical applications. Students are expected to demonstrate analytical thinking and the ability to apply concepts to business scenarios.\n\nRegular attendance in lectures, combined with self-study using recommended textbooks, is essential for mastering this chapter. Past examination papers from TU provide valuable insight into the types of questions that are typically asked.\n\nThis chapter forms an important foundation for advanced topics that students will encounter in subsequent years of their BBS program.",
+        "whyItMatters": "This chapter is essential for BBS year 1 examinations and provides practical knowledge applicable to business and commerce careers in Nepal.",
+        "prerequisites": [
+          "Previous year coursework"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Core Concepts: Business Vocabulary",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental concepts of Business Vocabulary. Students will learn the essential theories, definitions, and frameworks that form the basis of this chapter.\n\nA solid understanding of these fundamentals is necessary for tackling examination questions and for practical application in real-world business scenarios.",
+          "keyPoints": [
+            "Key theories and frameworks",
+            "Essential definitions",
+            "Foundational principles",
+            "TU examination relevance"
+          ],
+          "formula": null,
+          "examTip": "In TU exams, start long answers with a clear definition, followed by explanation and examples. This structure typically earns the highest marks."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Applied Business Vocabulary",
+          "difficulty": "intermediate",
+          "explanation": "Building on the foundational concepts, this topic explores practical applications of Business Vocabulary in business contexts. Case studies and examples relevant to Nepal's business environment are emphasized.",
+          "keyPoints": [
+            "Real-world business applications",
+            "Case study approach",
+            "Nepal-specific examples",
+            "Problem-solving framework"
+          ],
+          "formula": null,
+          "examTip": "TU often asks case-based questions. Practice applying theoretical concepts to practical scenarios."
+        }
+      ]
+    }
+  ]
+}

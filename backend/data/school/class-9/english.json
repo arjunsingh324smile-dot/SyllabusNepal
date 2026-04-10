@@ -1,0 +1,302 @@
+{
+  "meta": {
+    "program": "Class 9",
+    "category": "school",
+    "subCategory": "class-9",
+    "subject": "English",
+    "subjectId": "english",
+    "color": "#2563EB",
+    "lastUpdated": "2025",
+    "totalChapters": 6
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Reading Skills",
+      "shortIntro": "Class 9 English: Reading Skills fundamentals and applications.",
+      "introduction": {
+        "overview": "Reading Skills is an important chapter in the Class 9 English curriculum. Building on concepts from Grade 8, this chapter introduces more advanced ideas and prepares students for the SEE examination.\n\nThe chapter explores both theoretical understanding and practical applications. Students should aim to master the core concepts before attempting more complex problems.\n\nRegular practice with classwork exercises and reference materials will help solidify understanding. Teachers typically emphasize this topic due to its relevance in the SEE syllabus.\n\nBy the end of this chapter, students should be comfortable with key concepts and ready to tackle SEE-level questions on Reading Skills.",
+        "whyItMatters": "Understanding Reading Skills at the Class 9 level builds the foundation for SEE preparation. This topic appears in various forms across examinations.",
+        "prerequisites": [
+          "Grade 8 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Core Concepts of Reading Skills",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental principles of Reading Skills as taught in Class 9. Students will learn key definitions, theorems, and basic problem-solving approaches.\n\nA thorough understanding of these concepts is necessary before advancing to more complex material in Class 10.",
+          "keyPoints": [
+            "Key definitions and principles",
+            "Basic problem-solving techniques",
+            "Links to Grade 8 concepts"
+          ],
+          "formula": null,
+          "examTip": "Focus on understanding core principles rather than rote memorization."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Problem Solving in Reading Skills",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the core concepts and introduces various problem types that students will encounter in examinations.\n\nPractice is essential — work through as many examples as possible to build speed and confidence.",
+          "keyPoints": [
+            "Multiple problem types covered",
+            "Step-by-step solution approach",
+            "Time management in exams"
+          ],
+          "formula": null,
+          "examTip": "Practice past paper questions on Reading Skills to understand the exam pattern."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Grammar Usage",
+      "shortIntro": "Class 9 English: Grammar Usage fundamentals and applications.",
+      "introduction": {
+        "overview": "Grammar Usage is an important chapter in the Class 9 English curriculum. Building on concepts from Grade 8, this chapter introduces more advanced ideas and prepares students for the SEE examination.\n\nThe chapter explores both theoretical understanding and practical applications. Students should aim to master the core concepts before attempting more complex problems.\n\nRegular practice with classwork exercises and reference materials will help solidify understanding. Teachers typically emphasize this topic due to its relevance in the SEE syllabus.\n\nBy the end of this chapter, students should be comfortable with key concepts and ready to tackle SEE-level questions on Grammar Usage.",
+        "whyItMatters": "Understanding Grammar Usage at the Class 9 level builds the foundation for SEE preparation. This topic appears in various forms across examinations.",
+        "prerequisites": [
+          "Grade 8 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Core Concepts of Grammar Usage",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental principles of Grammar Usage as taught in Class 9. Students will learn key definitions, theorems, and basic problem-solving approaches.\n\nA thorough understanding of these concepts is necessary before advancing to more complex material in Class 10.",
+          "keyPoints": [
+            "Key definitions and principles",
+            "Basic problem-solving techniques",
+            "Links to Grade 8 concepts"
+          ],
+          "formula": null,
+          "examTip": "Focus on understanding core principles rather than rote memorization."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Problem Solving in Grammar Usage",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the core concepts and introduces various problem types that students will encounter in examinations.\n\nPractice is essential — work through as many examples as possible to build speed and confidence.",
+          "keyPoints": [
+            "Multiple problem types covered",
+            "Step-by-step solution approach",
+            "Time management in exams"
+          ],
+          "formula": null,
+          "examTip": "Practice past paper questions on Grammar Usage to understand the exam pattern."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Composition",
+      "shortIntro": "Class 9 English: Composition fundamentals and applications.",
+      "introduction": {
+        "overview": "Composition is an important chapter in the Class 9 English curriculum. Building on concepts from Grade 8, this chapter introduces more advanced ideas and prepares students for the SEE examination.\n\nThe chapter explores both theoretical understanding and practical applications. Students should aim to master the core concepts before attempting more complex problems.\n\nRegular practice with classwork exercises and reference materials will help solidify understanding. Teachers typically emphasize this topic due to its relevance in the SEE syllabus.\n\nBy the end of this chapter, students should be comfortable with key concepts and ready to tackle SEE-level questions on Composition.",
+        "whyItMatters": "Understanding Composition at the Class 9 level builds the foundation for SEE preparation. This topic appears in various forms across examinations.",
+        "prerequisites": [
+          "Grade 8 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Core Concepts of Composition",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental principles of Composition as taught in Class 9. Students will learn key definitions, theorems, and basic problem-solving approaches.\n\nA thorough understanding of these concepts is necessary before advancing to more complex material in Class 10.",
+          "keyPoints": [
+            "Key definitions and principles",
+            "Basic problem-solving techniques",
+            "Links to Grade 8 concepts"
+          ],
+          "formula": null,
+          "examTip": "Focus on understanding core principles rather than rote memorization."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Problem Solving in Composition",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the core concepts and introduces various problem types that students will encounter in examinations.\n\nPractice is essential — work through as many examples as possible to build speed and confidence.",
+          "keyPoints": [
+            "Multiple problem types covered",
+            "Step-by-step solution approach",
+            "Time management in exams"
+          ],
+          "formula": null,
+          "examTip": "Practice past paper questions on Composition to understand the exam pattern."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Vocabulary Building",
+      "shortIntro": "Class 9 English: Vocabulary Building fundamentals and applications.",
+      "introduction": {
+        "overview": "Vocabulary Building is an important chapter in the Class 9 English curriculum. Building on concepts from Grade 8, this chapter introduces more advanced ideas and prepares students for the SEE examination.\n\nThe chapter explores both theoretical understanding and practical applications. Students should aim to master the core concepts before attempting more complex problems.\n\nRegular practice with classwork exercises and reference materials will help solidify understanding. Teachers typically emphasize this topic due to its relevance in the SEE syllabus.\n\nBy the end of this chapter, students should be comfortable with key concepts and ready to tackle SEE-level questions on Vocabulary Building.",
+        "whyItMatters": "Understanding Vocabulary Building at the Class 9 level builds the foundation for SEE preparation. This topic appears in various forms across examinations.",
+        "prerequisites": [
+          "Grade 8 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Core Concepts of Vocabulary Building",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental principles of Vocabulary Building as taught in Class 9. Students will learn key definitions, theorems, and basic problem-solving approaches.\n\nA thorough understanding of these concepts is necessary before advancing to more complex material in Class 10.",
+          "keyPoints": [
+            "Key definitions and principles",
+            "Basic problem-solving techniques",
+            "Links to Grade 8 concepts"
+          ],
+          "formula": null,
+          "examTip": "Focus on understanding core principles rather than rote memorization."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Problem Solving in Vocabulary Building",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the core concepts and introduces various problem types that students will encounter in examinations.\n\nPractice is essential — work through as many examples as possible to build speed and confidence.",
+          "keyPoints": [
+            "Multiple problem types covered",
+            "Step-by-step solution approach",
+            "Time management in exams"
+          ],
+          "formula": null,
+          "examTip": "Practice past paper questions on Vocabulary Building to understand the exam pattern."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Dialogue Writing",
+      "shortIntro": "Class 9 English: Dialogue Writing fundamentals and applications.",
+      "introduction": {
+        "overview": "Dialogue Writing is an important chapter in the Class 9 English curriculum. Building on concepts from Grade 8, this chapter introduces more advanced ideas and prepares students for the SEE examination.\n\nThe chapter explores both theoretical understanding and practical applications. Students should aim to master the core concepts before attempting more complex problems.\n\nRegular practice with classwork exercises and reference materials will help solidify understanding. Teachers typically emphasize this topic due to its relevance in the SEE syllabus.\n\nBy the end of this chapter, students should be comfortable with key concepts and ready to tackle SEE-level questions on Dialogue Writing.",
+        "whyItMatters": "Understanding Dialogue Writing at the Class 9 level builds the foundation for SEE preparation. This topic appears in various forms across examinations.",
+        "prerequisites": [
+          "Grade 8 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Core Concepts of Dialogue Writing",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental principles of Dialogue Writing as taught in Class 9. Students will learn key definitions, theorems, and basic problem-solving approaches.\n\nA thorough understanding of these concepts is necessary before advancing to more complex material in Class 10.",
+          "keyPoints": [
+            "Key definitions and principles",
+            "Basic problem-solving techniques",
+            "Links to Grade 8 concepts"
+          ],
+          "formula": null,
+          "examTip": "Focus on understanding core principles rather than rote memorization."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Problem Solving in Dialogue Writing",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the core concepts and introduces various problem types that students will encounter in examinations.\n\nPractice is essential — work through as many examples as possible to build speed and confidence.",
+          "keyPoints": [
+            "Multiple problem types covered",
+            "Step-by-step solution approach",
+            "Time management in exams"
+          ],
+          "formula": null,
+          "examTip": "Practice past paper questions on Dialogue Writing to understand the exam pattern."
+        }
+      ]
+    },
+    {
+      "id": "ch-6",
+      "number": 6,
+      "title": "Report Writing",
+      "shortIntro": "Class 9 English: Report Writing fundamentals and applications.",
+      "introduction": {
+        "overview": "Report Writing is an important chapter in the Class 9 English curriculum. Building on concepts from Grade 8, this chapter introduces more advanced ideas and prepares students for the SEE examination.\n\nThe chapter explores both theoretical understanding and practical applications. Students should aim to master the core concepts before attempting more complex problems.\n\nRegular practice with classwork exercises and reference materials will help solidify understanding. Teachers typically emphasize this topic due to its relevance in the SEE syllabus.\n\nBy the end of this chapter, students should be comfortable with key concepts and ready to tackle SEE-level questions on Report Writing.",
+        "whyItMatters": "Understanding Report Writing at the Class 9 level builds the foundation for SEE preparation. This topic appears in various forms across examinations.",
+        "prerequisites": [
+          "Grade 8 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-6-1",
+          "number": 1,
+          "name": "Core Concepts of Report Writing",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental principles of Report Writing as taught in Class 9. Students will learn key definitions, theorems, and basic problem-solving approaches.\n\nA thorough understanding of these concepts is necessary before advancing to more complex material in Class 10.",
+          "keyPoints": [
+            "Key definitions and principles",
+            "Basic problem-solving techniques",
+            "Links to Grade 8 concepts"
+          ],
+          "formula": null,
+          "examTip": "Focus on understanding core principles rather than rote memorization."
+        },
+        {
+          "id": "t-6-2",
+          "number": 2,
+          "name": "Problem Solving in Report Writing",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the core concepts and introduces various problem types that students will encounter in examinations.\n\nPractice is essential — work through as many examples as possible to build speed and confidence.",
+          "keyPoints": [
+            "Multiple problem types covered",
+            "Step-by-step solution approach",
+            "Time management in exams"
+          ],
+          "formula": null,
+          "examTip": "Practice past paper questions on Report Writing to understand the exam pattern."
+        }
+      ]
+    }
+  ]
+}

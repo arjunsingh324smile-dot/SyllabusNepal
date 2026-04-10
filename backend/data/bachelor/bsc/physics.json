@@ -1,0 +1,254 @@
+{
+  "meta": {
+    "program": "BSc",
+    "category": "bachelor",
+    "subCategory": "bsc",
+    "subject": "Physics",
+    "subjectId": "physics",
+    "color": "#DC2626",
+    "lastUpdated": "2025",
+    "totalChapters": 5
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Mechanics",
+      "shortIntro": "BSc Physics: Mechanics — university level study.",
+      "introduction": {
+        "overview": "Mechanics is a fundamental chapter in the BSc Physics curriculum. This chapter provides a university-level understanding of the topic, building on concepts from the +2 level.\n\nBSc students should approach this chapter with a focus on both conceptual depth and experimental understanding. Laboratory work complements the theoretical study and is essential for a complete grasp of the material.\n\nThe curriculum follows TU's approved syllabus and prepares students for higher studies (MSc) as well as professional careers in science and technology.\n\nStudents are encouraged to consult multiple reference books and research papers to develop a comprehensive understanding of Mechanics.",
+        "whyItMatters": "This chapter is central to the BSc Physics program and provides essential knowledge for both examinations and research careers.",
+        "prerequisites": [
+          "+2 Science background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Theoretical Foundations of Mechanics",
+          "difficulty": "intermediate",
+          "explanation": "A comprehensive coverage of the theoretical foundations of Mechanics at the university level. This topic introduces advanced concepts that build upon secondary-level knowledge.",
+          "keyPoints": [
+            "Advanced theoretical concepts",
+            "Mathematical derivations",
+            "Key laws and principles"
+          ],
+          "formula": null,
+          "examTip": "BSc exams require detailed derivations. Practice writing proofs and derivations step by step."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Experimental and Applied Mechanics",
+          "difficulty": "advanced",
+          "explanation": "This topic covers the experimental and applied aspects of Mechanics. Laboratory exercises, calculations, and practical applications are emphasized.",
+          "keyPoints": [
+            "Laboratory techniques",
+            "Data analysis",
+            "Practical applications"
+          ],
+          "formula": null,
+          "examTip": "Always link theoretical knowledge to practical experiments in your exam answers."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Thermodynamics",
+      "shortIntro": "BSc Physics: Thermodynamics — university level study.",
+      "introduction": {
+        "overview": "Thermodynamics is a fundamental chapter in the BSc Physics curriculum. This chapter provides a university-level understanding of the topic, building on concepts from the +2 level.\n\nBSc students should approach this chapter with a focus on both conceptual depth and experimental understanding. Laboratory work complements the theoretical study and is essential for a complete grasp of the material.\n\nThe curriculum follows TU's approved syllabus and prepares students for higher studies (MSc) as well as professional careers in science and technology.\n\nStudents are encouraged to consult multiple reference books and research papers to develop a comprehensive understanding of Thermodynamics.",
+        "whyItMatters": "This chapter is central to the BSc Physics program and provides essential knowledge for both examinations and research careers.",
+        "prerequisites": [
+          "+2 Science background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Theoretical Foundations of Thermodynamics",
+          "difficulty": "intermediate",
+          "explanation": "A comprehensive coverage of the theoretical foundations of Thermodynamics at the university level. This topic introduces advanced concepts that build upon secondary-level knowledge.",
+          "keyPoints": [
+            "Advanced theoretical concepts",
+            "Mathematical derivations",
+            "Key laws and principles"
+          ],
+          "formula": null,
+          "examTip": "BSc exams require detailed derivations. Practice writing proofs and derivations step by step."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Experimental and Applied Thermodynamics",
+          "difficulty": "advanced",
+          "explanation": "This topic covers the experimental and applied aspects of Thermodynamics. Laboratory exercises, calculations, and practical applications are emphasized.",
+          "keyPoints": [
+            "Laboratory techniques",
+            "Data analysis",
+            "Practical applications"
+          ],
+          "formula": null,
+          "examTip": "Always link theoretical knowledge to practical experiments in your exam answers."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Waves and Optics",
+      "shortIntro": "BSc Physics: Waves and Optics — university level study.",
+      "introduction": {
+        "overview": "Waves and Optics is a fundamental chapter in the BSc Physics curriculum. This chapter provides a university-level understanding of the topic, building on concepts from the +2 level.\n\nBSc students should approach this chapter with a focus on both conceptual depth and experimental understanding. Laboratory work complements the theoretical study and is essential for a complete grasp of the material.\n\nThe curriculum follows TU's approved syllabus and prepares students for higher studies (MSc) as well as professional careers in science and technology.\n\nStudents are encouraged to consult multiple reference books and research papers to develop a comprehensive understanding of Waves and Optics.",
+        "whyItMatters": "This chapter is central to the BSc Physics program and provides essential knowledge for both examinations and research careers.",
+        "prerequisites": [
+          "+2 Science background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Theoretical Foundations of Waves and Optics",
+          "difficulty": "intermediate",
+          "explanation": "A comprehensive coverage of the theoretical foundations of Waves and Optics at the university level. This topic introduces advanced concepts that build upon secondary-level knowledge.",
+          "keyPoints": [
+            "Advanced theoretical concepts",
+            "Mathematical derivations",
+            "Key laws and principles"
+          ],
+          "formula": null,
+          "examTip": "BSc exams require detailed derivations. Practice writing proofs and derivations step by step."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Experimental and Applied Waves and Optics",
+          "difficulty": "advanced",
+          "explanation": "This topic covers the experimental and applied aspects of Waves and Optics. Laboratory exercises, calculations, and practical applications are emphasized.",
+          "keyPoints": [
+            "Laboratory techniques",
+            "Data analysis",
+            "Practical applications"
+          ],
+          "formula": null,
+          "examTip": "Always link theoretical knowledge to practical experiments in your exam answers."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Electricity and Magnetism",
+      "shortIntro": "BSc Physics: Electricity and Magnetism — university level study.",
+      "introduction": {
+        "overview": "Electricity and Magnetism is a fundamental chapter in the BSc Physics curriculum. This chapter provides a university-level understanding of the topic, building on concepts from the +2 level.\n\nBSc students should approach this chapter with a focus on both conceptual depth and experimental understanding. Laboratory work complements the theoretical study and is essential for a complete grasp of the material.\n\nThe curriculum follows TU's approved syllabus and prepares students for higher studies (MSc) as well as professional careers in science and technology.\n\nStudents are encouraged to consult multiple reference books and research papers to develop a comprehensive understanding of Electricity and Magnetism.",
+        "whyItMatters": "This chapter is central to the BSc Physics program and provides essential knowledge for both examinations and research careers.",
+        "prerequisites": [
+          "+2 Science background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Theoretical Foundations of Electricity and Magnetism",
+          "difficulty": "intermediate",
+          "explanation": "A comprehensive coverage of the theoretical foundations of Electricity and Magnetism at the university level. This topic introduces advanced concepts that build upon secondary-level knowledge.",
+          "keyPoints": [
+            "Advanced theoretical concepts",
+            "Mathematical derivations",
+            "Key laws and principles"
+          ],
+          "formula": null,
+          "examTip": "BSc exams require detailed derivations. Practice writing proofs and derivations step by step."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Experimental and Applied Electricity and Magnetism",
+          "difficulty": "advanced",
+          "explanation": "This topic covers the experimental and applied aspects of Electricity and Magnetism. Laboratory exercises, calculations, and practical applications are emphasized.",
+          "keyPoints": [
+            "Laboratory techniques",
+            "Data analysis",
+            "Practical applications"
+          ],
+          "formula": null,
+          "examTip": "Always link theoretical knowledge to practical experiments in your exam answers."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Modern Physics",
+      "shortIntro": "BSc Physics: Modern Physics — university level study.",
+      "introduction": {
+        "overview": "Modern Physics is a fundamental chapter in the BSc Physics curriculum. This chapter provides a university-level understanding of the topic, building on concepts from the +2 level.\n\nBSc students should approach this chapter with a focus on both conceptual depth and experimental understanding. Laboratory work complements the theoretical study and is essential for a complete grasp of the material.\n\nThe curriculum follows TU's approved syllabus and prepares students for higher studies (MSc) as well as professional careers in science and technology.\n\nStudents are encouraged to consult multiple reference books and research papers to develop a comprehensive understanding of Modern Physics.",
+        "whyItMatters": "This chapter is central to the BSc Physics program and provides essential knowledge for both examinations and research careers.",
+        "prerequisites": [
+          "+2 Science background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Theoretical Foundations of Modern Physics",
+          "difficulty": "intermediate",
+          "explanation": "A comprehensive coverage of the theoretical foundations of Modern Physics at the university level. This topic introduces advanced concepts that build upon secondary-level knowledge.",
+          "keyPoints": [
+            "Advanced theoretical concepts",
+            "Mathematical derivations",
+            "Key laws and principles"
+          ],
+          "formula": null,
+          "examTip": "BSc exams require detailed derivations. Practice writing proofs and derivations step by step."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Experimental and Applied Modern Physics",
+          "difficulty": "advanced",
+          "explanation": "This topic covers the experimental and applied aspects of Modern Physics. Laboratory exercises, calculations, and practical applications are emphasized.",
+          "keyPoints": [
+            "Laboratory techniques",
+            "Data analysis",
+            "Practical applications"
+          ],
+          "formula": null,
+          "examTip": "Always link theoretical knowledge to practical experiments in your exam answers."
+        }
+      ]
+    }
+  ]
+}

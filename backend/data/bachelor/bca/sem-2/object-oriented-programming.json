@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "program": "BCA",
+    "category": "bachelor",
+    "subCategory": "bca",
+    "subject": "Object-Oriented Programming",
+    "subjectId": "object-oriented-programming",
+    "color": "#059669",
+    "lastUpdated": "2025",
+    "semester": "sem-2",
+    "totalChapters": 5
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "OOP Concepts",
+      "shortIntro": "BCA sem-2: OOP Concepts — theory and practical application.",
+      "introduction": {
+        "overview": "OOP Concepts is a core chapter in the BCA Object-Oriented Programming course for sem 2. This chapter provides the technical knowledge and practical skills essential for a career in computer applications and IT.\n\nThe BCA curriculum emphasizes hands-on learning alongside theoretical understanding. Students should practice coding, work through lab exercises, and build small projects to reinforce the concepts covered in this chapter.\n\nThe content follows the TU-affiliated BCA syllabus and is designed to prepare students for both university examinations and practical industry requirements.\n\nStudents who master this chapter will have a strong foundation for advanced topics in later semesters, including software engineering, database management, and web development.",
+        "whyItMatters": "This chapter is fundamental to the BCA curriculum. Understanding OOP Concepts thoroughly will help in examinations and in practical computing work.",
+        "prerequisites": [
+          "Basic computer literacy"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Introduction to OOP Concepts",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to OOP Concepts. Students learn the core concepts, terminology, and basic techniques that form the foundation of this chapter.\n\nComputer application students should focus on both understanding the theory and practicing with hands-on exercises.",
+          "keyPoints": [
+            "Core concepts and definitions",
+            "Practical examples and demonstrations",
+            "Common patterns and techniques"
+          ],
+          "formula": null,
+          "examTip": "BCA exams test both theoretical knowledge and practical application. Include code examples or diagrams where relevant."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Advanced OOP Concepts",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the basics and explores more advanced aspects of OOP Concepts. Emphasis is placed on problem-solving and practical application.",
+          "keyPoints": [
+            "Advanced techniques",
+            "Problem-solving strategies",
+            "Industry best practices"
+          ],
+          "formula": null,
+          "examTip": "Practice writing code or solutions by hand, as BCA exams often require handwritten programs."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Classes and Objects",
+      "shortIntro": "BCA sem-2: Classes and Objects — theory and practical application.",
+      "introduction": {
+        "overview": "Classes and Objects is a core chapter in the BCA Object-Oriented Programming course for sem 2. This chapter provides the technical knowledge and practical skills essential for a career in computer applications and IT.\n\nThe BCA curriculum emphasizes hands-on learning alongside theoretical understanding. Students should practice coding, work through lab exercises, and build small projects to reinforce the concepts covered in this chapter.\n\nThe content follows the TU-affiliated BCA syllabus and is designed to prepare students for both university examinations and practical industry requirements.\n\nStudents who master this chapter will have a strong foundation for advanced topics in later semesters, including software engineering, database management, and web development.",
+        "whyItMatters": "This chapter is fundamental to the BCA curriculum. Understanding Classes and Objects thoroughly will help in examinations and in practical computing work.",
+        "prerequisites": [
+          "Basic computer literacy"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Introduction to Classes and Objects",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Classes and Objects. Students learn the core concepts, terminology, and basic techniques that form the foundation of this chapter.\n\nComputer application students should focus on both understanding the theory and practicing with hands-on exercises.",
+          "keyPoints": [
+            "Core concepts and definitions",
+            "Practical examples and demonstrations",
+            "Common patterns and techniques"
+          ],
+          "formula": null,
+          "examTip": "BCA exams test both theoretical knowledge and practical application. Include code examples or diagrams where relevant."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Advanced Classes and Objects",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the basics and explores more advanced aspects of Classes and Objects. Emphasis is placed on problem-solving and practical application.",
+          "keyPoints": [
+            "Advanced techniques",
+            "Problem-solving strategies",
+            "Industry best practices"
+          ],
+          "formula": null,
+          "examTip": "Practice writing code or solutions by hand, as BCA exams often require handwritten programs."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Inheritance",
+      "shortIntro": "BCA sem-2: Inheritance — theory and practical application.",
+      "introduction": {
+        "overview": "Inheritance is a core chapter in the BCA Object-Oriented Programming course for sem 2. This chapter provides the technical knowledge and practical skills essential for a career in computer applications and IT.\n\nThe BCA curriculum emphasizes hands-on learning alongside theoretical understanding. Students should practice coding, work through lab exercises, and build small projects to reinforce the concepts covered in this chapter.\n\nThe content follows the TU-affiliated BCA syllabus and is designed to prepare students for both university examinations and practical industry requirements.\n\nStudents who master this chapter will have a strong foundation for advanced topics in later semesters, including software engineering, database management, and web development.",
+        "whyItMatters": "This chapter is fundamental to the BCA curriculum. Understanding Inheritance thoroughly will help in examinations and in practical computing work.",
+        "prerequisites": [
+          "Basic computer literacy"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Introduction to Inheritance",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Inheritance. Students learn the core concepts, terminology, and basic techniques that form the foundation of this chapter.\n\nComputer application students should focus on both understanding the theory and practicing with hands-on exercises.",
+          "keyPoints": [
+            "Core concepts and definitions",
+            "Practical examples and demonstrations",
+            "Common patterns and techniques"
+          ],
+          "formula": null,
+          "examTip": "BCA exams test both theoretical knowledge and practical application. Include code examples or diagrams where relevant."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Advanced Inheritance",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the basics and explores more advanced aspects of Inheritance. Emphasis is placed on problem-solving and practical application.",
+          "keyPoints": [
+            "Advanced techniques",
+            "Problem-solving strategies",
+            "Industry best practices"
+          ],
+          "formula": null,
+          "examTip": "Practice writing code or solutions by hand, as BCA exams often require handwritten programs."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Polymorphism",
+      "shortIntro": "BCA sem-2: Polymorphism — theory and practical application.",
+      "introduction": {
+        "overview": "Polymorphism is a core chapter in the BCA Object-Oriented Programming course for sem 2. This chapter provides the technical knowledge and practical skills essential for a career in computer applications and IT.\n\nThe BCA curriculum emphasizes hands-on learning alongside theoretical understanding. Students should practice coding, work through lab exercises, and build small projects to reinforce the concepts covered in this chapter.\n\nThe content follows the TU-affiliated BCA syllabus and is designed to prepare students for both university examinations and practical industry requirements.\n\nStudents who master this chapter will have a strong foundation for advanced topics in later semesters, including software engineering, database management, and web development.",
+        "whyItMatters": "This chapter is fundamental to the BCA curriculum. Understanding Polymorphism thoroughly will help in examinations and in practical computing work.",
+        "prerequisites": [
+          "Basic computer literacy"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Introduction to Polymorphism",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Polymorphism. Students learn the core concepts, terminology, and basic techniques that form the foundation of this chapter.\n\nComputer application students should focus on both understanding the theory and practicing with hands-on exercises.",
+          "keyPoints": [
+            "Core concepts and definitions",
+            "Practical examples and demonstrations",
+            "Common patterns and techniques"
+          ],
+          "formula": null,
+          "examTip": "BCA exams test both theoretical knowledge and practical application. Include code examples or diagrams where relevant."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Advanced Polymorphism",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the basics and explores more advanced aspects of Polymorphism. Emphasis is placed on problem-solving and practical application.",
+          "keyPoints": [
+            "Advanced techniques",
+            "Problem-solving strategies",
+            "Industry best practices"
+          ],
+          "formula": null,
+          "examTip": "Practice writing code or solutions by hand, as BCA exams often require handwritten programs."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Exception Handling",
+      "shortIntro": "BCA sem-2: Exception Handling — theory and practical application.",
+      "introduction": {
+        "overview": "Exception Handling is a core chapter in the BCA Object-Oriented Programming course for sem 2. This chapter provides the technical knowledge and practical skills essential for a career in computer applications and IT.\n\nThe BCA curriculum emphasizes hands-on learning alongside theoretical understanding. Students should practice coding, work through lab exercises, and build small projects to reinforce the concepts covered in this chapter.\n\nThe content follows the TU-affiliated BCA syllabus and is designed to prepare students for both university examinations and practical industry requirements.\n\nStudents who master this chapter will have a strong foundation for advanced topics in later semesters, including software engineering, database management, and web development.",
+        "whyItMatters": "This chapter is fundamental to the BCA curriculum. Understanding Exception Handling thoroughly will help in examinations and in practical computing work.",
+        "prerequisites": [
+          "Basic computer literacy"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Introduction to Exception Handling",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Exception Handling. Students learn the core concepts, terminology, and basic techniques that form the foundation of this chapter.\n\nComputer application students should focus on both understanding the theory and practicing with hands-on exercises.",
+          "keyPoints": [
+            "Core concepts and definitions",
+            "Practical examples and demonstrations",
+            "Common patterns and techniques"
+          ],
+          "formula": null,
+          "examTip": "BCA exams test both theoretical knowledge and practical application. Include code examples or diagrams where relevant."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Advanced Exception Handling",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the basics and explores more advanced aspects of Exception Handling. Emphasis is placed on problem-solving and practical application.",
+          "keyPoints": [
+            "Advanced techniques",
+            "Problem-solving strategies",
+            "Industry best practices"
+          ],
+          "formula": null,
+          "examTip": "Practice writing code or solutions by hand, as BCA exams often require handwritten programs."
+        }
+      ]
+    }
+  ]
+}

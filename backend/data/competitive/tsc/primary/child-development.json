@@ -1,0 +1,207 @@
+{
+  "meta": {
+    "program": "TSC (Teacher)",
+    "category": "competitive",
+    "subCategory": "tsc",
+    "level": "primary",
+    "subject": "Child Development",
+    "subjectId": "child-development",
+    "color": "#065F46",
+    "lastUpdated": "2025",
+    "totalChapters": 4
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Growth and Development",
+      "shortIntro": "TSC primary: Growth and Development — teacher service commission preparation.",
+      "introduction": {
+        "overview": "Growth and Development is a key topic in the Teacher Service Commission (TSC) primary level examination. The TSC exam is the gateway to permanent teaching positions in Nepal's government schools.\n\nThis chapter covers the pedagogical and theoretical knowledge that TSC tests. Understanding these concepts is essential both for the examination and for effective teaching practice.\n\nThe TSC primary level exam has a specific syllabus prescribed by the commission. This material follows that prescribed syllabus and focuses on the most frequently tested areas.\n\nRegular study combined with practice teaching and mock examinations provides the best preparation strategy for the TSC.",
+        "whyItMatters": "Essential for TSC primary level candidates. This topic appears consistently in TSC examinations and is crucial for a competitive score.",
+        "prerequisites": [
+          "Education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Growth and Development: Fundamentals",
+          "difficulty": "beginner",
+          "explanation": "Core concepts of Growth and Development for the TSC primary level examination. Provides the essential theoretical knowledge and practical understanding needed.",
+          "keyPoints": [
+            "Key theories and principles",
+            "Important researchers and their work",
+            "Practical applications"
+          ],
+          "formula": null,
+          "examTip": "TSC exams test both theoretical knowledge and practical application. Include real teaching examples in your answers."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Growth and Development: Application",
+          "difficulty": "intermediate",
+          "explanation": "Applied aspects of Growth and Development with focus on classroom practice, case studies, and examination-oriented content.",
+          "keyPoints": [
+            "Classroom application scenarios",
+            "Case study approach",
+            "Assessment strategies"
+          ],
+          "formula": null,
+          "examTip": "Relate theoretical concepts to Nepal's school education context. TSC values locally relevant examples."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Learning Theories",
+      "shortIntro": "TSC primary: Learning Theories — teacher service commission preparation.",
+      "introduction": {
+        "overview": "Learning Theories is a key topic in the Teacher Service Commission (TSC) primary level examination. The TSC exam is the gateway to permanent teaching positions in Nepal's government schools.\n\nThis chapter covers the pedagogical and theoretical knowledge that TSC tests. Understanding these concepts is essential both for the examination and for effective teaching practice.\n\nThe TSC primary level exam has a specific syllabus prescribed by the commission. This material follows that prescribed syllabus and focuses on the most frequently tested areas.\n\nRegular study combined with practice teaching and mock examinations provides the best preparation strategy for the TSC.",
+        "whyItMatters": "Essential for TSC primary level candidates. This topic appears consistently in TSC examinations and is crucial for a competitive score.",
+        "prerequisites": [
+          "Education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Learning Theories: Fundamentals",
+          "difficulty": "beginner",
+          "explanation": "Core concepts of Learning Theories for the TSC primary level examination. Provides the essential theoretical knowledge and practical understanding needed.",
+          "keyPoints": [
+            "Key theories and principles",
+            "Important researchers and their work",
+            "Practical applications"
+          ],
+          "formula": null,
+          "examTip": "TSC exams test both theoretical knowledge and practical application. Include real teaching examples in your answers."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Learning Theories: Application",
+          "difficulty": "intermediate",
+          "explanation": "Applied aspects of Learning Theories with focus on classroom practice, case studies, and examination-oriented content.",
+          "keyPoints": [
+            "Classroom application scenarios",
+            "Case study approach",
+            "Assessment strategies"
+          ],
+          "formula": null,
+          "examTip": "Relate theoretical concepts to Nepal's school education context. TSC values locally relevant examples."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Child Psychology",
+      "shortIntro": "TSC primary: Child Psychology — teacher service commission preparation.",
+      "introduction": {
+        "overview": "Child Psychology is a key topic in the Teacher Service Commission (TSC) primary level examination. The TSC exam is the gateway to permanent teaching positions in Nepal's government schools.\n\nThis chapter covers the pedagogical and theoretical knowledge that TSC tests. Understanding these concepts is essential both for the examination and for effective teaching practice.\n\nThe TSC primary level exam has a specific syllabus prescribed by the commission. This material follows that prescribed syllabus and focuses on the most frequently tested areas.\n\nRegular study combined with practice teaching and mock examinations provides the best preparation strategy for the TSC.",
+        "whyItMatters": "Essential for TSC primary level candidates. This topic appears consistently in TSC examinations and is crucial for a competitive score.",
+        "prerequisites": [
+          "Education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Child Psychology: Fundamentals",
+          "difficulty": "beginner",
+          "explanation": "Core concepts of Child Psychology for the TSC primary level examination. Provides the essential theoretical knowledge and practical understanding needed.",
+          "keyPoints": [
+            "Key theories and principles",
+            "Important researchers and their work",
+            "Practical applications"
+          ],
+          "formula": null,
+          "examTip": "TSC exams test both theoretical knowledge and practical application. Include real teaching examples in your answers."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Child Psychology: Application",
+          "difficulty": "intermediate",
+          "explanation": "Applied aspects of Child Psychology with focus on classroom practice, case studies, and examination-oriented content.",
+          "keyPoints": [
+            "Classroom application scenarios",
+            "Case study approach",
+            "Assessment strategies"
+          ],
+          "formula": null,
+          "examTip": "Relate theoretical concepts to Nepal's school education context. TSC values locally relevant examples."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Special Needs Education",
+      "shortIntro": "TSC primary: Special Needs Education — teacher service commission preparation.",
+      "introduction": {
+        "overview": "Special Needs Education is a key topic in the Teacher Service Commission (TSC) primary level examination. The TSC exam is the gateway to permanent teaching positions in Nepal's government schools.\n\nThis chapter covers the pedagogical and theoretical knowledge that TSC tests. Understanding these concepts is essential both for the examination and for effective teaching practice.\n\nThe TSC primary level exam has a specific syllabus prescribed by the commission. This material follows that prescribed syllabus and focuses on the most frequently tested areas.\n\nRegular study combined with practice teaching and mock examinations provides the best preparation strategy for the TSC.",
+        "whyItMatters": "Essential for TSC primary level candidates. This topic appears consistently in TSC examinations and is crucial for a competitive score.",
+        "prerequisites": [
+          "Education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Special Needs Education: Fundamentals",
+          "difficulty": "beginner",
+          "explanation": "Core concepts of Special Needs Education for the TSC primary level examination. Provides the essential theoretical knowledge and practical understanding needed.",
+          "keyPoints": [
+            "Key theories and principles",
+            "Important researchers and their work",
+            "Practical applications"
+          ],
+          "formula": null,
+          "examTip": "TSC exams test both theoretical knowledge and practical application. Include real teaching examples in your answers."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Special Needs Education: Application",
+          "difficulty": "intermediate",
+          "explanation": "Applied aspects of Special Needs Education with focus on classroom practice, case studies, and examination-oriented content.",
+          "keyPoints": [
+            "Classroom application scenarios",
+            "Case study approach",
+            "Assessment strategies"
+          ],
+          "formula": null,
+          "examTip": "Relate theoretical concepts to Nepal's school education context. TSC values locally relevant examples."
+        }
+      ]
+    }
+  ]
+}

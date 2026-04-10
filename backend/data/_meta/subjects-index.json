@@ -1,0 +1,1615 @@
+{
+  "subjects": [
+    {
+      "id": "business-mathematics",
+      "name": "Business Mathematics",
+      "category": "bachelor",
+      "program": "BBA",
+      "path": "bachelor/bba/sem-1/business-mathematics",
+      "totalChapters": 4,
+      "color": "#7C3AED"
+    },
+    {
+      "id": "english-communication",
+      "name": "English Communication",
+      "category": "bachelor",
+      "program": "BBA",
+      "path": "bachelor/bba/sem-1/english-communication",
+      "totalChapters": 4,
+      "color": "#2563EB"
+    },
+    {
+      "id": "financial-accounting",
+      "name": "Financial Accounting",
+      "category": "bachelor",
+      "program": "BBA",
+      "path": "bachelor/bba/sem-1/financial-accounting",
+      "totalChapters": 4,
+      "color": "#059669"
+    },
+    {
+      "id": "principles-of-management",
+      "name": "Principles of Management",
+      "category": "bachelor",
+      "program": "BBA",
+      "path": "bachelor/bba/sem-1/principles-of-management",
+      "totalChapters": 4,
+      "color": "#D97706"
+    },
+    {
+      "id": "business-law",
+      "name": "Business Law",
+      "category": "bachelor",
+      "program": "BBA",
+      "path": "bachelor/bba/sem-2/business-law",
+      "totalChapters": 4,
+      "color": "#374151"
+    },
+    {
+      "id": "business-statistics",
+      "name": "Business Statistics",
+      "category": "bachelor",
+      "program": "BBA",
+      "path": "bachelor/bba/sem-2/business-statistics",
+      "totalChapters": 4,
+      "color": "#059669"
+    },
+    {
+      "id": "microeconomics",
+      "name": "Microeconomics",
+      "category": "bachelor",
+      "program": "BBA",
+      "path": "bachelor/bba/sem-2/microeconomics",
+      "totalChapters": 4,
+      "color": "#DC2626"
+    },
+    {
+      "id": "organizational-behavior",
+      "name": "Organizational Behavior",
+      "category": "bachelor",
+      "program": "BBA",
+      "path": "bachelor/bba/sem-2/organizational-behavior",
+      "totalChapters": 4,
+      "color": "#D97706"
+    },
+    {
+      "id": "business-english",
+      "name": "Business English",
+      "category": "bachelor",
+      "program": "BBS",
+      "path": "bachelor/bbs/year-1/business-english",
+      "totalChapters": 5,
+      "color": "#2563EB"
+    },
+    {
+      "id": "business-mathematics",
+      "name": "Business Mathematics",
+      "category": "bachelor",
+      "program": "BBS",
+      "path": "bachelor/bbs/year-1/business-mathematics",
+      "totalChapters": 5,
+      "color": "#059669"
+    },
+    {
+      "id": "financial-accounting",
+      "name": "Financial Accounting",
+      "category": "bachelor",
+      "program": "BBS",
+      "path": "bachelor/bbs/year-1/financial-accounting",
+      "totalChapters": 5,
+      "color": "#7C3AED"
+    },
+    {
+      "id": "microeconomics",
+      "name": "Microeconomics",
+      "category": "bachelor",
+      "program": "BBS",
+      "path": "bachelor/bbs/year-1/microeconomics",
+      "totalChapters": 5,
+      "color": "#DC2626"
+    },
+    {
+      "id": "principles-of-management",
+      "name": "Principles of Management",
+      "category": "bachelor",
+      "program": "BBS",
+      "path": "bachelor/bbs/year-1/principles-of-management",
+      "totalChapters": 5,
+      "color": "#D97706"
+    },
+    {
+      "id": "business-communication",
+      "name": "Business Communication",
+      "category": "bachelor",
+      "program": "BBS",
+      "path": "bachelor/bbs/year-2/business-communication",
+      "totalChapters": 5,
+      "color": "#2563EB"
+    },
+    {
+      "id": "business-statistics",
+      "name": "Business Statistics",
+      "category": "bachelor",
+      "program": "BBS",
+      "path": "bachelor/bbs/year-2/business-statistics",
+      "totalChapters": 5,
+      "color": "#059669"
+    },
+    {
+      "id": "cost-accounting",
+      "name": "Cost Accounting",
+      "category": "bachelor",
+      "program": "BBS",
+      "path": "bachelor/bbs/year-2/cost-accounting",
+      "totalChapters": 5,
+      "color": "#7C3AED"
+    },
+    {
+      "id": "macroeconomics",
+      "name": "Macroeconomics",
+      "category": "bachelor",
+      "program": "BBS",
+      "path": "bachelor/bbs/year-2/macroeconomics",
+      "totalChapters": 5,
+      "color": "#DC2626"
+    },
+    {
+      "id": "marketing",
+      "name": "Marketing",
+      "category": "bachelor",
+      "program": "BBS",
+      "path": "bachelor/bbs/year-2/marketing",
+      "totalChapters": 5,
+      "color": "#D97706"
+    },
+    {
+      "id": "business-law",
+      "name": "Business Law",
+      "category": "bachelor",
+      "program": "BBS",
+      "path": "bachelor/bbs/year-3/business-law",
+      "totalChapters": 4,
+      "color": "#374151"
+    },
+    {
+      "id": "financial-management",
+      "name": "Financial Management",
+      "category": "bachelor",
+      "program": "BBS",
+      "path": "bachelor/bbs/year-3/financial-management",
+      "totalChapters": 4,
+      "color": "#059669"
+    },
+    {
+      "id": "organizational-behaviour",
+      "name": "Organizational Behaviour",
+      "category": "bachelor",
+      "program": "BBS",
+      "path": "bachelor/bbs/year-3/organizational-behaviour",
+      "totalChapters": 4,
+      "color": "#D97706"
+    },
+    {
+      "id": "tax-planning",
+      "name": "Tax Planning",
+      "category": "bachelor",
+      "program": "BBS",
+      "path": "bachelor/bbs/year-3/tax-planning",
+      "totalChapters": 4,
+      "color": "#DC2626"
+    },
+    {
+      "id": "entrepreneurship",
+      "name": "Entrepreneurship",
+      "category": "bachelor",
+      "program": "BBS",
+      "path": "bachelor/bbs/year-4/entrepreneurship",
+      "totalChapters": 3,
+      "color": "#D97706"
+    },
+    {
+      "id": "investment-management",
+      "name": "Investment Management",
+      "category": "bachelor",
+      "program": "BBS",
+      "path": "bachelor/bbs/year-4/investment-management",
+      "totalChapters": 3,
+      "color": "#059669"
+    },
+    {
+      "id": "strategic-management",
+      "name": "Strategic Management",
+      "category": "bachelor",
+      "program": "BBS",
+      "path": "bachelor/bbs/year-4/strategic-management",
+      "totalChapters": 3,
+      "color": "#1D4ED8"
+    },
+    {
+      "id": "c-programming",
+      "name": "C Programming",
+      "category": "bachelor",
+      "program": "BCA",
+      "path": "bachelor/bca/sem-1/c-programming",
+      "totalChapters": 7,
+      "color": "#059669"
+    },
+    {
+      "id": "calculus",
+      "name": "Calculus",
+      "category": "bachelor",
+      "program": "BCA",
+      "path": "bachelor/bca/sem-1/calculus",
+      "totalChapters": 4,
+      "color": "#7C3AED"
+    },
+    {
+      "id": "digital-logic",
+      "name": "Digital Logic",
+      "category": "bachelor",
+      "program": "BCA",
+      "path": "bachelor/bca/sem-1/digital-logic",
+      "totalChapters": 5,
+      "color": "#DC2626"
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "category": "bachelor",
+      "program": "BCA",
+      "path": "bachelor/bca/sem-1/english",
+      "totalChapters": 4,
+      "color": "#2563EB"
+    },
+    {
+      "id": "data-communication",
+      "name": "Data Communication",
+      "category": "bachelor",
+      "program": "BCA",
+      "path": "bachelor/bca/sem-2/data-communication",
+      "totalChapters": 4,
+      "color": "#0891B2"
+    },
+    {
+      "id": "discrete-mathematics",
+      "name": "Discrete Mathematics",
+      "category": "bachelor",
+      "program": "BCA",
+      "path": "bachelor/bca/sem-2/discrete-mathematics",
+      "totalChapters": 5,
+      "color": "#7C3AED"
+    },
+    {
+      "id": "object-oriented-programming",
+      "name": "Object-Oriented Programming",
+      "category": "bachelor",
+      "program": "BCA",
+      "path": "bachelor/bca/sem-2/object-oriented-programming",
+      "totalChapters": 5,
+      "color": "#059669"
+    },
+    {
+      "id": "probability-statistics",
+      "name": "Probability & Statistics",
+      "category": "bachelor",
+      "program": "BCA",
+      "path": "bachelor/bca/sem-2/probability-statistics",
+      "totalChapters": 4,
+      "color": "#D97706"
+    },
+    {
+      "id": "biology",
+      "name": "Biology",
+      "category": "bachelor",
+      "program": "BSc",
+      "path": "bachelor/bsc/biology",
+      "totalChapters": 5,
+      "color": "#059669"
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry",
+      "category": "bachelor",
+      "program": "BSc",
+      "path": "bachelor/bsc/chemistry",
+      "totalChapters": 5,
+      "color": "#7C3AED"
+    },
+    {
+      "id": "mathematics",
+      "name": "Mathematics",
+      "category": "bachelor",
+      "program": "BSc",
+      "path": "bachelor/bsc/mathematics",
+      "totalChapters": 5,
+      "color": "#2563EB"
+    },
+    {
+      "id": "microbiology",
+      "name": "Microbiology",
+      "category": "bachelor",
+      "program": "BSc",
+      "path": "bachelor/bsc/microbiology",
+      "totalChapters": 5,
+      "color": "#0891B2"
+    },
+    {
+      "id": "physics",
+      "name": "Physics",
+      "category": "bachelor",
+      "program": "BSc",
+      "path": "bachelor/bsc/physics",
+      "totalChapters": 5,
+      "color": "#DC2626"
+    },
+    {
+      "id": "c-programming",
+      "name": "C Programming",
+      "category": "bachelor",
+      "program": "BSc CSIT",
+      "path": "bachelor/bsc-csit/sem-1/c-programming",
+      "totalChapters": 8,
+      "color": "#059669"
+    },
+    {
+      "id": "digital-logic",
+      "name": "Digital Logic",
+      "category": "bachelor",
+      "program": "BSc CSIT",
+      "path": "bachelor/bsc-csit/sem-1/digital-logic",
+      "totalChapters": 5,
+      "color": "#DC2626"
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "category": "bachelor",
+      "program": "BSc CSIT",
+      "path": "bachelor/bsc-csit/sem-1/english",
+      "totalChapters": 4,
+      "color": "#2563EB"
+    },
+    {
+      "id": "mathematics-1",
+      "name": "Mathematics I",
+      "category": "bachelor",
+      "program": "BSc CSIT",
+      "path": "bachelor/bsc-csit/sem-1/mathematics-1",
+      "totalChapters": 5,
+      "color": "#7C3AED"
+    },
+    {
+      "id": "data-structures-algorithms",
+      "name": "Data Structures and Algorithms",
+      "category": "bachelor",
+      "program": "BSc CSIT",
+      "path": "bachelor/bsc-csit/sem-2/data-structures-algorithms",
+      "totalChapters": 7,
+      "color": "#059669"
+    },
+    {
+      "id": "mathematics-2",
+      "name": "Mathematics II",
+      "category": "bachelor",
+      "program": "BSc CSIT",
+      "path": "bachelor/bsc-csit/sem-2/mathematics-2",
+      "totalChapters": 4,
+      "color": "#7C3AED"
+    },
+    {
+      "id": "microprocessor",
+      "name": "Microprocessor",
+      "category": "bachelor",
+      "program": "BSc CSIT",
+      "path": "bachelor/bsc-csit/sem-2/microprocessor",
+      "totalChapters": 4,
+      "color": "#DC2626"
+    },
+    {
+      "id": "statistics",
+      "name": "Statistics",
+      "category": "bachelor",
+      "program": "BSc CSIT",
+      "path": "bachelor/bsc-csit/sem-2/statistics",
+      "totalChapters": 5,
+      "color": "#D97706"
+    },
+    {
+      "id": "general-knowledge",
+      "name": "General Knowledge",
+      "category": "competitive",
+      "program": "Army / Police",
+      "path": "competitive/army-police/general-knowledge",
+      "totalChapters": 5,
+      "color": "#374151"
+    },
+    {
+      "id": "physical-aptitude",
+      "name": "Physical Aptitude",
+      "category": "competitive",
+      "program": "Army / Police",
+      "path": "competitive/army-police/physical-aptitude",
+      "totalChapters": 4,
+      "color": "#374151"
+    },
+    {
+      "id": "banking-awareness",
+      "name": "Banking Awareness",
+      "category": "competitive",
+      "program": "Banking Exam",
+      "path": "competitive/banking/banking-awareness",
+      "totalChapters": 5,
+      "color": "#1E40AF"
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "category": "competitive",
+      "program": "Banking Exam",
+      "path": "competitive/banking/english",
+      "totalChapters": 5,
+      "color": "#1E40AF"
+    },
+    {
+      "id": "quantitative-aptitude",
+      "name": "Quantitative Aptitude",
+      "category": "competitive",
+      "program": "Banking Exam",
+      "path": "competitive/banking/quantitative-aptitude",
+      "totalChapters": 5,
+      "color": "#1E40AF"
+    },
+    {
+      "id": "reasoning",
+      "name": "Reasoning",
+      "category": "competitive",
+      "program": "Banking Exam",
+      "path": "competitive/banking/reasoning",
+      "totalChapters": 5,
+      "color": "#1E40AF"
+    },
+    {
+      "id": "computer-basics",
+      "name": "Computer Basics",
+      "category": "competitive",
+      "program": "Loksewa",
+      "path": "competitive/loksewa/computer-basics",
+      "totalChapters": 5,
+      "color": "#92400E"
+    },
+    {
+      "id": "general-english",
+      "name": "General English",
+      "category": "competitive",
+      "program": "Loksewa",
+      "path": "competitive/loksewa/general-english",
+      "totalChapters": 5,
+      "color": "#92400E"
+    },
+    {
+      "id": "general-knowledge",
+      "name": "General Knowledge",
+      "category": "competitive",
+      "program": "Loksewa",
+      "path": "competitive/loksewa/general-knowledge",
+      "totalChapters": 6,
+      "color": "#92400E"
+    },
+    {
+      "id": "general-nepali",
+      "name": "General Nepali",
+      "category": "competitive",
+      "program": "Loksewa",
+      "path": "competitive/loksewa/general-nepali",
+      "totalChapters": 5,
+      "color": "#92400E"
+    },
+    {
+      "id": "child-development",
+      "name": "Child Development",
+      "category": "competitive",
+      "program": "TSC (Teacher)",
+      "path": "competitive/tsc/primary/child-development",
+      "totalChapters": 4,
+      "color": "#065F46"
+    },
+    {
+      "id": "teaching-methods",
+      "name": "Teaching Methods",
+      "category": "competitive",
+      "program": "TSC (Teacher)",
+      "path": "competitive/tsc/primary/teaching-methods",
+      "totalChapters": 4,
+      "color": "#065F46"
+    },
+    {
+      "id": "education-theory",
+      "name": "Education Theory",
+      "category": "competitive",
+      "program": "TSC (Teacher)",
+      "path": "competitive/tsc/secondary/education-theory",
+      "totalChapters": 4,
+      "color": "#065F46"
+    },
+    {
+      "id": "subject-specific",
+      "name": "Subject Specific",
+      "category": "competitive",
+      "program": "TSC (Teacher)",
+      "path": "competitive/tsc/secondary/subject-specific",
+      "totalChapters": 4,
+      "color": "#065F46"
+    },
+    {
+      "id": "structural-analysis",
+      "name": "Structural Analysis",
+      "category": "engineering",
+      "program": "Kathmandu University",
+      "path": "engineering/kathmandu-university/civil/structural-analysis",
+      "totalChapters": 5,
+      "color": "#DC2626"
+    },
+    {
+      "id": "data-structures",
+      "name": "Data Structures",
+      "category": "engineering",
+      "program": "Kathmandu University",
+      "path": "engineering/kathmandu-university/computer/data-structures",
+      "totalChapters": 5,
+      "color": "#7C3AED"
+    },
+    {
+      "id": "programming-1",
+      "name": "Programming I",
+      "category": "engineering",
+      "program": "Kathmandu University",
+      "path": "engineering/kathmandu-university/computer/programming-1",
+      "totalChapters": 6,
+      "color": "#059669"
+    },
+    {
+      "id": "software-engineering",
+      "name": "Software Engineering",
+      "category": "engineering",
+      "program": "Kathmandu University",
+      "path": "engineering/kathmandu-university/computer/software-engineering",
+      "totalChapters": 5,
+      "color": "#0891B2"
+    },
+    {
+      "id": "soil-mechanics",
+      "name": "Soil Mechanics",
+      "category": "engineering",
+      "program": "Pokhara University",
+      "path": "engineering/pokhara-university/civil/soil-mechanics",
+      "totalChapters": 5,
+      "color": "#92400E"
+    },
+    {
+      "id": "database-management",
+      "name": "Database Management",
+      "category": "engineering",
+      "program": "Pokhara University",
+      "path": "engineering/pokhara-university/computer/database-management",
+      "totalChapters": 5,
+      "color": "#7C3AED"
+    },
+    {
+      "id": "object-oriented-programming",
+      "name": "Object-Oriented Programming",
+      "category": "engineering",
+      "program": "Pokhara University",
+      "path": "engineering/pokhara-university/computer/object-oriented-programming",
+      "totalChapters": 5,
+      "color": "#059669"
+    },
+    {
+      "id": "engineering-mechanics",
+      "name": "Engineering Mechanics",
+      "category": "engineering",
+      "program": "Purvanchal University",
+      "path": "engineering/purvanchal-university/civil/engineering-mechanics",
+      "totalChapters": 6,
+      "color": "#DC2626"
+    },
+    {
+      "id": "c-programming",
+      "name": "C Programming",
+      "category": "engineering",
+      "program": "Purvanchal University",
+      "path": "engineering/purvanchal-university/computer/c-programming",
+      "totalChapters": 6,
+      "color": "#059669"
+    },
+    {
+      "id": "engineering-drawing",
+      "name": "Engineering Drawing",
+      "category": "engineering",
+      "program": "TU / IOE Engineering",
+      "path": "engineering/tu-ioe/civil/engineering-drawing",
+      "totalChapters": 5,
+      "color": "#059669"
+    },
+    {
+      "id": "fluid-mechanics",
+      "name": "Fluid Mechanics",
+      "category": "engineering",
+      "program": "TU / IOE Engineering",
+      "path": "engineering/tu-ioe/civil/fluid-mechanics",
+      "totalChapters": 6,
+      "color": "#0891B2"
+    },
+    {
+      "id": "mathematics",
+      "name": "Engineering Mathematics",
+      "category": "engineering",
+      "program": "TU / IOE Engineering",
+      "path": "engineering/tu-ioe/civil/mathematics",
+      "totalChapters": 6,
+      "color": "#2563EB"
+    },
+    {
+      "id": "physics",
+      "name": "Engineering Physics",
+      "category": "engineering",
+      "program": "TU / IOE Engineering",
+      "path": "engineering/tu-ioe/civil/physics",
+      "totalChapters": 5,
+      "color": "#DC2626"
+    },
+    {
+      "id": "algorithms",
+      "name": "Algorithms",
+      "category": "engineering",
+      "program": "TU / IOE Engineering",
+      "path": "engineering/tu-ioe/computer/algorithms",
+      "totalChapters": 6,
+      "color": "#7C3AED"
+    },
+    {
+      "id": "computer-networks",
+      "name": "Computer Networks",
+      "category": "engineering",
+      "program": "TU / IOE Engineering",
+      "path": "engineering/tu-ioe/computer/computer-networks",
+      "totalChapters": 6,
+      "color": "#0891B2"
+    },
+    {
+      "id": "data-structures",
+      "name": "Data Structures",
+      "category": "engineering",
+      "program": "TU / IOE Engineering",
+      "path": "engineering/tu-ioe/computer/data-structures",
+      "totalChapters": 6,
+      "color": "#059669"
+    },
+    {
+      "id": "operating-systems",
+      "name": "Operating Systems",
+      "category": "engineering",
+      "program": "TU / IOE Engineering",
+      "path": "engineering/tu-ioe/computer/operating-systems",
+      "totalChapters": 6,
+      "color": "#DC2626"
+    },
+    {
+      "id": "circuit-theory",
+      "name": "Circuit Theory",
+      "category": "engineering",
+      "program": "TU / IOE Engineering",
+      "path": "engineering/tu-ioe/electrical/circuit-theory",
+      "totalChapters": 5,
+      "color": "#D97706"
+    },
+    {
+      "id": "electronics",
+      "name": "Electronics",
+      "category": "engineering",
+      "program": "TU / IOE Engineering",
+      "path": "engineering/tu-ioe/electrical/electronics",
+      "totalChapters": 5,
+      "color": "#7C3AED"
+    },
+    {
+      "id": "power-systems",
+      "name": "Power Systems",
+      "category": "engineering",
+      "program": "TU / IOE Engineering",
+      "path": "engineering/tu-ioe/electrical/power-systems",
+      "totalChapters": 5,
+      "color": "#DC2626"
+    },
+    {
+      "id": "analog-electronics",
+      "name": "Analog Electronics",
+      "category": "engineering",
+      "program": "TU / IOE Engineering",
+      "path": "engineering/tu-ioe/electronics/analog-electronics",
+      "totalChapters": 6,
+      "color": "#D97706"
+    },
+    {
+      "id": "digital-electronics",
+      "name": "Digital Electronics",
+      "category": "engineering",
+      "program": "TU / IOE Engineering",
+      "path": "engineering/tu-ioe/electronics/digital-electronics",
+      "totalChapters": 6,
+      "color": "#059669"
+    },
+    {
+      "id": "biology",
+      "name": "Biology",
+      "category": "entrance",
+      "program": "CEE Medical Entrance",
+      "path": "entrance/cee/b-pharmacy/biology",
+      "totalChapters": 4,
+      "color": "#7C3AED"
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry",
+      "category": "entrance",
+      "program": "CEE Medical Entrance",
+      "path": "entrance/cee/b-pharmacy/chemistry",
+      "totalChapters": 3,
+      "color": "#7C3AED"
+    },
+    {
+      "id": "physics",
+      "name": "Physics",
+      "category": "entrance",
+      "program": "CEE Medical Entrance",
+      "path": "entrance/cee/b-pharmacy/physics",
+      "totalChapters": 4,
+      "color": "#7C3AED"
+    },
+    {
+      "id": "biology",
+      "name": "Biology",
+      "category": "entrance",
+      "program": "CEE Medical Entrance",
+      "path": "entrance/cee/bds/biology",
+      "totalChapters": 4,
+      "color": "#7C3AED"
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry",
+      "category": "entrance",
+      "program": "CEE Medical Entrance",
+      "path": "entrance/cee/bds/chemistry",
+      "totalChapters": 3,
+      "color": "#7C3AED"
+    },
+    {
+      "id": "physics",
+      "name": "Physics",
+      "category": "entrance",
+      "program": "CEE Medical Entrance",
+      "path": "entrance/cee/bds/physics",
+      "totalChapters": 4,
+      "color": "#7C3AED"
+    },
+    {
+      "id": "biology",
+      "name": "Biology",
+      "category": "entrance",
+      "program": "CEE Medical Entrance",
+      "path": "entrance/cee/bsc-nursing/biology",
+      "totalChapters": 5,
+      "color": "#7C3AED"
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry",
+      "category": "entrance",
+      "program": "CEE Medical Entrance",
+      "path": "entrance/cee/bsc-nursing/chemistry",
+      "totalChapters": 3,
+      "color": "#7C3AED"
+    },
+    {
+      "id": "general-knowledge",
+      "name": "General Knowledge",
+      "category": "entrance",
+      "program": "CEE Medical Entrance",
+      "path": "entrance/cee/bsc-nursing/general-knowledge",
+      "totalChapters": 4,
+      "color": "#7C3AED"
+    },
+    {
+      "id": "biology",
+      "name": "Biology",
+      "category": "entrance",
+      "program": "CEE Medical Entrance",
+      "path": "entrance/cee/mbbs/biology",
+      "totalChapters": 6,
+      "color": "#7C3AED"
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry",
+      "category": "entrance",
+      "program": "CEE Medical Entrance",
+      "path": "entrance/cee/mbbs/chemistry",
+      "totalChapters": 4,
+      "color": "#7C3AED"
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "category": "entrance",
+      "program": "CEE Medical Entrance",
+      "path": "entrance/cee/mbbs/english",
+      "totalChapters": 3,
+      "color": "#7C3AED"
+    },
+    {
+      "id": "physics",
+      "name": "Physics",
+      "category": "entrance",
+      "program": "CEE Medical Entrance",
+      "path": "entrance/cee/mbbs/physics",
+      "totalChapters": 5,
+      "color": "#7C3AED"
+    },
+    {
+      "id": "general-awareness",
+      "name": "General Awareness",
+      "category": "entrance",
+      "program": "CMAT",
+      "path": "entrance/cmat/general-awareness",
+      "totalChapters": 4,
+      "color": "#D97706"
+    },
+    {
+      "id": "logical-reasoning",
+      "name": "Logical Reasoning",
+      "category": "entrance",
+      "program": "CMAT",
+      "path": "entrance/cmat/logical-reasoning",
+      "totalChapters": 5,
+      "color": "#D97706"
+    },
+    {
+      "id": "quantitative-ability",
+      "name": "Quantitative Ability",
+      "category": "entrance",
+      "program": "CMAT",
+      "path": "entrance/cmat/quantitative-ability",
+      "totalChapters": 5,
+      "color": "#D97706"
+    },
+    {
+      "id": "verbal-ability",
+      "name": "Verbal Ability",
+      "category": "entrance",
+      "program": "CMAT",
+      "path": "entrance/cmat/verbal-ability",
+      "totalChapters": 5,
+      "color": "#D97706"
+    },
+    {
+      "id": "basic-computer",
+      "name": "Basic Computer",
+      "category": "entrance",
+      "program": "CSIT Entrance",
+      "path": "entrance/csit/basic-computer",
+      "totalChapters": 5,
+      "color": "#0891B2"
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry",
+      "category": "entrance",
+      "program": "CSIT Entrance",
+      "path": "entrance/csit/chemistry",
+      "totalChapters": 4,
+      "color": "#0891B2"
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "category": "entrance",
+      "program": "CSIT Entrance",
+      "path": "entrance/csit/english",
+      "totalChapters": 3,
+      "color": "#0891B2"
+    },
+    {
+      "id": "mathematics",
+      "name": "Mathematics",
+      "category": "entrance",
+      "program": "CSIT Entrance",
+      "path": "entrance/csit/mathematics",
+      "totalChapters": 6,
+      "color": "#0891B2"
+    },
+    {
+      "id": "physics",
+      "name": "Physics",
+      "category": "entrance",
+      "program": "CSIT Entrance",
+      "path": "entrance/csit/physics",
+      "totalChapters": 6,
+      "color": "#0891B2"
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry",
+      "category": "entrance",
+      "program": "IOE Entrance",
+      "path": "entrance/ioe/chemistry",
+      "totalChapters": 5,
+      "color": "#DC2626"
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "category": "entrance",
+      "program": "IOE Entrance",
+      "path": "entrance/ioe/english",
+      "totalChapters": 4,
+      "color": "#DC2626"
+    },
+    {
+      "id": "mathematics",
+      "name": "Mathematics",
+      "category": "entrance",
+      "program": "IOE Entrance",
+      "path": "entrance/ioe/mathematics",
+      "totalChapters": 8,
+      "color": "#DC2626"
+    },
+    {
+      "id": "physics",
+      "name": "Physics",
+      "category": "entrance",
+      "program": "IOE Entrance",
+      "path": "entrance/ioe/physics",
+      "totalChapters": 7,
+      "color": "#DC2626"
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry",
+      "category": "entrance",
+      "program": "KUCAT-CBT",
+      "path": "entrance/kucat-cbt/chemistry",
+      "totalChapters": 3,
+      "color": "#0E7490"
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "category": "entrance",
+      "program": "KUCAT-CBT",
+      "path": "entrance/kucat-cbt/english",
+      "totalChapters": 4,
+      "color": "#0E7490"
+    },
+    {
+      "id": "mathematics",
+      "name": "Mathematics",
+      "category": "entrance",
+      "program": "KUCAT-CBT",
+      "path": "entrance/kucat-cbt/mathematics",
+      "totalChapters": 5,
+      "color": "#0E7490"
+    },
+    {
+      "id": "physics",
+      "name": "Physics",
+      "category": "entrance",
+      "program": "KUCAT-CBT",
+      "path": "entrance/kucat-cbt/physics",
+      "totalChapters": 5,
+      "color": "#0E7490"
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "category": "entrance",
+      "program": "PU Entrance",
+      "path": "entrance/pu-entrance/bba/english",
+      "totalChapters": 4,
+      "color": "#0369A1"
+    },
+    {
+      "id": "logical-reasoning",
+      "name": "Logical Reasoning",
+      "category": "entrance",
+      "program": "PU Entrance",
+      "path": "entrance/pu-entrance/bba/logical-reasoning",
+      "totalChapters": 4,
+      "color": "#0369A1"
+    },
+    {
+      "id": "mathematics",
+      "name": "Mathematics",
+      "category": "entrance",
+      "program": "PU Entrance",
+      "path": "entrance/pu-entrance/bba/mathematics",
+      "totalChapters": 4,
+      "color": "#0369A1"
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "category": "entrance",
+      "program": "PU Entrance",
+      "path": "entrance/pu-entrance/be/english",
+      "totalChapters": 3,
+      "color": "#0369A1"
+    },
+    {
+      "id": "mathematics",
+      "name": "Mathematics",
+      "category": "entrance",
+      "program": "PU Entrance",
+      "path": "entrance/pu-entrance/be/mathematics",
+      "totalChapters": 5,
+      "color": "#0369A1"
+    },
+    {
+      "id": "physics",
+      "name": "Physics",
+      "category": "entrance",
+      "program": "PU Entrance",
+      "path": "entrance/pu-entrance/be/physics",
+      "totalChapters": 5,
+      "color": "#0369A1"
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "category": "school",
+      "program": "BLE (Grade 8)",
+      "path": "school/ble/english",
+      "totalChapters": 6,
+      "color": "#2563EB"
+    },
+    {
+      "id": "mathematics",
+      "name": "Mathematics",
+      "category": "school",
+      "program": "BLE (Grade 8)",
+      "path": "school/ble/mathematics",
+      "totalChapters": 6,
+      "color": "#059669"
+    },
+    {
+      "id": "science",
+      "name": "Science",
+      "category": "school",
+      "program": "BLE (Grade 8)",
+      "path": "school/ble/science",
+      "totalChapters": 6,
+      "color": "#7C3AED"
+    },
+    {
+      "id": "social-studies",
+      "name": "Social Studies",
+      "category": "school",
+      "program": "BLE (Grade 8)",
+      "path": "school/ble/social-studies",
+      "totalChapters": 6,
+      "color": "#D97706"
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "category": "school",
+      "program": "Class 9",
+      "path": "school/class-9/english",
+      "totalChapters": 6,
+      "color": "#2563EB"
+    },
+    {
+      "id": "mathematics",
+      "name": "Mathematics",
+      "category": "school",
+      "program": "Class 9",
+      "path": "school/class-9/mathematics",
+      "totalChapters": 10,
+      "color": "#059669"
+    },
+    {
+      "id": "nepali",
+      "name": "Nepali",
+      "category": "school",
+      "program": "Class 9",
+      "path": "school/class-9/nepali",
+      "totalChapters": 6,
+      "color": "#DC2626"
+    },
+    {
+      "id": "science",
+      "name": "Science",
+      "category": "school",
+      "program": "Class 9",
+      "path": "school/class-9/science",
+      "totalChapters": 8,
+      "color": "#7C3AED"
+    },
+    {
+      "id": "child-development",
+      "name": "Child Development",
+      "category": "school",
+      "program": "NEB Grade 11",
+      "path": "school/neb-grade-11/education/child-development",
+      "totalChapters": 4,
+      "color": "#D97706"
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "category": "school",
+      "program": "NEB Grade 11",
+      "path": "school/neb-grade-11/education/english",
+      "totalChapters": 5,
+      "color": "#1D4ED8"
+    },
+    {
+      "id": "foundation-of-education",
+      "name": "Foundation of Education",
+      "category": "school",
+      "program": "NEB Grade 11",
+      "path": "school/neb-grade-11/education/foundation-of-education",
+      "totalChapters": 4,
+      "color": "#059669"
+    },
+    {
+      "id": "nepali",
+      "name": "Nepali",
+      "category": "school",
+      "program": "NEB Grade 11",
+      "path": "school/neb-grade-11/education/nepali",
+      "totalChapters": 5,
+      "color": "#B91C1C"
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "category": "school",
+      "program": "NEB Grade 11",
+      "path": "school/neb-grade-11/humanities/english",
+      "totalChapters": 6,
+      "color": "#1D4ED8"
+    },
+    {
+      "id": "history",
+      "name": "History",
+      "category": "school",
+      "program": "NEB Grade 11",
+      "path": "school/neb-grade-11/humanities/history",
+      "totalChapters": 6,
+      "color": "#92400E"
+    },
+    {
+      "id": "nepali",
+      "name": "Nepali",
+      "category": "school",
+      "program": "NEB Grade 11",
+      "path": "school/neb-grade-11/humanities/nepali",
+      "totalChapters": 6,
+      "color": "#B91C1C"
+    },
+    {
+      "id": "political-science",
+      "name": "Political Science",
+      "category": "school",
+      "program": "NEB Grade 11",
+      "path": "school/neb-grade-11/humanities/political-science",
+      "totalChapters": 6,
+      "color": "#DC2626"
+    },
+    {
+      "id": "psychology",
+      "name": "Psychology",
+      "category": "school",
+      "program": "NEB Grade 11",
+      "path": "school/neb-grade-11/humanities/psychology",
+      "totalChapters": 6,
+      "color": "#2563EB"
+    },
+    {
+      "id": "sociology",
+      "name": "Sociology",
+      "category": "school",
+      "program": "NEB Grade 11",
+      "path": "school/neb-grade-11/humanities/sociology",
+      "totalChapters": 6,
+      "color": "#7C3AED"
+    },
+    {
+      "id": "accountancy",
+      "name": "Accountancy",
+      "category": "school",
+      "program": "NEB Grade 11",
+      "path": "school/neb-grade-11/management/accountancy",
+      "totalChapters": 6,
+      "color": "#059669"
+    },
+    {
+      "id": "business-mathematics",
+      "name": "Business Mathematics",
+      "category": "school",
+      "program": "NEB Grade 11",
+      "path": "school/neb-grade-11/management/business-mathematics",
+      "totalChapters": 6,
+      "color": "#7C3AED"
+    },
+    {
+      "id": "business-studies",
+      "name": "Business Studies",
+      "category": "school",
+      "program": "NEB Grade 11",
+      "path": "school/neb-grade-11/management/business-studies",
+      "totalChapters": 6,
+      "color": "#D97706"
+    },
+    {
+      "id": "economics",
+      "name": "Economics",
+      "category": "school",
+      "program": "NEB Grade 11",
+      "path": "school/neb-grade-11/management/economics",
+      "totalChapters": 6,
+      "color": "#2563EB"
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "category": "school",
+      "program": "NEB Grade 11",
+      "path": "school/neb-grade-11/management/english",
+      "totalChapters": 6,
+      "color": "#1D4ED8"
+    },
+    {
+      "id": "nepali",
+      "name": "Nepali",
+      "category": "school",
+      "program": "NEB Grade 11",
+      "path": "school/neb-grade-11/management/nepali",
+      "totalChapters": 6,
+      "color": "#B91C1C"
+    },
+    {
+      "id": "biology",
+      "name": "Biology",
+      "category": "school",
+      "program": "NEB Grade 11",
+      "path": "school/neb-grade-11/science/biology",
+      "totalChapters": 6,
+      "color": "#059669"
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry",
+      "category": "school",
+      "program": "NEB Grade 11",
+      "path": "school/neb-grade-11/science/chemistry",
+      "totalChapters": 6,
+      "color": "#7C3AED"
+    },
+    {
+      "id": "computer-science",
+      "name": "Computer Science",
+      "category": "school",
+      "program": "NEB Grade 11",
+      "path": "school/neb-grade-11/science/computer-science",
+      "totalChapters": 6,
+      "color": "#0891B2"
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "category": "school",
+      "program": "NEB Grade 11",
+      "path": "school/neb-grade-11/science/english",
+      "totalChapters": 6,
+      "color": "#1D4ED8"
+    },
+    {
+      "id": "mathematics",
+      "name": "Mathematics",
+      "category": "school",
+      "program": "NEB Grade 11",
+      "path": "school/neb-grade-11/science/mathematics",
+      "totalChapters": 8,
+      "color": "#2563EB"
+    },
+    {
+      "id": "nepali",
+      "name": "Nepali",
+      "category": "school",
+      "program": "NEB Grade 11",
+      "path": "school/neb-grade-11/science/nepali",
+      "totalChapters": 6,
+      "color": "#B91C1C"
+    },
+    {
+      "id": "physics",
+      "name": "Physics",
+      "category": "school",
+      "program": "NEB Grade 11",
+      "path": "school/neb-grade-11/science/physics",
+      "totalChapters": 6,
+      "color": "#DC2626"
+    },
+    {
+      "id": "child-development",
+      "name": "Child Development",
+      "category": "school",
+      "program": "NEB Grade 12",
+      "path": "school/neb-grade-12/education/child-development",
+      "totalChapters": 4,
+      "color": "#D97706"
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "category": "school",
+      "program": "NEB Grade 12",
+      "path": "school/neb-grade-12/education/english",
+      "totalChapters": 5,
+      "color": "#1D4ED8"
+    },
+    {
+      "id": "foundation-of-education",
+      "name": "Foundation of Education",
+      "category": "school",
+      "program": "NEB Grade 12",
+      "path": "school/neb-grade-12/education/foundation-of-education",
+      "totalChapters": 4,
+      "color": "#059669"
+    },
+    {
+      "id": "nepali",
+      "name": "Nepali",
+      "category": "school",
+      "program": "NEB Grade 12",
+      "path": "school/neb-grade-12/education/nepali",
+      "totalChapters": 5,
+      "color": "#B91C1C"
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "category": "school",
+      "program": "NEB Grade 12",
+      "path": "school/neb-grade-12/humanities/english",
+      "totalChapters": 6,
+      "color": "#1D4ED8"
+    },
+    {
+      "id": "history",
+      "name": "History",
+      "category": "school",
+      "program": "NEB Grade 12",
+      "path": "school/neb-grade-12/humanities/history",
+      "totalChapters": 6,
+      "color": "#92400E"
+    },
+    {
+      "id": "nepali",
+      "name": "Nepali",
+      "category": "school",
+      "program": "NEB Grade 12",
+      "path": "school/neb-grade-12/humanities/nepali",
+      "totalChapters": 6,
+      "color": "#B91C1C"
+    },
+    {
+      "id": "political-science",
+      "name": "Political Science",
+      "category": "school",
+      "program": "NEB Grade 12",
+      "path": "school/neb-grade-12/humanities/political-science",
+      "totalChapters": 6,
+      "color": "#DC2626"
+    },
+    {
+      "id": "psychology",
+      "name": "Psychology",
+      "category": "school",
+      "program": "NEB Grade 12",
+      "path": "school/neb-grade-12/humanities/psychology",
+      "totalChapters": 6,
+      "color": "#2563EB"
+    },
+    {
+      "id": "sociology",
+      "name": "Sociology",
+      "category": "school",
+      "program": "NEB Grade 12",
+      "path": "school/neb-grade-12/humanities/sociology",
+      "totalChapters": 6,
+      "color": "#7C3AED"
+    },
+    {
+      "id": "accountancy",
+      "name": "Accountancy",
+      "category": "school",
+      "program": "NEB Grade 12",
+      "path": "school/neb-grade-12/management/accountancy",
+      "totalChapters": 6,
+      "color": "#059669"
+    },
+    {
+      "id": "business-mathematics",
+      "name": "Business Mathematics",
+      "category": "school",
+      "program": "NEB Grade 12",
+      "path": "school/neb-grade-12/management/business-mathematics",
+      "totalChapters": 6,
+      "color": "#7C3AED"
+    },
+    {
+      "id": "business-studies",
+      "name": "Business Studies",
+      "category": "school",
+      "program": "NEB Grade 12",
+      "path": "school/neb-grade-12/management/business-studies",
+      "totalChapters": 6,
+      "color": "#D97706"
+    },
+    {
+      "id": "economics",
+      "name": "Economics",
+      "category": "school",
+      "program": "NEB Grade 12",
+      "path": "school/neb-grade-12/management/economics",
+      "totalChapters": 6,
+      "color": "#2563EB"
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "category": "school",
+      "program": "NEB Grade 12",
+      "path": "school/neb-grade-12/management/english",
+      "totalChapters": 6,
+      "color": "#1D4ED8"
+    },
+    {
+      "id": "nepali",
+      "name": "Nepali",
+      "category": "school",
+      "program": "NEB Grade 12",
+      "path": "school/neb-grade-12/management/nepali",
+      "totalChapters": 6,
+      "color": "#B91C1C"
+    },
+    {
+      "id": "biology",
+      "name": "Biology",
+      "category": "school",
+      "program": "NEB Grade 12",
+      "path": "school/neb-grade-12/science/biology",
+      "totalChapters": 6,
+      "color": "#059669"
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry",
+      "category": "school",
+      "program": "NEB Grade 12",
+      "path": "school/neb-grade-12/science/chemistry",
+      "totalChapters": 6,
+      "color": "#7C3AED"
+    },
+    {
+      "id": "computer-science",
+      "name": "Computer Science",
+      "category": "school",
+      "program": "NEB Grade 12",
+      "path": "school/neb-grade-12/science/computer-science",
+      "totalChapters": 6,
+      "color": "#0891B2"
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "category": "school",
+      "program": "NEB Grade 12",
+      "path": "school/neb-grade-12/science/english",
+      "totalChapters": 6,
+      "color": "#1D4ED8"
+    },
+    {
+      "id": "mathematics",
+      "name": "Mathematics",
+      "category": "school",
+      "program": "NEB Grade 12",
+      "path": "school/neb-grade-12/science/mathematics",
+      "totalChapters": 8,
+      "color": "#2563EB"
+    },
+    {
+      "id": "nepali",
+      "name": "Nepali",
+      "category": "school",
+      "program": "NEB Grade 12",
+      "path": "school/neb-grade-12/science/nepali",
+      "totalChapters": 6,
+      "color": "#B91C1C"
+    },
+    {
+      "id": "physics",
+      "name": "Physics",
+      "category": "school",
+      "program": "NEB Grade 12",
+      "path": "school/neb-grade-12/science/physics",
+      "totalChapters": 6,
+      "color": "#DC2626"
+    },
+    {
+      "id": "computer-science",
+      "name": "Computer Science",
+      "category": "school",
+      "program": "SEE",
+      "path": "school/see/computer-science",
+      "totalChapters": 8,
+      "color": "#0891B2"
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "category": "school",
+      "program": "SEE",
+      "path": "school/see/english",
+      "totalChapters": 12,
+      "color": "#2563EB"
+    },
+    {
+      "id": "mathematics",
+      "name": "Mathematics",
+      "category": "school",
+      "program": "SEE",
+      "path": "school/see/mathematics",
+      "totalChapters": 14,
+      "color": "#059669"
+    },
+    {
+      "id": "nepali",
+      "name": "Nepali",
+      "category": "school",
+      "program": "SEE",
+      "path": "school/see/nepali",
+      "totalChapters": 8,
+      "color": "#DC2626"
+    },
+    {
+      "id": "optional-mathematics",
+      "name": "Optional Mathematics",
+      "category": "school",
+      "program": "SEE",
+      "path": "school/see/optional-mathematics",
+      "totalChapters": 12,
+      "color": "#059669"
+    },
+    {
+      "id": "science",
+      "name": "Science",
+      "category": "school",
+      "program": "SEE",
+      "path": "school/see/science",
+      "totalChapters": 14,
+      "color": "#7C3AED"
+    },
+    {
+      "id": "social-studies",
+      "name": "Social Studies",
+      "category": "school",
+      "program": "SEE",
+      "path": "school/see/social-studies",
+      "totalChapters": 10,
+      "color": "#D97706"
+    }
+  ]
+}

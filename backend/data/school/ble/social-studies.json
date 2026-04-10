@@ -1,0 +1,302 @@
+{
+  "meta": {
+    "program": "BLE (Grade 8)",
+    "category": "school",
+    "subCategory": "ble",
+    "subject": "Social Studies",
+    "subjectId": "social-studies",
+    "color": "#D97706",
+    "lastUpdated": "2025",
+    "totalChapters": 6
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Our Country Nepal",
+      "shortIntro": "Introduction to Our Country Nepal for BLE students.",
+      "introduction": {
+        "overview": "Our Country Nepal is a fundamental topic in Social Studies for Grade 8 students preparing for the Basic Level Examination (BLE). This chapter builds on concepts learned in earlier grades and prepares students for the more advanced work they will encounter in secondary school.\n\nThe chapter covers core principles and applications that students need to master. Understanding these concepts thoroughly will help in both the BLE examination and in building a strong foundation for future studies.\n\nStudents should practice regularly with textbook exercises and past BLE papers to gain confidence in solving problems related to Our Country Nepal. Pay attention to the marking scheme and allocate time accordingly during the exam.\n\nThis chapter typically carries moderate weightage in the BLE examination, making it important for achieving a good overall score.",
+        "whyItMatters": "This chapter is regularly tested in BLE examinations. Mastering Our Country Nepal ensures a solid foundation for SEE-level studies.",
+        "prerequisites": [
+          "Basic concepts from Grade 7"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Introduction to Our Country Nepal",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the fundamental concepts of Our Country Nepal. Students will learn the basic definitions, terminology, and foundational principles that form the basis of this chapter.\n\nUnderstanding these basics is essential before moving on to more complex problems and applications.",
+          "keyPoints": [
+            "Core concept of Our Country Nepal",
+            "Used in BLE examination",
+            "Foundation for higher-level study"
+          ],
+          "formula": null,
+          "examTip": "Focus on definitions and basic applications. BLE often asks direct concept questions."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Applications of Our Country Nepal",
+          "difficulty": "intermediate",
+          "explanation": "Once students understand the basic concepts, they can apply them to solve practical problems. This topic focuses on real-world applications and problem-solving strategies.\n\nPractice with textbook examples and past papers to develop speed and accuracy.",
+          "keyPoints": [
+            "Apply concepts to word problems",
+            "Show clear working in solutions",
+            "Check answers by substitution"
+          ],
+          "formula": null,
+          "examTip": "In BLE, show all working steps clearly. Partial marks are awarded for correct methodology."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Social Life",
+      "shortIntro": "Introduction to Social Life for BLE students.",
+      "introduction": {
+        "overview": "Social Life is a fundamental topic in Social Studies for Grade 8 students preparing for the Basic Level Examination (BLE). This chapter builds on concepts learned in earlier grades and prepares students for the more advanced work they will encounter in secondary school.\n\nThe chapter covers core principles and applications that students need to master. Understanding these concepts thoroughly will help in both the BLE examination and in building a strong foundation for future studies.\n\nStudents should practice regularly with textbook exercises and past BLE papers to gain confidence in solving problems related to Social Life. Pay attention to the marking scheme and allocate time accordingly during the exam.\n\nThis chapter typically carries moderate weightage in the BLE examination, making it important for achieving a good overall score.",
+        "whyItMatters": "This chapter is regularly tested in BLE examinations. Mastering Social Life ensures a solid foundation for SEE-level studies.",
+        "prerequisites": [
+          "Basic concepts from Grade 7"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Introduction to Social Life",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the fundamental concepts of Social Life. Students will learn the basic definitions, terminology, and foundational principles that form the basis of this chapter.\n\nUnderstanding these basics is essential before moving on to more complex problems and applications.",
+          "keyPoints": [
+            "Core concept of Social Life",
+            "Used in BLE examination",
+            "Foundation for higher-level study"
+          ],
+          "formula": null,
+          "examTip": "Focus on definitions and basic applications. BLE often asks direct concept questions."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Applications of Social Life",
+          "difficulty": "intermediate",
+          "explanation": "Once students understand the basic concepts, they can apply them to solve practical problems. This topic focuses on real-world applications and problem-solving strategies.\n\nPractice with textbook examples and past papers to develop speed and accuracy.",
+          "keyPoints": [
+            "Apply concepts to word problems",
+            "Show clear working in solutions",
+            "Check answers by substitution"
+          ],
+          "formula": null,
+          "examTip": "In BLE, show all working steps clearly. Partial marks are awarded for correct methodology."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Civic Awareness",
+      "shortIntro": "Introduction to Civic Awareness for BLE students.",
+      "introduction": {
+        "overview": "Civic Awareness is a fundamental topic in Social Studies for Grade 8 students preparing for the Basic Level Examination (BLE). This chapter builds on concepts learned in earlier grades and prepares students for the more advanced work they will encounter in secondary school.\n\nThe chapter covers core principles and applications that students need to master. Understanding these concepts thoroughly will help in both the BLE examination and in building a strong foundation for future studies.\n\nStudents should practice regularly with textbook exercises and past BLE papers to gain confidence in solving problems related to Civic Awareness. Pay attention to the marking scheme and allocate time accordingly during the exam.\n\nThis chapter typically carries moderate weightage in the BLE examination, making it important for achieving a good overall score.",
+        "whyItMatters": "This chapter is regularly tested in BLE examinations. Mastering Civic Awareness ensures a solid foundation for SEE-level studies.",
+        "prerequisites": [
+          "Basic concepts from Grade 7"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Introduction to Civic Awareness",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the fundamental concepts of Civic Awareness. Students will learn the basic definitions, terminology, and foundational principles that form the basis of this chapter.\n\nUnderstanding these basics is essential before moving on to more complex problems and applications.",
+          "keyPoints": [
+            "Core concept of Civic Awareness",
+            "Used in BLE examination",
+            "Foundation for higher-level study"
+          ],
+          "formula": null,
+          "examTip": "Focus on definitions and basic applications. BLE often asks direct concept questions."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Applications of Civic Awareness",
+          "difficulty": "intermediate",
+          "explanation": "Once students understand the basic concepts, they can apply them to solve practical problems. This topic focuses on real-world applications and problem-solving strategies.\n\nPractice with textbook examples and past papers to develop speed and accuracy.",
+          "keyPoints": [
+            "Apply concepts to word problems",
+            "Show clear working in solutions",
+            "Check answers by substitution"
+          ],
+          "formula": null,
+          "examTip": "In BLE, show all working steps clearly. Partial marks are awarded for correct methodology."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "History",
+      "shortIntro": "Introduction to History for BLE students.",
+      "introduction": {
+        "overview": "History is a fundamental topic in Social Studies for Grade 8 students preparing for the Basic Level Examination (BLE). This chapter builds on concepts learned in earlier grades and prepares students for the more advanced work they will encounter in secondary school.\n\nThe chapter covers core principles and applications that students need to master. Understanding these concepts thoroughly will help in both the BLE examination and in building a strong foundation for future studies.\n\nStudents should practice regularly with textbook exercises and past BLE papers to gain confidence in solving problems related to History. Pay attention to the marking scheme and allocate time accordingly during the exam.\n\nThis chapter typically carries moderate weightage in the BLE examination, making it important for achieving a good overall score.",
+        "whyItMatters": "This chapter is regularly tested in BLE examinations. Mastering History ensures a solid foundation for SEE-level studies.",
+        "prerequisites": [
+          "Basic concepts from Grade 7"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Introduction to History",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the fundamental concepts of History. Students will learn the basic definitions, terminology, and foundational principles that form the basis of this chapter.\n\nUnderstanding these basics is essential before moving on to more complex problems and applications.",
+          "keyPoints": [
+            "Core concept of History",
+            "Used in BLE examination",
+            "Foundation for higher-level study"
+          ],
+          "formula": null,
+          "examTip": "Focus on definitions and basic applications. BLE often asks direct concept questions."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Applications of History",
+          "difficulty": "intermediate",
+          "explanation": "Once students understand the basic concepts, they can apply them to solve practical problems. This topic focuses on real-world applications and problem-solving strategies.\n\nPractice with textbook examples and past papers to develop speed and accuracy.",
+          "keyPoints": [
+            "Apply concepts to word problems",
+            "Show clear working in solutions",
+            "Check answers by substitution"
+          ],
+          "formula": null,
+          "examTip": "In BLE, show all working steps clearly. Partial marks are awarded for correct methodology."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Geography",
+      "shortIntro": "Introduction to Geography for BLE students.",
+      "introduction": {
+        "overview": "Geography is a fundamental topic in Social Studies for Grade 8 students preparing for the Basic Level Examination (BLE). This chapter builds on concepts learned in earlier grades and prepares students for the more advanced work they will encounter in secondary school.\n\nThe chapter covers core principles and applications that students need to master. Understanding these concepts thoroughly will help in both the BLE examination and in building a strong foundation for future studies.\n\nStudents should practice regularly with textbook exercises and past BLE papers to gain confidence in solving problems related to Geography. Pay attention to the marking scheme and allocate time accordingly during the exam.\n\nThis chapter typically carries moderate weightage in the BLE examination, making it important for achieving a good overall score.",
+        "whyItMatters": "This chapter is regularly tested in BLE examinations. Mastering Geography ensures a solid foundation for SEE-level studies.",
+        "prerequisites": [
+          "Basic concepts from Grade 7"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Introduction to Geography",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the fundamental concepts of Geography. Students will learn the basic definitions, terminology, and foundational principles that form the basis of this chapter.\n\nUnderstanding these basics is essential before moving on to more complex problems and applications.",
+          "keyPoints": [
+            "Core concept of Geography",
+            "Used in BLE examination",
+            "Foundation for higher-level study"
+          ],
+          "formula": null,
+          "examTip": "Focus on definitions and basic applications. BLE often asks direct concept questions."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Applications of Geography",
+          "difficulty": "intermediate",
+          "explanation": "Once students understand the basic concepts, they can apply them to solve practical problems. This topic focuses on real-world applications and problem-solving strategies.\n\nPractice with textbook examples and past papers to develop speed and accuracy.",
+          "keyPoints": [
+            "Apply concepts to word problems",
+            "Show clear working in solutions",
+            "Check answers by substitution"
+          ],
+          "formula": null,
+          "examTip": "In BLE, show all working steps clearly. Partial marks are awarded for correct methodology."
+        }
+      ]
+    },
+    {
+      "id": "ch-6",
+      "number": 6,
+      "title": "Economics Basics",
+      "shortIntro": "Introduction to Economics Basics for BLE students.",
+      "introduction": {
+        "overview": "Economics Basics is a fundamental topic in Social Studies for Grade 8 students preparing for the Basic Level Examination (BLE). This chapter builds on concepts learned in earlier grades and prepares students for the more advanced work they will encounter in secondary school.\n\nThe chapter covers core principles and applications that students need to master. Understanding these concepts thoroughly will help in both the BLE examination and in building a strong foundation for future studies.\n\nStudents should practice regularly with textbook exercises and past BLE papers to gain confidence in solving problems related to Economics Basics. Pay attention to the marking scheme and allocate time accordingly during the exam.\n\nThis chapter typically carries moderate weightage in the BLE examination, making it important for achieving a good overall score.",
+        "whyItMatters": "This chapter is regularly tested in BLE examinations. Mastering Economics Basics ensures a solid foundation for SEE-level studies.",
+        "prerequisites": [
+          "Basic concepts from Grade 7"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-6-1",
+          "number": 1,
+          "name": "Introduction to Economics Basics",
+          "difficulty": "beginner",
+          "explanation": "This topic introduces the fundamental concepts of Economics Basics. Students will learn the basic definitions, terminology, and foundational principles that form the basis of this chapter.\n\nUnderstanding these basics is essential before moving on to more complex problems and applications.",
+          "keyPoints": [
+            "Core concept of Economics Basics",
+            "Used in BLE examination",
+            "Foundation for higher-level study"
+          ],
+          "formula": null,
+          "examTip": "Focus on definitions and basic applications. BLE often asks direct concept questions."
+        },
+        {
+          "id": "t-6-2",
+          "number": 2,
+          "name": "Applications of Economics Basics",
+          "difficulty": "intermediate",
+          "explanation": "Once students understand the basic concepts, they can apply them to solve practical problems. This topic focuses on real-world applications and problem-solving strategies.\n\nPractice with textbook examples and past papers to develop speed and accuracy.",
+          "keyPoints": [
+            "Apply concepts to word problems",
+            "Show clear working in solutions",
+            "Check answers by substitution"
+          ],
+          "formula": null,
+          "examTip": "In BLE, show all working steps clearly. Partial marks are awarded for correct methodology."
+        }
+      ]
+    }
+  ]
+}

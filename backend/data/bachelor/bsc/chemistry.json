@@ -1,0 +1,254 @@
+{
+  "meta": {
+    "program": "BSc",
+    "category": "bachelor",
+    "subCategory": "bsc",
+    "subject": "Chemistry",
+    "subjectId": "chemistry",
+    "color": "#7C3AED",
+    "lastUpdated": "2025",
+    "totalChapters": 5
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Physical Chemistry",
+      "shortIntro": "BSc Chemistry: Physical Chemistry — university level study.",
+      "introduction": {
+        "overview": "Physical Chemistry is a fundamental chapter in the BSc Chemistry curriculum. This chapter provides a university-level understanding of the topic, building on concepts from the +2 level.\n\nBSc students should approach this chapter with a focus on both conceptual depth and experimental understanding. Laboratory work complements the theoretical study and is essential for a complete grasp of the material.\n\nThe curriculum follows TU's approved syllabus and prepares students for higher studies (MSc) as well as professional careers in science and technology.\n\nStudents are encouraged to consult multiple reference books and research papers to develop a comprehensive understanding of Physical Chemistry.",
+        "whyItMatters": "This chapter is central to the BSc Chemistry program and provides essential knowledge for both examinations and research careers.",
+        "prerequisites": [
+          "+2 Science background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Theoretical Foundations of Physical Chemistry",
+          "difficulty": "intermediate",
+          "explanation": "A comprehensive coverage of the theoretical foundations of Physical Chemistry at the university level. This topic introduces advanced concepts that build upon secondary-level knowledge.",
+          "keyPoints": [
+            "Advanced theoretical concepts",
+            "Mathematical derivations",
+            "Key laws and principles"
+          ],
+          "formula": null,
+          "examTip": "BSc exams require detailed derivations. Practice writing proofs and derivations step by step."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Experimental and Applied Physical Chemistry",
+          "difficulty": "advanced",
+          "explanation": "This topic covers the experimental and applied aspects of Physical Chemistry. Laboratory exercises, calculations, and practical applications are emphasized.",
+          "keyPoints": [
+            "Laboratory techniques",
+            "Data analysis",
+            "Practical applications"
+          ],
+          "formula": null,
+          "examTip": "Always link theoretical knowledge to practical experiments in your exam answers."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Organic Chemistry",
+      "shortIntro": "BSc Chemistry: Organic Chemistry — university level study.",
+      "introduction": {
+        "overview": "Organic Chemistry is a fundamental chapter in the BSc Chemistry curriculum. This chapter provides a university-level understanding of the topic, building on concepts from the +2 level.\n\nBSc students should approach this chapter with a focus on both conceptual depth and experimental understanding. Laboratory work complements the theoretical study and is essential for a complete grasp of the material.\n\nThe curriculum follows TU's approved syllabus and prepares students for higher studies (MSc) as well as professional careers in science and technology.\n\nStudents are encouraged to consult multiple reference books and research papers to develop a comprehensive understanding of Organic Chemistry.",
+        "whyItMatters": "This chapter is central to the BSc Chemistry program and provides essential knowledge for both examinations and research careers.",
+        "prerequisites": [
+          "+2 Science background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Theoretical Foundations of Organic Chemistry",
+          "difficulty": "intermediate",
+          "explanation": "A comprehensive coverage of the theoretical foundations of Organic Chemistry at the university level. This topic introduces advanced concepts that build upon secondary-level knowledge.",
+          "keyPoints": [
+            "Advanced theoretical concepts",
+            "Mathematical derivations",
+            "Key laws and principles"
+          ],
+          "formula": null,
+          "examTip": "BSc exams require detailed derivations. Practice writing proofs and derivations step by step."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Experimental and Applied Organic Chemistry",
+          "difficulty": "advanced",
+          "explanation": "This topic covers the experimental and applied aspects of Organic Chemistry. Laboratory exercises, calculations, and practical applications are emphasized.",
+          "keyPoints": [
+            "Laboratory techniques",
+            "Data analysis",
+            "Practical applications"
+          ],
+          "formula": null,
+          "examTip": "Always link theoretical knowledge to practical experiments in your exam answers."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Inorganic Chemistry",
+      "shortIntro": "BSc Chemistry: Inorganic Chemistry — university level study.",
+      "introduction": {
+        "overview": "Inorganic Chemistry is a fundamental chapter in the BSc Chemistry curriculum. This chapter provides a university-level understanding of the topic, building on concepts from the +2 level.\n\nBSc students should approach this chapter with a focus on both conceptual depth and experimental understanding. Laboratory work complements the theoretical study and is essential for a complete grasp of the material.\n\nThe curriculum follows TU's approved syllabus and prepares students for higher studies (MSc) as well as professional careers in science and technology.\n\nStudents are encouraged to consult multiple reference books and research papers to develop a comprehensive understanding of Inorganic Chemistry.",
+        "whyItMatters": "This chapter is central to the BSc Chemistry program and provides essential knowledge for both examinations and research careers.",
+        "prerequisites": [
+          "+2 Science background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Theoretical Foundations of Inorganic Chemistry",
+          "difficulty": "intermediate",
+          "explanation": "A comprehensive coverage of the theoretical foundations of Inorganic Chemistry at the university level. This topic introduces advanced concepts that build upon secondary-level knowledge.",
+          "keyPoints": [
+            "Advanced theoretical concepts",
+            "Mathematical derivations",
+            "Key laws and principles"
+          ],
+          "formula": null,
+          "examTip": "BSc exams require detailed derivations. Practice writing proofs and derivations step by step."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Experimental and Applied Inorganic Chemistry",
+          "difficulty": "advanced",
+          "explanation": "This topic covers the experimental and applied aspects of Inorganic Chemistry. Laboratory exercises, calculations, and practical applications are emphasized.",
+          "keyPoints": [
+            "Laboratory techniques",
+            "Data analysis",
+            "Practical applications"
+          ],
+          "formula": null,
+          "examTip": "Always link theoretical knowledge to practical experiments in your exam answers."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Analytical Chemistry",
+      "shortIntro": "BSc Chemistry: Analytical Chemistry — university level study.",
+      "introduction": {
+        "overview": "Analytical Chemistry is a fundamental chapter in the BSc Chemistry curriculum. This chapter provides a university-level understanding of the topic, building on concepts from the +2 level.\n\nBSc students should approach this chapter with a focus on both conceptual depth and experimental understanding. Laboratory work complements the theoretical study and is essential for a complete grasp of the material.\n\nThe curriculum follows TU's approved syllabus and prepares students for higher studies (MSc) as well as professional careers in science and technology.\n\nStudents are encouraged to consult multiple reference books and research papers to develop a comprehensive understanding of Analytical Chemistry.",
+        "whyItMatters": "This chapter is central to the BSc Chemistry program and provides essential knowledge for both examinations and research careers.",
+        "prerequisites": [
+          "+2 Science background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Theoretical Foundations of Analytical Chemistry",
+          "difficulty": "intermediate",
+          "explanation": "A comprehensive coverage of the theoretical foundations of Analytical Chemistry at the university level. This topic introduces advanced concepts that build upon secondary-level knowledge.",
+          "keyPoints": [
+            "Advanced theoretical concepts",
+            "Mathematical derivations",
+            "Key laws and principles"
+          ],
+          "formula": null,
+          "examTip": "BSc exams require detailed derivations. Practice writing proofs and derivations step by step."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Experimental and Applied Analytical Chemistry",
+          "difficulty": "advanced",
+          "explanation": "This topic covers the experimental and applied aspects of Analytical Chemistry. Laboratory exercises, calculations, and practical applications are emphasized.",
+          "keyPoints": [
+            "Laboratory techniques",
+            "Data analysis",
+            "Practical applications"
+          ],
+          "formula": null,
+          "examTip": "Always link theoretical knowledge to practical experiments in your exam answers."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Environmental Chemistry",
+      "shortIntro": "BSc Chemistry: Environmental Chemistry — university level study.",
+      "introduction": {
+        "overview": "Environmental Chemistry is a fundamental chapter in the BSc Chemistry curriculum. This chapter provides a university-level understanding of the topic, building on concepts from the +2 level.\n\nBSc students should approach this chapter with a focus on both conceptual depth and experimental understanding. Laboratory work complements the theoretical study and is essential for a complete grasp of the material.\n\nThe curriculum follows TU's approved syllabus and prepares students for higher studies (MSc) as well as professional careers in science and technology.\n\nStudents are encouraged to consult multiple reference books and research papers to develop a comprehensive understanding of Environmental Chemistry.",
+        "whyItMatters": "This chapter is central to the BSc Chemistry program and provides essential knowledge for both examinations and research careers.",
+        "prerequisites": [
+          "+2 Science background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Theoretical Foundations of Environmental Chemistry",
+          "difficulty": "intermediate",
+          "explanation": "A comprehensive coverage of the theoretical foundations of Environmental Chemistry at the university level. This topic introduces advanced concepts that build upon secondary-level knowledge.",
+          "keyPoints": [
+            "Advanced theoretical concepts",
+            "Mathematical derivations",
+            "Key laws and principles"
+          ],
+          "formula": null,
+          "examTip": "BSc exams require detailed derivations. Practice writing proofs and derivations step by step."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Experimental and Applied Environmental Chemistry",
+          "difficulty": "advanced",
+          "explanation": "This topic covers the experimental and applied aspects of Environmental Chemistry. Laboratory exercises, calculations, and practical applications are emphasized.",
+          "keyPoints": [
+            "Laboratory techniques",
+            "Data analysis",
+            "Practical applications"
+          ],
+          "formula": null,
+          "examTip": "Always link theoretical knowledge to practical experiments in your exam answers."
+        }
+      ]
+    }
+  ]
+}

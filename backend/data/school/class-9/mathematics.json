@@ -1,0 +1,494 @@
+{
+  "meta": {
+    "program": "Class 9",
+    "category": "school",
+    "subCategory": "class-9",
+    "subject": "Mathematics",
+    "subjectId": "mathematics",
+    "color": "#059669",
+    "lastUpdated": "2025",
+    "totalChapters": 10
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Sets",
+      "shortIntro": "Class 9 Mathematics: Sets fundamentals and applications.",
+      "introduction": {
+        "overview": "Sets is an important chapter in the Class 9 Mathematics curriculum. Building on concepts from Grade 8, this chapter introduces more advanced ideas and prepares students for the SEE examination.\n\nThe chapter explores both theoretical understanding and practical applications. Students should aim to master the core concepts before attempting more complex problems.\n\nRegular practice with classwork exercises and reference materials will help solidify understanding. Teachers typically emphasize this topic due to its relevance in the SEE syllabus.\n\nBy the end of this chapter, students should be comfortable with key concepts and ready to tackle SEE-level questions on Sets.",
+        "whyItMatters": "Understanding Sets at the Class 9 level builds the foundation for SEE preparation. This topic appears in various forms across examinations.",
+        "prerequisites": [
+          "Grade 8 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Core Concepts of Sets",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental principles of Sets as taught in Class 9. Students will learn key definitions, theorems, and basic problem-solving approaches.\n\nA thorough understanding of these concepts is necessary before advancing to more complex material in Class 10.",
+          "keyPoints": [
+            "Key definitions and principles",
+            "Basic problem-solving techniques",
+            "Links to Grade 8 concepts"
+          ],
+          "formula": null,
+          "examTip": "Focus on understanding core principles rather than rote memorization."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Problem Solving in Sets",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the core concepts and introduces various problem types that students will encounter in examinations.\n\nPractice is essential — work through as many examples as possible to build speed and confidence.",
+          "keyPoints": [
+            "Multiple problem types covered",
+            "Step-by-step solution approach",
+            "Time management in exams"
+          ],
+          "formula": null,
+          "examTip": "Practice past paper questions on Sets to understand the exam pattern."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Taxation",
+      "shortIntro": "Class 9 Mathematics: Taxation fundamentals and applications.",
+      "introduction": {
+        "overview": "Taxation is an important chapter in the Class 9 Mathematics curriculum. Building on concepts from Grade 8, this chapter introduces more advanced ideas and prepares students for the SEE examination.\n\nThe chapter explores both theoretical understanding and practical applications. Students should aim to master the core concepts before attempting more complex problems.\n\nRegular practice with classwork exercises and reference materials will help solidify understanding. Teachers typically emphasize this topic due to its relevance in the SEE syllabus.\n\nBy the end of this chapter, students should be comfortable with key concepts and ready to tackle SEE-level questions on Taxation.",
+        "whyItMatters": "Understanding Taxation at the Class 9 level builds the foundation for SEE preparation. This topic appears in various forms across examinations.",
+        "prerequisites": [
+          "Grade 8 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Core Concepts of Taxation",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental principles of Taxation as taught in Class 9. Students will learn key definitions, theorems, and basic problem-solving approaches.\n\nA thorough understanding of these concepts is necessary before advancing to more complex material in Class 10.",
+          "keyPoints": [
+            "Key definitions and principles",
+            "Basic problem-solving techniques",
+            "Links to Grade 8 concepts"
+          ],
+          "formula": null,
+          "examTip": "Focus on understanding core principles rather than rote memorization."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Problem Solving in Taxation",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the core concepts and introduces various problem types that students will encounter in examinations.\n\nPractice is essential — work through as many examples as possible to build speed and confidence.",
+          "keyPoints": [
+            "Multiple problem types covered",
+            "Step-by-step solution approach",
+            "Time management in exams"
+          ],
+          "formula": null,
+          "examTip": "Practice past paper questions on Taxation to understand the exam pattern."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Commission and Dividend",
+      "shortIntro": "Class 9 Mathematics: Commission and Dividend fundamentals and applications.",
+      "introduction": {
+        "overview": "Commission and Dividend is an important chapter in the Class 9 Mathematics curriculum. Building on concepts from Grade 8, this chapter introduces more advanced ideas and prepares students for the SEE examination.\n\nThe chapter explores both theoretical understanding and practical applications. Students should aim to master the core concepts before attempting more complex problems.\n\nRegular practice with classwork exercises and reference materials will help solidify understanding. Teachers typically emphasize this topic due to its relevance in the SEE syllabus.\n\nBy the end of this chapter, students should be comfortable with key concepts and ready to tackle SEE-level questions on Commission and Dividend.",
+        "whyItMatters": "Understanding Commission and Dividend at the Class 9 level builds the foundation for SEE preparation. This topic appears in various forms across examinations.",
+        "prerequisites": [
+          "Grade 8 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Core Concepts of Commission and Dividend",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental principles of Commission and Dividend as taught in Class 9. Students will learn key definitions, theorems, and basic problem-solving approaches.\n\nA thorough understanding of these concepts is necessary before advancing to more complex material in Class 10.",
+          "keyPoints": [
+            "Key definitions and principles",
+            "Basic problem-solving techniques",
+            "Links to Grade 8 concepts"
+          ],
+          "formula": null,
+          "examTip": "Focus on understanding core principles rather than rote memorization."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Problem Solving in Commission and Dividend",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the core concepts and introduces various problem types that students will encounter in examinations.\n\nPractice is essential — work through as many examples as possible to build speed and confidence.",
+          "keyPoints": [
+            "Multiple problem types covered",
+            "Step-by-step solution approach",
+            "Time management in exams"
+          ],
+          "formula": null,
+          "examTip": "Practice past paper questions on Commission and Dividend to understand the exam pattern."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Household Arithmetic",
+      "shortIntro": "Class 9 Mathematics: Household Arithmetic fundamentals and applications.",
+      "introduction": {
+        "overview": "Household Arithmetic is an important chapter in the Class 9 Mathematics curriculum. Building on concepts from Grade 8, this chapter introduces more advanced ideas and prepares students for the SEE examination.\n\nThe chapter explores both theoretical understanding and practical applications. Students should aim to master the core concepts before attempting more complex problems.\n\nRegular practice with classwork exercises and reference materials will help solidify understanding. Teachers typically emphasize this topic due to its relevance in the SEE syllabus.\n\nBy the end of this chapter, students should be comfortable with key concepts and ready to tackle SEE-level questions on Household Arithmetic.",
+        "whyItMatters": "Understanding Household Arithmetic at the Class 9 level builds the foundation for SEE preparation. This topic appears in various forms across examinations.",
+        "prerequisites": [
+          "Grade 8 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Core Concepts of Household Arithmetic",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental principles of Household Arithmetic as taught in Class 9. Students will learn key definitions, theorems, and basic problem-solving approaches.\n\nA thorough understanding of these concepts is necessary before advancing to more complex material in Class 10.",
+          "keyPoints": [
+            "Key definitions and principles",
+            "Basic problem-solving techniques",
+            "Links to Grade 8 concepts"
+          ],
+          "formula": null,
+          "examTip": "Focus on understanding core principles rather than rote memorization."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Problem Solving in Household Arithmetic",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the core concepts and introduces various problem types that students will encounter in examinations.\n\nPractice is essential — work through as many examples as possible to build speed and confidence.",
+          "keyPoints": [
+            "Multiple problem types covered",
+            "Step-by-step solution approach",
+            "Time management in exams"
+          ],
+          "formula": null,
+          "examTip": "Practice past paper questions on Household Arithmetic to understand the exam pattern."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Mensuration",
+      "shortIntro": "Class 9 Mathematics: Mensuration fundamentals and applications.",
+      "introduction": {
+        "overview": "Mensuration is an important chapter in the Class 9 Mathematics curriculum. Building on concepts from Grade 8, this chapter introduces more advanced ideas and prepares students for the SEE examination.\n\nThe chapter explores both theoretical understanding and practical applications. Students should aim to master the core concepts before attempting more complex problems.\n\nRegular practice with classwork exercises and reference materials will help solidify understanding. Teachers typically emphasize this topic due to its relevance in the SEE syllabus.\n\nBy the end of this chapter, students should be comfortable with key concepts and ready to tackle SEE-level questions on Mensuration.",
+        "whyItMatters": "Understanding Mensuration at the Class 9 level builds the foundation for SEE preparation. This topic appears in various forms across examinations.",
+        "prerequisites": [
+          "Grade 8 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Core Concepts of Mensuration",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental principles of Mensuration as taught in Class 9. Students will learn key definitions, theorems, and basic problem-solving approaches.\n\nA thorough understanding of these concepts is necessary before advancing to more complex material in Class 10.",
+          "keyPoints": [
+            "Key definitions and principles",
+            "Basic problem-solving techniques",
+            "Links to Grade 8 concepts"
+          ],
+          "formula": null,
+          "examTip": "Focus on understanding core principles rather than rote memorization."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Problem Solving in Mensuration",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the core concepts and introduces various problem types that students will encounter in examinations.\n\nPractice is essential — work through as many examples as possible to build speed and confidence.",
+          "keyPoints": [
+            "Multiple problem types covered",
+            "Step-by-step solution approach",
+            "Time management in exams"
+          ],
+          "formula": null,
+          "examTip": "Practice past paper questions on Mensuration to understand the exam pattern."
+        }
+      ]
+    },
+    {
+      "id": "ch-6",
+      "number": 6,
+      "title": "Algebra",
+      "shortIntro": "Class 9 Mathematics: Algebra fundamentals and applications.",
+      "introduction": {
+        "overview": "Algebra is an important chapter in the Class 9 Mathematics curriculum. Building on concepts from Grade 8, this chapter introduces more advanced ideas and prepares students for the SEE examination.\n\nThe chapter explores both theoretical understanding and practical applications. Students should aim to master the core concepts before attempting more complex problems.\n\nRegular practice with classwork exercises and reference materials will help solidify understanding. Teachers typically emphasize this topic due to its relevance in the SEE syllabus.\n\nBy the end of this chapter, students should be comfortable with key concepts and ready to tackle SEE-level questions on Algebra.",
+        "whyItMatters": "Understanding Algebra at the Class 9 level builds the foundation for SEE preparation. This topic appears in various forms across examinations.",
+        "prerequisites": [
+          "Grade 8 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-6-1",
+          "number": 1,
+          "name": "Core Concepts of Algebra",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental principles of Algebra as taught in Class 9. Students will learn key definitions, theorems, and basic problem-solving approaches.\n\nA thorough understanding of these concepts is necessary before advancing to more complex material in Class 10.",
+          "keyPoints": [
+            "Key definitions and principles",
+            "Basic problem-solving techniques",
+            "Links to Grade 8 concepts"
+          ],
+          "formula": null,
+          "examTip": "Focus on understanding core principles rather than rote memorization."
+        },
+        {
+          "id": "t-6-2",
+          "number": 2,
+          "name": "Problem Solving in Algebra",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the core concepts and introduces various problem types that students will encounter in examinations.\n\nPractice is essential — work through as many examples as possible to build speed and confidence.",
+          "keyPoints": [
+            "Multiple problem types covered",
+            "Step-by-step solution approach",
+            "Time management in exams"
+          ],
+          "formula": null,
+          "examTip": "Practice past paper questions on Algebra to understand the exam pattern."
+        }
+      ]
+    },
+    {
+      "id": "ch-7",
+      "number": 7,
+      "title": "Geometry",
+      "shortIntro": "Class 9 Mathematics: Geometry fundamentals and applications.",
+      "introduction": {
+        "overview": "Geometry is an important chapter in the Class 9 Mathematics curriculum. Building on concepts from Grade 8, this chapter introduces more advanced ideas and prepares students for the SEE examination.\n\nThe chapter explores both theoretical understanding and practical applications. Students should aim to master the core concepts before attempting more complex problems.\n\nRegular practice with classwork exercises and reference materials will help solidify understanding. Teachers typically emphasize this topic due to its relevance in the SEE syllabus.\n\nBy the end of this chapter, students should be comfortable with key concepts and ready to tackle SEE-level questions on Geometry.",
+        "whyItMatters": "Understanding Geometry at the Class 9 level builds the foundation for SEE preparation. This topic appears in various forms across examinations.",
+        "prerequisites": [
+          "Grade 8 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-7-1",
+          "number": 1,
+          "name": "Core Concepts of Geometry",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental principles of Geometry as taught in Class 9. Students will learn key definitions, theorems, and basic problem-solving approaches.\n\nA thorough understanding of these concepts is necessary before advancing to more complex material in Class 10.",
+          "keyPoints": [
+            "Key definitions and principles",
+            "Basic problem-solving techniques",
+            "Links to Grade 8 concepts"
+          ],
+          "formula": null,
+          "examTip": "Focus on understanding core principles rather than rote memorization."
+        },
+        {
+          "id": "t-7-2",
+          "number": 2,
+          "name": "Problem Solving in Geometry",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the core concepts and introduces various problem types that students will encounter in examinations.\n\nPractice is essential — work through as many examples as possible to build speed and confidence.",
+          "keyPoints": [
+            "Multiple problem types covered",
+            "Step-by-step solution approach",
+            "Time management in exams"
+          ],
+          "formula": null,
+          "examTip": "Practice past paper questions on Geometry to understand the exam pattern."
+        }
+      ]
+    },
+    {
+      "id": "ch-8",
+      "number": 8,
+      "title": "Trigonometry",
+      "shortIntro": "Class 9 Mathematics: Trigonometry fundamentals and applications.",
+      "introduction": {
+        "overview": "Trigonometry is an important chapter in the Class 9 Mathematics curriculum. Building on concepts from Grade 8, this chapter introduces more advanced ideas and prepares students for the SEE examination.\n\nThe chapter explores both theoretical understanding and practical applications. Students should aim to master the core concepts before attempting more complex problems.\n\nRegular practice with classwork exercises and reference materials will help solidify understanding. Teachers typically emphasize this topic due to its relevance in the SEE syllabus.\n\nBy the end of this chapter, students should be comfortable with key concepts and ready to tackle SEE-level questions on Trigonometry.",
+        "whyItMatters": "Understanding Trigonometry at the Class 9 level builds the foundation for SEE preparation. This topic appears in various forms across examinations.",
+        "prerequisites": [
+          "Grade 8 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-8-1",
+          "number": 1,
+          "name": "Core Concepts of Trigonometry",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental principles of Trigonometry as taught in Class 9. Students will learn key definitions, theorems, and basic problem-solving approaches.\n\nA thorough understanding of these concepts is necessary before advancing to more complex material in Class 10.",
+          "keyPoints": [
+            "Key definitions and principles",
+            "Basic problem-solving techniques",
+            "Links to Grade 8 concepts"
+          ],
+          "formula": null,
+          "examTip": "Focus on understanding core principles rather than rote memorization."
+        },
+        {
+          "id": "t-8-2",
+          "number": 2,
+          "name": "Problem Solving in Trigonometry",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the core concepts and introduces various problem types that students will encounter in examinations.\n\nPractice is essential — work through as many examples as possible to build speed and confidence.",
+          "keyPoints": [
+            "Multiple problem types covered",
+            "Step-by-step solution approach",
+            "Time management in exams"
+          ],
+          "formula": null,
+          "examTip": "Practice past paper questions on Trigonometry to understand the exam pattern."
+        }
+      ]
+    },
+    {
+      "id": "ch-9",
+      "number": 9,
+      "title": "Statistics",
+      "shortIntro": "Class 9 Mathematics: Statistics fundamentals and applications.",
+      "introduction": {
+        "overview": "Statistics is an important chapter in the Class 9 Mathematics curriculum. Building on concepts from Grade 8, this chapter introduces more advanced ideas and prepares students for the SEE examination.\n\nThe chapter explores both theoretical understanding and practical applications. Students should aim to master the core concepts before attempting more complex problems.\n\nRegular practice with classwork exercises and reference materials will help solidify understanding. Teachers typically emphasize this topic due to its relevance in the SEE syllabus.\n\nBy the end of this chapter, students should be comfortable with key concepts and ready to tackle SEE-level questions on Statistics.",
+        "whyItMatters": "Understanding Statistics at the Class 9 level builds the foundation for SEE preparation. This topic appears in various forms across examinations.",
+        "prerequisites": [
+          "Grade 8 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-9-1",
+          "number": 1,
+          "name": "Core Concepts of Statistics",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental principles of Statistics as taught in Class 9. Students will learn key definitions, theorems, and basic problem-solving approaches.\n\nA thorough understanding of these concepts is necessary before advancing to more complex material in Class 10.",
+          "keyPoints": [
+            "Key definitions and principles",
+            "Basic problem-solving techniques",
+            "Links to Grade 8 concepts"
+          ],
+          "formula": null,
+          "examTip": "Focus on understanding core principles rather than rote memorization."
+        },
+        {
+          "id": "t-9-2",
+          "number": 2,
+          "name": "Problem Solving in Statistics",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the core concepts and introduces various problem types that students will encounter in examinations.\n\nPractice is essential — work through as many examples as possible to build speed and confidence.",
+          "keyPoints": [
+            "Multiple problem types covered",
+            "Step-by-step solution approach",
+            "Time management in exams"
+          ],
+          "formula": null,
+          "examTip": "Practice past paper questions on Statistics to understand the exam pattern."
+        }
+      ]
+    },
+    {
+      "id": "ch-10",
+      "number": 10,
+      "title": "Probability",
+      "shortIntro": "Class 9 Mathematics: Probability fundamentals and applications.",
+      "introduction": {
+        "overview": "Probability is an important chapter in the Class 9 Mathematics curriculum. Building on concepts from Grade 8, this chapter introduces more advanced ideas and prepares students for the SEE examination.\n\nThe chapter explores both theoretical understanding and practical applications. Students should aim to master the core concepts before attempting more complex problems.\n\nRegular practice with classwork exercises and reference materials will help solidify understanding. Teachers typically emphasize this topic due to its relevance in the SEE syllabus.\n\nBy the end of this chapter, students should be comfortable with key concepts and ready to tackle SEE-level questions on Probability.",
+        "whyItMatters": "Understanding Probability at the Class 9 level builds the foundation for SEE preparation. This topic appears in various forms across examinations.",
+        "prerequisites": [
+          "Grade 8 foundation"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-10-1",
+          "number": 1,
+          "name": "Core Concepts of Probability",
+          "difficulty": "beginner",
+          "explanation": "This topic covers the fundamental principles of Probability as taught in Class 9. Students will learn key definitions, theorems, and basic problem-solving approaches.\n\nA thorough understanding of these concepts is necessary before advancing to more complex material in Class 10.",
+          "keyPoints": [
+            "Key definitions and principles",
+            "Basic problem-solving techniques",
+            "Links to Grade 8 concepts"
+          ],
+          "formula": null,
+          "examTip": "Focus on understanding core principles rather than rote memorization."
+        },
+        {
+          "id": "t-10-2",
+          "number": 2,
+          "name": "Problem Solving in Probability",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the core concepts and introduces various problem types that students will encounter in examinations.\n\nPractice is essential — work through as many examples as possible to build speed and confidence.",
+          "keyPoints": [
+            "Multiple problem types covered",
+            "Step-by-step solution approach",
+            "Time management in exams"
+          ],
+          "formula": null,
+          "examTip": "Practice past paper questions on Probability to understand the exam pattern."
+        }
+      ]
+    }
+  ]
+}

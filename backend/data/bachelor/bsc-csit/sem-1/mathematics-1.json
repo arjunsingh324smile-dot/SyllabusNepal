@@ -1,0 +1,255 @@
+{
+  "meta": {
+    "program": "BSc CSIT",
+    "category": "bachelor",
+    "subCategory": "bsc-csit",
+    "subject": "Mathematics I",
+    "subjectId": "mathematics-1",
+    "color": "#7C3AED",
+    "lastUpdated": "2025",
+    "semester": "sem-1",
+    "totalChapters": 5
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Limits and Continuity",
+      "shortIntro": "BSc CSIT sem-1: Limits and Continuity for computer science students.",
+      "introduction": {
+        "overview": "Limits and Continuity is a vital chapter in the BSc CSIT Mathematics I syllabus for sem 1. The BSc CSIT program at TU is one of the most sought-after programs in Nepal for students interested in computer science and information technology.\n\nThis chapter covers fundamentals that are critical not only for university examinations but also for technical interviews, competitive programming, and advanced research in computer science.\n\nStudents should combine textbook study with practical programming exercises, online resources, and group study sessions. The BSc CSIT curriculum is rigorous, and consistent effort throughout the semester is necessary for success.\n\nMastering Limits and Continuity will provide students with skills that are directly applicable in Nepal's growing IT industry and in further academic pursuits.",
+        "whyItMatters": "Essential for BSc CSIT students — Limits and Continuity is heavily weighted in semester exams and forms the basis for advanced courses.",
+        "prerequisites": [
+          "Strong foundation in secondary mathematics and science"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Fundamentals of Limits and Continuity",
+          "difficulty": "beginner",
+          "explanation": "A thorough introduction to the concepts of Limits and Continuity. This topic establishes the foundational knowledge required for the rest of the chapter and for advanced study in later semesters.\n\nBSc CSIT students should particularly focus on the theoretical aspects that are frequently tested in TU examinations.",
+          "keyPoints": [
+            "Core theoretical concepts",
+            "Mathematical foundations",
+            "Practical implementation aspects"
+          ],
+          "formula": null,
+          "examTip": "TU BSc CSIT exams emphasize long-answer questions. Structure your answers clearly with definitions, explanations, and examples."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Advanced Topics in Limits and Continuity",
+          "difficulty": "intermediate",
+          "explanation": "Deeper exploration of Limits and Continuity covering complex concepts, optimization techniques, and advanced applications relevant to computer science.",
+          "keyPoints": [
+            "Complexity analysis",
+            "Optimization techniques",
+            "Real-world applications"
+          ],
+          "formula": null,
+          "examTip": "Focus on algorithm implementations and time complexity analysis — these are high-value topics in CSIT exams."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Derivatives",
+      "shortIntro": "BSc CSIT sem-1: Derivatives for computer science students.",
+      "introduction": {
+        "overview": "Derivatives is a vital chapter in the BSc CSIT Mathematics I syllabus for sem 1. The BSc CSIT program at TU is one of the most sought-after programs in Nepal for students interested in computer science and information technology.\n\nThis chapter covers fundamentals that are critical not only for university examinations but also for technical interviews, competitive programming, and advanced research in computer science.\n\nStudents should combine textbook study with practical programming exercises, online resources, and group study sessions. The BSc CSIT curriculum is rigorous, and consistent effort throughout the semester is necessary for success.\n\nMastering Derivatives will provide students with skills that are directly applicable in Nepal's growing IT industry and in further academic pursuits.",
+        "whyItMatters": "Essential for BSc CSIT students — Derivatives is heavily weighted in semester exams and forms the basis for advanced courses.",
+        "prerequisites": [
+          "Strong foundation in secondary mathematics and science"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Fundamentals of Derivatives",
+          "difficulty": "beginner",
+          "explanation": "A thorough introduction to the concepts of Derivatives. This topic establishes the foundational knowledge required for the rest of the chapter and for advanced study in later semesters.\n\nBSc CSIT students should particularly focus on the theoretical aspects that are frequently tested in TU examinations.",
+          "keyPoints": [
+            "Core theoretical concepts",
+            "Mathematical foundations",
+            "Practical implementation aspects"
+          ],
+          "formula": null,
+          "examTip": "TU BSc CSIT exams emphasize long-answer questions. Structure your answers clearly with definitions, explanations, and examples."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Advanced Topics in Derivatives",
+          "difficulty": "intermediate",
+          "explanation": "Deeper exploration of Derivatives covering complex concepts, optimization techniques, and advanced applications relevant to computer science.",
+          "keyPoints": [
+            "Complexity analysis",
+            "Optimization techniques",
+            "Real-world applications"
+          ],
+          "formula": null,
+          "examTip": "Focus on algorithm implementations and time complexity analysis — these are high-value topics in CSIT exams."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Applications of Derivatives",
+      "shortIntro": "BSc CSIT sem-1: Applications of Derivatives for computer science students.",
+      "introduction": {
+        "overview": "Applications of Derivatives is a vital chapter in the BSc CSIT Mathematics I syllabus for sem 1. The BSc CSIT program at TU is one of the most sought-after programs in Nepal for students interested in computer science and information technology.\n\nThis chapter covers fundamentals that are critical not only for university examinations but also for technical interviews, competitive programming, and advanced research in computer science.\n\nStudents should combine textbook study with practical programming exercises, online resources, and group study sessions. The BSc CSIT curriculum is rigorous, and consistent effort throughout the semester is necessary for success.\n\nMastering Applications of Derivatives will provide students with skills that are directly applicable in Nepal's growing IT industry and in further academic pursuits.",
+        "whyItMatters": "Essential for BSc CSIT students — Applications of Derivatives is heavily weighted in semester exams and forms the basis for advanced courses.",
+        "prerequisites": [
+          "Strong foundation in secondary mathematics and science"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Fundamentals of Applications of Derivatives",
+          "difficulty": "beginner",
+          "explanation": "A thorough introduction to the concepts of Applications of Derivatives. This topic establishes the foundational knowledge required for the rest of the chapter and for advanced study in later semesters.\n\nBSc CSIT students should particularly focus on the theoretical aspects that are frequently tested in TU examinations.",
+          "keyPoints": [
+            "Core theoretical concepts",
+            "Mathematical foundations",
+            "Practical implementation aspects"
+          ],
+          "formula": null,
+          "examTip": "TU BSc CSIT exams emphasize long-answer questions. Structure your answers clearly with definitions, explanations, and examples."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Advanced Topics in Applications of Derivatives",
+          "difficulty": "intermediate",
+          "explanation": "Deeper exploration of Applications of Derivatives covering complex concepts, optimization techniques, and advanced applications relevant to computer science.",
+          "keyPoints": [
+            "Complexity analysis",
+            "Optimization techniques",
+            "Real-world applications"
+          ],
+          "formula": null,
+          "examTip": "Focus on algorithm implementations and time complexity analysis — these are high-value topics in CSIT exams."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Integration",
+      "shortIntro": "BSc CSIT sem-1: Integration for computer science students.",
+      "introduction": {
+        "overview": "Integration is a vital chapter in the BSc CSIT Mathematics I syllabus for sem 1. The BSc CSIT program at TU is one of the most sought-after programs in Nepal for students interested in computer science and information technology.\n\nThis chapter covers fundamentals that are critical not only for university examinations but also for technical interviews, competitive programming, and advanced research in computer science.\n\nStudents should combine textbook study with practical programming exercises, online resources, and group study sessions. The BSc CSIT curriculum is rigorous, and consistent effort throughout the semester is necessary for success.\n\nMastering Integration will provide students with skills that are directly applicable in Nepal's growing IT industry and in further academic pursuits.",
+        "whyItMatters": "Essential for BSc CSIT students — Integration is heavily weighted in semester exams and forms the basis for advanced courses.",
+        "prerequisites": [
+          "Strong foundation in secondary mathematics and science"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Fundamentals of Integration",
+          "difficulty": "beginner",
+          "explanation": "A thorough introduction to the concepts of Integration. This topic establishes the foundational knowledge required for the rest of the chapter and for advanced study in later semesters.\n\nBSc CSIT students should particularly focus on the theoretical aspects that are frequently tested in TU examinations.",
+          "keyPoints": [
+            "Core theoretical concepts",
+            "Mathematical foundations",
+            "Practical implementation aspects"
+          ],
+          "formula": null,
+          "examTip": "TU BSc CSIT exams emphasize long-answer questions. Structure your answers clearly with definitions, explanations, and examples."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Advanced Topics in Integration",
+          "difficulty": "intermediate",
+          "explanation": "Deeper exploration of Integration covering complex concepts, optimization techniques, and advanced applications relevant to computer science.",
+          "keyPoints": [
+            "Complexity analysis",
+            "Optimization techniques",
+            "Real-world applications"
+          ],
+          "formula": null,
+          "examTip": "Focus on algorithm implementations and time complexity analysis — these are high-value topics in CSIT exams."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Infinite Series",
+      "shortIntro": "BSc CSIT sem-1: Infinite Series for computer science students.",
+      "introduction": {
+        "overview": "Infinite Series is a vital chapter in the BSc CSIT Mathematics I syllabus for sem 1. The BSc CSIT program at TU is one of the most sought-after programs in Nepal for students interested in computer science and information technology.\n\nThis chapter covers fundamentals that are critical not only for university examinations but also for technical interviews, competitive programming, and advanced research in computer science.\n\nStudents should combine textbook study with practical programming exercises, online resources, and group study sessions. The BSc CSIT curriculum is rigorous, and consistent effort throughout the semester is necessary for success.\n\nMastering Infinite Series will provide students with skills that are directly applicable in Nepal's growing IT industry and in further academic pursuits.",
+        "whyItMatters": "Essential for BSc CSIT students — Infinite Series is heavily weighted in semester exams and forms the basis for advanced courses.",
+        "prerequisites": [
+          "Strong foundation in secondary mathematics and science"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Fundamentals of Infinite Series",
+          "difficulty": "beginner",
+          "explanation": "A thorough introduction to the concepts of Infinite Series. This topic establishes the foundational knowledge required for the rest of the chapter and for advanced study in later semesters.\n\nBSc CSIT students should particularly focus on the theoretical aspects that are frequently tested in TU examinations.",
+          "keyPoints": [
+            "Core theoretical concepts",
+            "Mathematical foundations",
+            "Practical implementation aspects"
+          ],
+          "formula": null,
+          "examTip": "TU BSc CSIT exams emphasize long-answer questions. Structure your answers clearly with definitions, explanations, and examples."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Advanced Topics in Infinite Series",
+          "difficulty": "intermediate",
+          "explanation": "Deeper exploration of Infinite Series covering complex concepts, optimization techniques, and advanced applications relevant to computer science.",
+          "keyPoints": [
+            "Complexity analysis",
+            "Optimization techniques",
+            "Real-world applications"
+          ],
+          "formula": null,
+          "examTip": "Focus on algorithm implementations and time complexity analysis — these are high-value topics in CSIT exams."
+        }
+      ]
+    }
+  ]
+}

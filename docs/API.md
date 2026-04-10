@@ -6,97 +6,94 @@
 http://localhost:5000/api
 ```
 
-## Response Format
-
-All responses follow this structure:
-
-```json
-{
-  "success": true,
-  "statusCode": 200,
-  "message": "Success",
-  "data": {}
-}
-```
-
-## Error Response
-
-```json
-{
-  "success": false,
-  "message": "Error description",
-  "errors": []
-}
-```
-
 ## Endpoints
 
-### Programs
+### Health Check
 
-#### GET /api/programs
-Query params: `category` (optional: school, bachelor, entrance, competitive)
-
-#### GET /api/programs/:id
-Returns a single program by its programId.
-
-#### GET /api/programs/category/:category
-Returns all programs in a category.
+#### GET /api/health
+Returns `{ status: "ok" }`.
 
 ---
 
-### Subjects
+### Programs Index
 
-#### GET /api/subjects
-Query params: `programId` (optional)
-
-#### GET /api/subjects/:id
-Returns a single subject by its subjectId.
-
-#### GET /api/subjects/program/:programId
-Returns all subjects for a program.
+#### GET /api/meta/programs
+Returns the master list of all 25 programs across all categories.
 
 ---
 
-### Chapters
+### Subject Listings
 
-#### GET /api/chapters
-Query params: `subjectId`, `programId` (optional)
+#### GET /api/:category/:programPath/subjects
+Lists subjects for a program. Returns either `{ subjects: [...] }` (flat) or `{ groups: [...] }` (when grouped by semester/stream).
 
-#### GET /api/chapters/:id
-Returns a single chapter by its chapterId.
-
-#### GET /api/chapters/subject/:subjectId
-Returns all chapters for a subject.
-
----
-
-### Topics
-
-#### GET /api/topics
-Query params: `chapterId`, `subjectId` (optional)
-
-#### GET /api/topics/:id
-Returns a single topic by its topicId.
-
-#### GET /api/topics/chapter/:chapterId
-Returns all topics for a chapter.
+Examples:
+- `GET /api/school/see/subjects` → flat list of SEE subjects
+- `GET /api/bachelor/bca/subjects` → groups by semester
+- `GET /api/school/neb-grade-11/science/subjects` → subjects in science stream
 
 ---
 
-### Search
+### Subject Detail (Full Chapter List)
 
-#### GET /api/search
-Query params: `q` (search query), `limit` (optional, default 20)
+#### GET /api/:category/:programPath/:subjectId
+Returns full subject data including meta and all chapters with topics.
+
+Examples:
+- `GET /api/school/see/mathematics`
+- `GET /api/bachelor/bca/sem-1/c-programming`
+- `GET /api/entrance/ioe/mathematics`
+- `GET /api/engineering/tu-ioe/civil/thermodynamics`
+
+Response shape:
+```json
+{
+  "meta": {
+    "program": "SEE",
+    "category": "school",
+    "subject": "Mathematics",
+    "subjectId": "mathematics",
+    "color": "#2563EB",
+    "totalChapters": 14
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Sets",
+      "shortIntro": "...",
+      "introduction": { "overview": "...", "whyItMatters": "...", "prerequisites": [], "yearlyTrend": {} },
+      "topics": [...]
+    }
+  ]
+}
+```
+
+**Fallback**: If a direct path is not found, the server searches recursively in subdirectories. So `/api/bachelor/bca/c-programming` will find `bca/sem-1/c-programming.json`.
 
 ---
 
-### Analytics
+### Single Chapter
 
-#### POST /api/analytics/track
-Body: `{ event, resourceType, resourceId, metadata }`
+#### GET /api/:category/:programPath/:subjectId/:chapterId
+Returns a single chapter with its full introduction and all topics, plus the subject meta.
 
-#### GET /api/analytics/popular
-Query params: `type`, `limit`
+The `chapterId` must start with `ch-` (e.g., `ch-1`, `ch-5`).
 
-#### GET /api/analytics/stats
-Returns aggregate stats.
+Examples:
+- `GET /api/school/see/mathematics/ch-1`
+- `GET /api/bachelor/bca/sem-1/c-programming/ch-3`
+
+Response: the chapter object directly at top level, with `meta` field injected from the parent subject.
+
+---
+
+## Categories
+
+| Category      | Base Path        | Examples                                            |
+|---------------|------------------|-----------------------------------------------------|
+| School        | `/api/school`    | see, ble, class-9, neb-grade-11/science             |
+| Bachelor      | `/api/bachelor`  | bca/sem-1, bbs/year-1, bsc-csit/sem-1               |
+| Engineering   | `/api/engineering`| tu-ioe/civil, kathmandu-university/computer          |
+| Entrance      | `/api/entrance`  | ioe, csit, cmat, cee/medical                         |
+| Competitive   | `/api/competitive`| loksewa, banking, tsc/primary                        |

@@ -1,0 +1,207 @@
+{
+  "meta": {
+    "program": "BCA",
+    "category": "bachelor",
+    "subCategory": "bca",
+    "subject": "Calculus",
+    "subjectId": "calculus",
+    "color": "#7C3AED",
+    "lastUpdated": "2025",
+    "semester": "sem-1",
+    "totalChapters": 4
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Limits and Continuity",
+      "shortIntro": "BCA sem-1: Limits and Continuity — theory and practical application.",
+      "introduction": {
+        "overview": "Limits and Continuity is a core chapter in the BCA Calculus course for sem 1. This chapter provides the technical knowledge and practical skills essential for a career in computer applications and IT.\n\nThe BCA curriculum emphasizes hands-on learning alongside theoretical understanding. Students should practice coding, work through lab exercises, and build small projects to reinforce the concepts covered in this chapter.\n\nThe content follows the TU-affiliated BCA syllabus and is designed to prepare students for both university examinations and practical industry requirements.\n\nStudents who master this chapter will have a strong foundation for advanced topics in later semesters, including software engineering, database management, and web development.",
+        "whyItMatters": "This chapter is fundamental to the BCA curriculum. Understanding Limits and Continuity thoroughly will help in examinations and in practical computing work.",
+        "prerequisites": [
+          "Basic computer literacy"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Introduction to Limits and Continuity",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Limits and Continuity. Students learn the core concepts, terminology, and basic techniques that form the foundation of this chapter.\n\nComputer application students should focus on both understanding the theory and practicing with hands-on exercises.",
+          "keyPoints": [
+            "Core concepts and definitions",
+            "Practical examples and demonstrations",
+            "Common patterns and techniques"
+          ],
+          "formula": null,
+          "examTip": "BCA exams test both theoretical knowledge and practical application. Include code examples or diagrams where relevant."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Advanced Limits and Continuity",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the basics and explores more advanced aspects of Limits and Continuity. Emphasis is placed on problem-solving and practical application.",
+          "keyPoints": [
+            "Advanced techniques",
+            "Problem-solving strategies",
+            "Industry best practices"
+          ],
+          "formula": null,
+          "examTip": "Practice writing code or solutions by hand, as BCA exams often require handwritten programs."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Differentiation",
+      "shortIntro": "BCA sem-1: Differentiation — theory and practical application.",
+      "introduction": {
+        "overview": "Differentiation is a core chapter in the BCA Calculus course for sem 1. This chapter provides the technical knowledge and practical skills essential for a career in computer applications and IT.\n\nThe BCA curriculum emphasizes hands-on learning alongside theoretical understanding. Students should practice coding, work through lab exercises, and build small projects to reinforce the concepts covered in this chapter.\n\nThe content follows the TU-affiliated BCA syllabus and is designed to prepare students for both university examinations and practical industry requirements.\n\nStudents who master this chapter will have a strong foundation for advanced topics in later semesters, including software engineering, database management, and web development.",
+        "whyItMatters": "This chapter is fundamental to the BCA curriculum. Understanding Differentiation thoroughly will help in examinations and in practical computing work.",
+        "prerequisites": [
+          "Basic computer literacy"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Introduction to Differentiation",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Differentiation. Students learn the core concepts, terminology, and basic techniques that form the foundation of this chapter.\n\nComputer application students should focus on both understanding the theory and practicing with hands-on exercises.",
+          "keyPoints": [
+            "Core concepts and definitions",
+            "Practical examples and demonstrations",
+            "Common patterns and techniques"
+          ],
+          "formula": null,
+          "examTip": "BCA exams test both theoretical knowledge and practical application. Include code examples or diagrams where relevant."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Advanced Differentiation",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the basics and explores more advanced aspects of Differentiation. Emphasis is placed on problem-solving and practical application.",
+          "keyPoints": [
+            "Advanced techniques",
+            "Problem-solving strategies",
+            "Industry best practices"
+          ],
+          "formula": null,
+          "examTip": "Practice writing code or solutions by hand, as BCA exams often require handwritten programs."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Integration",
+      "shortIntro": "BCA sem-1: Integration — theory and practical application.",
+      "introduction": {
+        "overview": "Integration is a core chapter in the BCA Calculus course for sem 1. This chapter provides the technical knowledge and practical skills essential for a career in computer applications and IT.\n\nThe BCA curriculum emphasizes hands-on learning alongside theoretical understanding. Students should practice coding, work through lab exercises, and build small projects to reinforce the concepts covered in this chapter.\n\nThe content follows the TU-affiliated BCA syllabus and is designed to prepare students for both university examinations and practical industry requirements.\n\nStudents who master this chapter will have a strong foundation for advanced topics in later semesters, including software engineering, database management, and web development.",
+        "whyItMatters": "This chapter is fundamental to the BCA curriculum. Understanding Integration thoroughly will help in examinations and in practical computing work.",
+        "prerequisites": [
+          "Basic computer literacy"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Introduction to Integration",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Integration. Students learn the core concepts, terminology, and basic techniques that form the foundation of this chapter.\n\nComputer application students should focus on both understanding the theory and practicing with hands-on exercises.",
+          "keyPoints": [
+            "Core concepts and definitions",
+            "Practical examples and demonstrations",
+            "Common patterns and techniques"
+          ],
+          "formula": null,
+          "examTip": "BCA exams test both theoretical knowledge and practical application. Include code examples or diagrams where relevant."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Advanced Integration",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the basics and explores more advanced aspects of Integration. Emphasis is placed on problem-solving and practical application.",
+          "keyPoints": [
+            "Advanced techniques",
+            "Problem-solving strategies",
+            "Industry best practices"
+          ],
+          "formula": null,
+          "examTip": "Practice writing code or solutions by hand, as BCA exams often require handwritten programs."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Applications of Calculus",
+      "shortIntro": "BCA sem-1: Applications of Calculus — theory and practical application.",
+      "introduction": {
+        "overview": "Applications of Calculus is a core chapter in the BCA Calculus course for sem 1. This chapter provides the technical knowledge and practical skills essential for a career in computer applications and IT.\n\nThe BCA curriculum emphasizes hands-on learning alongside theoretical understanding. Students should practice coding, work through lab exercises, and build small projects to reinforce the concepts covered in this chapter.\n\nThe content follows the TU-affiliated BCA syllabus and is designed to prepare students for both university examinations and practical industry requirements.\n\nStudents who master this chapter will have a strong foundation for advanced topics in later semesters, including software engineering, database management, and web development.",
+        "whyItMatters": "This chapter is fundamental to the BCA curriculum. Understanding Applications of Calculus thoroughly will help in examinations and in practical computing work.",
+        "prerequisites": [
+          "Basic computer literacy"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Introduction to Applications of Calculus",
+          "difficulty": "beginner",
+          "explanation": "This topic provides a comprehensive introduction to Applications of Calculus. Students learn the core concepts, terminology, and basic techniques that form the foundation of this chapter.\n\nComputer application students should focus on both understanding the theory and practicing with hands-on exercises.",
+          "keyPoints": [
+            "Core concepts and definitions",
+            "Practical examples and demonstrations",
+            "Common patterns and techniques"
+          ],
+          "formula": null,
+          "examTip": "BCA exams test both theoretical knowledge and practical application. Include code examples or diagrams where relevant."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Advanced Applications of Calculus",
+          "difficulty": "intermediate",
+          "explanation": "This topic builds on the basics and explores more advanced aspects of Applications of Calculus. Emphasis is placed on problem-solving and practical application.",
+          "keyPoints": [
+            "Advanced techniques",
+            "Problem-solving strategies",
+            "Industry best practices"
+          ],
+          "formula": null,
+          "examTip": "Practice writing code or solutions by hand, as BCA exams often require handwritten programs."
+        }
+      ]
+    }
+  ]
+}

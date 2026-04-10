@@ -1,0 +1,399 @@
+{
+  "meta": {
+    "program": "BSc CSIT",
+    "category": "bachelor",
+    "subCategory": "bsc-csit",
+    "subject": "C Programming",
+    "subjectId": "c-programming",
+    "color": "#059669",
+    "lastUpdated": "2025",
+    "semester": "sem-1",
+    "totalChapters": 8
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Introduction to C",
+      "shortIntro": "BSc CSIT sem-1: Introduction to C for computer science students.",
+      "introduction": {
+        "overview": "Introduction to C is a vital chapter in the BSc CSIT C Programming syllabus for sem 1. The BSc CSIT program at TU is one of the most sought-after programs in Nepal for students interested in computer science and information technology.\n\nThis chapter covers fundamentals that are critical not only for university examinations but also for technical interviews, competitive programming, and advanced research in computer science.\n\nStudents should combine textbook study with practical programming exercises, online resources, and group study sessions. The BSc CSIT curriculum is rigorous, and consistent effort throughout the semester is necessary for success.\n\nMastering Introduction to C will provide students with skills that are directly applicable in Nepal's growing IT industry and in further academic pursuits.",
+        "whyItMatters": "Essential for BSc CSIT students — Introduction to C is heavily weighted in semester exams and forms the basis for advanced courses.",
+        "prerequisites": [
+          "Strong foundation in secondary mathematics and science"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Fundamentals of Introduction to C",
+          "difficulty": "beginner",
+          "explanation": "A thorough introduction to the concepts of Introduction to C. This topic establishes the foundational knowledge required for the rest of the chapter and for advanced study in later semesters.\n\nBSc CSIT students should particularly focus on the theoretical aspects that are frequently tested in TU examinations.",
+          "keyPoints": [
+            "Core theoretical concepts",
+            "Mathematical foundations",
+            "Practical implementation aspects"
+          ],
+          "formula": null,
+          "examTip": "TU BSc CSIT exams emphasize long-answer questions. Structure your answers clearly with definitions, explanations, and examples."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Advanced Topics in Introduction to C",
+          "difficulty": "intermediate",
+          "explanation": "Deeper exploration of Introduction to C covering complex concepts, optimization techniques, and advanced applications relevant to computer science.",
+          "keyPoints": [
+            "Complexity analysis",
+            "Optimization techniques",
+            "Real-world applications"
+          ],
+          "formula": null,
+          "examTip": "Focus on algorithm implementations and time complexity analysis — these are high-value topics in CSIT exams."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Operators and Expressions",
+      "shortIntro": "BSc CSIT sem-1: Operators and Expressions for computer science students.",
+      "introduction": {
+        "overview": "Operators and Expressions is a vital chapter in the BSc CSIT C Programming syllabus for sem 1. The BSc CSIT program at TU is one of the most sought-after programs in Nepal for students interested in computer science and information technology.\n\nThis chapter covers fundamentals that are critical not only for university examinations but also for technical interviews, competitive programming, and advanced research in computer science.\n\nStudents should combine textbook study with practical programming exercises, online resources, and group study sessions. The BSc CSIT curriculum is rigorous, and consistent effort throughout the semester is necessary for success.\n\nMastering Operators and Expressions will provide students with skills that are directly applicable in Nepal's growing IT industry and in further academic pursuits.",
+        "whyItMatters": "Essential for BSc CSIT students — Operators and Expressions is heavily weighted in semester exams and forms the basis for advanced courses.",
+        "prerequisites": [
+          "Strong foundation in secondary mathematics and science"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Fundamentals of Operators and Expressions",
+          "difficulty": "beginner",
+          "explanation": "A thorough introduction to the concepts of Operators and Expressions. This topic establishes the foundational knowledge required for the rest of the chapter and for advanced study in later semesters.\n\nBSc CSIT students should particularly focus on the theoretical aspects that are frequently tested in TU examinations.",
+          "keyPoints": [
+            "Core theoretical concepts",
+            "Mathematical foundations",
+            "Practical implementation aspects"
+          ],
+          "formula": null,
+          "examTip": "TU BSc CSIT exams emphasize long-answer questions. Structure your answers clearly with definitions, explanations, and examples."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Advanced Topics in Operators and Expressions",
+          "difficulty": "intermediate",
+          "explanation": "Deeper exploration of Operators and Expressions covering complex concepts, optimization techniques, and advanced applications relevant to computer science.",
+          "keyPoints": [
+            "Complexity analysis",
+            "Optimization techniques",
+            "Real-world applications"
+          ],
+          "formula": null,
+          "examTip": "Focus on algorithm implementations and time complexity analysis — these are high-value topics in CSIT exams."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Control Statements",
+      "shortIntro": "BSc CSIT sem-1: Control Statements for computer science students.",
+      "introduction": {
+        "overview": "Control Statements is a vital chapter in the BSc CSIT C Programming syllabus for sem 1. The BSc CSIT program at TU is one of the most sought-after programs in Nepal for students interested in computer science and information technology.\n\nThis chapter covers fundamentals that are critical not only for university examinations but also for technical interviews, competitive programming, and advanced research in computer science.\n\nStudents should combine textbook study with practical programming exercises, online resources, and group study sessions. The BSc CSIT curriculum is rigorous, and consistent effort throughout the semester is necessary for success.\n\nMastering Control Statements will provide students with skills that are directly applicable in Nepal's growing IT industry and in further academic pursuits.",
+        "whyItMatters": "Essential for BSc CSIT students — Control Statements is heavily weighted in semester exams and forms the basis for advanced courses.",
+        "prerequisites": [
+          "Strong foundation in secondary mathematics and science"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Fundamentals of Control Statements",
+          "difficulty": "beginner",
+          "explanation": "A thorough introduction to the concepts of Control Statements. This topic establishes the foundational knowledge required for the rest of the chapter and for advanced study in later semesters.\n\nBSc CSIT students should particularly focus on the theoretical aspects that are frequently tested in TU examinations.",
+          "keyPoints": [
+            "Core theoretical concepts",
+            "Mathematical foundations",
+            "Practical implementation aspects"
+          ],
+          "formula": null,
+          "examTip": "TU BSc CSIT exams emphasize long-answer questions. Structure your answers clearly with definitions, explanations, and examples."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Advanced Topics in Control Statements",
+          "difficulty": "intermediate",
+          "explanation": "Deeper exploration of Control Statements covering complex concepts, optimization techniques, and advanced applications relevant to computer science.",
+          "keyPoints": [
+            "Complexity analysis",
+            "Optimization techniques",
+            "Real-world applications"
+          ],
+          "formula": null,
+          "examTip": "Focus on algorithm implementations and time complexity analysis — these are high-value topics in CSIT exams."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Functions",
+      "shortIntro": "BSc CSIT sem-1: Functions for computer science students.",
+      "introduction": {
+        "overview": "Functions is a vital chapter in the BSc CSIT C Programming syllabus for sem 1. The BSc CSIT program at TU is one of the most sought-after programs in Nepal for students interested in computer science and information technology.\n\nThis chapter covers fundamentals that are critical not only for university examinations but also for technical interviews, competitive programming, and advanced research in computer science.\n\nStudents should combine textbook study with practical programming exercises, online resources, and group study sessions. The BSc CSIT curriculum is rigorous, and consistent effort throughout the semester is necessary for success.\n\nMastering Functions will provide students with skills that are directly applicable in Nepal's growing IT industry and in further academic pursuits.",
+        "whyItMatters": "Essential for BSc CSIT students — Functions is heavily weighted in semester exams and forms the basis for advanced courses.",
+        "prerequisites": [
+          "Strong foundation in secondary mathematics and science"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Fundamentals of Functions",
+          "difficulty": "beginner",
+          "explanation": "A thorough introduction to the concepts of Functions. This topic establishes the foundational knowledge required for the rest of the chapter and for advanced study in later semesters.\n\nBSc CSIT students should particularly focus on the theoretical aspects that are frequently tested in TU examinations.",
+          "keyPoints": [
+            "Core theoretical concepts",
+            "Mathematical foundations",
+            "Practical implementation aspects"
+          ],
+          "formula": null,
+          "examTip": "TU BSc CSIT exams emphasize long-answer questions. Structure your answers clearly with definitions, explanations, and examples."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Advanced Topics in Functions",
+          "difficulty": "intermediate",
+          "explanation": "Deeper exploration of Functions covering complex concepts, optimization techniques, and advanced applications relevant to computer science.",
+          "keyPoints": [
+            "Complexity analysis",
+            "Optimization techniques",
+            "Real-world applications"
+          ],
+          "formula": null,
+          "examTip": "Focus on algorithm implementations and time complexity analysis — these are high-value topics in CSIT exams."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Arrays",
+      "shortIntro": "BSc CSIT sem-1: Arrays for computer science students.",
+      "introduction": {
+        "overview": "Arrays is a vital chapter in the BSc CSIT C Programming syllabus for sem 1. The BSc CSIT program at TU is one of the most sought-after programs in Nepal for students interested in computer science and information technology.\n\nThis chapter covers fundamentals that are critical not only for university examinations but also for technical interviews, competitive programming, and advanced research in computer science.\n\nStudents should combine textbook study with practical programming exercises, online resources, and group study sessions. The BSc CSIT curriculum is rigorous, and consistent effort throughout the semester is necessary for success.\n\nMastering Arrays will provide students with skills that are directly applicable in Nepal's growing IT industry and in further academic pursuits.",
+        "whyItMatters": "Essential for BSc CSIT students — Arrays is heavily weighted in semester exams and forms the basis for advanced courses.",
+        "prerequisites": [
+          "Strong foundation in secondary mathematics and science"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Fundamentals of Arrays",
+          "difficulty": "beginner",
+          "explanation": "A thorough introduction to the concepts of Arrays. This topic establishes the foundational knowledge required for the rest of the chapter and for advanced study in later semesters.\n\nBSc CSIT students should particularly focus on the theoretical aspects that are frequently tested in TU examinations.",
+          "keyPoints": [
+            "Core theoretical concepts",
+            "Mathematical foundations",
+            "Practical implementation aspects"
+          ],
+          "formula": null,
+          "examTip": "TU BSc CSIT exams emphasize long-answer questions. Structure your answers clearly with definitions, explanations, and examples."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Advanced Topics in Arrays",
+          "difficulty": "intermediate",
+          "explanation": "Deeper exploration of Arrays covering complex concepts, optimization techniques, and advanced applications relevant to computer science.",
+          "keyPoints": [
+            "Complexity analysis",
+            "Optimization techniques",
+            "Real-world applications"
+          ],
+          "formula": null,
+          "examTip": "Focus on algorithm implementations and time complexity analysis — these are high-value topics in CSIT exams."
+        }
+      ]
+    },
+    {
+      "id": "ch-6",
+      "number": 6,
+      "title": "Pointers",
+      "shortIntro": "BSc CSIT sem-1: Pointers for computer science students.",
+      "introduction": {
+        "overview": "Pointers is a vital chapter in the BSc CSIT C Programming syllabus for sem 1. The BSc CSIT program at TU is one of the most sought-after programs in Nepal for students interested in computer science and information technology.\n\nThis chapter covers fundamentals that are critical not only for university examinations but also for technical interviews, competitive programming, and advanced research in computer science.\n\nStudents should combine textbook study with practical programming exercises, online resources, and group study sessions. The BSc CSIT curriculum is rigorous, and consistent effort throughout the semester is necessary for success.\n\nMastering Pointers will provide students with skills that are directly applicable in Nepal's growing IT industry and in further academic pursuits.",
+        "whyItMatters": "Essential for BSc CSIT students — Pointers is heavily weighted in semester exams and forms the basis for advanced courses.",
+        "prerequisites": [
+          "Strong foundation in secondary mathematics and science"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-6-1",
+          "number": 1,
+          "name": "Fundamentals of Pointers",
+          "difficulty": "beginner",
+          "explanation": "A thorough introduction to the concepts of Pointers. This topic establishes the foundational knowledge required for the rest of the chapter and for advanced study in later semesters.\n\nBSc CSIT students should particularly focus on the theoretical aspects that are frequently tested in TU examinations.",
+          "keyPoints": [
+            "Core theoretical concepts",
+            "Mathematical foundations",
+            "Practical implementation aspects"
+          ],
+          "formula": null,
+          "examTip": "TU BSc CSIT exams emphasize long-answer questions. Structure your answers clearly with definitions, explanations, and examples."
+        },
+        {
+          "id": "t-6-2",
+          "number": 2,
+          "name": "Advanced Topics in Pointers",
+          "difficulty": "intermediate",
+          "explanation": "Deeper exploration of Pointers covering complex concepts, optimization techniques, and advanced applications relevant to computer science.",
+          "keyPoints": [
+            "Complexity analysis",
+            "Optimization techniques",
+            "Real-world applications"
+          ],
+          "formula": null,
+          "examTip": "Focus on algorithm implementations and time complexity analysis — these are high-value topics in CSIT exams."
+        }
+      ]
+    },
+    {
+      "id": "ch-7",
+      "number": 7,
+      "title": "Structures and Unions",
+      "shortIntro": "BSc CSIT sem-1: Structures and Unions for computer science students.",
+      "introduction": {
+        "overview": "Structures and Unions is a vital chapter in the BSc CSIT C Programming syllabus for sem 1. The BSc CSIT program at TU is one of the most sought-after programs in Nepal for students interested in computer science and information technology.\n\nThis chapter covers fundamentals that are critical not only for university examinations but also for technical interviews, competitive programming, and advanced research in computer science.\n\nStudents should combine textbook study with practical programming exercises, online resources, and group study sessions. The BSc CSIT curriculum is rigorous, and consistent effort throughout the semester is necessary for success.\n\nMastering Structures and Unions will provide students with skills that are directly applicable in Nepal's growing IT industry and in further academic pursuits.",
+        "whyItMatters": "Essential for BSc CSIT students — Structures and Unions is heavily weighted in semester exams and forms the basis for advanced courses.",
+        "prerequisites": [
+          "Strong foundation in secondary mathematics and science"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-7-1",
+          "number": 1,
+          "name": "Fundamentals of Structures and Unions",
+          "difficulty": "beginner",
+          "explanation": "A thorough introduction to the concepts of Structures and Unions. This topic establishes the foundational knowledge required for the rest of the chapter and for advanced study in later semesters.\n\nBSc CSIT students should particularly focus on the theoretical aspects that are frequently tested in TU examinations.",
+          "keyPoints": [
+            "Core theoretical concepts",
+            "Mathematical foundations",
+            "Practical implementation aspects"
+          ],
+          "formula": null,
+          "examTip": "TU BSc CSIT exams emphasize long-answer questions. Structure your answers clearly with definitions, explanations, and examples."
+        },
+        {
+          "id": "t-7-2",
+          "number": 2,
+          "name": "Advanced Topics in Structures and Unions",
+          "difficulty": "intermediate",
+          "explanation": "Deeper exploration of Structures and Unions covering complex concepts, optimization techniques, and advanced applications relevant to computer science.",
+          "keyPoints": [
+            "Complexity analysis",
+            "Optimization techniques",
+            "Real-world applications"
+          ],
+          "formula": null,
+          "examTip": "Focus on algorithm implementations and time complexity analysis — these are high-value topics in CSIT exams."
+        }
+      ]
+    },
+    {
+      "id": "ch-8",
+      "number": 8,
+      "title": "File I/O",
+      "shortIntro": "BSc CSIT sem-1: File I/O for computer science students.",
+      "introduction": {
+        "overview": "File I/O is a vital chapter in the BSc CSIT C Programming syllabus for sem 1. The BSc CSIT program at TU is one of the most sought-after programs in Nepal for students interested in computer science and information technology.\n\nThis chapter covers fundamentals that are critical not only for university examinations but also for technical interviews, competitive programming, and advanced research in computer science.\n\nStudents should combine textbook study with practical programming exercises, online resources, and group study sessions. The BSc CSIT curriculum is rigorous, and consistent effort throughout the semester is necessary for success.\n\nMastering File I/O will provide students with skills that are directly applicable in Nepal's growing IT industry and in further academic pursuits.",
+        "whyItMatters": "Essential for BSc CSIT students — File I/O is heavily weighted in semester exams and forms the basis for advanced courses.",
+        "prerequisites": [
+          "Strong foundation in secondary mathematics and science"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-8-1",
+          "number": 1,
+          "name": "Fundamentals of File I/O",
+          "difficulty": "beginner",
+          "explanation": "A thorough introduction to the concepts of File I/O. This topic establishes the foundational knowledge required for the rest of the chapter and for advanced study in later semesters.\n\nBSc CSIT students should particularly focus on the theoretical aspects that are frequently tested in TU examinations.",
+          "keyPoints": [
+            "Core theoretical concepts",
+            "Mathematical foundations",
+            "Practical implementation aspects"
+          ],
+          "formula": null,
+          "examTip": "TU BSc CSIT exams emphasize long-answer questions. Structure your answers clearly with definitions, explanations, and examples."
+        },
+        {
+          "id": "t-8-2",
+          "number": 2,
+          "name": "Advanced Topics in File I/O",
+          "difficulty": "intermediate",
+          "explanation": "Deeper exploration of File I/O covering complex concepts, optimization techniques, and advanced applications relevant to computer science.",
+          "keyPoints": [
+            "Complexity analysis",
+            "Optimization techniques",
+            "Real-world applications"
+          ],
+          "formula": null,
+          "examTip": "Focus on algorithm implementations and time complexity analysis — these are high-value topics in CSIT exams."
+        }
+      ]
+    }
+  ]
+}

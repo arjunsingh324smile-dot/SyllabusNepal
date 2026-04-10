@@ -1,0 +1,254 @@
+{
+  "meta": {
+    "program": "Loksewa",
+    "category": "competitive",
+    "subCategory": "loksewa",
+    "subject": "Computer Basics",
+    "subjectId": "computer-basics",
+    "color": "#92400E",
+    "lastUpdated": "2025",
+    "totalChapters": 5
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Computer Fundamentals",
+      "shortIntro": "Loksewa: Computer Fundamentals — competitive exam preparation.",
+      "introduction": {
+        "overview": "Computer Fundamentals is an essential section in the Loksewa examination. Competitive exams in Nepal's public and banking sector require thorough preparation across multiple subjects, and Computer Fundamentals is one of the key areas.\n\nThis chapter provides structured content covering all the topics that appear in Loksewa examinations. The material is organized to facilitate both systematic study and quick revision.\n\nPast papers analysis shows consistent patterns in the types of questions asked from Computer Fundamentals. Understanding these patterns and practicing accordingly can significantly improve your performance.\n\nCombine this study material with daily current affairs reading (for relevant subjects) and regular mock tests to build the speed and accuracy needed for competitive success.",
+        "whyItMatters": "Regularly tested in Loksewa examinations. Consistent preparation of Computer Fundamentals is essential for competitive success. Practice with past papers to understand the pattern.",
+        "prerequisites": [
+          "General education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Computer Fundamentals: Key Concepts",
+          "difficulty": "beginner",
+          "explanation": "Essential concepts and information for Computer Fundamentals as tested in Loksewa. This topic provides the foundational knowledge needed to answer most examination questions.\n\nFocus on frequently tested areas and build a solid knowledge base through regular study.",
+          "keyPoints": [
+            "Essential facts and information",
+            "Frequently asked topics",
+            "Quick review points"
+          ],
+          "formula": null,
+          "examTip": "Make flashcards for quick revision of facts. Loksewa often tests factual recall with time pressure."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Computer Fundamentals: Advanced Practice",
+          "difficulty": "intermediate",
+          "explanation": "Advanced practice material for Computer Fundamentals covering complex question types and analytical problems that appear in Loksewa examinations.",
+          "keyPoints": [
+            "Advanced question types",
+            "Analytical problem solving",
+            "Time-saving techniques"
+          ],
+          "formula": null,
+          "examTip": "In competitive exams, eliminate obviously wrong options first. This strategy saves valuable time."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Office Applications",
+      "shortIntro": "Loksewa: Office Applications — competitive exam preparation.",
+      "introduction": {
+        "overview": "Office Applications is an essential section in the Loksewa examination. Competitive exams in Nepal's public and banking sector require thorough preparation across multiple subjects, and Office Applications is one of the key areas.\n\nThis chapter provides structured content covering all the topics that appear in Loksewa examinations. The material is organized to facilitate both systematic study and quick revision.\n\nPast papers analysis shows consistent patterns in the types of questions asked from Office Applications. Understanding these patterns and practicing accordingly can significantly improve your performance.\n\nCombine this study material with daily current affairs reading (for relevant subjects) and regular mock tests to build the speed and accuracy needed for competitive success.",
+        "whyItMatters": "Regularly tested in Loksewa examinations. Consistent preparation of Office Applications is essential for competitive success. Practice with past papers to understand the pattern.",
+        "prerequisites": [
+          "General education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Office Applications: Key Concepts",
+          "difficulty": "beginner",
+          "explanation": "Essential concepts and information for Office Applications as tested in Loksewa. This topic provides the foundational knowledge needed to answer most examination questions.\n\nFocus on frequently tested areas and build a solid knowledge base through regular study.",
+          "keyPoints": [
+            "Essential facts and information",
+            "Frequently asked topics",
+            "Quick review points"
+          ],
+          "formula": null,
+          "examTip": "Make flashcards for quick revision of facts. Loksewa often tests factual recall with time pressure."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Office Applications: Advanced Practice",
+          "difficulty": "intermediate",
+          "explanation": "Advanced practice material for Office Applications covering complex question types and analytical problems that appear in Loksewa examinations.",
+          "keyPoints": [
+            "Advanced question types",
+            "Analytical problem solving",
+            "Time-saving techniques"
+          ],
+          "formula": null,
+          "examTip": "In competitive exams, eliminate obviously wrong options first. This strategy saves valuable time."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Internet and Email",
+      "shortIntro": "Loksewa: Internet and Email — competitive exam preparation.",
+      "introduction": {
+        "overview": "Internet and Email is an essential section in the Loksewa examination. Competitive exams in Nepal's public and banking sector require thorough preparation across multiple subjects, and Internet and Email is one of the key areas.\n\nThis chapter provides structured content covering all the topics that appear in Loksewa examinations. The material is organized to facilitate both systematic study and quick revision.\n\nPast papers analysis shows consistent patterns in the types of questions asked from Internet and Email. Understanding these patterns and practicing accordingly can significantly improve your performance.\n\nCombine this study material with daily current affairs reading (for relevant subjects) and regular mock tests to build the speed and accuracy needed for competitive success.",
+        "whyItMatters": "Regularly tested in Loksewa examinations. Consistent preparation of Internet and Email is essential for competitive success. Practice with past papers to understand the pattern.",
+        "prerequisites": [
+          "General education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Internet and Email: Key Concepts",
+          "difficulty": "beginner",
+          "explanation": "Essential concepts and information for Internet and Email as tested in Loksewa. This topic provides the foundational knowledge needed to answer most examination questions.\n\nFocus on frequently tested areas and build a solid knowledge base through regular study.",
+          "keyPoints": [
+            "Essential facts and information",
+            "Frequently asked topics",
+            "Quick review points"
+          ],
+          "formula": null,
+          "examTip": "Make flashcards for quick revision of facts. Loksewa often tests factual recall with time pressure."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Internet and Email: Advanced Practice",
+          "difficulty": "intermediate",
+          "explanation": "Advanced practice material for Internet and Email covering complex question types and analytical problems that appear in Loksewa examinations.",
+          "keyPoints": [
+            "Advanced question types",
+            "Analytical problem solving",
+            "Time-saving techniques"
+          ],
+          "formula": null,
+          "examTip": "In competitive exams, eliminate obviously wrong options first. This strategy saves valuable time."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Information Security",
+      "shortIntro": "Loksewa: Information Security — competitive exam preparation.",
+      "introduction": {
+        "overview": "Information Security is an essential section in the Loksewa examination. Competitive exams in Nepal's public and banking sector require thorough preparation across multiple subjects, and Information Security is one of the key areas.\n\nThis chapter provides structured content covering all the topics that appear in Loksewa examinations. The material is organized to facilitate both systematic study and quick revision.\n\nPast papers analysis shows consistent patterns in the types of questions asked from Information Security. Understanding these patterns and practicing accordingly can significantly improve your performance.\n\nCombine this study material with daily current affairs reading (for relevant subjects) and regular mock tests to build the speed and accuracy needed for competitive success.",
+        "whyItMatters": "Regularly tested in Loksewa examinations. Consistent preparation of Information Security is essential for competitive success. Practice with past papers to understand the pattern.",
+        "prerequisites": [
+          "General education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Information Security: Key Concepts",
+          "difficulty": "beginner",
+          "explanation": "Essential concepts and information for Information Security as tested in Loksewa. This topic provides the foundational knowledge needed to answer most examination questions.\n\nFocus on frequently tested areas and build a solid knowledge base through regular study.",
+          "keyPoints": [
+            "Essential facts and information",
+            "Frequently asked topics",
+            "Quick review points"
+          ],
+          "formula": null,
+          "examTip": "Make flashcards for quick revision of facts. Loksewa often tests factual recall with time pressure."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Information Security: Advanced Practice",
+          "difficulty": "intermediate",
+          "explanation": "Advanced practice material for Information Security covering complex question types and analytical problems that appear in Loksewa examinations.",
+          "keyPoints": [
+            "Advanced question types",
+            "Analytical problem solving",
+            "Time-saving techniques"
+          ],
+          "formula": null,
+          "examTip": "In competitive exams, eliminate obviously wrong options first. This strategy saves valuable time."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "E-governance",
+      "shortIntro": "Loksewa: E-governance — competitive exam preparation.",
+      "introduction": {
+        "overview": "E-governance is an essential section in the Loksewa examination. Competitive exams in Nepal's public and banking sector require thorough preparation across multiple subjects, and E-governance is one of the key areas.\n\nThis chapter provides structured content covering all the topics that appear in Loksewa examinations. The material is organized to facilitate both systematic study and quick revision.\n\nPast papers analysis shows consistent patterns in the types of questions asked from E-governance. Understanding these patterns and practicing accordingly can significantly improve your performance.\n\nCombine this study material with daily current affairs reading (for relevant subjects) and regular mock tests to build the speed and accuracy needed for competitive success.",
+        "whyItMatters": "Regularly tested in Loksewa examinations. Consistent preparation of E-governance is essential for competitive success. Practice with past papers to understand the pattern.",
+        "prerequisites": [
+          "General education background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "E-governance: Key Concepts",
+          "difficulty": "beginner",
+          "explanation": "Essential concepts and information for E-governance as tested in Loksewa. This topic provides the foundational knowledge needed to answer most examination questions.\n\nFocus on frequently tested areas and build a solid knowledge base through regular study.",
+          "keyPoints": [
+            "Essential facts and information",
+            "Frequently asked topics",
+            "Quick review points"
+          ],
+          "formula": null,
+          "examTip": "Make flashcards for quick revision of facts. Loksewa often tests factual recall with time pressure."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "E-governance: Advanced Practice",
+          "difficulty": "intermediate",
+          "explanation": "Advanced practice material for E-governance covering complex question types and analytical problems that appear in Loksewa examinations.",
+          "keyPoints": [
+            "Advanced question types",
+            "Analytical problem solving",
+            "Time-saving techniques"
+          ],
+          "formula": null,
+          "examTip": "In competitive exams, eliminate obviously wrong options first. This strategy saves valuable time."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "meta": {
+    "program": "BSc",
+    "category": "bachelor",
+    "subCategory": "bsc",
+    "subject": "Mathematics",
+    "subjectId": "mathematics",
+    "color": "#2563EB",
+    "lastUpdated": "2025",
+    "totalChapters": 5
+  },
+  "chapters": [
+    {
+      "id": "ch-1",
+      "number": 1,
+      "title": "Calculus",
+      "shortIntro": "BSc Mathematics: Calculus — university level study.",
+      "introduction": {
+        "overview": "Calculus is a fundamental chapter in the BSc Mathematics curriculum. This chapter provides a university-level understanding of the topic, building on concepts from the +2 level.\n\nBSc students should approach this chapter with a focus on both conceptual depth and experimental understanding. Laboratory work complements the theoretical study and is essential for a complete grasp of the material.\n\nThe curriculum follows TU's approved syllabus and prepares students for higher studies (MSc) as well as professional careers in science and technology.\n\nStudents are encouraged to consult multiple reference books and research papers to develop a comprehensive understanding of Calculus.",
+        "whyItMatters": "This chapter is central to the BSc Mathematics program and provides essential knowledge for both examinations and research careers.",
+        "prerequisites": [
+          "+2 Science background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-1-1",
+          "number": 1,
+          "name": "Theoretical Foundations of Calculus",
+          "difficulty": "intermediate",
+          "explanation": "A comprehensive coverage of the theoretical foundations of Calculus at the university level. This topic introduces advanced concepts that build upon secondary-level knowledge.",
+          "keyPoints": [
+            "Advanced theoretical concepts",
+            "Mathematical derivations",
+            "Key laws and principles"
+          ],
+          "formula": null,
+          "examTip": "BSc exams require detailed derivations. Practice writing proofs and derivations step by step."
+        },
+        {
+          "id": "t-1-2",
+          "number": 2,
+          "name": "Experimental and Applied Calculus",
+          "difficulty": "advanced",
+          "explanation": "This topic covers the experimental and applied aspects of Calculus. Laboratory exercises, calculations, and practical applications are emphasized.",
+          "keyPoints": [
+            "Laboratory techniques",
+            "Data analysis",
+            "Practical applications"
+          ],
+          "formula": null,
+          "examTip": "Always link theoretical knowledge to practical experiments in your exam answers."
+        }
+      ]
+    },
+    {
+      "id": "ch-2",
+      "number": 2,
+      "title": "Linear Algebra",
+      "shortIntro": "BSc Mathematics: Linear Algebra — university level study.",
+      "introduction": {
+        "overview": "Linear Algebra is a fundamental chapter in the BSc Mathematics curriculum. This chapter provides a university-level understanding of the topic, building on concepts from the +2 level.\n\nBSc students should approach this chapter with a focus on both conceptual depth and experimental understanding. Laboratory work complements the theoretical study and is essential for a complete grasp of the material.\n\nThe curriculum follows TU's approved syllabus and prepares students for higher studies (MSc) as well as professional careers in science and technology.\n\nStudents are encouraged to consult multiple reference books and research papers to develop a comprehensive understanding of Linear Algebra.",
+        "whyItMatters": "This chapter is central to the BSc Mathematics program and provides essential knowledge for both examinations and research careers.",
+        "prerequisites": [
+          "+2 Science background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-2-1",
+          "number": 1,
+          "name": "Theoretical Foundations of Linear Algebra",
+          "difficulty": "intermediate",
+          "explanation": "A comprehensive coverage of the theoretical foundations of Linear Algebra at the university level. This topic introduces advanced concepts that build upon secondary-level knowledge.",
+          "keyPoints": [
+            "Advanced theoretical concepts",
+            "Mathematical derivations",
+            "Key laws and principles"
+          ],
+          "formula": null,
+          "examTip": "BSc exams require detailed derivations. Practice writing proofs and derivations step by step."
+        },
+        {
+          "id": "t-2-2",
+          "number": 2,
+          "name": "Experimental and Applied Linear Algebra",
+          "difficulty": "advanced",
+          "explanation": "This topic covers the experimental and applied aspects of Linear Algebra. Laboratory exercises, calculations, and practical applications are emphasized.",
+          "keyPoints": [
+            "Laboratory techniques",
+            "Data analysis",
+            "Practical applications"
+          ],
+          "formula": null,
+          "examTip": "Always link theoretical knowledge to practical experiments in your exam answers."
+        }
+      ]
+    },
+    {
+      "id": "ch-3",
+      "number": 3,
+      "title": "Differential Equations",
+      "shortIntro": "BSc Mathematics: Differential Equations — university level study.",
+      "introduction": {
+        "overview": "Differential Equations is a fundamental chapter in the BSc Mathematics curriculum. This chapter provides a university-level understanding of the topic, building on concepts from the +2 level.\n\nBSc students should approach this chapter with a focus on both conceptual depth and experimental understanding. Laboratory work complements the theoretical study and is essential for a complete grasp of the material.\n\nThe curriculum follows TU's approved syllabus and prepares students for higher studies (MSc) as well as professional careers in science and technology.\n\nStudents are encouraged to consult multiple reference books and research papers to develop a comprehensive understanding of Differential Equations.",
+        "whyItMatters": "This chapter is central to the BSc Mathematics program and provides essential knowledge for both examinations and research careers.",
+        "prerequisites": [
+          "+2 Science background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-3-1",
+          "number": 1,
+          "name": "Theoretical Foundations of Differential Equations",
+          "difficulty": "intermediate",
+          "explanation": "A comprehensive coverage of the theoretical foundations of Differential Equations at the university level. This topic introduces advanced concepts that build upon secondary-level knowledge.",
+          "keyPoints": [
+            "Advanced theoretical concepts",
+            "Mathematical derivations",
+            "Key laws and principles"
+          ],
+          "formula": null,
+          "examTip": "BSc exams require detailed derivations. Practice writing proofs and derivations step by step."
+        },
+        {
+          "id": "t-3-2",
+          "number": 2,
+          "name": "Experimental and Applied Differential Equations",
+          "difficulty": "advanced",
+          "explanation": "This topic covers the experimental and applied aspects of Differential Equations. Laboratory exercises, calculations, and practical applications are emphasized.",
+          "keyPoints": [
+            "Laboratory techniques",
+            "Data analysis",
+            "Practical applications"
+          ],
+          "formula": null,
+          "examTip": "Always link theoretical knowledge to practical experiments in your exam answers."
+        }
+      ]
+    },
+    {
+      "id": "ch-4",
+      "number": 4,
+      "title": "Real Analysis",
+      "shortIntro": "BSc Mathematics: Real Analysis — university level study.",
+      "introduction": {
+        "overview": "Real Analysis is a fundamental chapter in the BSc Mathematics curriculum. This chapter provides a university-level understanding of the topic, building on concepts from the +2 level.\n\nBSc students should approach this chapter with a focus on both conceptual depth and experimental understanding. Laboratory work complements the theoretical study and is essential for a complete grasp of the material.\n\nThe curriculum follows TU's approved syllabus and prepares students for higher studies (MSc) as well as professional careers in science and technology.\n\nStudents are encouraged to consult multiple reference books and research papers to develop a comprehensive understanding of Real Analysis.",
+        "whyItMatters": "This chapter is central to the BSc Mathematics program and provides essential knowledge for both examinations and research careers.",
+        "prerequisites": [
+          "+2 Science background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-4-1",
+          "number": 1,
+          "name": "Theoretical Foundations of Real Analysis",
+          "difficulty": "intermediate",
+          "explanation": "A comprehensive coverage of the theoretical foundations of Real Analysis at the university level. This topic introduces advanced concepts that build upon secondary-level knowledge.",
+          "keyPoints": [
+            "Advanced theoretical concepts",
+            "Mathematical derivations",
+            "Key laws and principles"
+          ],
+          "formula": null,
+          "examTip": "BSc exams require detailed derivations. Practice writing proofs and derivations step by step."
+        },
+        {
+          "id": "t-4-2",
+          "number": 2,
+          "name": "Experimental and Applied Real Analysis",
+          "difficulty": "advanced",
+          "explanation": "This topic covers the experimental and applied aspects of Real Analysis. Laboratory exercises, calculations, and practical applications are emphasized.",
+          "keyPoints": [
+            "Laboratory techniques",
+            "Data analysis",
+            "Practical applications"
+          ],
+          "formula": null,
+          "examTip": "Always link theoretical knowledge to practical experiments in your exam answers."
+        }
+      ]
+    },
+    {
+      "id": "ch-5",
+      "number": 5,
+      "title": "Abstract Algebra",
+      "shortIntro": "BSc Mathematics: Abstract Algebra — university level study.",
+      "introduction": {
+        "overview": "Abstract Algebra is a fundamental chapter in the BSc Mathematics curriculum. This chapter provides a university-level understanding of the topic, building on concepts from the +2 level.\n\nBSc students should approach this chapter with a focus on both conceptual depth and experimental understanding. Laboratory work complements the theoretical study and is essential for a complete grasp of the material.\n\nThe curriculum follows TU's approved syllabus and prepares students for higher studies (MSc) as well as professional careers in science and technology.\n\nStudents are encouraged to consult multiple reference books and research papers to develop a comprehensive understanding of Abstract Algebra.",
+        "whyItMatters": "This chapter is central to the BSc Mathematics program and provides essential knowledge for both examinations and research careers.",
+        "prerequisites": [
+          "+2 Science background"
+        ],
+        "yearlyTrend": {
+          "2023": 3,
+          "2024": 4,
+          "2025": 3
+        }
+      },
+      "topics": [
+        {
+          "id": "t-5-1",
+          "number": 1,
+          "name": "Theoretical Foundations of Abstract Algebra",
+          "difficulty": "intermediate",
+          "explanation": "A comprehensive coverage of the theoretical foundations of Abstract Algebra at the university level. This topic introduces advanced concepts that build upon secondary-level knowledge.",
+          "keyPoints": [
+            "Advanced theoretical concepts",
+            "Mathematical derivations",
+            "Key laws and principles"
+          ],
+          "formula": null,
+          "examTip": "BSc exams require detailed derivations. Practice writing proofs and derivations step by step."
+        },
+        {
+          "id": "t-5-2",
+          "number": 2,
+          "name": "Experimental and Applied Abstract Algebra",
+          "difficulty": "advanced",
+          "explanation": "This topic covers the experimental and applied aspects of Abstract Algebra. Laboratory exercises, calculations, and practical applications are emphasized.",
+          "keyPoints": [
+            "Laboratory techniques",
+            "Data analysis",
+            "Practical applications"
+          ],
+          "formula": null,
+          "examTip": "Always link theoretical knowledge to practical experiments in your exam answers."
+        }
+      ]
+    }
+  ]
+}
